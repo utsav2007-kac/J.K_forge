@@ -1,0 +1,185 @@
+/* Custom Styles for JK Forge Clone */
+
+/* Smooth Scrolling */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+    width: 8px;
+}
+::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+}
+::-webkit-scrollbar-thumb {
+    background: #c1c1c1; 
+    border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #a8a8a8; 
+}
+
+/* Micro-animations and utility classes */
+.hover-lift {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.hover-lift:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+}
+
+.reveal {
+    opacity: 0;
+    transform: translateY(30px);
+    transition: all 0.8s ease-out;
+}
+.reveal.active {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+/* Hero Section Overlay */
+.hero-overlay {
+    background: linear-gradient(to right, rgba(10, 25, 47, 0.9) 0%, rgba(10, 25, 47, 0.5) 100%);
+}
+
+/* Emphasize text styling */
+.text-gradient {
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-image: linear-gradient(to right, #3182ce, #a0aec0);
+}
+
+/* Dropdown menu arrow rotation */
+.group:hover .fa-chevron-down {
+    transform: rotate(180deg);
+}
+
+/* Navbar active state */
+.nav-item.nav-active {
+    color: #3182ce !important;
+}
+.nav-item.nav-active::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 3px;
+    background-color: #3182ce;
+}
+
+/* Industry Card specific hover */
+.industry-card .icon-container {
+    transition: all 0.3s ease;
+}
+.industry-card:hover .icon-container {
+    background-color: #3182ce;
+    color: white;
+}
+.industry-card:hover h3 {
+    color: #3182ce;
+}
+
+/* Product Card */
+.product-card {
+    overflow: hidden;
+}
+.product-card img {
+    transition: transform 0.5s ease;
+}
+.product-card:hover img {
+    transform: scale(1.05);
+}
+
+/* Page Transitions */
+.page-enter {
+    animation: fadeInScale 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+@keyframes fadeInScale {
+    0% { opacity: 0; transform: scale(0.98) translateY(10px); }
+    100% { opacity: 1; transform: scale(1) translateY(0); }
+}
+
+/* Floating animation for elements */
+.animate-float {
+    animation: float 6s ease-in-out infinite;
+}
+
+@keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-10px); }
+    100% { transform: translateY(0px); }
+}
+
+/* Animated Gradient Text */
+.text-gradient-animated {
+    background: linear-gradient(-45deg, #1363a6, #c0c5ce, #ffffff, #0c2b5e);
+    background-size: 300%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: gradientText 4s ease infinite;
+}
+
+@keyframes gradientText {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
+/* Pulse Glow for buttons */
+.btn-glow {
+    position: relative;
+}
+.btn-glow::after {
+    content: '';
+    position: absolute;
+    top: -2px; left: -2px; right: -2px; bottom: -2px;
+    background: linear-gradient(90deg, #1363a6, #c0c5ce, #1363a6);
+    background-size: 200% auto;
+    z-index: -1;
+    border-radius: inherit;
+    animation: pulseGlow 3s linear infinite;
+    opacity: 0.5;
+}
+
+/* Metallic Hover Effect */
+.hover-metallic {
+    transition: all 0.4s ease;
+}
+.hover-metallic:hover {
+    background: linear-gradient(135deg, rgba(19, 99, 166, 0.2) 0%, rgba(12, 43, 94, 0.4) 100%);
+    box-shadow: 0 0 20px rgba(19, 99, 166, 0.6), inset 0 0 10px rgba(192, 197, 206, 0.3);
+    border-color: #1363a6 !important;
+}
+
+@keyframes pulseGlow {
+    0% { transform: scale(1); opacity: 0.5; }
+    50% { transform: scale(1.05); opacity: 0; }
+    100% { transform: scale(1); opacity: 0; }
+}
+
+/* Transparent Nav on Home Page Hero */
+header.nav-transparent {
+    background-color: transparent !important;
+    border-color: transparent !important;
+    box-shadow: none !important;
+}
+header.nav-transparent .nav-item {
+    color: white !important;
+}
+header.nav-transparent .nav-item:hover {
+    color: #c0c5ce !important; 
+}
+header.nav-transparent #mobile-menu-btn {
+    color: white !important;
+}
+header.nav-transparent .fa-chevron-down {
+    color: white !important;
+}
+header.nav-transparent img[alt="JK Forge Logo"] {
+    filter: brightness(0) invert(1) drop-shadow(0 0 15px rgba(255,255,255,0.4)) !important;
+}

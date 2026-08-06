@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JK Forge – Forging & Casting Manufacturer</title>
+    
+    <!-- Google Fonts: Inter and Roboto Mono -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Roboto+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+    
+    <!-- Tailwind CSS (CDN) -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                        mono: ['Roboto Mono', 'monospace'],
+                        serif: ['Inter', 'sans-serif'],
+                    },
+                    colors: {
+                        primary: '#0c2b5e', // Deep Metallic Navy
+                        secondary: '#1363a6', // Vibrant Metallic Blue
+                        accent: '#c0c5ce', // Polished Chrome/Silver
+                        dark: '#050914', // Very dark for background
+                        light: '#f8fafc' 
+                    },
+                    animation: {
+                        'fade-in-up': 'fadeInUp 0.6s ease-out forwards',
+                    },
+                    keyframes: {
+                        fadeInUp: {
+                            '0%': { opacity: 0, transform: 'translateY(20px)' },
+                            '100%': { opacity: 1, transform: 'translateY(0)' },
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+    
+    <!-- FontAwesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <!-- Custom Styles -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body class="bg-light dark:bg-dark text-gray-800 dark:text-gray-200 font-sans antialiased overflow-x-hidden transition-colors duration-300">
+    
+    <!-- Navigation -->
+    <div id="main-header-container"></div>
+    <script src="components/header.js"></script>
+
+    <!-- Main Content Area -->
+    <main id="app-root" class="min-h-screen pt-20 overflow-x-hidden">
+        <!-- Content will be injected here by app.js -->
+        <div class="flex items-center justify-center h-[60vh]">
+            <div class="animate-spin rounded-full h-12 w-12 border-b-2 border-secondary"></div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <div id="main-footer-container"></div>
+    <script src="components/footer.js"></script>
+
+    <!-- App Logic -->
+    <!-- Template Scripts -->
+    <!-- Data Files for Dynamic Content -->
+    <script src="content/mobility.js"></script>
+    <script src="content/industries-other.js"></script>
+    <script src="content/components.js"></script>
+    <script src="content/capabilities.js"></script>
+
+    <!-- GSAP & ScrollTrigger for 3D Animations -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>
+
+    <!-- Template Logic -->
+    <script src="templates/home.js"></script>
+    <script src="templates/about.js"></script>
+    <script src="templates/contact.js"></script>
+    <script src="templates/products.js"></script>
+    <script src="templates/productDetail.js"></script>
+    <script src="templates/industry.js"></script>
+    <script src="templates/component.js"></script>
+    <script src="templates/capability.js"></script>
+    <script src="templates/location.js"></script>
+    <script src="templates/company.js"></script>
+    <!-- Main Router Script -->
+    <script src="app.js"></script>
+</body>
+</html>
