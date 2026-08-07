@@ -64,17 +64,17 @@ function router() {
         } else if (filename === 'contact.html') {
             appRoot.innerHTML = typeof renderContact === 'function' ? renderContact() : '';
         } else if (filename === 'products.html') {
-            appRoot.innerHTML = typeof renderProducts === 'function' ? renderProducts() : '';
-        } else if (filename === 'industries.html') {
-            appRoot.innerHTML = typeof renderIndustryPage === 'function' ? renderIndustryPage(title, path) : renderProductDetail(title, path);
-        } else if (filename === 'components.html') {
-            appRoot.innerHTML = typeof renderComponentPage === 'function' ? renderComponentPage(title, path) : renderProductDetail(title, path);
-        } else if (filename === 'capabilities.html') {
-            appRoot.innerHTML = typeof renderCapabilityPage === 'function' ? renderCapabilityPage(title, path) : renderProductDetail(title, path);
-        } else if (filename === 'locations.html') {
-            appRoot.innerHTML = typeof renderLocationPage === 'function' ? renderLocationPage(title, path) : renderProductDetail(title, path);
+            appRoot.innerHTML = pageParam ? renderProductDetail(title, path) : (typeof renderProducts === 'function' ? renderProducts() : '');
+        } else if (filename === 'industries.html' || filename === 'industry.html') {
+            appRoot.innerHTML = pageParam ? renderCategoryDetail(title, path) : (typeof renderIndustryPage === 'function' ? renderIndustryPage(title, path) : renderCategoryDetail(title, path));
+        } else if (filename === 'components.html' || filename === 'component.html') {
+            appRoot.innerHTML = pageParam ? renderCategoryDetail(title, path) : (typeof renderComponentPage === 'function' ? renderComponentPage(title, path) : renderCategoryDetail(title, path));
+        } else if (filename === 'capabilities.html' || filename === 'capability.html') {
+            appRoot.innerHTML = pageParam ? renderCategoryDetail(title, path) : (typeof renderCapabilityPage === 'function' ? renderCapabilityPage(title, path) : renderCategoryDetail(title, path));
+        } else if (filename === 'locations.html' || filename === 'location.html') {
+            appRoot.innerHTML = pageParam ? renderCategoryDetail(title, path) : (typeof renderLocationPage === 'function' ? renderLocationPage(title, path) : renderCategoryDetail(title, path));
         } else if (filename === 'company.html') {
-            appRoot.innerHTML = typeof renderCompanyPage === 'function' ? renderCompanyPage(title, path) : renderProductDetail(title, path);
+            appRoot.innerHTML = pageParam ? renderProductDetail(title, path) : (typeof renderCompanyPage === 'function' ? renderCompanyPage(title, path) : renderProductDetail(title, path));
         } else if (filename === 'product-detail.html' || filename === 'productDetail.html') {
             appRoot.innerHTML = typeof renderProductDetail === 'function' ? renderProductDetail(title, path) : 'Page not found';
         } else {
@@ -125,7 +125,7 @@ function getCategoryForSlug(slug) {
         return 'capabilities';
     } else if (['rajkot', 'gujarat', 'ahmedabad', 'surat', 'vadodara', 'mumbai', 'pune', 'aurangabad', 'nagpur', 'jaipur', 'ludhiana', 'delhi', 'bangalore', 'chennai', 'coimbatore', 'hyderabad', 'kolkata', 'india', 'uae', 'europe', 'usa'].some(k => paddedPath.includes('-' + k + '-'))) {
         return 'locations';
-    } else if (['company', 'history', 'leadership', 'vision', 'mission', 'awards', 'career'].some(k => paddedPath.includes('-' + k + '-'))) {
+    } else if (['company', 'history', 'leadership', 'vision', 'mission', 'awards', 'career', 'process', 'infrastructure'].some(k => paddedPath.includes('-' + k + '-'))) {
         return 'company';
     }
     return null;
@@ -145,7 +145,7 @@ function updateNavLinks(currentPath) {
         activeRoute = '/';
     } else if (filename === 'about.html' || filename === 'company.html') {
         activeRoute = '/about';
-    } else if (filename === 'products.html') {
+    } else if (filename === 'products.html' || filename === 'product-detail.html' || filename === 'productDetail.html') {
         activeRoute = '/products';
     } else if (filename === 'contact.html') {
         activeRoute = '/contact';
@@ -159,8 +159,8 @@ function updateNavLinks(currentPath) {
         activeRoute = 'locations';
     }
 
-    // Override with category logic if there is a page parameter
-    if (pageParam) {
+    // Override with category logic if there is a page parameter, UNLESS we are on the products page
+    if (pageParam && filename !== 'products.html') {
         const category = getCategoryForSlug(pageParam);
         if (category) {
             if (category === 'company') activeRoute = '/about';
@@ -209,14 +209,32 @@ function updateNavbarStyle() {
 
     const pathname = window.location.pathname;
     const filename = pathname.split('/').pop() || 'index.html';
+    const isHome = (filename === 'index.html' || filename === '');
+    const navItems = document.querySelectorAll('.nav-item');
+    const logoText = document.querySelector('#navbar .font-bold.text-xl');
 
     // Transparent only on home page when at top
-    if ((filename === 'index.html' || filename === '') && window.scrollY < 50) {
-        navbar.classList.add('nav-transparent');
+    if (isHome && window.scrollY < 50) {
+        navbar.classList.add('nav-transparent', 'bg-transparent');
         navbar.classList.remove('shadow-lg', 'bg-white', 'border-b', 'border-gray-200');
+        
+        // Make text white for transparent background
+        navItems.forEach(item => {
+            item.classList.remove('text-gray-800');
+            item.classList.add('text-white');
+        });
+        if(logoText) logoText.classList.add('text-white');
     } else {
-        navbar.classList.remove('nav-transparent');
+        navbar.classList.remove('nav-transparent', 'bg-transparent');
         navbar.classList.add('bg-white', 'border-b', 'border-gray-200');
+        
+        // Revert text to dark
+        navItems.forEach(item => {
+            item.classList.remove('text-white');
+            item.classList.add('text-gray-800');
+        });
+        if(logoText) logoText.classList.remove('text-white');
+
         if (window.scrollY > 10) {
             navbar.classList.add('shadow-lg');
         } else {
@@ -227,6 +245,8 @@ function updateNavbarStyle() {
 
 // Navbar Scroll Effect
 window.addEventListener('scroll', updateNavbarStyle);
+// Call once to set initial state
+setTimeout(updateNavbarStyle, 100);
 
 // Mobile Menu Toggle
 const mobileBtn = document.getElementById('mobile-menu-btn');

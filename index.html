@@ -51,6 +51,15 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body class="bg-light dark:bg-dark text-gray-800 dark:text-gray-200 font-sans antialiased overflow-x-hidden transition-colors duration-300">
+    <script>
+        window.onerror = function(message, source, lineno, colno, error) {
+            document.body.innerHTML += '<div style="position:fixed;top:0;left:0;z-index:9999;background:red;color:white;padding:20px;width:100%;font-size:16px;"><strong>Global Error:</strong> ' + message + '<br>Line: ' + lineno + '<br>Source: ' + source + '</div>';
+            return true;
+        };
+        window.addEventListener("unhandledrejection", function(e) {
+            document.body.innerHTML += '<div style="position:fixed;top:60px;left:0;z-index:9999;background:orange;color:white;padding:20px;width:100%;font-size:16px;"><strong>Unhandled Promise Rejection:</strong> ' + e.reason + '</div>';
+        });
+    </script>
     
     <!-- Navigation -->
     <div id="main-header-container"></div>
@@ -75,6 +84,8 @@
     <script src="content/industries-other.js"></script>
     <script src="content/components.js"></script>
     <script src="content/capabilities.js"></script>
+    <script src="content/locations.js"></script>
+    <script src="content/company.js"></script>
 
     <!-- GSAP & ScrollTrigger for 3D Animations -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>

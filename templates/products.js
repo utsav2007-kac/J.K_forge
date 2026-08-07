@@ -16,89 +16,126 @@ function renderProducts() {
             <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                 <!-- High-Tech Filters -->
                 <div class="flex flex-wrap justify-center gap-4 mb-16 gsap-heavy-drop">
-                    <button class="px-6 py-2 rounded-md bg-secondary text-white font-mono text-sm tracking-wide shadow-[0_0_15px_rgba(49,130,206,0.4)] transition-all">ALL_SYSTEMS</button>
-                    <button class="px-6 py-2 rounded-md bg-gray-100 dark:bg-[#050914] text-gray-600 dark:text-gray-400 border border-gray-200 dark:border-white/10 hover:border-secondary hover:text-primary dark:hover:text-white font-mono text-sm tracking-wide transition-all">AUTOMOTIVE</button>
-                    <button class="px-6 py-2 rounded-md bg-gray-100 dark:bg-[#050914] text-gray-600 dark:text-gray-400 border border-gray-200 dark:border-white/10 hover:border-secondary hover:text-primary dark:hover:text-white font-mono text-sm tracking-wide transition-all">OIL_GAS</button>
-                    <button class="px-6 py-2 rounded-md bg-gray-100 dark:bg-[#050914] text-gray-600 dark:text-gray-400 border border-gray-200 dark:border-white/10 hover:border-secondary hover:text-primary dark:hover:text-white font-mono text-sm tracking-wide transition-all">HEAVY_MACHINERY</button>
+                    <button onclick="filterProducts('all', this)" class="filter-btn filter-active px-6 py-2 rounded-md bg-gray-100 dark:bg-[#050914] text-gray-600 dark:text-gray-400 border border-gray-200 dark:border-white/10 hover:border-secondary hover:text-primary dark:hover:text-white font-mono text-sm tracking-wide shadow-[0_0_15px_rgba(49,130,206,0.4)] transition-all">ALL_SYSTEMS</button>
+                    <button onclick="filterProducts('automotive', this)" class="filter-btn px-6 py-2 rounded-md bg-gray-100 dark:bg-[#050914] text-gray-600 dark:text-gray-400 border border-gray-200 dark:border-white/10 hover:border-secondary hover:text-primary dark:hover:text-white font-mono text-sm tracking-wide transition-all">AUTOMOTIVE</button>
+                    <button onclick="filterProducts('oil_gas', this)" class="filter-btn px-6 py-2 rounded-md bg-gray-100 dark:bg-[#050914] text-gray-600 dark:text-gray-400 border border-gray-200 dark:border-white/10 hover:border-secondary hover:text-primary dark:hover:text-white font-mono text-sm tracking-wide transition-all">OIL_GAS</button>
+                    <button onclick="filterProducts('heavy_machinery', this)" class="filter-btn px-6 py-2 rounded-md bg-gray-100 dark:bg-[#050914] text-gray-600 dark:text-gray-400 border border-gray-200 dark:border-white/10 hover:border-secondary hover:text-primary dark:hover:text-white font-mono text-sm tracking-wide transition-all">HEAVY_MACHINERY</button>
                 </div>
                 
                 <!-- Products Grid -->
                 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8" style="perspective: 1500px;">
-                    
-                    <!-- Product 1 -->
-                    <a href="?page=gear-forging" class="group bg-gray-50 dark:bg-[#050914] rounded-xl border border-gray-200 dark:border-white/10 hover-metallic transition-all hover:-translate-y-2 hover:shadow-[0_10px_30px_rgba(49,130,206,0.15)] gsap-3d-card overflow-hidden block">
-                        <div class="aspect-w-4 aspect-h-3 bg-gray-200 dark:bg-[#1b365d] relative overflow-hidden h-48 border-b border-gray-200 dark:border-white/10">
-                            <div class="absolute inset-0 bg-gradient-to-t from-gray-50 dark:from-[#050914] to-transparent opacity-80 z-10"></div>
-                            <div class="absolute inset-0 flex items-center justify-center text-secondary opacity-30 group-hover:scale-110 transition-transform duration-700">
-                                <i class="fas fa-cog text-7xl"></i>
-                            </div>
-                        </div>
-                        <div class="p-6 relative z-20">
-                            <div class="flex items-center gap-2 mb-3">
-                                <div class="w-2 h-2 rounded-full bg-secondary animate-pulse"></div>
-                                <div class="text-[10px] font-bold text-secondary dark:text-accent font-mono uppercase tracking-widest">Drivetrain</div>
-                            </div>
-                            <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-2 group-hover:text-secondary transition-colors">Gear Forgings</h3>
-                            <p class="text-gray-600 dark:text-gray-400 text-sm font-light">High-strength gear blanks and precision forged gears.</p>
-                        </div>
-                    </a>
+                    ${(function() {
+                        let allProducts = {};
+                        if (window.pageContent) {
+                            Object.assign(allProducts, window.pageContent.mobilityData || {});
+                            Object.assign(allProducts, window.pageContent.componentsData || {});
+                            Object.assign(allProducts, window.pageContent.industriesOtherData || {});
+                            // Removed capabilitiesData so we only show genuine products
+                        }
 
-                    <!-- Product 2 -->
-                    <a href="?page=flange-forging" class="group bg-gray-50 dark:bg-[#050914] rounded-xl border border-gray-200 dark:border-white/10 hover-metallic transition-all hover:-translate-y-2 hover:shadow-[0_10px_30px_rgba(49,130,206,0.15)] gsap-3d-card overflow-hidden block" style="transition-delay: 100ms">
-                        <div class="aspect-w-4 aspect-h-3 bg-gray-200 dark:bg-[#1b365d] relative overflow-hidden h-48 border-b border-gray-200 dark:border-white/10">
-                            <div class="absolute inset-0 bg-gradient-to-t from-gray-50 dark:from-[#050914] to-transparent opacity-80 z-10"></div>
-                            <div class="absolute inset-0 flex items-center justify-center text-secondary opacity-30 group-hover:scale-110 transition-transform duration-700">
-                                <i class="fas fa-circle-notch text-7xl"></i>
-                            </div>
-                        </div>
-                        <div class="p-6 relative z-20">
-                            <div class="flex items-center gap-2 mb-3">
-                                <div class="w-2 h-2 rounded-full bg-secondary animate-pulse"></div>
-                                <div class="text-[10px] font-bold text-secondary dark:text-accent font-mono uppercase tracking-widest">Fluid & Flow</div>
-                            </div>
-                            <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-2 group-hover:text-secondary transition-colors">Industrial Flanges</h3>
-                            <p class="text-gray-600 dark:text-gray-400 text-sm font-light">Pressure-tested flanges for oil, gas, and chemical pipelines.</p>
-                        </div>
-                    </a>
-                    
-                    <!-- Product 3 -->
-                    <a href="?page=shaft-forging" class="group bg-gray-50 dark:bg-[#050914] rounded-xl border border-gray-200 dark:border-white/10 hover-metallic transition-all hover:-translate-y-2 hover:shadow-[0_10px_30px_rgba(49,130,206,0.15)] gsap-3d-card overflow-hidden block" style="transition-delay: 200ms">
-                        <div class="aspect-w-4 aspect-h-3 bg-gray-200 dark:bg-[#1b365d] relative overflow-hidden h-48 border-b border-gray-200 dark:border-white/10">
-                            <div class="absolute inset-0 bg-gradient-to-t from-gray-50 dark:from-[#050914] to-transparent opacity-80 z-10"></div>
-                            <div class="absolute inset-0 flex items-center justify-center text-secondary opacity-30 group-hover:scale-110 transition-transform duration-700">
-                                <i class="fas fa-grip-lines-vertical text-7xl"></i>
-                            </div>
-                        </div>
-                        <div class="p-6 relative z-20">
-                            <div class="flex items-center gap-2 mb-3">
-                                <div class="w-2 h-2 rounded-full bg-secondary animate-pulse"></div>
-                                <div class="text-[10px] font-bold text-secondary dark:text-accent font-mono uppercase tracking-widest">Rotating Components</div>
-                            </div>
-                            <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-2 group-hover:text-secondary transition-colors">Forged Shafts</h3>
-                            <p class="text-gray-600 dark:text-gray-400 text-sm font-light">Axle and drive shafts for heavy machinery and automotive.</p>
-                        </div>
-                    </a>
+                        if (Object.keys(allProducts).length === 0) {
+                            allProducts = {
+                                '/gear-forging': { title: 'Gear Forgings', subtitle: 'Drivetrain', description1: 'High-strength gear blanks and precision forged gears.' },
+                                '/flange-forging': { title: 'Industrial Flanges', subtitle: 'Fluid & Flow', description1: 'Pressure-tested flanges for oil, gas, and chemical pipelines.' },
+                                '/shaft-forging': { title: 'Forged Shafts', subtitle: 'Rotating Components', description1: 'Axle and drive shafts for heavy machinery and automotive.' },
+                                '/steering-knuckle': { title: 'Steering Knuckles', subtitle: 'Suspension', description1: 'Critical safety components forged for maximum durability.' }
+                            };
+                        }
 
-                    <!-- Product 4 -->
-                    <a href="?page=steering-knuckle" class="group bg-gray-50 dark:bg-[#050914] rounded-xl border border-gray-200 dark:border-white/10 hover-metallic transition-all hover:-translate-y-2 hover:shadow-[0_10px_30px_rgba(49,130,206,0.15)] gsap-3d-card overflow-hidden block" style="transition-delay: 300ms">
-                        <div class="aspect-w-4 aspect-h-3 bg-gray-200 dark:bg-[#1b365d] relative overflow-hidden h-48 border-b border-gray-200 dark:border-white/10">
-                            <div class="absolute inset-0 bg-gradient-to-t from-gray-50 dark:from-[#050914] to-transparent opacity-80 z-10"></div>
-                            <div class="absolute inset-0 flex items-center justify-center text-secondary opacity-30 group-hover:scale-110 transition-transform duration-700">
-                                <i class="fas fa-bezier-curve text-7xl"></i>
-                            </div>
-                        </div>
-                        <div class="p-6 relative z-20">
-                            <div class="flex items-center gap-2 mb-3">
-                                <div class="w-2 h-2 rounded-full bg-secondary animate-pulse"></div>
-                                <div class="text-[10px] font-bold text-secondary dark:text-accent font-mono uppercase tracking-widest">Suspension</div>
-                            </div>
-                            <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-2 group-hover:text-secondary transition-colors">Steering Knuckles</h3>
-                            <p class="text-gray-600 dark:text-gray-400 text-sm font-light">Critical safety components forged for maximum durability.</p>
-                        </div>
-                    </a>
+                        let html = '';
+                        let delay = 0;
+                        for (const [path, data] of Object.entries(allProducts)) {
+                            if (!data) continue;
+                            const pageSlug = path.replace(/^\//, '');
+                            // Clean the description for the card snippet
+                            let cleanDesc = data.description1 || '';
+                            const quoteIdx = cleanDesc.indexOf('Get a Quote');
+                            if (quoteIdx !== -1) {
+                                cleanDesc = cleanDesc.substring(quoteIdx + 11);
+                                const jkIdx = cleanDesc.indexOf('JK Forge');
+                                if (jkIdx !== -1 && jkIdx < 250) cleanDesc = cleanDesc.substring(jkIdx);
+                            }
 
+                            html += `
+                            <a href="product-detail.html?page=${pageSlug}" data-keywords="${data.title.toLowerCase()} ${cleanDesc.toLowerCase()} ${data.subtitle ? data.subtitle.toLowerCase() : ''}" class="product-card group bg-gray-50 dark:bg-[#050914] rounded-xl border border-gray-200 dark:border-white/10 hover-metallic transition-all duration-500 hover:-translate-y-3 hover:shadow-[0_15px_40px_rgba(49,130,206,0.2)] overflow-hidden block slide-up-card" style="animation-delay: ${delay}ms;">
+                                <div class="aspect-w-4 aspect-h-3 bg-gray-200 dark:bg-[#1b365d] relative overflow-hidden h-48 border-b border-gray-200 dark:border-white/10">
+                                    <img src="${data.image || './images/facility.jpg'}" alt="${data.title}" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700 ease-in-out">
+                                    <div class="absolute inset-0 bg-gradient-to-t from-gray-50 dark:from-[#050914] to-transparent opacity-60 z-10"></div>
+                                </div>
+                                <div class="p-6 relative z-20">
+                                    <div class="flex items-center gap-2 mb-3">
+                                        <div class="w-2 h-2 rounded-full bg-secondary animate-pulse"></div>
+                                        <div class="text-[10px] font-bold text-secondary dark:text-accent font-mono uppercase tracking-widest">${data.subtitle || 'Precision Component'}</div>
+                                    </div>
+                                    <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-2 group-hover:text-secondary transition-colors duration-300">${data.title}</h3>
+                                    <p class="text-gray-600 dark:text-gray-400 text-sm font-light line-clamp-2">${cleanDesc || 'High-performance forged components.'}</p>
+                                </div>
+                            </a>
+                            `;
+                            delay += 50;
+                            if (delay > 500) delay = 0;
+                        }
+                        return html;
+                    })()}
                 </div>
             </div>
         </section>
+
+        <style>
+            @keyframes slideUpFade {
+                0% { opacity: 0; transform: translateY(30px); }
+                100% { opacity: 1; transform: translateY(0); }
+            }
+            .slide-up-card {
+                opacity: 0;
+                animation: slideUpFade 0.6s ease-out forwards;
+            }
+            .filter-active {
+                background-color: #1363a6 !important; /* Secondary */
+                color: white !important;
+                border-color: #1363a6 !important;
+            }
+        </style>
+
+        <script>
+            function filterProducts(category, btnElement) {
+                // Update active button styling
+                const buttons = document.querySelectorAll('.filter-btn');
+                buttons.forEach(btn => btn.classList.remove('filter-active'));
+                if (btnElement) {
+                    btnElement.classList.add('filter-active');
+                }
+
+                const cards = document.querySelectorAll('.product-card');
+                let delay = 0;
+                
+                cards.forEach(card => {
+                    const keywords = card.getAttribute('data-keywords');
+                    let show = false;
+                    
+                    if (category === 'all') {
+                        show = true;
+                    } else if (category === 'automotive') {
+                        if (keywords.includes('auto') || keywords.includes('car') || keywords.includes('vehicle') || keywords.includes('gear') || keywords.includes('shaft') || keywords.includes('steering') || keywords.includes('mobility')) show = true;
+                    } else if (category === 'oil_gas') {
+                        if (keywords.includes('oil') || keywords.includes('gas') || keywords.includes('valve') || keywords.includes('flange') || keywords.includes('pipe') || keywords.includes('pressure')) show = true;
+                    } else if (category === 'heavy_machinery') {
+                        if (keywords.includes('heavy') || keywords.includes('machine') || keywords.includes('tractor') || keywords.includes('farm') || keywords.includes('mining') || keywords.includes('excavat')) show = true;
+                    }
+                    
+                    if (show) {
+                        card.style.display = 'block';
+                        // Re-trigger animation
+                        card.style.animation = 'none';
+                        card.offsetHeight; // Trigger reflow
+                        card.style.animation = 'slideUpFade 0.6s ease-out forwards';
+                        card.style.animationDelay = delay + 'ms';
+                        delay += 50;
+                    } else {
+                        card.style.display = 'none';
+                    }
+                });
+            }
+        </script>
     `;
 }

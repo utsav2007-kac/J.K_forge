@@ -98,7 +98,7 @@ function renderHome() {
 
                 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6" style="perspective: 1500px;">
                     <!-- Industry Card 1 -->
-                    <a href="?page=automotive-forging" class="group block bg-white p-10 rounded-2xl border border-gray-200 hover-metallic transition-all hover:-translate-y-2 hover:shadow-[0_10px_40px_rgba(49,130,206,0.15)] gsap-3d-card relative overflow-hidden">
+                    <a href="industry.html?page=automotive-forging" class="group block bg-white p-10 rounded-2xl border border-gray-200 hover-metallic transition-all hover:-translate-y-2 hover:shadow-[0_10px_40px_rgba(49,130,206,0.15)] gsap-3d-card relative overflow-hidden">
                         <div class="absolute top-0 right-0 p-6 opacity-5 group-hover:opacity-20 transition-opacity">
                             <i class="fas fa-car text-8xl text-secondary"></i>
                         </div>
@@ -113,7 +113,7 @@ function renderHome() {
                     </a>
                     
                     <!-- Industry Card 2 -->
-                    <a href="?page=oil-gas-forging" class="group block bg-white p-10 rounded-2xl border border-gray-200 hover-metallic transition-all hover:-translate-y-2 hover:shadow-[0_10px_40px_rgba(49,130,206,0.15)] gsap-3d-card relative overflow-hidden">
+                    <a href="industry.html?page=oil-gas-forging" class="group block bg-white p-10 rounded-2xl border border-gray-200 hover-metallic transition-all hover:-translate-y-2 hover:shadow-[0_10px_40px_rgba(49,130,206,0.15)] gsap-3d-card relative overflow-hidden">
                         <div class="absolute top-0 right-0 p-6 opacity-5 group-hover:opacity-20 transition-opacity">
                             <i class="fas fa-oil-well text-8xl text-secondary"></i>
                         </div>
@@ -128,7 +128,7 @@ function renderHome() {
                     </a>
 
                     <!-- Industry Card 3 -->
-                    <a href="?page=tractor-parts-forging" class="group block bg-white p-10 rounded-2xl border border-gray-200 hover-metallic transition-all hover:-translate-y-2 hover:shadow-[0_10px_40px_rgba(49,130,206,0.15)] gsap-3d-card relative overflow-hidden">
+                    <a href="industry.html?page=tractor-parts-forging" class="group block bg-white p-10 rounded-2xl border border-gray-200 hover-metallic transition-all hover:-translate-y-2 hover:shadow-[0_10px_40px_rgba(49,130,206,0.15)] gsap-3d-card relative overflow-hidden">
                         <div class="absolute top-0 right-0 p-6 opacity-5 group-hover:opacity-20 transition-opacity">
                             <i class="fas fa-tractor text-8xl text-secondary"></i>
                         </div>
@@ -143,7 +143,7 @@ function renderHome() {
                     </a>
 
                     <!-- Industry Card 4 -->
-                    <a href="?page=mining-forging" class="group block bg-white p-10 rounded-2xl border border-gray-200 hover-metallic transition-all hover:-translate-y-2 hover:shadow-[0_10px_40px_rgba(49,130,206,0.15)] gsap-3d-card relative overflow-hidden">
+                    <a href="industry.html?page=mining-forging" class="group block bg-white p-10 rounded-2xl border border-gray-200 hover-metallic transition-all hover:-translate-y-2 hover:shadow-[0_10px_40px_rgba(49,130,206,0.15)] gsap-3d-card relative overflow-hidden">
                         <div class="absolute top-0 right-0 p-6 opacity-5 group-hover:opacity-20 transition-opacity">
                             <i class="fas fa-hammer text-8xl text-secondary"></i>
                         </div>
@@ -158,7 +158,7 @@ function renderHome() {
                     </a>
 
                     <!-- Industry Card 5 -->
-                    <a href="?page=industrial-forging" class="group block bg-white p-10 rounded-2xl border border-gray-200 hover-metallic transition-all hover:-translate-y-2 hover:shadow-[0_10px_40px_rgba(49,130,206,0.15)] gsap-3d-card relative overflow-hidden">
+                    <a href="industry.html?page=industrial-forging" class="group block bg-white p-10 rounded-2xl border border-gray-200 hover-metallic transition-all hover:-translate-y-2 hover:shadow-[0_10px_40px_rgba(49,130,206,0.15)] gsap-3d-card relative overflow-hidden">
                         <div class="absolute top-0 right-0 p-6 opacity-5 group-hover:opacity-20 transition-opacity">
                             <i class="fas fa-industry text-8xl text-secondary"></i>
                         </div>
@@ -173,7 +173,7 @@ function renderHome() {
                     </a>
 
                     <!-- Industry Card 6 -->
-                    <a href="?page=hydraulic-fitting" class="group block bg-white p-10 rounded-2xl border border-gray-200 hover-metallic transition-all hover:-translate-y-2 hover:shadow-[0_10px_40px_rgba(49,130,206,0.15)] gsap-3d-card relative overflow-hidden">
+                    <a href="industry.html?page=hydraulic-fitting" class="group block bg-white p-10 rounded-2xl border border-gray-200 hover-metallic transition-all hover:-translate-y-2 hover:shadow-[0_10px_40px_rgba(49,130,206,0.15)] gsap-3d-card relative overflow-hidden">
                         <div class="absolute top-0 right-0 p-6 opacity-5 group-hover:opacity-20 transition-opacity">
                             <i class="fas fa-cogs text-8xl text-secondary"></i>
                         </div>
