@@ -23,7 +23,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Estonia's Engineering Manufacturing & Nordic-Baltic Logistics Gateway",
-        "description2": "JK Forge supplies certified precision forgings to Estonia \u2014 alloy and carbon steel machinery, marine equipment, and general engineering forgings for the manufacturing base concentrated around Tallinn and Estonia's other industrial centers. EN 10204 3.1/3.2 certification, DIN EN material grades, and CIF Tallinn shipping with road/rail delivery across the Baltic and Nordic region. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified precision forgings to Estonia \u2014 alloy and carbon steel machinery, marine equipment, and general engineering forgings for the manufacturing base concentrated around Tallinn and Estonia's other industrial centers. EN 10204 3.1/3.2 certification, DIN EN material grades, and CIF Tallinn shipping with road/rail delivery across the Baltic and Nordic region. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Marine & Shipbuilding Equipment Manufacturing",
@@ -147,7 +147,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Estonia's Engineering Manufacturing & Nordic-Baltic Logistics Gateway",
-        "description2": "JK Forge supplies certified precision forgings to Estonia \u2014 alloy and carbon steel machinery, marine equipment, and general engineering forgings for the manufacturing base concentrated around Tallinn and Estonia's other industrial centers. EN 10204 3.1/3.2 certification, DIN EN material grades, and CIF Tallinn shipping with road/rail delivery across the Baltic and Nordic region. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified precision forgings to Estonia \u2014 alloy and carbon steel machinery, marine equipment, and general engineering forgings for the manufacturing base concentrated around Tallinn and Estonia's other industrial centers. EN 10204 3.1/3.2 certification, DIN EN material grades, and CIF Tallinn shipping with road/rail delivery across the Baltic and Nordic region. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Marine & Shipbuilding Equipment Manufacturing",
@@ -271,7 +271,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Perth \u2014 Commercial Hub of Western Australia's Mining Industry",
-        "description2": "JK Forge exports forged components to Perth, Western Australia \u2014 alloy steel forgings for the region's mining equipment supply chain, resources-sector engineering firms, and general industrial base. Alloy steel grades, mill test certification, and CIF Western Australia logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Perth, Western Australia \u2014 alloy steel forgings for the region's mining equipment supply chain, resources-sector engineering firms, and general industrial base. Alloy steel grades, mill test certification, and CIF Western Australia logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "General Industrial & Engineering Services",
@@ -395,7 +395,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Perth \u2014 Commercial Hub of Western Australia's Mining Industry",
-        "description2": "JK Forge exports forged components to Perth, Western Australia \u2014 alloy steel forgings for the region's mining equipment supply chain, resources-sector engineering firms, and general industrial base. Alloy steel grades, mill test certification, and CIF Western Australia logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Perth, Western Australia \u2014 alloy steel forgings for the region's mining equipment supply chain, resources-sector engineering firms, and general industrial base. Alloy steel grades, mill test certification, and CIF Western Australia logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "General Industrial & Engineering Services",
@@ -519,7 +519,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Precision Hot Forgings for Visakhapatnam's Port, Steel, Naval & Petrochemical Industrial Base",
-        "description2": "JK Forge supplies precision hot forgings to Visakhapatnam, Andhra Pradesh \u2014 alloy steel, carbon steel, and stainless steel forgings for the port and shipping industry, integrated steel plant ecosystem, naval and shipbuilding sector, and petrochemical manufacturers concentrated across this major east coast port city. Multimodal sea, road, and rail dispatch from our Shapar GIDC facility in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies precision hot forgings to Visakhapatnam, Andhra Pradesh \u2014 alloy steel, carbon steel, and stainless steel forgings for the port and shipping industry, integrated steel plant ecosystem, naval and shipbuilding sector, and petrochemical manufacturers concentrated across this major east coast port city. Multimodal sea, road, and rail dispatch from our Shapar GIDC facility in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Naval & Shipbuilding Component Manufacturing",
@@ -617,7 +617,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I get a quote for delivery to Visakhapatnam?",
-                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91-9265772827. We respond with a price and lead time, and confirm the most cost-effective freight option for your consignment size."
+                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91 7600066117. We respond with a price and lead time, and confirm the most cost-effective freight option for your consignment size."
             }
         ]
     },
@@ -643,7 +643,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Precision Hot Forgings for Visakhapatnam's Port, Steel, Naval & Petrochemical Industrial Base",
-        "description2": "JK Forge supplies precision hot forgings to Visakhapatnam, Andhra Pradesh \u2014 alloy steel, carbon steel, and stainless steel forgings for the port and shipping industry, integrated steel plant ecosystem, naval and shipbuilding sector, and petrochemical manufacturers concentrated across this major east coast port city. Multimodal sea, road, and rail dispatch from our Shapar GIDC facility in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies precision hot forgings to Visakhapatnam, Andhra Pradesh \u2014 alloy steel, carbon steel, and stainless steel forgings for the port and shipping industry, integrated steel plant ecosystem, naval and shipbuilding sector, and petrochemical manufacturers concentrated across this major east coast port city. Multimodal sea, road, and rail dispatch from our Shapar GIDC facility in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Naval & Shipbuilding Component Manufacturing",
@@ -741,7 +741,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I get a quote for delivery to Visakhapatnam?",
-                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91-9265772827. We respond with a price and lead time, and confirm the most cost-effective freight option for your consignment size."
+                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91 7600066117. We respond with a price and lead time, and confirm the most cost-effective freight option for your consignment size."
             }
         ]
     },
@@ -767,7 +767,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Tajikistan's Aluminum, Hydropower & Mining Sectors",
-        "description2": "JK Forge supplies forged steel components to Tajikistan \u2014 alloy steel forgings for aluminum smelting plant equipment, hydropower construction, and mining machinery, engineered for the heavy-industrial operating conditions found across the country's Central Asian industrial base. GOST-compatible and ASTM material grades, full mill certification, and overland Central Asian freight logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies forged steel components to Tajikistan \u2014 alloy steel forgings for aluminum smelting plant equipment, hydropower construction, and mining machinery, engineered for the heavy-industrial operating conditions found across the country's Central Asian industrial base. GOST-compatible and ASTM material grades, full mill certification, and overland Central Asian freight logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Hydropower Project Construction",
@@ -891,7 +891,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Tajikistan's Aluminum, Hydropower & Mining Sectors",
-        "description2": "JK Forge supplies forged steel components to Tajikistan \u2014 alloy steel forgings for aluminum smelting plant equipment, hydropower construction, and mining machinery, engineered for the heavy-industrial operating conditions found across the country's Central Asian industrial base. GOST-compatible and ASTM material grades, full mill certification, and overland Central Asian freight logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies forged steel components to Tajikistan \u2014 alloy steel forgings for aluminum smelting plant equipment, hydropower construction, and mining machinery, engineered for the heavy-industrial operating conditions found across the country's Central Asian industrial base. GOST-compatible and ASTM material grades, full mill certification, and overland Central Asian freight logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Hydropower Project Construction",
@@ -1015,7 +1015,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Glasgow \u2014 Scotland's Historic Shipbuilding & Industrial Hub",
-        "description2": "JK Forge exports forged components to Glasgow, Scotland \u2014 alloy and carbon steel forgings for the region's marine-adjacent engineering, general manufacturing, and industrial equipment base. EN 10204 certification, BS EN/DIN material grades, and CIF UK logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Glasgow, Scotland \u2014 alloy and carbon steel forgings for the region's marine-adjacent engineering, general manufacturing, and industrial equipment base. EN 10204 certification, BS EN/DIN material grades, and CIF UK logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "General Heavy Engineering Manufacturing",
@@ -1139,7 +1139,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Glasgow \u2014 Scotland's Historic Shipbuilding & Industrial Hub",
-        "description2": "JK Forge exports forged components to Glasgow, Scotland \u2014 alloy and carbon steel forgings for the region's marine-adjacent engineering, general manufacturing, and industrial equipment base. EN 10204 certification, BS EN/DIN material grades, and CIF UK logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Glasgow, Scotland \u2014 alloy and carbon steel forgings for the region's marine-adjacent engineering, general manufacturing, and industrial equipment base. EN 10204 certification, BS EN/DIN material grades, and CIF UK logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "General Heavy Engineering Manufacturing",
@@ -1262,7 +1262,7 @@ window.pageContent['locationsData'] = {
                 "sub": "Fast Quote Response"
             }
         ],
-        "description1": "Home / Forging Company Shapar Rajkot Shapar \u00b7 Rajkot \u00b7 Gujarat \u00b7 360024 #1 Forging Company in Shapar, Rajkot JK Forge \u2014 Shapar Rajkot's trusted precision forging manufacturer. Hot forging, CNC/VMC machining, zinc plating & heat treatment under one roof. 2,000+ sq. m. facility. Call +91-9265772827 .",
+        "description1": "Home / Forging Company Shapar Rajkot Shapar \u00b7 Rajkot \u00b7 Gujarat \u00b7 360024 #1 Forging Company in Shapar, Rajkot JK Forge \u2014 Shapar Rajkot's trusted precision forging manufacturer. Hot forging, CNC/VMC machining, zinc plating & heat treatment under one roof. 2,000+ sq. m. facility. Call +91 7600066117 .",
         "description2": "JK Forge is located in the Chaitanya Industrial Area, Shapar Veraval, Rajkot \u2014 the heart of Gujarat's forging industry cluster. We combine modern machinery with decades of forging expertise to deliver world-class components on time, every time.",
         "components": [
             {
@@ -1345,7 +1345,7 @@ window.pageContent['locationsData'] = {
         "faqs": [
             {
                 "question": "Which is the best forging company in Shapar, Rajkot?",
-                "answer": "JK Forge, located at Plot No.3/B, Chaitanya Industrial Area, Shapar (Rajkot) \u2013 360024, is one of the leading precision forging and casting manufacturers in Shapar Veraval, Rajkot, Gujarat. Contact: +91-9265772827."
+                "answer": "JK Forge, located at Plot No.3/B, Chaitanya Industrial Area, Shapar (Rajkot) \u2013 360024, is one of the leading precision forging and casting manufacturers in Shapar Veraval, Rajkot, Gujarat. Contact: +91 7600066117."
             },
             {
                 "question": "What forging products are made in Shapar Rajkot?",
@@ -1353,7 +1353,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "What is the contact number for JK Forge Shapar Rajkot?",
-                "answer": "JK Forge Shapar Rajkot contact number: +91-9265772827. Email: info@JK Forge.com, sales@JK Forge.com. Address: Plot No.3/B, Chaitanya Industrial Area, Shapar, Rajkot \u2013 360024."
+                "answer": "JK Forge Shapar Rajkot contact number: +91 7600066117. Email: info@JK Forge.com, sales@JK Forge.com. Address: Plot No.3/B, Chaitanya Industrial Area, Shapar, Rajkot \u2013 360024."
             },
             {
                 "question": "Does JK Forge in Shapar do custom forging?",
@@ -1382,7 +1382,7 @@ window.pageContent['locationsData'] = {
                 "sub": "Fast Quote Response"
             }
         ],
-        "description1": "Home / Forging Company Shapar Rajkot Shapar \u00b7 Rajkot \u00b7 Gujarat \u00b7 360024 #1 Forging Company in Shapar, Rajkot JK Forge \u2014 Shapar Rajkot's trusted precision forging manufacturer. Hot forging, CNC/VMC machining, zinc plating & heat treatment under one roof. 2,000+ sq. m. facility. Call +91-9265772827 .",
+        "description1": "Home / Forging Company Shapar Rajkot Shapar \u00b7 Rajkot \u00b7 Gujarat \u00b7 360024 #1 Forging Company in Shapar, Rajkot JK Forge \u2014 Shapar Rajkot's trusted precision forging manufacturer. Hot forging, CNC/VMC machining, zinc plating & heat treatment under one roof. 2,000+ sq. m. facility. Call +91 7600066117 .",
         "description2": "JK Forge is located in the Chaitanya Industrial Area, Shapar Veraval, Rajkot \u2014 the heart of Gujarat's forging industry cluster. We combine modern machinery with decades of forging expertise to deliver world-class components on time, every time.",
         "components": [
             {
@@ -1465,7 +1465,7 @@ window.pageContent['locationsData'] = {
         "faqs": [
             {
                 "question": "Which is the best forging company in Shapar, Rajkot?",
-                "answer": "JK Forge, located at Plot No.3/B, Chaitanya Industrial Area, Shapar (Rajkot) \u2013 360024, is one of the leading precision forging and casting manufacturers in Shapar Veraval, Rajkot, Gujarat. Contact: +91-9265772827."
+                "answer": "JK Forge, located at Plot No.3/B, Chaitanya Industrial Area, Shapar (Rajkot) \u2013 360024, is one of the leading precision forging and casting manufacturers in Shapar Veraval, Rajkot, Gujarat. Contact: +91 7600066117."
             },
             {
                 "question": "What forging products are made in Shapar Rajkot?",
@@ -1473,7 +1473,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "What is the contact number for JK Forge Shapar Rajkot?",
-                "answer": "JK Forge Shapar Rajkot contact number: +91-9265772827. Email: info@JK Forge.com, sales@JK Forge.com. Address: Plot No.3/B, Chaitanya Industrial Area, Shapar, Rajkot \u2013 360024."
+                "answer": "JK Forge Shapar Rajkot contact number: +91 7600066117. Email: info@JK Forge.com, sales@JK Forge.com. Address: Plot No.3/B, Chaitanya Industrial Area, Shapar, Rajkot \u2013 360024."
             },
             {
                 "question": "Does JK Forge in Shapar do custom forging?",
@@ -1503,7 +1503,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Namibia's Mining, Fishing & Walvis Bay Logistics Economy",
-        "description2": "JK Forge supplies forged steel components to Namibia \u2014 alloy and stainless steel forgings for uranium and mineral mining equipment, fishing industry vessels and processing machinery, and port equipment serving the Walvis Bay logistics corridor. SANS-aligned and ASTM material grades, full mill certification, and direct ocean freight to Walvis Bay. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies forged steel components to Namibia \u2014 alloy and stainless steel forgings for uranium and mineral mining equipment, fishing industry vessels and processing machinery, and port equipment serving the Walvis Bay logistics corridor. SANS-aligned and ASTM material grades, full mill certification, and direct ocean freight to Walvis Bay. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Fishing Fleet & Fish Processing Equipment",
@@ -1627,7 +1627,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Namibia's Mining, Fishing & Walvis Bay Logistics Economy",
-        "description2": "JK Forge supplies forged steel components to Namibia \u2014 alloy and stainless steel forgings for uranium and mineral mining equipment, fishing industry vessels and processing machinery, and port equipment serving the Walvis Bay logistics corridor. SANS-aligned and ASTM material grades, full mill certification, and direct ocean freight to Walvis Bay. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies forged steel components to Namibia \u2014 alloy and stainless steel forgings for uranium and mineral mining equipment, fishing industry vessels and processing machinery, and port equipment serving the Walvis Bay logistics corridor. SANS-aligned and ASTM material grades, full mill certification, and direct ocean freight to Walvis Bay. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Fishing Fleet & Fish Processing Equipment",
@@ -1751,7 +1751,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Manchester and Northern England's Manufacturing Base",
-        "description2": "JK Forge exports forged components to Manchester, England \u2014 alloy and carbon steel forgings for the Greater Manchester and Northern England general engineering, industrial equipment, and metal fabrication base. EN 10204 certification, BS EN/DIN material grades, and CIF UK logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Manchester, England \u2014 alloy and carbon steel forgings for the Greater Manchester and Northern England general engineering, industrial equipment, and metal fabrication base. EN 10204 certification, BS EN/DIN material grades, and CIF UK logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Metal Fabrication & Tooling",
@@ -1875,7 +1875,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Manchester and Northern England's Manufacturing Base",
-        "description2": "JK Forge exports forged components to Manchester, England \u2014 alloy and carbon steel forgings for the Greater Manchester and Northern England general engineering, industrial equipment, and metal fabrication base. EN 10204 certification, BS EN/DIN material grades, and CIF UK logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Manchester, England \u2014 alloy and carbon steel forgings for the Greater Manchester and Northern England general engineering, industrial equipment, and metal fabrication base. EN 10204 certification, BS EN/DIN material grades, and CIF UK logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Metal Fabrication & Tooling",
@@ -2093,7 +2093,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "Can I visit the JK Forge factory in Rajkot?",
-                "answer": "Yes, we welcome factory visits from buyers, quality engineers, procurement teams and independent inspection agents. Visits can be arranged by contacting us at sales@JK Forge.com or calling +91 92657 72827. We recommend one week's advance notice for international visitors. The visit covers forging operations, heat treatment, CNC machining, quality lab and finished goods inspection."
+                "answer": "Yes, we welcome factory visits from buyers, quality engineers, procurement teams and independent inspection agents. Visits can be arranged by contacting us at sales@JK Forge.com or calling +91 7600066117. We recommend one week's advance notice for international visitors. The visit covers forging operations, heat treatment, CNC machining, quality lab and finished goods inspection."
             },
             {
                 "question": "Is JK Forge the largest forging company in Rajkot?",
@@ -2109,7 +2109,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I get a forging quote from JK Forge Rajkot?",
-                "answer": "Share your component drawing (PDF or DXF), material specification, quantity, required condition (rough forged / machined / heat treated) and desired delivery location. Email to sales@JK Forge.com or call +91 92657 72827. We provide competitive quotations within 24 hours for standard enquiries and 48 hours for complex new part enquiries requiring tooling review."
+                "answer": "Share your component drawing (PDF or DXF), material specification, quantity, required condition (rough forged / machined / heat treated) and desired delivery location. Email to sales@JK Forge.com or call +91 7600066117. We provide competitive quotations within 24 hours for standard enquiries and 48 hours for complex new part enquiries requiring tooling review."
             }
         ]
     },
@@ -2229,7 +2229,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "Can I visit the JK Forge factory in Rajkot?",
-                "answer": "Yes, we welcome factory visits from buyers, quality engineers, procurement teams and independent inspection agents. Visits can be arranged by contacting us at sales@JK Forge.com or calling +91 92657 72827. We recommend one week's advance notice for international visitors. The visit covers forging operations, heat treatment, CNC machining, quality lab and finished goods inspection."
+                "answer": "Yes, we welcome factory visits from buyers, quality engineers, procurement teams and independent inspection agents. Visits can be arranged by contacting us at sales@JK Forge.com or calling +91 7600066117. We recommend one week's advance notice for international visitors. The visit covers forging operations, heat treatment, CNC machining, quality lab and finished goods inspection."
             },
             {
                 "question": "Is JK Forge the largest forging company in Rajkot?",
@@ -2245,7 +2245,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I get a forging quote from JK Forge Rajkot?",
-                "answer": "Share your component drawing (PDF or DXF), material specification, quantity, required condition (rough forged / machined / heat treated) and desired delivery location. Email to sales@JK Forge.com or call +91 92657 72827. We provide competitive quotations within 24 hours for standard enquiries and 48 hours for complex new part enquiries requiring tooling review."
+                "answer": "Share your component drawing (PDF or DXF), material specification, quantity, required condition (rough forged / machined / heat treated) and desired delivery location. Email to sales@JK Forge.com or call +91 7600066117. We provide competitive quotations within 24 hours for standard enquiries and 48 hours for complex new part enquiries requiring tooling review."
             }
         ]
     },
@@ -2559,7 +2559,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Tanzania's Mining, Agricultural & Port Logistics Economy",
-        "description2": "JK Forge supplies certified forgings to Tanzania \u2014 alloy and carbon steel forgings for mining equipment manufacturers, agricultural equipment builders, and general industrial machinery manufacturers serving Dar es Salaam and the broader Tanzanian economy. Material test certification, ASTM/EN material grades, and direct CIF shipping to the Port of Dar es Salaam. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified forgings to Tanzania \u2014 alloy and carbon steel forgings for mining equipment manufacturers, agricultural equipment builders, and general industrial machinery manufacturers serving Dar es Salaam and the broader Tanzanian economy. Material test certification, ASTM/EN material grades, and direct CIF shipping to the Port of Dar es Salaam. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Agricultural Equipment & Implement Manufacturing",
@@ -2683,7 +2683,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Tanzania's Mining, Agricultural & Port Logistics Economy",
-        "description2": "JK Forge supplies certified forgings to Tanzania \u2014 alloy and carbon steel forgings for mining equipment manufacturers, agricultural equipment builders, and general industrial machinery manufacturers serving Dar es Salaam and the broader Tanzanian economy. Material test certification, ASTM/EN material grades, and direct CIF shipping to the Port of Dar es Salaam. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified forgings to Tanzania \u2014 alloy and carbon steel forgings for mining equipment manufacturers, agricultural equipment builders, and general industrial machinery manufacturers serving Dar es Salaam and the broader Tanzanian economy. Material test certification, ASTM/EN material grades, and direct CIF shipping to the Port of Dar es Salaam. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Agricultural Equipment & Implement Manufacturing",
@@ -2889,11 +2889,11 @@ window.pageContent['locationsData'] = {
         "faqs": [
             {
                 "question": "Can JK Forge supply forgings to Aurangabad (Chhatrapati Sambhajinagar)?",
-                "answer": "Yes. Aurangabad is approximately 650 km from our Shapar, Rajkot factory \u2014 10 to 12 hours road freight via NH27 and NH52. We supply MIDC Waluj, Chikalthana and Shendra regularly for two-wheeler, auto ancillary and pharma equipment manufacturers. Call +91-9265772827 or email sales@JK Forge.com to discuss your requirement."
+                "answer": "Yes. Aurangabad is approximately 650 km from our Shapar, Rajkot factory \u2014 10 to 12 hours road freight via NH27 and NH52. We supply MIDC Waluj, Chikalthana and Shendra regularly for two-wheeler, auto ancillary and pharma equipment manufacturers. Call +91 7600066117 or email sales@JK Forge.com to discuss your requirement."
             },
             {
                 "question": "What is the delivery time from Rajkot to Aurangabad?",
-                "answer": "Road freight from Shapar to Aurangabad's MIDC zones runs 10\u201312 hours under normal conditions. A Tuesday morning despatch reaches Waluj MIDC by Tuesday night. We track all shipments and provide e-way bill confirmation and proof of delivery. For urgent requirements, same-day despatch with express freight can be arranged \u2014 call +91-9265772827 to confirm the schedule."
+                "answer": "Road freight from Shapar to Aurangabad's MIDC zones runs 10\u201312 hours under normal conditions. A Tuesday morning despatch reaches Waluj MIDC by Tuesday night. We track all shipments and provide e-way bill confirmation and proof of delivery. For urgent requirements, same-day despatch with express freight can be arranged \u2014 call +91 7600066117 to confirm the schedule."
             },
             {
                 "question": "Do you handle Bajaj Auto PPAP requirements for forging supply?",
@@ -2917,7 +2917,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I get a quotation for forging supply to my Aurangabad plant?",
-                "answer": "Email your part drawing (PDF or 3D STEP file) with material specification, heat treatment requirement, annual volume and any certification requirements to sales@JK Forge.com. We assess forgeability, confirm the grade and heat treatment, identify any PPAP or special inspection requirements, and return a detailed quotation within 48\u201372 working hours. For urgent programmes or Bajaj/Varroc supply chain additions, call +91-9265772827 to fast-track the discussion."
+                "answer": "Email your part drawing (PDF or 3D STEP file) with material specification, heat treatment requirement, annual volume and any certification requirements to sales@JK Forge.com. We assess forgeability, confirm the grade and heat treatment, identify any PPAP or special inspection requirements, and return a detailed quotation within 48\u201372 working hours. For urgent programmes or Bajaj/Varroc supply chain additions, call +91 7600066117 to fast-track the discussion."
             }
         ]
     },
@@ -3025,11 +3025,11 @@ window.pageContent['locationsData'] = {
         "faqs": [
             {
                 "question": "Can JK Forge supply forgings to Aurangabad (Chhatrapati Sambhajinagar)?",
-                "answer": "Yes. Aurangabad is approximately 650 km from our Shapar, Rajkot factory \u2014 10 to 12 hours road freight via NH27 and NH52. We supply MIDC Waluj, Chikalthana and Shendra regularly for two-wheeler, auto ancillary and pharma equipment manufacturers. Call +91-9265772827 or email sales@JK Forge.com to discuss your requirement."
+                "answer": "Yes. Aurangabad is approximately 650 km from our Shapar, Rajkot factory \u2014 10 to 12 hours road freight via NH27 and NH52. We supply MIDC Waluj, Chikalthana and Shendra regularly for two-wheeler, auto ancillary and pharma equipment manufacturers. Call +91 7600066117 or email sales@JK Forge.com to discuss your requirement."
             },
             {
                 "question": "What is the delivery time from Rajkot to Aurangabad?",
-                "answer": "Road freight from Shapar to Aurangabad's MIDC zones runs 10\u201312 hours under normal conditions. A Tuesday morning despatch reaches Waluj MIDC by Tuesday night. We track all shipments and provide e-way bill confirmation and proof of delivery. For urgent requirements, same-day despatch with express freight can be arranged \u2014 call +91-9265772827 to confirm the schedule."
+                "answer": "Road freight from Shapar to Aurangabad's MIDC zones runs 10\u201312 hours under normal conditions. A Tuesday morning despatch reaches Waluj MIDC by Tuesday night. We track all shipments and provide e-way bill confirmation and proof of delivery. For urgent requirements, same-day despatch with express freight can be arranged \u2014 call +91 7600066117 to confirm the schedule."
             },
             {
                 "question": "Do you handle Bajaj Auto PPAP requirements for forging supply?",
@@ -3053,7 +3053,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I get a quotation for forging supply to my Aurangabad plant?",
-                "answer": "Email your part drawing (PDF or 3D STEP file) with material specification, heat treatment requirement, annual volume and any certification requirements to sales@JK Forge.com. We assess forgeability, confirm the grade and heat treatment, identify any PPAP or special inspection requirements, and return a detailed quotation within 48\u201372 working hours. For urgent programmes or Bajaj/Varroc supply chain additions, call +91-9265772827 to fast-track the discussion."
+                "answer": "Email your part drawing (PDF or 3D STEP file) with material specification, heat treatment requirement, annual volume and any certification requirements to sales@JK Forge.com. We assess forgeability, confirm the grade and heat treatment, identify any PPAP or special inspection requirements, and return a detailed quotation within 48\u201372 working hours. For urgent programmes or Bajaj/Varroc supply chain additions, call +91 7600066117 to fast-track the discussion."
             }
         ]
     },
@@ -3079,7 +3079,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content India's Leading Forging Supplier to USA \u2014 Houston, Chicago, Detroit, Philadelphia, Pittsburgh",
-        "description2": "JK Forge supplies precision hot forgings to the USA \u2014 serving ExxonMobil Baytown Refinery (Texas \u2014 560,000 bbl/day, USA's #2 largest refinery: SA182 F11 and F22 hydroprocessing nozzle forgings, SA182 F347H high-temperature overhead nozzle forgings, ASME Section VIII Div.2, NACE MR0175), GE Vernova (Schenectady NY \u2014 world's #1 gas turbine OEM: GE 7HA.03 [870 MW combined cycle, 64% efficiency \u2014 world's most efficient power plant]: IN718 AMS 5664 compressor disk forgings, Ti-6Al-4V AMS 4928 LP compressor blade disk forgings, 4340 VAR shaft forgings, AS9100 Rev D + NADCAP), Caterpillar Inc. (Peoria IL \u2014 world's #1 construction equipment OEM, $67.1B: Cat 3600 marine diesel crankshaft forgings in 42CrMo4 Q+T, Cat 793F mining truck axle forgings in 4340 Q+T [300-tonne payload], IATF 16949), John Deere (Moline IL \u2014 world's #1 agricultural equipment OEM, $55.7B: 8R/9R series tractor final drive gear forgings in 18CrNiMo7-6 carburized), and Linde plc (Danbury CT \u2014 world's #1 industrial gas, $32.9B: 9%Ni steel cryogenic nozzle forgings, A350 LF6 nitrogen service). ASME III/VIII/B16.5, API 6A/6D, NACE MR0175, ASTM. CIF Houston 20\u201323 days / CIF Los Angeles 18\u201321 days. +91-9265772827.",
+        "description2": "JK Forge supplies precision hot forgings to the USA \u2014 serving ExxonMobil Baytown Refinery (Texas \u2014 560,000 bbl/day, USA's #2 largest refinery: SA182 F11 and F22 hydroprocessing nozzle forgings, SA182 F347H high-temperature overhead nozzle forgings, ASME Section VIII Div.2, NACE MR0175), GE Vernova (Schenectady NY \u2014 world's #1 gas turbine OEM: GE 7HA.03 [870 MW combined cycle, 64% efficiency \u2014 world's most efficient power plant]: IN718 AMS 5664 compressor disk forgings, Ti-6Al-4V AMS 4928 LP compressor blade disk forgings, 4340 VAR shaft forgings, AS9100 Rev D + NADCAP), Caterpillar Inc. (Peoria IL \u2014 world's #1 construction equipment OEM, $67.1B: Cat 3600 marine diesel crankshaft forgings in 42CrMo4 Q+T, Cat 793F mining truck axle forgings in 4340 Q+T [300-tonne payload], IATF 16949), John Deere (Moline IL \u2014 world's #1 agricultural equipment OEM, $55.7B: 8R/9R series tractor final drive gear forgings in 18CrNiMo7-6 carburized), and Linde plc (Danbury CT \u2014 world's #1 industrial gas, $32.9B: 9%Ni steel cryogenic nozzle forgings, A350 LF6 nitrogen service). ASME III/VIII/B16.5, API 6A/6D, NACE MR0175, ASTM. CIF Houston 20\u201323 days / CIF Los Angeles 18\u201321 days. +91 7600066117.",
         "components": [
             {
                 "title": "Factory Address",
@@ -3187,7 +3187,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content India's Leading Forging Supplier to USA \u2014 Houston, Chicago, Detroit, Philadelphia, Pittsburgh",
-        "description2": "JK Forge supplies precision hot forgings to the USA \u2014 serving ExxonMobil Baytown Refinery (Texas \u2014 560,000 bbl/day, USA's #2 largest refinery: SA182 F11 and F22 hydroprocessing nozzle forgings, SA182 F347H high-temperature overhead nozzle forgings, ASME Section VIII Div.2, NACE MR0175), GE Vernova (Schenectady NY \u2014 world's #1 gas turbine OEM: GE 7HA.03 [870 MW combined cycle, 64% efficiency \u2014 world's most efficient power plant]: IN718 AMS 5664 compressor disk forgings, Ti-6Al-4V AMS 4928 LP compressor blade disk forgings, 4340 VAR shaft forgings, AS9100 Rev D + NADCAP), Caterpillar Inc. (Peoria IL \u2014 world's #1 construction equipment OEM, $67.1B: Cat 3600 marine diesel crankshaft forgings in 42CrMo4 Q+T, Cat 793F mining truck axle forgings in 4340 Q+T [300-tonne payload], IATF 16949), John Deere (Moline IL \u2014 world's #1 agricultural equipment OEM, $55.7B: 8R/9R series tractor final drive gear forgings in 18CrNiMo7-6 carburized), and Linde plc (Danbury CT \u2014 world's #1 industrial gas, $32.9B: 9%Ni steel cryogenic nozzle forgings, A350 LF6 nitrogen service). ASME III/VIII/B16.5, API 6A/6D, NACE MR0175, ASTM. CIF Houston 20\u201323 days / CIF Los Angeles 18\u201321 days. +91-9265772827.",
+        "description2": "JK Forge supplies precision hot forgings to the USA \u2014 serving ExxonMobil Baytown Refinery (Texas \u2014 560,000 bbl/day, USA's #2 largest refinery: SA182 F11 and F22 hydroprocessing nozzle forgings, SA182 F347H high-temperature overhead nozzle forgings, ASME Section VIII Div.2, NACE MR0175), GE Vernova (Schenectady NY \u2014 world's #1 gas turbine OEM: GE 7HA.03 [870 MW combined cycle, 64% efficiency \u2014 world's most efficient power plant]: IN718 AMS 5664 compressor disk forgings, Ti-6Al-4V AMS 4928 LP compressor blade disk forgings, 4340 VAR shaft forgings, AS9100 Rev D + NADCAP), Caterpillar Inc. (Peoria IL \u2014 world's #1 construction equipment OEM, $67.1B: Cat 3600 marine diesel crankshaft forgings in 42CrMo4 Q+T, Cat 793F mining truck axle forgings in 4340 Q+T [300-tonne payload], IATF 16949), John Deere (Moline IL \u2014 world's #1 agricultural equipment OEM, $55.7B: 8R/9R series tractor final drive gear forgings in 18CrNiMo7-6 carburized), and Linde plc (Danbury CT \u2014 world's #1 industrial gas, $32.9B: 9%Ni steel cryogenic nozzle forgings, A350 LF6 nitrogen service). ASME III/VIII/B16.5, API 6A/6D, NACE MR0175, ASTM. CIF Houston 20\u201323 days / CIF Los Angeles 18\u201321 days. +91 7600066117.",
         "components": [
             {
                 "title": "Factory Address",
@@ -3295,7 +3295,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Houston's Oil & Gas Equipment and Petrochemical Manufacturing Base",
-        "description2": "JK Forge exports forged components to Houston, Texas \u2014 flanges, valve bodies, and pressure-retaining forgings for the oil and gas equipment manufacturers, petrochemical fabricators, and industrial equipment OEMs concentrated along the Gulf Coast. ASTM/ASME material grades, EN 10204 3.1/3.2 certification, and CIF Gulf Coast port shipping. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Houston, Texas \u2014 flanges, valve bodies, and pressure-retaining forgings for the oil and gas equipment manufacturers, petrochemical fabricators, and industrial equipment OEMs concentrated along the Gulf Coast. ASTM/ASME material grades, EN 10204 3.1/3.2 certification, and CIF Gulf Coast port shipping. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Petrochemical & Refining Equipment",
@@ -3419,7 +3419,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Houston's Oil & Gas Equipment and Petrochemical Manufacturing Base",
-        "description2": "JK Forge exports forged components to Houston, Texas \u2014 flanges, valve bodies, and pressure-retaining forgings for the oil and gas equipment manufacturers, petrochemical fabricators, and industrial equipment OEMs concentrated along the Gulf Coast. ASTM/ASME material grades, EN 10204 3.1/3.2 certification, and CIF Gulf Coast port shipping. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Houston, Texas \u2014 flanges, valve bodies, and pressure-retaining forgings for the oil and gas equipment manufacturers, petrochemical fabricators, and industrial equipment OEMs concentrated along the Gulf Coast. ASTM/ASME material grades, EN 10204 3.1/3.2 certification, and CIF Gulf Coast port shipping. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Petrochemical & Refining Equipment",
@@ -3653,7 +3653,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I get a quotation for forgings to Vadodara?",
-                "answer": "Email your drawing, material specification, required certificates, and quantity to info@JK Forge.com or call +91-9265772827. We respond with price, lead time, and documentation list within 24 business hours."
+                "answer": "Email your drawing, material specification, required certificates, and quantity to info@JK Forge.com or call +91 7600066117. We respond with price, lead time, and documentation list within 24 business hours."
             }
         ]
     },
@@ -3789,7 +3789,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I get a quotation for forgings to Vadodara?",
-                "answer": "Email your drawing, material specification, required certificates, and quantity to info@JK Forge.com or call +91-9265772827. We respond with price, lead time, and documentation list within 24 business hours."
+                "answer": "Email your drawing, material specification, required certificates, and quantity to info@JK Forge.com or call +91 7600066117. We respond with price, lead time, and documentation list within 24 business hours."
             }
         ]
     },
@@ -3815,7 +3815,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Albania's Mining Sector & Growing Manufacturing Base",
-        "description2": "JK Forge supplies certified forgings to Albania \u2014 alloy and wear-resistant steel component forgings for the country's mining equipment supply chain and growing general manufacturing sector. EN 10204 3.1/3.2 certification, DIN-aligned material grades, and CIF Adriatic/Balkan shipping. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified forgings to Albania \u2014 alloy and wear-resistant steel component forgings for the country's mining equipment supply chain and growing general manufacturing sector. EN 10204 3.1/3.2 certification, DIN-aligned material grades, and CIF Adriatic/Balkan shipping. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Mineral Processing Equipment Manufacturing",
@@ -3939,7 +3939,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Albania's Mining Sector & Growing Manufacturing Base",
-        "description2": "JK Forge supplies certified forgings to Albania \u2014 alloy and wear-resistant steel component forgings for the country's mining equipment supply chain and growing general manufacturing sector. EN 10204 3.1/3.2 certification, DIN-aligned material grades, and CIF Adriatic/Balkan shipping. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified forgings to Albania \u2014 alloy and wear-resistant steel component forgings for the country's mining equipment supply chain and growing general manufacturing sector. EN 10204 3.1/3.2 certification, DIN-aligned material grades, and CIF Adriatic/Balkan shipping. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Mineral Processing Equipment Manufacturing",
@@ -4145,7 +4145,7 @@ window.pageContent['locationsData'] = {
         "faqs": [
             {
                 "question": "Can JK Forge supply forgings to Kolkata buyers?",
-                "answer": "Yes. We regularly supply Kolkata-based heavy engineering, power and mining customers from our Shapar, Rajkot factory. The distance is approximately 2,000 km. We use air freight for urgent or high-value components (Rajkot to Kolkata airport in under 24 hours) and rail or road freight for bulk consignments. Call +91-9265772827 to discuss your delivery requirement."
+                "answer": "Yes. We regularly supply Kolkata-based heavy engineering, power and mining customers from our Shapar, Rajkot factory. The distance is approximately 2,000 km. We use air freight for urgent or high-value components (Rajkot to Kolkata airport in under 24 hours) and rail or road freight for bulk consignments. Call +91 7600066117 to discuss your delivery requirement."
             },
             {
                 "question": "What is the delivery time from Rajkot to Kolkata?",
@@ -4169,7 +4169,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "What is the minimum order quantity for Kolkata supply?",
-                "answer": "MOQ is flexible and depends on component weight and complexity. Small forgings under 2 kg: MOQ 100 pieces. Medium components 2\u201325 kg: MOQ 25 pieces. Large forgings above 25 kg: MOQ 5\u201310 pieces. For one-off or urgent replacement components (turbine valve bodies, shaft blanks), we accept single-piece orders at appropriate pricing. Contact +91-9265772827 to discuss."
+                "answer": "MOQ is flexible and depends on component weight and complexity. Small forgings under 2 kg: MOQ 100 pieces. Medium components 2\u201325 kg: MOQ 25 pieces. Large forgings above 25 kg: MOQ 5\u201310 pieces. For one-off or urgent replacement components (turbine valve bodies, shaft blanks), we accept single-piece orders at appropriate pricing. Contact +91 7600066117 to discuss."
             },
             {
                 "question": "How do I request a quotation for forging supply to Kolkata?",
@@ -4281,7 +4281,7 @@ window.pageContent['locationsData'] = {
         "faqs": [
             {
                 "question": "Can JK Forge supply forgings to Kolkata buyers?",
-                "answer": "Yes. We regularly supply Kolkata-based heavy engineering, power and mining customers from our Shapar, Rajkot factory. The distance is approximately 2,000 km. We use air freight for urgent or high-value components (Rajkot to Kolkata airport in under 24 hours) and rail or road freight for bulk consignments. Call +91-9265772827 to discuss your delivery requirement."
+                "answer": "Yes. We regularly supply Kolkata-based heavy engineering, power and mining customers from our Shapar, Rajkot factory. The distance is approximately 2,000 km. We use air freight for urgent or high-value components (Rajkot to Kolkata airport in under 24 hours) and rail or road freight for bulk consignments. Call +91 7600066117 to discuss your delivery requirement."
             },
             {
                 "question": "What is the delivery time from Rajkot to Kolkata?",
@@ -4305,7 +4305,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "What is the minimum order quantity for Kolkata supply?",
-                "answer": "MOQ is flexible and depends on component weight and complexity. Small forgings under 2 kg: MOQ 100 pieces. Medium components 2\u201325 kg: MOQ 25 pieces. Large forgings above 25 kg: MOQ 5\u201310 pieces. For one-off or urgent replacement components (turbine valve bodies, shaft blanks), we accept single-piece orders at appropriate pricing. Contact +91-9265772827 to discuss."
+                "answer": "MOQ is flexible and depends on component weight and complexity. Small forgings under 2 kg: MOQ 100 pieces. Medium components 2\u201325 kg: MOQ 25 pieces. Large forgings above 25 kg: MOQ 5\u201310 pieces. For one-off or urgent replacement components (turbine valve bodies, shaft blanks), we accept single-piece orders at appropriate pricing. Contact +91 7600066117 to discuss."
             },
             {
                 "question": "How do I request a quotation for forging supply to Kolkata?",
@@ -4335,7 +4335,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Panama's Canal Logistics, Colon Free Zone & Central American Trade Hub",
-        "description2": "JK Forge supplies certified precision forgings to Panama \u2014 alloy and carbon steel port equipment, structural, and general industrial forgings for the logistics, maritime services, and trading sectors concentrated around Panama City, Colon, and the Panama Canal corridor. ASTM material grades, EN 10204 3.1/3.2 certification, and CIF Balboa or Colon shipping. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified precision forgings to Panama \u2014 alloy and carbon steel port equipment, structural, and general industrial forgings for the logistics, maritime services, and trading sectors concentrated around Panama City, Colon, and the Panama Canal corridor. ASTM material grades, EN 10204 3.1/3.2 certification, and CIF Balboa or Colon shipping. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Marine & Ship Servicing Equipment Support",
@@ -4459,7 +4459,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Panama's Canal Logistics, Colon Free Zone & Central American Trade Hub",
-        "description2": "JK Forge supplies certified precision forgings to Panama \u2014 alloy and carbon steel port equipment, structural, and general industrial forgings for the logistics, maritime services, and trading sectors concentrated around Panama City, Colon, and the Panama Canal corridor. ASTM material grades, EN 10204 3.1/3.2 certification, and CIF Balboa or Colon shipping. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified precision forgings to Panama \u2014 alloy and carbon steel port equipment, structural, and general industrial forgings for the logistics, maritime services, and trading sectors concentrated around Panama City, Colon, and the Panama Canal corridor. ASTM material grades, EN 10204 3.1/3.2 certification, and CIF Balboa or Colon shipping. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Marine & Ship Servicing Equipment Support",
@@ -4815,7 +4815,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Kyrgyzstan's Mining, Agriculture & EAEU Trade Economy",
-        "description2": "JK Forge supplies forged steel components to Kyrgyzstan \u2014 alloy steel forgings for mining equipment, agricultural machinery, and general industrial applications, engineered for the demanding operating conditions of Central Asia's mining and agricultural sectors. GOST-compatible and ASTM material grades, full mill certification, and overland logistics via Central Asian freight corridors. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies forged steel components to Kyrgyzstan \u2014 alloy steel forgings for mining equipment, agricultural machinery, and general industrial applications, engineered for the demanding operating conditions of Central Asia's mining and agricultural sectors. GOST-compatible and ASTM material grades, full mill certification, and overland logistics via Central Asian freight corridors. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "General Industrial & Machine Building",
@@ -4939,7 +4939,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Kyrgyzstan's Mining, Agriculture & EAEU Trade Economy",
-        "description2": "JK Forge supplies forged steel components to Kyrgyzstan \u2014 alloy steel forgings for mining equipment, agricultural machinery, and general industrial applications, engineered for the demanding operating conditions of Central Asia's mining and agricultural sectors. GOST-compatible and ASTM material grades, full mill certification, and overland logistics via Central Asian freight corridors. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies forged steel components to Kyrgyzstan \u2014 alloy steel forgings for mining equipment, agricultural machinery, and general industrial applications, engineered for the demanding operating conditions of Central Asia's mining and agricultural sectors. GOST-compatible and ASTM material grades, full mill certification, and overland logistics via Central Asian freight corridors. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "General Industrial & Machine Building",
@@ -5063,7 +5063,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier to Canada \u2014 Calgary, Vancouver, Toronto, Sudbury, Saskatoon",
-        "description2": "JK Forge supplies precision hot forgings to Canada \u2014 serving Suncor Energy (Fort McMurray, Alberta \u2014 700,000 bbl/day Athabasca oil sands production, world's largest oil sands operation: SA182 F22 upgrader reactor nozzle forgings for the LC-Finer [450\u00b0C/175 bar liquid coking], SA182 F347H nozzle forgings for the Vacuum Distillation Unit [540\u00b0C/8 bar], ASME Section VIII Div.1 + CRN [Canadian Registration Number]), Vale Canada Limited (Sudbury, Ontario \u2014 world's #2 nickel producer: 90,000 t/year Ni + 50,000 t/year Cu: SA182 F316L nozzle forgings for Flash Smelting furnace Peirce-Smith converter tuyere assemblies), Cameco Corporation (Saskatoon, Saskatchewan \u2014 world's #2 uranium producer: Cigar Lake mine 18,000 t/year U3O8 \u2014 Hastelloy C-276 and titanium Gr.2 forgings for uranium hexafluoride [UF6] conversion plant), Trans Mountain Pipeline (Edmonton to Vancouver \u2014 980,000 bbl/day TMX expansion project 2024: ASME B16.5 Class 600/900 pipeline flanges in ASTM A105 and A182 F316L), and Hydro-Qu\u00e9bec (Montr\u00e9al \u2014 world's largest hydropower utility, 37 GW: 13Cr4Ni CA-6NM Kaplan turbine runner hub forgings). ASME VIII/VIII-2, CRN, CSA, API 6A. CIF Vancouver 20\u201322 days / CIF Montr\u00e9al 16\u201318 days. +91-9265772827.",
+        "description2": "JK Forge supplies precision hot forgings to Canada \u2014 serving Suncor Energy (Fort McMurray, Alberta \u2014 700,000 bbl/day Athabasca oil sands production, world's largest oil sands operation: SA182 F22 upgrader reactor nozzle forgings for the LC-Finer [450\u00b0C/175 bar liquid coking], SA182 F347H nozzle forgings for the Vacuum Distillation Unit [540\u00b0C/8 bar], ASME Section VIII Div.1 + CRN [Canadian Registration Number]), Vale Canada Limited (Sudbury, Ontario \u2014 world's #2 nickel producer: 90,000 t/year Ni + 50,000 t/year Cu: SA182 F316L nozzle forgings for Flash Smelting furnace Peirce-Smith converter tuyere assemblies), Cameco Corporation (Saskatoon, Saskatchewan \u2014 world's #2 uranium producer: Cigar Lake mine 18,000 t/year U3O8 \u2014 Hastelloy C-276 and titanium Gr.2 forgings for uranium hexafluoride [UF6] conversion plant), Trans Mountain Pipeline (Edmonton to Vancouver \u2014 980,000 bbl/day TMX expansion project 2024: ASME B16.5 Class 600/900 pipeline flanges in ASTM A105 and A182 F316L), and Hydro-Qu\u00e9bec (Montr\u00e9al \u2014 world's largest hydropower utility, 37 GW: 13Cr4Ni CA-6NM Kaplan turbine runner hub forgings). ASME VIII/VIII-2, CRN, CSA, API 6A. CIF Vancouver 20\u201322 days / CIF Montr\u00e9al 16\u201318 days. +91 7600066117.",
         "components": [
             {
                 "title": "Factory Address",
@@ -5171,7 +5171,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier to Canada \u2014 Calgary, Vancouver, Toronto, Sudbury, Saskatoon",
-        "description2": "JK Forge supplies precision hot forgings to Canada \u2014 serving Suncor Energy (Fort McMurray, Alberta \u2014 700,000 bbl/day Athabasca oil sands production, world's largest oil sands operation: SA182 F22 upgrader reactor nozzle forgings for the LC-Finer [450\u00b0C/175 bar liquid coking], SA182 F347H nozzle forgings for the Vacuum Distillation Unit [540\u00b0C/8 bar], ASME Section VIII Div.1 + CRN [Canadian Registration Number]), Vale Canada Limited (Sudbury, Ontario \u2014 world's #2 nickel producer: 90,000 t/year Ni + 50,000 t/year Cu: SA182 F316L nozzle forgings for Flash Smelting furnace Peirce-Smith converter tuyere assemblies), Cameco Corporation (Saskatoon, Saskatchewan \u2014 world's #2 uranium producer: Cigar Lake mine 18,000 t/year U3O8 \u2014 Hastelloy C-276 and titanium Gr.2 forgings for uranium hexafluoride [UF6] conversion plant), Trans Mountain Pipeline (Edmonton to Vancouver \u2014 980,000 bbl/day TMX expansion project 2024: ASME B16.5 Class 600/900 pipeline flanges in ASTM A105 and A182 F316L), and Hydro-Qu\u00e9bec (Montr\u00e9al \u2014 world's largest hydropower utility, 37 GW: 13Cr4Ni CA-6NM Kaplan turbine runner hub forgings). ASME VIII/VIII-2, CRN, CSA, API 6A. CIF Vancouver 20\u201322 days / CIF Montr\u00e9al 16\u201318 days. +91-9265772827.",
+        "description2": "JK Forge supplies precision hot forgings to Canada \u2014 serving Suncor Energy (Fort McMurray, Alberta \u2014 700,000 bbl/day Athabasca oil sands production, world's largest oil sands operation: SA182 F22 upgrader reactor nozzle forgings for the LC-Finer [450\u00b0C/175 bar liquid coking], SA182 F347H nozzle forgings for the Vacuum Distillation Unit [540\u00b0C/8 bar], ASME Section VIII Div.1 + CRN [Canadian Registration Number]), Vale Canada Limited (Sudbury, Ontario \u2014 world's #2 nickel producer: 90,000 t/year Ni + 50,000 t/year Cu: SA182 F316L nozzle forgings for Flash Smelting furnace Peirce-Smith converter tuyere assemblies), Cameco Corporation (Saskatoon, Saskatchewan \u2014 world's #2 uranium producer: Cigar Lake mine 18,000 t/year U3O8 \u2014 Hastelloy C-276 and titanium Gr.2 forgings for uranium hexafluoride [UF6] conversion plant), Trans Mountain Pipeline (Edmonton to Vancouver \u2014 980,000 bbl/day TMX expansion project 2024: ASME B16.5 Class 600/900 pipeline flanges in ASTM A105 and A182 F316L), and Hydro-Qu\u00e9bec (Montr\u00e9al \u2014 world's largest hydropower utility, 37 GW: 13Cr4Ni CA-6NM Kaplan turbine runner hub forgings). ASME VIII/VIII-2, CRN, CSA, API 6A. CIF Vancouver 20\u201322 days / CIF Montr\u00e9al 16\u201318 days. +91 7600066117.",
         "components": [
             {
                 "title": "Factory Address",
@@ -5361,7 +5361,7 @@ window.pageContent['locationsData'] = {
         "faqs": [
             {
                 "question": "Which forging manufacturer near Bangalore offers the best quality?",
-                "answer": "JK Forge in Shapar, Rajkot is a leading ISO 9001:2015 certified forging manufacturer supplying Bangalore's aerospace, automotive, and industrial sectors. We offer PPAP documentation, CMM inspection, and premium alloy capabilities. Call +91-9265772827."
+                "answer": "JK Forge in Shapar, Rajkot is a leading ISO 9001:2015 certified forging manufacturer supplying Bangalore's aerospace, automotive, and industrial sectors. We offer PPAP documentation, CMM inspection, and premium alloy capabilities. Call +91 7600066117."
             },
             {
                 "question": "How long does it take for forgings to reach Bangalore from Rajkot?",
@@ -5381,7 +5381,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "What is the minimum order quantity for Bangalore supply?",
-                "answer": "There is no strict minimum \u2014 we supply prototype quantities (3-10 pieces) through to bulk production runs. Small lots may carry a tooling or setup surcharge. Contact +91-9265772827 or sales@JK Forge.com with your drawing for an accurate quote."
+                "answer": "There is no strict minimum \u2014 we supply prototype quantities (3-10 pieces) through to bulk production runs. Small lots may carry a tooling or setup surcharge. Contact +91 7600066117 or sales@JK Forge.com with your drawing for an accurate quote."
             },
             {
                 "question": "Can you supply duplex stainless steel forgings to Bangalore's chemical plant builders?",
@@ -5389,7 +5389,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I get a forging quote for my Bangalore requirement?",
-                "answer": "Send your drawing (PDF, DXF, STEP, or IGES) to sales@JK Forge.com with quantity, material grade, and any special requirements. We reply with a detailed quote within 24 hours. Call +91-9265772827 for urgent queries."
+                "answer": "Send your drawing (PDF, DXF, STEP, or IGES) to sales@JK Forge.com with quantity, material grade, and any special requirements. We reply with a detailed quote within 24 hours. Call +91 7600066117 for urgent queries."
             }
         ]
     },
@@ -5497,7 +5497,7 @@ window.pageContent['locationsData'] = {
         "faqs": [
             {
                 "question": "Which forging manufacturer near Bangalore offers the best quality?",
-                "answer": "JK Forge in Shapar, Rajkot is a leading ISO 9001:2015 certified forging manufacturer supplying Bangalore's aerospace, automotive, and industrial sectors. We offer PPAP documentation, CMM inspection, and premium alloy capabilities. Call +91-9265772827."
+                "answer": "JK Forge in Shapar, Rajkot is a leading ISO 9001:2015 certified forging manufacturer supplying Bangalore's aerospace, automotive, and industrial sectors. We offer PPAP documentation, CMM inspection, and premium alloy capabilities. Call +91 7600066117."
             },
             {
                 "question": "How long does it take for forgings to reach Bangalore from Rajkot?",
@@ -5517,7 +5517,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "What is the minimum order quantity for Bangalore supply?",
-                "answer": "There is no strict minimum \u2014 we supply prototype quantities (3-10 pieces) through to bulk production runs. Small lots may carry a tooling or setup surcharge. Contact +91-9265772827 or sales@JK Forge.com with your drawing for an accurate quote."
+                "answer": "There is no strict minimum \u2014 we supply prototype quantities (3-10 pieces) through to bulk production runs. Small lots may carry a tooling or setup surcharge. Contact +91 7600066117 or sales@JK Forge.com with your drawing for an accurate quote."
             },
             {
                 "question": "Can you supply duplex stainless steel forgings to Bangalore's chemical plant builders?",
@@ -5525,7 +5525,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I get a forging quote for my Bangalore requirement?",
-                "answer": "Send your drawing (PDF, DXF, STEP, or IGES) to sales@JK Forge.com with quantity, material grade, and any special requirements. We reply with a detailed quote within 24 hours. Call +91-9265772827 for urgent queries."
+                "answer": "Send your drawing (PDF, DXF, STEP, or IGES) to sales@JK Forge.com with quantity, material grade, and any special requirements. We reply with a detailed quote within 24 hours. Call +91 7600066117 for urgent queries."
             }
         ]
     },
@@ -5877,7 +5877,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "Can you supply JCB-grade wear-resistant forgings for Jaipur's construction equipment sector?",
-                "answer": "Yes. We regularly produce construction-equipment wear forgings in EN24T, SAE 4340 and Hadfield Mn13 for bucket pins, link pins, boom end fittings and cylinder brackets. JCB-pattern components are available as catalogue items or as per customer drawing. Hardness test certificates (Brinell or Rockwell) and material test reports are included. Call +91-9265772827 to discuss your specific part requirements."
+                "answer": "Yes. We regularly produce construction-equipment wear forgings in EN24T, SAE 4340 and Hadfield Mn13 for bucket pins, link pins, boom end fittings and cylinder brackets. JCB-pattern components are available as catalogue items or as per customer drawing. Hardness test certificates (Brinell or Rockwell) and material test reports are included. Call +91 7600066117 to discuss your specific part requirements."
             },
             {
                 "question": "Is JK Forge a registered forging supplier in Rajasthan?",
@@ -5889,11 +5889,11 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "What is the minimum order quantity for forgings supplied to Jaipur?",
-                "answer": "MOQ depends on component size and complexity. For small forgings under 2 kg, MOQ is typically 100\u2013200 pieces per part number. For medium components (2\u201320 kg), 25\u201350 pieces. For large forgings above 20 kg, we accept orders from 5\u201310 pieces. Prototype and first-article quantities (5\u201310 pieces) are available at tooling-recovery pricing \u2014 call +91-9265772827 to discuss your specific volumes."
+                "answer": "MOQ depends on component size and complexity. For small forgings under 2 kg, MOQ is typically 100\u2013200 pieces per part number. For medium components (2\u201320 kg), 25\u201350 pieces. For large forgings above 20 kg, we accept orders from 5\u201310 pieces. Prototype and first-article quantities (5\u201310 pieces) are available at tooling-recovery pricing \u2014 call +91 7600066117 to discuss your specific volumes."
             },
             {
                 "question": "How do I get a forging quotation for my Jaipur plant?",
-                "answer": "Send your part drawing (PDF or DXF/DWG) with material specification, annual volume estimate and any special requirements (heat treatment, machining, surface treatment) to sales@JK Forge.com. We review the drawing for forgeability, confirm the appropriate material grade and heat treatment, and return a detailed quotation within 48\u201372 working hours. For urgent requirements, call +91-9265772827 directly."
+                "answer": "Send your part drawing (PDF or DXF/DWG) with material specification, annual volume estimate and any special requirements (heat treatment, machining, surface treatment) to sales@JK Forge.com. We review the drawing for forgeability, confirm the appropriate material grade and heat treatment, and return a detailed quotation within 48\u201372 working hours. For urgent requirements, call +91 7600066117 directly."
             }
         ]
     },
@@ -6013,7 +6013,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "Can you supply JCB-grade wear-resistant forgings for Jaipur's construction equipment sector?",
-                "answer": "Yes. We regularly produce construction-equipment wear forgings in EN24T, SAE 4340 and Hadfield Mn13 for bucket pins, link pins, boom end fittings and cylinder brackets. JCB-pattern components are available as catalogue items or as per customer drawing. Hardness test certificates (Brinell or Rockwell) and material test reports are included. Call +91-9265772827 to discuss your specific part requirements."
+                "answer": "Yes. We regularly produce construction-equipment wear forgings in EN24T, SAE 4340 and Hadfield Mn13 for bucket pins, link pins, boom end fittings and cylinder brackets. JCB-pattern components are available as catalogue items or as per customer drawing. Hardness test certificates (Brinell or Rockwell) and material test reports are included. Call +91 7600066117 to discuss your specific part requirements."
             },
             {
                 "question": "Is JK Forge a registered forging supplier in Rajasthan?",
@@ -6025,11 +6025,11 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "What is the minimum order quantity for forgings supplied to Jaipur?",
-                "answer": "MOQ depends on component size and complexity. For small forgings under 2 kg, MOQ is typically 100\u2013200 pieces per part number. For medium components (2\u201320 kg), 25\u201350 pieces. For large forgings above 20 kg, we accept orders from 5\u201310 pieces. Prototype and first-article quantities (5\u201310 pieces) are available at tooling-recovery pricing \u2014 call +91-9265772827 to discuss your specific volumes."
+                "answer": "MOQ depends on component size and complexity. For small forgings under 2 kg, MOQ is typically 100\u2013200 pieces per part number. For medium components (2\u201320 kg), 25\u201350 pieces. For large forgings above 20 kg, we accept orders from 5\u201310 pieces. Prototype and first-article quantities (5\u201310 pieces) are available at tooling-recovery pricing \u2014 call +91 7600066117 to discuss your specific volumes."
             },
             {
                 "question": "How do I get a forging quotation for my Jaipur plant?",
-                "answer": "Send your part drawing (PDF or DXF/DWG) with material specification, annual volume estimate and any special requirements (heat treatment, machining, surface treatment) to sales@JK Forge.com. We review the drawing for forgeability, confirm the appropriate material grade and heat treatment, and return a detailed quotation within 48\u201372 working hours. For urgent requirements, call +91-9265772827 directly."
+                "answer": "Send your part drawing (PDF or DXF/DWG) with material specification, annual volume estimate and any special requirements (heat treatment, machining, surface treatment) to sales@JK Forge.com. We review the drawing for forgeability, confirm the appropriate material grade and heat treatment, and return a detailed quotation within 48\u201372 working hours. For urgent requirements, call +91 7600066117 directly."
             }
         ]
     },
@@ -6055,7 +6055,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Georgia's Black Sea Trade Gateway and Industrial Base",
-        "description2": "JK Forge supplies certified forgings to Georgia \u2014 alloy and carbon steel forgings for mining and mineral processing equipment manufacturers, logistics and transit equipment builders, and general industrial machinery manufacturers serving Tbilisi and the broader Georgian economy. Material test certification, EN/GOST material grades, and CIF shipping to Poti or Batumi. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified forgings to Georgia \u2014 alloy and carbon steel forgings for mining and mineral processing equipment manufacturers, logistics and transit equipment builders, and general industrial machinery manufacturers serving Tbilisi and the broader Georgian economy. Material test certification, EN/GOST material grades, and CIF shipping to Poti or Batumi. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Construction & Building Materials Equipment",
@@ -6179,7 +6179,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Georgia's Black Sea Trade Gateway and Industrial Base",
-        "description2": "JK Forge supplies certified forgings to Georgia \u2014 alloy and carbon steel forgings for mining and mineral processing equipment manufacturers, logistics and transit equipment builders, and general industrial machinery manufacturers serving Tbilisi and the broader Georgian economy. Material test certification, EN/GOST material grades, and CIF shipping to Poti or Batumi. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified forgings to Georgia \u2014 alloy and carbon steel forgings for mining and mineral processing equipment manufacturers, logistics and transit equipment builders, and general industrial machinery manufacturers serving Tbilisi and the broader Georgian economy. Material test certification, EN/GOST material grades, and CIF shipping to Poti or Batumi. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Construction & Building Materials Equipment",
@@ -6303,7 +6303,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Birmingham's Steel Heritage and Alabama's Growing Automotive Base",
-        "description2": "JK Forge exports forged components to Birmingham, Alabama \u2014 alloy and carbon steel forgings for the region's steel and heavy industry manufacturers and the broader Alabama automotive component supply chain. Alloy steel grades, IATF 16949-aligned quality documentation, and CIF Gulf/Southeast logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Birmingham, Alabama \u2014 alloy and carbon steel forgings for the region's steel and heavy industry manufacturers and the broader Alabama automotive component supply chain. Alloy steel grades, IATF 16949-aligned quality documentation, and CIF Gulf/Southeast logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Automotive Component Manufacturing",
@@ -6427,7 +6427,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Birmingham's Steel Heritage and Alabama's Growing Automotive Base",
-        "description2": "JK Forge exports forged components to Birmingham, Alabama \u2014 alloy and carbon steel forgings for the region's steel and heavy industry manufacturers and the broader Alabama automotive component supply chain. Alloy steel grades, IATF 16949-aligned quality documentation, and CIF Gulf/Southeast logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Birmingham, Alabama \u2014 alloy and carbon steel forgings for the region's steel and heavy industry manufacturers and the broader Alabama automotive component supply chain. Alloy steel grades, IATF 16949-aligned quality documentation, and CIF Gulf/Southeast logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Automotive Component Manufacturing",
@@ -6551,7 +6551,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Mongolia's Coal, Copper & Mineral Mining Economy",
-        "description2": "JK Forge supplies certified forgings to Mongolia \u2014 alloy and carbon steel forgings for coal, copper, and mineral mining equipment manufacturers and general industrial machinery manufacturers serving Ulaanbaatar and Mongolia's mining regions. Material test certification, ASTM/EN/GOST material grades, and shipping via Chinese ports with onward rail transport. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified forgings to Mongolia \u2014 alloy and carbon steel forgings for coal, copper, and mineral mining equipment manufacturers and general industrial machinery manufacturers serving Ulaanbaatar and Mongolia's mining regions. Material test certification, ASTM/EN/GOST material grades, and shipping via Chinese ports with onward rail transport. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Copper & Mineral Mining Equipment Manufacturing",
@@ -6675,7 +6675,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Mongolia's Coal, Copper & Mineral Mining Economy",
-        "description2": "JK Forge supplies certified forgings to Mongolia \u2014 alloy and carbon steel forgings for coal, copper, and mineral mining equipment manufacturers and general industrial machinery manufacturers serving Ulaanbaatar and Mongolia's mining regions. Material test certification, ASTM/EN/GOST material grades, and shipping via Chinese ports with onward rail transport. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified forgings to Mongolia \u2014 alloy and carbon steel forgings for coal, copper, and mineral mining equipment manufacturers and general industrial machinery manufacturers serving Ulaanbaatar and Mongolia's mining regions. Material test certification, ASTM/EN/GOST material grades, and shipping via Chinese ports with onward rail transport. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Copper & Mineral Mining Equipment Manufacturing",
@@ -6799,7 +6799,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Cincinnati's Machine Tool, Aerospace & Industrial Manufacturing Base",
-        "description2": "JK Forge exports forged components to Cincinnati, Ohio \u2014 alloy steel forgings for the region's machine tool and industrial equipment manufacturers, aerospace component manufacturers, and broader Midwest industrial base. Alloy steel grades, full material certification, and CIF Midwest logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Cincinnati, Ohio \u2014 alloy steel forgings for the region's machine tool and industrial equipment manufacturers, aerospace component manufacturers, and broader Midwest industrial base. Alloy steel grades, full material certification, and CIF Midwest logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Aerospace Component Manufacturing",
@@ -6923,7 +6923,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Cincinnati's Machine Tool, Aerospace & Industrial Manufacturing Base",
-        "description2": "JK Forge exports forged components to Cincinnati, Ohio \u2014 alloy steel forgings for the region's machine tool and industrial equipment manufacturers, aerospace component manufacturers, and broader Midwest industrial base. Alloy steel grades, full material certification, and CIF Midwest logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Cincinnati, Ohio \u2014 alloy steel forgings for the region's machine tool and industrial equipment manufacturers, aerospace component manufacturers, and broader Midwest industrial base. Alloy steel grades, full material certification, and CIF Midwest logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Aerospace Component Manufacturing",
@@ -7047,7 +7047,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Chicago's Diversified Industrial Machinery and Logistics Base",
-        "description2": "JK Forge exports forged components to Chicago, Illinois \u2014 shaft, gear blank, and structural component forgings for the diversified industrial machinery manufacturers, rail equipment suppliers, and material handling OEMs concentrated across the Chicago metro area and broader Midwest. ASTM/SAE material grades and EN 10204 3.1/3.2 certification. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Chicago, Illinois \u2014 shaft, gear blank, and structural component forgings for the diversified industrial machinery manufacturers, rail equipment suppliers, and material handling OEMs concentrated across the Chicago metro area and broader Midwest. ASTM/SAE material grades and EN 10204 3.1/3.2 certification. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Rail Equipment Manufacturing & Maintenance",
@@ -7167,7 +7167,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Chicago's Diversified Industrial Machinery and Logistics Base",
-        "description2": "JK Forge exports forged components to Chicago, Illinois \u2014 shaft, gear blank, and structural component forgings for the diversified industrial machinery manufacturers, rail equipment suppliers, and material handling OEMs concentrated across the Chicago metro area and broader Midwest. ASTM/SAE material grades and EN 10204 3.1/3.2 certification. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Chicago, Illinois \u2014 shaft, gear blank, and structural component forgings for the diversified industrial machinery manufacturers, rail equipment suppliers, and material handling OEMs concentrated across the Chicago metro area and broader Midwest. ASTM/SAE material grades and EN 10204 3.1/3.2 certification. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Rail Equipment Manufacturing & Maintenance",
@@ -7287,7 +7287,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Birmingham, England \u2014 Heart of the English Industrial Heartland",
-        "description2": "JK Forge exports forged components to Birmingham, England (UK) \u2014 alloy and carbon steel forgings for the West Midlands manufacturing, automotive-adjacent, and general engineering base. Note: this page covers Birmingham, England, distinct from Birmingham, Alabama in the United States. EN 10204 certification, DIN/BS EN material grades, and CIF UK logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Birmingham, England (UK) \u2014 alloy and carbon steel forgings for the West Midlands manufacturing, automotive-adjacent, and general engineering base. Note: this page covers Birmingham, England, distinct from Birmingham, Alabama in the United States. EN 10204 certification, DIN/BS EN material grades, and CIF UK logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Automotive-Adjacent Component Manufacturing",
@@ -7411,7 +7411,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Birmingham, England \u2014 Heart of the English Industrial Heartland",
-        "description2": "JK Forge exports forged components to Birmingham, England (UK) \u2014 alloy and carbon steel forgings for the West Midlands manufacturing, automotive-adjacent, and general engineering base. Note: this page covers Birmingham, England, distinct from Birmingham, Alabama in the United States. EN 10204 certification, DIN/BS EN material grades, and CIF UK logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Birmingham, England (UK) \u2014 alloy and carbon steel forgings for the West Midlands manufacturing, automotive-adjacent, and general engineering base. Note: this page covers Birmingham, England, distinct from Birmingham, Alabama in the United States. EN 10204 certification, DIN/BS EN material grades, and CIF UK logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Automotive-Adjacent Component Manufacturing",
@@ -7999,7 +7999,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Jordan's Mining, Pharmaceutical Manufacturing & Levant Regional Trade Hub",
-        "description2": "JK Forge supplies certified precision forgings to Jordan \u2014 alloy and carbon steel equipment, structural, and general industrial forgings for the mining, processing, and manufacturing sectors concentrated around Amman, Zarqa, and the port city of Aqaba. ASTM material grades, EN 10204 3.1/3.2 certification, and CIF Aqaba shipping with road delivery across Jordan and the wider Levant region. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified precision forgings to Jordan \u2014 alloy and carbon steel equipment, structural, and general industrial forgings for the mining, processing, and manufacturing sectors concentrated around Amman, Zarqa, and the port city of Aqaba. ASTM material grades, EN 10204 3.1/3.2 certification, and CIF Aqaba shipping with road delivery across Jordan and the wider Levant region. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "General Engineering & Equipment Fabrication",
@@ -8123,7 +8123,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Jordan's Mining, Pharmaceutical Manufacturing & Levant Regional Trade Hub",
-        "description2": "JK Forge supplies certified precision forgings to Jordan \u2014 alloy and carbon steel equipment, structural, and general industrial forgings for the mining, processing, and manufacturing sectors concentrated around Amman, Zarqa, and the port city of Aqaba. ASTM material grades, EN 10204 3.1/3.2 certification, and CIF Aqaba shipping with road delivery across Jordan and the wider Levant region. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified precision forgings to Jordan \u2014 alloy and carbon steel equipment, structural, and general industrial forgings for the mining, processing, and manufacturing sectors concentrated around Amman, Zarqa, and the port city of Aqaba. ASTM material grades, EN 10204 3.1/3.2 certification, and CIF Aqaba shipping with road delivery across Jordan and the wider Levant region. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "General Engineering & Equipment Fabrication",
@@ -8247,7 +8247,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Ecuador's Oil Production, Agricultural Export Industry & Pacific Coast Trade Gateway",
-        "description2": "JK Forge supplies certified precision forgings to Ecuador \u2014 alloy and carbon steel oilfield, agricultural equipment, and general industrial forgings for the manufacturing and processing sectors concentrated around Guayaquil, Quito, and Ecuador's Pacific coast industrial base. ASTM material grades, EN 10204 3.1/3.2 certification, and CIF Guayaquil shipping with road delivery. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified precision forgings to Ecuador \u2014 alloy and carbon steel oilfield, agricultural equipment, and general industrial forgings for the manufacturing and processing sectors concentrated around Guayaquil, Quito, and Ecuador's Pacific coast industrial base. ASTM material grades, EN 10204 3.1/3.2 certification, and CIF Guayaquil shipping with road delivery. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Agricultural & Food Processing Equipment",
@@ -8371,7 +8371,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Ecuador's Oil Production, Agricultural Export Industry & Pacific Coast Trade Gateway",
-        "description2": "JK Forge supplies certified precision forgings to Ecuador \u2014 alloy and carbon steel oilfield, agricultural equipment, and general industrial forgings for the manufacturing and processing sectors concentrated around Guayaquil, Quito, and Ecuador's Pacific coast industrial base. ASTM material grades, EN 10204 3.1/3.2 certification, and CIF Guayaquil shipping with road delivery. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified precision forgings to Ecuador \u2014 alloy and carbon steel oilfield, agricultural equipment, and general industrial forgings for the manufacturing and processing sectors concentrated around Guayaquil, Quito, and Ecuador's Pacific coast industrial base. ASTM material grades, EN 10204 3.1/3.2 certification, and CIF Guayaquil shipping with road delivery. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Agricultural & Food Processing Equipment",
@@ -8967,7 +8967,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content India's Trusted Forging Exporter to Germany \u2014 Hamburg, Frankfurt, Munich, Stuttgart, Duisburg",
-        "description2": "JK Forge is India's leading forging exporter to Germany \u2014 shipping DIN EN 10204 3.1, PED 2014/68/EU CE-marked, and IATF 16949:2016-certified precision hot forgings from Rajkot (Gujarat) to Hamburg, Bremen, Rotterdam (Rhine barge to Duisburg), Frankfurt, Munich, Stuttgart, D\u00fcsseldorf, and Cologne. India-Germany bilateral trade: \u20ac30+ billion/year, with India exporting \u20ac12.6 billion to Germany \u2014 the largest single-country bilateral trade relationship for Germany outside Europe, USA, and China. Germany's EU MFN import duty on forged steel from India: 2.7% (HS 7326) or 0% (HS 7228 alloy steel bars/rods) \u2014 among the world's lowest tariffs for industrial forgings from non-FTA countries. CIF Hamburg 12\u201315 days from Mundra (world's fastest India-to-Germany sea route). DDP Stuttgart, DDP Munich, DDP Cologne, DDP Duisburg available via our Hamburg and Rotterdam freight forwarder partners (DHL Global Forwarding, Schenker/DB, Panalpina, Hapag-Lloyd). SWIFT USD/EUR payment, LC (Letter of Credit), or open account for qualified German customers. +91-9265772827.",
+        "description2": "JK Forge is India's leading forging exporter to Germany \u2014 shipping DIN EN 10204 3.1, PED 2014/68/EU CE-marked, and IATF 16949:2016-certified precision hot forgings from Rajkot (Gujarat) to Hamburg, Bremen, Rotterdam (Rhine barge to Duisburg), Frankfurt, Munich, Stuttgart, D\u00fcsseldorf, and Cologne. India-Germany bilateral trade: \u20ac30+ billion/year, with India exporting \u20ac12.6 billion to Germany \u2014 the largest single-country bilateral trade relationship for Germany outside Europe, USA, and China. Germany's EU MFN import duty on forged steel from India: 2.7% (HS 7326) or 0% (HS 7228 alloy steel bars/rods) \u2014 among the world's lowest tariffs for industrial forgings from non-FTA countries. CIF Hamburg 12\u201315 days from Mundra (world's fastest India-to-Germany sea route). DDP Stuttgart, DDP Munich, DDP Cologne, DDP Duisburg available via our Hamburg and Rotterdam freight forwarder partners (DHL Global Forwarding, Schenker/DB, Panalpina, Hapag-Lloyd). SWIFT USD/EUR payment, LC (Letter of Credit), or open account for qualified German customers. +91 7600066117.",
         "components": [
             {
                 "title": "DDP Germany \u2014 Delivered Duty Paid to German Plant",
@@ -9083,7 +9083,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content India's Trusted Forging Exporter to Germany \u2014 Hamburg, Frankfurt, Munich, Stuttgart, Duisburg",
-        "description2": "JK Forge is India's leading forging exporter to Germany \u2014 shipping DIN EN 10204 3.1, PED 2014/68/EU CE-marked, and IATF 16949:2016-certified precision hot forgings from Rajkot (Gujarat) to Hamburg, Bremen, Rotterdam (Rhine barge to Duisburg), Frankfurt, Munich, Stuttgart, D\u00fcsseldorf, and Cologne. India-Germany bilateral trade: \u20ac30+ billion/year, with India exporting \u20ac12.6 billion to Germany \u2014 the largest single-country bilateral trade relationship for Germany outside Europe, USA, and China. Germany's EU MFN import duty on forged steel from India: 2.7% (HS 7326) or 0% (HS 7228 alloy steel bars/rods) \u2014 among the world's lowest tariffs for industrial forgings from non-FTA countries. CIF Hamburg 12\u201315 days from Mundra (world's fastest India-to-Germany sea route). DDP Stuttgart, DDP Munich, DDP Cologne, DDP Duisburg available via our Hamburg and Rotterdam freight forwarder partners (DHL Global Forwarding, Schenker/DB, Panalpina, Hapag-Lloyd). SWIFT USD/EUR payment, LC (Letter of Credit), or open account for qualified German customers. +91-9265772827.",
+        "description2": "JK Forge is India's leading forging exporter to Germany \u2014 shipping DIN EN 10204 3.1, PED 2014/68/EU CE-marked, and IATF 16949:2016-certified precision hot forgings from Rajkot (Gujarat) to Hamburg, Bremen, Rotterdam (Rhine barge to Duisburg), Frankfurt, Munich, Stuttgart, D\u00fcsseldorf, and Cologne. India-Germany bilateral trade: \u20ac30+ billion/year, with India exporting \u20ac12.6 billion to Germany \u2014 the largest single-country bilateral trade relationship for Germany outside Europe, USA, and China. Germany's EU MFN import duty on forged steel from India: 2.7% (HS 7326) or 0% (HS 7228 alloy steel bars/rods) \u2014 among the world's lowest tariffs for industrial forgings from non-FTA countries. CIF Hamburg 12\u201315 days from Mundra (world's fastest India-to-Germany sea route). DDP Stuttgart, DDP Munich, DDP Cologne, DDP Duisburg available via our Hamburg and Rotterdam freight forwarder partners (DHL Global Forwarding, Schenker/DB, Panalpina, Hapag-Lloyd). SWIFT USD/EUR payment, LC (Letter of Credit), or open account for qualified German customers. +91 7600066117.",
         "components": [
             {
                 "title": "DDP Germany \u2014 Delivered Duty Paid to German Plant",
@@ -9751,7 +9751,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Cambodia's Garment Manufacturing & Mekong Trade Economy",
-        "description2": "JK Forge supplies forged steel components to Cambodia \u2014 alloy steel forgings for garment and footwear manufacturing machinery, general industrial equipment, and Mekong-region logistics applications, shipped directly to Sihanoukville port. JIS and ASTM material grades, full mill certification, and direct ocean freight logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies forged steel components to Cambodia \u2014 alloy steel forgings for garment and footwear manufacturing machinery, general industrial equipment, and Mekong-region logistics applications, shipped directly to Sihanoukville port. JIS and ASTM material grades, full mill certification, and direct ocean freight logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Electronics & Light Industrial Manufacturing",
@@ -9875,7 +9875,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Cambodia's Garment Manufacturing & Mekong Trade Economy",
-        "description2": "JK Forge supplies forged steel components to Cambodia \u2014 alloy steel forgings for garment and footwear manufacturing machinery, general industrial equipment, and Mekong-region logistics applications, shipped directly to Sihanoukville port. JIS and ASTM material grades, full mill certification, and direct ocean freight logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies forged steel components to Cambodia \u2014 alloy steel forgings for garment and footwear manufacturing machinery, general industrial equipment, and Mekong-region logistics applications, shipped directly to Sihanoukville port. JIS and ASTM material grades, full mill certification, and direct ocean freight logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Electronics & Light Industrial Manufacturing",
@@ -9999,7 +9999,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Bilbao's Steel, Shipbuilding & Heavy Industrial Base",
-        "description2": "JK Forge exports forged components to Bilbao, Spain \u2014 alloy and stainless steel flanges, fittings, and structural component forgings for the steelmaking, shipbuilding, port equipment, and heavy industrial base concentrated across the Basque Country. EN 10204 3.1/3.2 certification, DIN EN and UNE material grades, and CIF Bilbao shipping. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Bilbao, Spain \u2014 alloy and stainless steel flanges, fittings, and structural component forgings for the steelmaking, shipbuilding, port equipment, and heavy industrial base concentrated across the Basque Country. EN 10204 3.1/3.2 certification, DIN EN and UNE material grades, and CIF Bilbao shipping. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Shipbuilding & Marine Equipment Manufacturing",
@@ -10123,7 +10123,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Bilbao's Steel, Shipbuilding & Heavy Industrial Base",
-        "description2": "JK Forge exports forged components to Bilbao, Spain \u2014 alloy and stainless steel flanges, fittings, and structural component forgings for the steelmaking, shipbuilding, port equipment, and heavy industrial base concentrated across the Basque Country. EN 10204 3.1/3.2 certification, DIN EN and UNE material grades, and CIF Bilbao shipping. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Bilbao, Spain \u2014 alloy and stainless steel flanges, fittings, and structural component forgings for the steelmaking, shipbuilding, port equipment, and heavy industrial base concentrated across the Basque Country. EN 10204 3.1/3.2 certification, DIN EN and UNE material grades, and CIF Bilbao shipping. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Shipbuilding & Marine Equipment Manufacturing",
@@ -10247,7 +10247,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier to Cologne \u2014 Ford EV, DEUTZ Engines, Lanxess Chemicals, ChemPark Leverkusen",
-        "description2": "JK Forge exports IATF 16949:2016, DIN EN 10204 3.1, and PED 2014/68/EU-certified precision hot forgings to Cologne (K\u00f6ln) and the Rhine-Cologne corridor \u2014 supplying Ford Motor Company Cologne (Ford Werke GmbH \u2014 converting to EV: Explorer EV and Capri EV 2024 on VW MEB platform, 750,000 vehicles/year: EcoBoost crankshaft rough forgings in 42CrMo4 Q+T transitioning to e-motor shaft forgings and 18CrNiMo7-6 EV gearbox forgings), DEUTZ AG (K\u00f6ln \u2014 world's #5 industrial diesel engine OEM: TCD 6.1 and TCD 7.8 Euro Stage V crankshaft forgings in 42CrMo4 Q+T, connecting rod blanks in 36MnVS4 fracture-split, 200,000 engines/year for construction, agricultural, and marine equipment), Lanxess AG (Leverkusen, 15 km north \u2014 world's #2 chrome tanning chemicals, 450,000 t/year: NACE MR0175 pressure vessel nozzle forgings in SA182 F316L), Currenta GmbH (ChemPark Leverkusen \u2014 Bayer, BASF, INEOS chemical manufacturing park, 65,000 employees, 70 companies), and KHD Humboldt Wedag (Cologne \u2014 world's #2 cement plant equipment OEM: kiln tyre ring forgings in 42CrMo4 Q+T, OD up to 8,000mm). CIF Cologne via Duisburg Rhine barge 15\u201318 days. +91-9265772827.",
+        "description2": "JK Forge exports IATF 16949:2016, DIN EN 10204 3.1, and PED 2014/68/EU-certified precision hot forgings to Cologne (K\u00f6ln) and the Rhine-Cologne corridor \u2014 supplying Ford Motor Company Cologne (Ford Werke GmbH \u2014 converting to EV: Explorer EV and Capri EV 2024 on VW MEB platform, 750,000 vehicles/year: EcoBoost crankshaft rough forgings in 42CrMo4 Q+T transitioning to e-motor shaft forgings and 18CrNiMo7-6 EV gearbox forgings), DEUTZ AG (K\u00f6ln \u2014 world's #5 industrial diesel engine OEM: TCD 6.1 and TCD 7.8 Euro Stage V crankshaft forgings in 42CrMo4 Q+T, connecting rod blanks in 36MnVS4 fracture-split, 200,000 engines/year for construction, agricultural, and marine equipment), Lanxess AG (Leverkusen, 15 km north \u2014 world's #2 chrome tanning chemicals, 450,000 t/year: NACE MR0175 pressure vessel nozzle forgings in SA182 F316L), Currenta GmbH (ChemPark Leverkusen \u2014 Bayer, BASF, INEOS chemical manufacturing park, 65,000 employees, 70 companies), and KHD Humboldt Wedag (Cologne \u2014 world's #2 cement plant equipment OEM: kiln tyre ring forgings in 42CrMo4 Q+T, OD up to 8,000mm). CIF Cologne via Duisburg Rhine barge 15\u201318 days. +91 7600066117.",
         "components": [
             {
                 "title": "CIF Cologne via Duisburg Rhine Barge \u2014 15\u201318 Days",
@@ -10359,7 +10359,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier to Cologne \u2014 Ford EV, DEUTZ Engines, Lanxess Chemicals, ChemPark Leverkusen",
-        "description2": "JK Forge exports IATF 16949:2016, DIN EN 10204 3.1, and PED 2014/68/EU-certified precision hot forgings to Cologne (K\u00f6ln) and the Rhine-Cologne corridor \u2014 supplying Ford Motor Company Cologne (Ford Werke GmbH \u2014 converting to EV: Explorer EV and Capri EV 2024 on VW MEB platform, 750,000 vehicles/year: EcoBoost crankshaft rough forgings in 42CrMo4 Q+T transitioning to e-motor shaft forgings and 18CrNiMo7-6 EV gearbox forgings), DEUTZ AG (K\u00f6ln \u2014 world's #5 industrial diesel engine OEM: TCD 6.1 and TCD 7.8 Euro Stage V crankshaft forgings in 42CrMo4 Q+T, connecting rod blanks in 36MnVS4 fracture-split, 200,000 engines/year for construction, agricultural, and marine equipment), Lanxess AG (Leverkusen, 15 km north \u2014 world's #2 chrome tanning chemicals, 450,000 t/year: NACE MR0175 pressure vessel nozzle forgings in SA182 F316L), Currenta GmbH (ChemPark Leverkusen \u2014 Bayer, BASF, INEOS chemical manufacturing park, 65,000 employees, 70 companies), and KHD Humboldt Wedag (Cologne \u2014 world's #2 cement plant equipment OEM: kiln tyre ring forgings in 42CrMo4 Q+T, OD up to 8,000mm). CIF Cologne via Duisburg Rhine barge 15\u201318 days. +91-9265772827.",
+        "description2": "JK Forge exports IATF 16949:2016, DIN EN 10204 3.1, and PED 2014/68/EU-certified precision hot forgings to Cologne (K\u00f6ln) and the Rhine-Cologne corridor \u2014 supplying Ford Motor Company Cologne (Ford Werke GmbH \u2014 converting to EV: Explorer EV and Capri EV 2024 on VW MEB platform, 750,000 vehicles/year: EcoBoost crankshaft rough forgings in 42CrMo4 Q+T transitioning to e-motor shaft forgings and 18CrNiMo7-6 EV gearbox forgings), DEUTZ AG (K\u00f6ln \u2014 world's #5 industrial diesel engine OEM: TCD 6.1 and TCD 7.8 Euro Stage V crankshaft forgings in 42CrMo4 Q+T, connecting rod blanks in 36MnVS4 fracture-split, 200,000 engines/year for construction, agricultural, and marine equipment), Lanxess AG (Leverkusen, 15 km north \u2014 world's #2 chrome tanning chemicals, 450,000 t/year: NACE MR0175 pressure vessel nozzle forgings in SA182 F316L), Currenta GmbH (ChemPark Leverkusen \u2014 Bayer, BASF, INEOS chemical manufacturing park, 65,000 employees, 70 companies), and KHD Humboldt Wedag (Cologne \u2014 world's #2 cement plant equipment OEM: kiln tyre ring forgings in 42CrMo4 Q+T, OD up to 8,000mm). CIF Cologne via Duisburg Rhine barge 15\u201318 days. +91 7600066117.",
         "components": [
             {
                 "title": "CIF Cologne via Duisburg Rhine Barge \u2014 15\u201318 Days",
@@ -10471,7 +10471,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 the Dominican Republic's Free Trade Zone Manufacturing & Caribbean Export Economy",
-        "description2": "JK Forge supplies certified precision forgings to the Dominican Republic \u2014 alloy and carbon steel equipment, machinery, and general industrial forgings for the free trade zone manufacturing base and broader industrial economy concentrated around Santo Domingo and the country's other free zone manufacturing centers. ASTM material grades, EN 10204 3.1/3.2 certification, and CIF Caucedo shipping with road delivery. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified precision forgings to the Dominican Republic \u2014 alloy and carbon steel equipment, machinery, and general industrial forgings for the free trade zone manufacturing base and broader industrial economy concentrated around Santo Domingo and the country's other free zone manufacturing centers. ASTM material grades, EN 10204 3.1/3.2 certification, and CIF Caucedo shipping with road delivery. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Agricultural & Sugar Processing Equipment",
@@ -10595,7 +10595,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 the Dominican Republic's Free Trade Zone Manufacturing & Caribbean Export Economy",
-        "description2": "JK Forge supplies certified precision forgings to the Dominican Republic \u2014 alloy and carbon steel equipment, machinery, and general industrial forgings for the free trade zone manufacturing base and broader industrial economy concentrated around Santo Domingo and the country's other free zone manufacturing centers. ASTM material grades, EN 10204 3.1/3.2 certification, and CIF Caucedo shipping with road delivery. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified precision forgings to the Dominican Republic \u2014 alloy and carbon steel equipment, machinery, and general industrial forgings for the free trade zone manufacturing base and broader industrial economy concentrated around Santo Domingo and the country's other free zone manufacturing centers. ASTM material grades, EN 10204 3.1/3.2 certification, and CIF Caucedo shipping with road delivery. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Agricultural & Sugar Processing Equipment",
@@ -10719,7 +10719,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content IATF 16949 Automotive Forgings for Germany's Big Five OEMs \u2014 BMW, Mercedes-Benz, VW, Audi, Porsche",
-        "description2": "JK Forge is an IATF 16949:2016-certified automotive forging supplier serving Germany's Big Five automotive OEMs and their Tier-1 supplier network \u2014 BMW Group (Munich/Dingolfing \u2014 2.5 million vehicles/year \u2014 crankshaft rough forgings in 42CrMo4 Q+T for B47/B58/N20 engines, Steptronic transmission hub forgings in 18CrNiMo7-6), Mercedes-Benz AG (Stuttgart \u2014 OM654d 2.0L diesel crankshaft blanks in 42CrMo4, 9G-Tronic AT gearbox forgings in 18CrNiMo7-6), Volkswagen Group (Wolfsburg \u2014 EA888 2.0 TSI crankshaft, DSG gearbox fork forgings, 36MnVS4 connecting rod blanks), Audi AG (Ingolstadt \u2014 V6 TDI crankshaft rough forgings in 42CrMo4), and Porsche AG (Zuffenhausen \u2014 992 GT3 RS crankshaft forgings in EN34CrNiMo6 high-strength). German Tier-1 suppliers (ZF Friedrichshafen, Schaeffler, Continental, Bosch, MAHLE, Knorr-Bremse, BorgWarner Arnstadt) also served with PPAP Level 3, BMW SQA, VW Group Q1 documentation. CIF Hamburg/Stuttgart 12\u201315 days from Mundra. +91-9265772827.",
+        "description2": "JK Forge is an IATF 16949:2016-certified automotive forging supplier serving Germany's Big Five automotive OEMs and their Tier-1 supplier network \u2014 BMW Group (Munich/Dingolfing \u2014 2.5 million vehicles/year \u2014 crankshaft rough forgings in 42CrMo4 Q+T for B47/B58/N20 engines, Steptronic transmission hub forgings in 18CrNiMo7-6), Mercedes-Benz AG (Stuttgart \u2014 OM654d 2.0L diesel crankshaft blanks in 42CrMo4, 9G-Tronic AT gearbox forgings in 18CrNiMo7-6), Volkswagen Group (Wolfsburg \u2014 EA888 2.0 TSI crankshaft, DSG gearbox fork forgings, 36MnVS4 connecting rod blanks), Audi AG (Ingolstadt \u2014 V6 TDI crankshaft rough forgings in 42CrMo4), and Porsche AG (Zuffenhausen \u2014 992 GT3 RS crankshaft forgings in EN34CrNiMo6 high-strength). German Tier-1 suppliers (ZF Friedrichshafen, Schaeffler, Continental, Bosch, MAHLE, Knorr-Bremse, BorgWarner Arnstadt) also served with PPAP Level 3, BMW SQA, VW Group Q1 documentation. CIF Hamburg/Stuttgart 12\u201315 days from Mundra. +91 7600066117.",
         "components": [
             {
                 "title": "Factory Address",
@@ -10827,7 +10827,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content IATF 16949 Automotive Forgings for Germany's Big Five OEMs \u2014 BMW, Mercedes-Benz, VW, Audi, Porsche",
-        "description2": "JK Forge is an IATF 16949:2016-certified automotive forging supplier serving Germany's Big Five automotive OEMs and their Tier-1 supplier network \u2014 BMW Group (Munich/Dingolfing \u2014 2.5 million vehicles/year \u2014 crankshaft rough forgings in 42CrMo4 Q+T for B47/B58/N20 engines, Steptronic transmission hub forgings in 18CrNiMo7-6), Mercedes-Benz AG (Stuttgart \u2014 OM654d 2.0L diesel crankshaft blanks in 42CrMo4, 9G-Tronic AT gearbox forgings in 18CrNiMo7-6), Volkswagen Group (Wolfsburg \u2014 EA888 2.0 TSI crankshaft, DSG gearbox fork forgings, 36MnVS4 connecting rod blanks), Audi AG (Ingolstadt \u2014 V6 TDI crankshaft rough forgings in 42CrMo4), and Porsche AG (Zuffenhausen \u2014 992 GT3 RS crankshaft forgings in EN34CrNiMo6 high-strength). German Tier-1 suppliers (ZF Friedrichshafen, Schaeffler, Continental, Bosch, MAHLE, Knorr-Bremse, BorgWarner Arnstadt) also served with PPAP Level 3, BMW SQA, VW Group Q1 documentation. CIF Hamburg/Stuttgart 12\u201315 days from Mundra. +91-9265772827.",
+        "description2": "JK Forge is an IATF 16949:2016-certified automotive forging supplier serving Germany's Big Five automotive OEMs and their Tier-1 supplier network \u2014 BMW Group (Munich/Dingolfing \u2014 2.5 million vehicles/year \u2014 crankshaft rough forgings in 42CrMo4 Q+T for B47/B58/N20 engines, Steptronic transmission hub forgings in 18CrNiMo7-6), Mercedes-Benz AG (Stuttgart \u2014 OM654d 2.0L diesel crankshaft blanks in 42CrMo4, 9G-Tronic AT gearbox forgings in 18CrNiMo7-6), Volkswagen Group (Wolfsburg \u2014 EA888 2.0 TSI crankshaft, DSG gearbox fork forgings, 36MnVS4 connecting rod blanks), Audi AG (Ingolstadt \u2014 V6 TDI crankshaft rough forgings in 42CrMo4), and Porsche AG (Zuffenhausen \u2014 992 GT3 RS crankshaft forgings in EN34CrNiMo6 high-strength). German Tier-1 suppliers (ZF Friedrichshafen, Schaeffler, Continental, Bosch, MAHLE, Knorr-Bremse, BorgWarner Arnstadt) also served with PPAP Level 3, BMW SQA, VW Group Q1 documentation. CIF Hamburg/Stuttgart 12\u201315 days from Mundra. +91 7600066117.",
         "components": [
             {
                 "title": "Factory Address",
@@ -10935,7 +10935,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Myanmar's Agriculture, Natural Gas & Mining Economy",
-        "description2": "JK Forge supplies forged steel components to Myanmar \u2014 alloy and carbon steel forgings for agricultural equipment, natural gas field applications, and general industrial machinery, engineered for the operating conditions common across Myanmar's resource and agricultural sectors. ASTM material grades, full mill certification, and direct ocean freight to Yangon port. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies forged steel components to Myanmar \u2014 alloy and carbon steel forgings for agricultural equipment, natural gas field applications, and general industrial machinery, engineered for the operating conditions common across Myanmar's resource and agricultural sectors. ASTM material grades, full mill certification, and direct ocean freight to Yangon port. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Natural Gas Field Equipment",
@@ -11059,7 +11059,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Myanmar's Agriculture, Natural Gas & Mining Economy",
-        "description2": "JK Forge supplies forged steel components to Myanmar \u2014 alloy and carbon steel forgings for agricultural equipment, natural gas field applications, and general industrial machinery, engineered for the operating conditions common across Myanmar's resource and agricultural sectors. ASTM material grades, full mill certification, and direct ocean freight to Yangon port. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies forged steel components to Myanmar \u2014 alloy and carbon steel forgings for agricultural equipment, natural gas field applications, and general industrial machinery, engineered for the operating conditions common across Myanmar's resource and agricultural sectors. ASTM material grades, full mill certification, and direct ocean freight to Yangon port. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Natural Gas Field Equipment",
@@ -11183,7 +11183,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Milwaukee's Industrial Machinery and Equipment Manufacturing Base",
-        "description2": "JK Forge exports forged components to Milwaukee, Wisconsin \u2014 alloy steel shaft, gear blank, and structural component forgings for the heavy equipment, power tool, and industrial controls manufacturers that anchor the region's long-standing machinery manufacturing base. ASTM/SAE material grades and EN 10204 3.1/3.2 certification. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Milwaukee, Wisconsin \u2014 alloy steel shaft, gear blank, and structural component forgings for the heavy equipment, power tool, and industrial controls manufacturers that anchor the region's long-standing machinery manufacturing base. ASTM/SAE material grades and EN 10204 3.1/3.2 certification. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Engine & Power Equipment Manufacturing",
@@ -11307,7 +11307,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Milwaukee's Industrial Machinery and Equipment Manufacturing Base",
-        "description2": "JK Forge exports forged components to Milwaukee, Wisconsin \u2014 alloy steel shaft, gear blank, and structural component forgings for the heavy equipment, power tool, and industrial controls manufacturers that anchor the region's long-standing machinery manufacturing base. ASTM/SAE material grades and EN 10204 3.1/3.2 certification. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Milwaukee, Wisconsin \u2014 alloy steel shaft, gear blank, and structural component forgings for the heavy equipment, power tool, and industrial controls manufacturers that anchor the region's long-standing machinery manufacturing base. ASTM/SAE material grades and EN 10204 3.1/3.2 certification. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Engine & Power Equipment Manufacturing",
@@ -11911,7 +11911,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Mauritius's Textile, Logistics & East Africa Trade Hub",
-        "description2": "JK Forge supplies forged steel components to Mauritius \u2014 alloy and stainless steel forgings for textile and apparel manufacturing machinery, port and marine equipment, and general industrial applications, backed by preferential trade terms under the India-Mauritius CECPA agreement. ISO and ASTM material grades, full mill certification, and direct ocean freight from Indian ports. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies forged steel components to Mauritius \u2014 alloy and stainless steel forgings for textile and apparel manufacturing machinery, port and marine equipment, and general industrial applications, backed by preferential trade terms under the India-Mauritius CECPA agreement. ISO and ASTM material grades, full mill certification, and direct ocean freight from Indian ports. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Port, Marine & Freeport Equipment",
@@ -12035,7 +12035,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Mauritius's Textile, Logistics & East Africa Trade Hub",
-        "description2": "JK Forge supplies forged steel components to Mauritius \u2014 alloy and stainless steel forgings for textile and apparel manufacturing machinery, port and marine equipment, and general industrial applications, backed by preferential trade terms under the India-Mauritius CECPA agreement. ISO and ASTM material grades, full mill certification, and direct ocean freight from Indian ports. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies forged steel components to Mauritius \u2014 alloy and stainless steel forgings for textile and apparel manufacturing machinery, port and marine equipment, and general industrial applications, backed by preferential trade terms under the India-Mauritius CECPA agreement. ISO and ASTM material grades, full mill certification, and direct ocean freight from Indian ports. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Port, Marine & Freeport Equipment",
@@ -12159,7 +12159,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Katowice & Upper Silesia's Coal, Steel & Heavy Industrial Base",
-        "description2": "JK Forge exports forged components to Katowice, Poland \u2014 alloy steel structural, mining equipment, and machine building forgings for the coal, steel, and heavy manufacturing industries concentrated across Upper Silesia. DIN EN and PN material grades, EN 10204 3.1/3.2 certification, and CIF Gdansk shipping with onward road/rail delivery. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Katowice, Poland \u2014 alloy steel structural, mining equipment, and machine building forgings for the coal, steel, and heavy manufacturing industries concentrated across Upper Silesia. DIN EN and PN material grades, EN 10204 3.1/3.2 certification, and CIF Gdansk shipping with onward road/rail delivery. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Steel Production & Machine Building",
@@ -12283,7 +12283,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Katowice & Upper Silesia's Coal, Steel & Heavy Industrial Base",
-        "description2": "JK Forge exports forged components to Katowice, Poland \u2014 alloy steel structural, mining equipment, and machine building forgings for the coal, steel, and heavy manufacturing industries concentrated across Upper Silesia. DIN EN and PN material grades, EN 10204 3.1/3.2 certification, and CIF Gdansk shipping with onward road/rail delivery. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Katowice, Poland \u2014 alloy steel structural, mining equipment, and machine building forgings for the coal, steel, and heavy manufacturing industries concentrated across Upper Silesia. DIN EN and PN material grades, EN 10204 3.1/3.2 certification, and CIF Gdansk shipping with onward road/rail delivery. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Steel Production & Machine Building",
@@ -12679,7 +12679,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Adelaide \u2014 South Australia's Manufacturing & Defence-Adjacent Base",
-        "description2": "JK Forge exports forged components to Adelaide, South Australia \u2014 alloy steel forgings for the region's general manufacturing, defence-adjacent engineering, and industrial equipment base. Alloy steel grades, mill test certification, and CIF South Australia logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Adelaide, South Australia \u2014 alloy steel forgings for the region's general manufacturing, defence-adjacent engineering, and industrial equipment base. Alloy steel grades, mill test certification, and CIF South Australia logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "General Engineering & Machinery Manufacturing",
@@ -12803,7 +12803,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Adelaide \u2014 South Australia's Manufacturing & Defence-Adjacent Base",
-        "description2": "JK Forge exports forged components to Adelaide, South Australia \u2014 alloy steel forgings for the region's general manufacturing, defence-adjacent engineering, and industrial equipment base. Alloy steel grades, mill test certification, and CIF South Australia logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Adelaide, South Australia \u2014 alloy steel forgings for the region's general manufacturing, defence-adjacent engineering, and industrial equipment base. Alloy steel grades, mill test certification, and CIF South Australia logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "General Engineering & Machinery Manufacturing",
@@ -12927,7 +12927,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Nashville's Growing Automotive & Logistics Manufacturing Corridor",
-        "description2": "JK Forge exports forged components to Nashville, Tennessee \u2014 alloy steel automotive, driveline, and general manufacturing component forgings for the growing automotive and industrial base concentrated across Middle Tennessee. SAE/AISI material grades, IATF 16949-aligned documentation, and CIF Southeast US logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Nashville, Tennessee \u2014 alloy steel automotive, driveline, and general manufacturing component forgings for the growing automotive and industrial base concentrated across Middle Tennessee. SAE/AISI material grades, IATF 16949-aligned documentation, and CIF Southeast US logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Driveline & Powertrain Component Manufacturing",
@@ -13051,7 +13051,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Nashville's Growing Automotive & Logistics Manufacturing Corridor",
-        "description2": "JK Forge exports forged components to Nashville, Tennessee \u2014 alloy steel automotive, driveline, and general manufacturing component forgings for the growing automotive and industrial base concentrated across Middle Tennessee. SAE/AISI material grades, IATF 16949-aligned documentation, and CIF Southeast US logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Nashville, Tennessee \u2014 alloy steel automotive, driveline, and general manufacturing component forgings for the growing automotive and industrial base concentrated across Middle Tennessee. SAE/AISI material grades, IATF 16949-aligned documentation, and CIF Southeast US logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Driveline & Powertrain Component Manufacturing",
@@ -13175,7 +13175,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Precision Hot Forgings for Nashik's Automotive, Engineering & Defense Manufacturing Base",
-        "description2": "JK Forge supplies precision hot forgings to Nashik, Maharashtra \u2014 alloy steel, carbon steel, and stainless steel forgings for the automotive component, general engineering, and defense and aerospace-adjacent manufacturing base concentrated across this major Maharashtra industrial city. Multimodal road and rail dispatch from our Shapar GIDC facility in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies precision hot forgings to Nashik, Maharashtra \u2014 alloy steel, carbon steel, and stainless steel forgings for the automotive component, general engineering, and defense and aerospace-adjacent manufacturing base concentrated across this major Maharashtra industrial city. Multimodal road and rail dispatch from our Shapar GIDC facility in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Defense & Precision Engineering Manufacturing",
@@ -13273,7 +13273,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I get a quote for delivery to Nashik?",
-                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91-9265772827. We respond with a price and lead time, and confirm the most cost-effective freight option for your consignment size."
+                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91 7600066117. We respond with a price and lead time, and confirm the most cost-effective freight option for your consignment size."
             }
         ]
     },
@@ -13299,7 +13299,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Precision Hot Forgings for Nashik's Automotive, Engineering & Defense Manufacturing Base",
-        "description2": "JK Forge supplies precision hot forgings to Nashik, Maharashtra \u2014 alloy steel, carbon steel, and stainless steel forgings for the automotive component, general engineering, and defense and aerospace-adjacent manufacturing base concentrated across this major Maharashtra industrial city. Multimodal road and rail dispatch from our Shapar GIDC facility in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies precision hot forgings to Nashik, Maharashtra \u2014 alloy steel, carbon steel, and stainless steel forgings for the automotive component, general engineering, and defense and aerospace-adjacent manufacturing base concentrated across this major Maharashtra industrial city. Multimodal road and rail dispatch from our Shapar GIDC facility in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Defense & Precision Engineering Manufacturing",
@@ -13397,7 +13397,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I get a quote for delivery to Nashik?",
-                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91-9265772827. We respond with a price and lead time, and confirm the most cost-effective freight option for your consignment size."
+                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91 7600066117. We respond with a price and lead time, and confirm the most cost-effective freight option for your consignment size."
             }
         ]
     },
@@ -13423,7 +13423,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier to Europe via Germany \u2014 EU Supply Chain, VDMA, PED CE, EN 10204 3.1",
-        "description2": "JK Forge is a certified Indian forging supplier to Europe through Germany \u2014 serving EU-wide industrial procurement via Germany's distribution infrastructure. Germany as EU industrial hub: Frankfurt/Duisburg multimodal distribution centres (Rhine barge, DB Cargo, European road freight) give Hamburg-arrival forgings access to France, Netherlands, Belgium, Austria, Poland, Czech Republic, Italy, and Spain within 24\u201348 hours of clearing German customs. Germany's VDMA (Verband Deutscher Maschinen- und Anlagenbau \u2014 German Engineering Federation: 3,500 member companies, \u20ac230 billion industry revenue, the world's largest mechanical engineering trade association) members source components from India for integration into German-manufactured machinery exported to 190 countries globally. PED 2014/68/EU CE marking (T\u00dcV Rheinland NB 0035 \u2014 valid across all 27 EU member states + Norway + Iceland + Liechtenstein), EN 10204 3.1/3.2 material certificates (recognized across EU + UK [via UKCA mutual recognition] + Switzerland + Turkey + most G20 countries), DIN EN 10083-3, DIN EN 10025, EN 13445 pressure vessel code. IATF 16949:2016 for pan-European automotive supply chains (German OEM plants in Slovakia [VW], Czech Republic [\u0160koda], Hungary [Audi, BMW], Romania [Dacia], Spain [SEAT/CUPRA, Ford Valencia], France [Peugeot, Renault, Stellantis]). CIF Hamburg 12\u201315 days from Mundra. +91-9265772827.",
+        "description2": "JK Forge is a certified Indian forging supplier to Europe through Germany \u2014 serving EU-wide industrial procurement via Germany's distribution infrastructure. Germany as EU industrial hub: Frankfurt/Duisburg multimodal distribution centres (Rhine barge, DB Cargo, European road freight) give Hamburg-arrival forgings access to France, Netherlands, Belgium, Austria, Poland, Czech Republic, Italy, and Spain within 24\u201348 hours of clearing German customs. Germany's VDMA (Verband Deutscher Maschinen- und Anlagenbau \u2014 German Engineering Federation: 3,500 member companies, \u20ac230 billion industry revenue, the world's largest mechanical engineering trade association) members source components from India for integration into German-manufactured machinery exported to 190 countries globally. PED 2014/68/EU CE marking (T\u00dcV Rheinland NB 0035 \u2014 valid across all 27 EU member states + Norway + Iceland + Liechtenstein), EN 10204 3.1/3.2 material certificates (recognized across EU + UK [via UKCA mutual recognition] + Switzerland + Turkey + most G20 countries), DIN EN 10083-3, DIN EN 10025, EN 13445 pressure vessel code. IATF 16949:2016 for pan-European automotive supply chains (German OEM plants in Slovakia [VW], Czech Republic [\u0160koda], Hungary [Audi, BMW], Romania [Dacia], Spain [SEAT/CUPRA, Ford Valencia], France [Peugeot, Renault, Stellantis]). CIF Hamburg 12\u201315 days from Mundra. +91 7600066117.",
         "components": [
             {
                 "title": "Factory Address",
@@ -13531,7 +13531,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier to Europe via Germany \u2014 EU Supply Chain, VDMA, PED CE, EN 10204 3.1",
-        "description2": "JK Forge is a certified Indian forging supplier to Europe through Germany \u2014 serving EU-wide industrial procurement via Germany's distribution infrastructure. Germany as EU industrial hub: Frankfurt/Duisburg multimodal distribution centres (Rhine barge, DB Cargo, European road freight) give Hamburg-arrival forgings access to France, Netherlands, Belgium, Austria, Poland, Czech Republic, Italy, and Spain within 24\u201348 hours of clearing German customs. Germany's VDMA (Verband Deutscher Maschinen- und Anlagenbau \u2014 German Engineering Federation: 3,500 member companies, \u20ac230 billion industry revenue, the world's largest mechanical engineering trade association) members source components from India for integration into German-manufactured machinery exported to 190 countries globally. PED 2014/68/EU CE marking (T\u00dcV Rheinland NB 0035 \u2014 valid across all 27 EU member states + Norway + Iceland + Liechtenstein), EN 10204 3.1/3.2 material certificates (recognized across EU + UK [via UKCA mutual recognition] + Switzerland + Turkey + most G20 countries), DIN EN 10083-3, DIN EN 10025, EN 13445 pressure vessel code. IATF 16949:2016 for pan-European automotive supply chains (German OEM plants in Slovakia [VW], Czech Republic [\u0160koda], Hungary [Audi, BMW], Romania [Dacia], Spain [SEAT/CUPRA, Ford Valencia], France [Peugeot, Renault, Stellantis]). CIF Hamburg 12\u201315 days from Mundra. +91-9265772827.",
+        "description2": "JK Forge is a certified Indian forging supplier to Europe through Germany \u2014 serving EU-wide industrial procurement via Germany's distribution infrastructure. Germany as EU industrial hub: Frankfurt/Duisburg multimodal distribution centres (Rhine barge, DB Cargo, European road freight) give Hamburg-arrival forgings access to France, Netherlands, Belgium, Austria, Poland, Czech Republic, Italy, and Spain within 24\u201348 hours of clearing German customs. Germany's VDMA (Verband Deutscher Maschinen- und Anlagenbau \u2014 German Engineering Federation: 3,500 member companies, \u20ac230 billion industry revenue, the world's largest mechanical engineering trade association) members source components from India for integration into German-manufactured machinery exported to 190 countries globally. PED 2014/68/EU CE marking (T\u00dcV Rheinland NB 0035 \u2014 valid across all 27 EU member states + Norway + Iceland + Liechtenstein), EN 10204 3.1/3.2 material certificates (recognized across EU + UK [via UKCA mutual recognition] + Switzerland + Turkey + most G20 countries), DIN EN 10083-3, DIN EN 10025, EN 13445 pressure vessel code. IATF 16949:2016 for pan-European automotive supply chains (German OEM plants in Slovakia [VW], Czech Republic [\u0160koda], Hungary [Audi, BMW], Romania [Dacia], Spain [SEAT/CUPRA, Ford Valencia], France [Peugeot, Renault, Stellantis]). CIF Hamburg 12\u201315 days from Mundra. +91 7600066117.",
         "components": [
             {
                 "title": "Factory Address",
@@ -13639,7 +13639,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier to Hamburg \u2014 Germany's Gateway Port, Airbus Assembly, Aurubis Copper",
-        "description2": "JK Forge exports AS9100 Rev D, DIN EN 10204 3.1, and DNV GL-certified precision hot forgings to Hamburg \u2014 supplying Airbus Hamburg Finkenwerder (world's #1 A320neo/A321neo final assembly site, 60% of all Airbus narrow-bodies: Ti-6Al-4V AMS 4928 structural bracket forgings, 15-5 PH AMS 5659 H900 door hinge forgings, 4340 VAR AMS 6265 pylon lug forgings \u2014 AS9100 Rev D, NADCAP), Aurubis AG Hamburg (world's #1 copper recycler and Europe's #1 copper producer \u2014 1 MTPA copper cathode: copper anode furnace shaft forgings in 42CrMo4 Q+T, cast wheel bearing forgings, converter tuyere nozzle forging sleeves), MAN Energy Solutions Hamburg (MAN B&W 2-stroke marine diesel engines powering 55% of world's merchant fleet: engine tie bolt forgings in 34CrNiMo6, camshaft segment forgings in 50CrMo4 hardened, exhaust valve spindle blanks in Nimonic 80A), and Blohm+Voss Hamburg (naval frigate hull and propulsion system forgings \u2014 submarine propeller shaft forgings in Aquamet 22, rudder stock forgings in A694 F65). CIF Hamburg 12\u201315 days from Mundra \u2014 Hamburg is India's closest major European port. +91-9265772827.",
+        "description2": "JK Forge exports AS9100 Rev D, DIN EN 10204 3.1, and DNV GL-certified precision hot forgings to Hamburg \u2014 supplying Airbus Hamburg Finkenwerder (world's #1 A320neo/A321neo final assembly site, 60% of all Airbus narrow-bodies: Ti-6Al-4V AMS 4928 structural bracket forgings, 15-5 PH AMS 5659 H900 door hinge forgings, 4340 VAR AMS 6265 pylon lug forgings \u2014 AS9100 Rev D, NADCAP), Aurubis AG Hamburg (world's #1 copper recycler and Europe's #1 copper producer \u2014 1 MTPA copper cathode: copper anode furnace shaft forgings in 42CrMo4 Q+T, cast wheel bearing forgings, converter tuyere nozzle forging sleeves), MAN Energy Solutions Hamburg (MAN B&W 2-stroke marine diesel engines powering 55% of world's merchant fleet: engine tie bolt forgings in 34CrNiMo6, camshaft segment forgings in 50CrMo4 hardened, exhaust valve spindle blanks in Nimonic 80A), and Blohm+Voss Hamburg (naval frigate hull and propulsion system forgings \u2014 submarine propeller shaft forgings in Aquamet 22, rudder stock forgings in A694 F65). CIF Hamburg 12\u201315 days from Mundra \u2014 Hamburg is India's closest major European port. +91 7600066117.",
         "components": [
             {
                 "title": "Factory Address",
@@ -13747,7 +13747,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier to Hamburg \u2014 Germany's Gateway Port, Airbus Assembly, Aurubis Copper",
-        "description2": "JK Forge exports AS9100 Rev D, DIN EN 10204 3.1, and DNV GL-certified precision hot forgings to Hamburg \u2014 supplying Airbus Hamburg Finkenwerder (world's #1 A320neo/A321neo final assembly site, 60% of all Airbus narrow-bodies: Ti-6Al-4V AMS 4928 structural bracket forgings, 15-5 PH AMS 5659 H900 door hinge forgings, 4340 VAR AMS 6265 pylon lug forgings \u2014 AS9100 Rev D, NADCAP), Aurubis AG Hamburg (world's #1 copper recycler and Europe's #1 copper producer \u2014 1 MTPA copper cathode: copper anode furnace shaft forgings in 42CrMo4 Q+T, cast wheel bearing forgings, converter tuyere nozzle forging sleeves), MAN Energy Solutions Hamburg (MAN B&W 2-stroke marine diesel engines powering 55% of world's merchant fleet: engine tie bolt forgings in 34CrNiMo6, camshaft segment forgings in 50CrMo4 hardened, exhaust valve spindle blanks in Nimonic 80A), and Blohm+Voss Hamburg (naval frigate hull and propulsion system forgings \u2014 submarine propeller shaft forgings in Aquamet 22, rudder stock forgings in A694 F65). CIF Hamburg 12\u201315 days from Mundra \u2014 Hamburg is India's closest major European port. +91-9265772827.",
+        "description2": "JK Forge exports AS9100 Rev D, DIN EN 10204 3.1, and DNV GL-certified precision hot forgings to Hamburg \u2014 supplying Airbus Hamburg Finkenwerder (world's #1 A320neo/A321neo final assembly site, 60% of all Airbus narrow-bodies: Ti-6Al-4V AMS 4928 structural bracket forgings, 15-5 PH AMS 5659 H900 door hinge forgings, 4340 VAR AMS 6265 pylon lug forgings \u2014 AS9100 Rev D, NADCAP), Aurubis AG Hamburg (world's #1 copper recycler and Europe's #1 copper producer \u2014 1 MTPA copper cathode: copper anode furnace shaft forgings in 42CrMo4 Q+T, cast wheel bearing forgings, converter tuyere nozzle forging sleeves), MAN Energy Solutions Hamburg (MAN B&W 2-stroke marine diesel engines powering 55% of world's merchant fleet: engine tie bolt forgings in 34CrNiMo6, camshaft segment forgings in 50CrMo4 hardened, exhaust valve spindle blanks in Nimonic 80A), and Blohm+Voss Hamburg (naval frigate hull and propulsion system forgings \u2014 submarine propeller shaft forgings in Aquamet 22, rudder stock forgings in A694 F65). CIF Hamburg 12\u201315 days from Mundra \u2014 Hamburg is India's closest major European port. +91 7600066117.",
         "components": [
             {
                 "title": "Factory Address",
@@ -13855,7 +13855,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Germany, World's #3 Largest Economy and Europe's Industrial Powerhouse",
-        "description2": "JK Forge exports DIN EN 10204 3.1, PED 2014/68/EU, and IATF 16949:2016-certified precision hot forgings to Germany \u2014 supplying BASF SE (Ludwigshafen \u2014 world's largest chemical plant, 100 km\u00b2, 200+ chemical plants on one site, 400,000 t/year ammonia), Thyssenkrupp Steel Europe (Duisburg \u2014 Germany's largest steelmaker, 11 MTPA, BOF trunnion ring forgings in 42CrMo4 Q+T), BMW Group (Munich \u2014 2.5 million vehicles/year, IATF 16949 crankshaft and transmission forgings in 42CrMo4 and 18CrNiMo7-6), Siemens Energy (Erlangen \u2014 world's #2 gas turbine OEM, H-class turbine disk forgings in IN706), Volkswagen Group (Wolfsburg \u2014 8.3 million vehicles/year \u2014 world's #2 automaker), Airbus Deutschland (Hamburg \u2014 A320/A350 fuselage sections), and Leybold (world's #1 vacuum pump OEM). DIN EN 10083-3, DIN EN 10025, EN 10204 3.1/3.2, PED 2014/68/EU, T\u00dcV Rheinland NB 0035. CIF Hamburg/Bremen/Rotterdam 12\u201315 days from Mundra. Call +91-9265772827.",
+        "description2": "JK Forge exports DIN EN 10204 3.1, PED 2014/68/EU, and IATF 16949:2016-certified precision hot forgings to Germany \u2014 supplying BASF SE (Ludwigshafen \u2014 world's largest chemical plant, 100 km\u00b2, 200+ chemical plants on one site, 400,000 t/year ammonia), Thyssenkrupp Steel Europe (Duisburg \u2014 Germany's largest steelmaker, 11 MTPA, BOF trunnion ring forgings in 42CrMo4 Q+T), BMW Group (Munich \u2014 2.5 million vehicles/year, IATF 16949 crankshaft and transmission forgings in 42CrMo4 and 18CrNiMo7-6), Siemens Energy (Erlangen \u2014 world's #2 gas turbine OEM, H-class turbine disk forgings in IN706), Volkswagen Group (Wolfsburg \u2014 8.3 million vehicles/year \u2014 world's #2 automaker), Airbus Deutschland (Hamburg \u2014 A320/A350 fuselage sections), and Leybold (world's #1 vacuum pump OEM). DIN EN 10083-3, DIN EN 10025, EN 10204 3.1/3.2, PED 2014/68/EU, T\u00dcV Rheinland NB 0035. CIF Hamburg/Bremen/Rotterdam 12\u201315 days from Mundra. Call +91 7600066117.",
         "components": [
             {
                 "title": "Factory Address",
@@ -13963,7 +13963,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Germany, World's #3 Largest Economy and Europe's Industrial Powerhouse",
-        "description2": "JK Forge exports DIN EN 10204 3.1, PED 2014/68/EU, and IATF 16949:2016-certified precision hot forgings to Germany \u2014 supplying BASF SE (Ludwigshafen \u2014 world's largest chemical plant, 100 km\u00b2, 200+ chemical plants on one site, 400,000 t/year ammonia), Thyssenkrupp Steel Europe (Duisburg \u2014 Germany's largest steelmaker, 11 MTPA, BOF trunnion ring forgings in 42CrMo4 Q+T), BMW Group (Munich \u2014 2.5 million vehicles/year, IATF 16949 crankshaft and transmission forgings in 42CrMo4 and 18CrNiMo7-6), Siemens Energy (Erlangen \u2014 world's #2 gas turbine OEM, H-class turbine disk forgings in IN706), Volkswagen Group (Wolfsburg \u2014 8.3 million vehicles/year \u2014 world's #2 automaker), Airbus Deutschland (Hamburg \u2014 A320/A350 fuselage sections), and Leybold (world's #1 vacuum pump OEM). DIN EN 10083-3, DIN EN 10025, EN 10204 3.1/3.2, PED 2014/68/EU, T\u00dcV Rheinland NB 0035. CIF Hamburg/Bremen/Rotterdam 12\u201315 days from Mundra. Call +91-9265772827.",
+        "description2": "JK Forge exports DIN EN 10204 3.1, PED 2014/68/EU, and IATF 16949:2016-certified precision hot forgings to Germany \u2014 supplying BASF SE (Ludwigshafen \u2014 world's largest chemical plant, 100 km\u00b2, 200+ chemical plants on one site, 400,000 t/year ammonia), Thyssenkrupp Steel Europe (Duisburg \u2014 Germany's largest steelmaker, 11 MTPA, BOF trunnion ring forgings in 42CrMo4 Q+T), BMW Group (Munich \u2014 2.5 million vehicles/year, IATF 16949 crankshaft and transmission forgings in 42CrMo4 and 18CrNiMo7-6), Siemens Energy (Erlangen \u2014 world's #2 gas turbine OEM, H-class turbine disk forgings in IN706), Volkswagen Group (Wolfsburg \u2014 8.3 million vehicles/year \u2014 world's #2 automaker), Airbus Deutschland (Hamburg \u2014 A320/A350 fuselage sections), and Leybold (world's #1 vacuum pump OEM). DIN EN 10083-3, DIN EN 10025, EN 10204 3.1/3.2, PED 2014/68/EU, T\u00dcV Rheinland NB 0035. CIF Hamburg/Bremen/Rotterdam 12\u201315 days from Mundra. Call +91 7600066117.",
         "components": [
             {
                 "title": "Factory Address",
@@ -14071,7 +14071,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Iceland's Aluminum Smelting and Fishing Industry Equipment Base",
-        "description2": "JK Forge supplies certified forgings to Iceland \u2014 alloy and stainless steel forgings for aluminum smelting plant equipment manufacturers, fishing fleet and marine equipment manufacturers, and general industrial machinery manufacturers serving Reykjavik and the broader Icelandic economy. Material test certification, EN material grades, and CIF shipping to Reykjavik. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified forgings to Iceland \u2014 alloy and stainless steel forgings for aluminum smelting plant equipment manufacturers, fishing fleet and marine equipment manufacturers, and general industrial machinery manufacturers serving Reykjavik and the broader Icelandic economy. Material test certification, EN material grades, and CIF shipping to Reykjavik. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Fishing Fleet & Marine Equipment Manufacturing",
@@ -14195,7 +14195,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Iceland's Aluminum Smelting and Fishing Industry Equipment Base",
-        "description2": "JK Forge supplies certified forgings to Iceland \u2014 alloy and stainless steel forgings for aluminum smelting plant equipment manufacturers, fishing fleet and marine equipment manufacturers, and general industrial machinery manufacturers serving Reykjavik and the broader Icelandic economy. Material test certification, EN material grades, and CIF shipping to Reykjavik. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified forgings to Iceland \u2014 alloy and stainless steel forgings for aluminum smelting plant equipment manufacturers, fishing fleet and marine equipment manufacturers, and general industrial machinery manufacturers serving Reykjavik and the broader Icelandic economy. Material test certification, EN material grades, and CIF shipping to Reykjavik. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Fishing Fleet & Marine Equipment Manufacturing",
@@ -14319,7 +14319,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Toronto and Ontario's Manufacturing Corridor",
-        "description2": "JK Forge exports forged components to Toronto, Ontario \u2014 alloy steel forgings for the region's automotive-adjacent supply chain, industrial equipment manufacturers, and general engineering firms concentrated across Canada's largest metropolitan and financial center. Alloy steel grades, mill test certification, and CIF Eastern Canada logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Toronto, Ontario \u2014 alloy steel forgings for the region's automotive-adjacent supply chain, industrial equipment manufacturers, and general engineering firms concentrated across Canada's largest metropolitan and financial center. Alloy steel grades, mill test certification, and CIF Eastern Canada logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Industrial Machinery & Equipment Manufacturing",
@@ -14443,7 +14443,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Toronto and Ontario's Manufacturing Corridor",
-        "description2": "JK Forge exports forged components to Toronto, Ontario \u2014 alloy steel forgings for the region's automotive-adjacent supply chain, industrial equipment manufacturers, and general engineering firms concentrated across Canada's largest metropolitan and financial center. Alloy steel grades, mill test certification, and CIF Eastern Canada logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Toronto, Ontario \u2014 alloy steel forgings for the region's automotive-adjacent supply chain, industrial equipment manufacturers, and general engineering firms concentrated across Canada's largest metropolitan and financial center. Alloy steel grades, mill test certification, and CIF Eastern Canada logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Industrial Machinery & Equipment Manufacturing",
@@ -14567,7 +14567,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier to France \u2014 Paris, Lyon, Toulouse, Le Havre, Marseille",
-        "description2": "JK Forge supplies precision hot forgings to France \u2014 serving TotalEnergies (world's #4 oil supermajor, Gonfreville l'Orcher refinery near Le Havre: 254,000 bbl/day \u2014 one of France's largest refineries: SA182 F22 reactor nozzle forgings for the Hydrocracker [360\u00b0C/175 bar], SA182 F316L heat exchanger channel head forgings, PED Category IV), Airbus SE Toulouse (world's #2 aircraft OEM, Blagnac \u2014 A350 XWB and A320neo/A321XLR FAL assembly: Ti-6Al-4V AMS 4928 landing gear fitting forgings, 4340 VAR AMS 6265 main gear truck beam forgings, AS9100 Rev D, EASA Form One), EDF (\u00c9lectricit\u00e9 de France \u2014 world's largest nuclear generator: 56 operating reactors, 75% of France's electricity from nuclear \u2014 ASME Section III / RCC-M [R\u00e8gles de Conception et de Construction] nuclear forging requirements), Air Liquide (Paris \u2014 world's #1 industrial gas company, \u20ac29.9B revenue: A350 LF3 cryogenic nozzle forgings, PED Category IV, T\u00dcV Rheinland CE), and Michelin SCA (Clermont-Ferrand \u2014 world's #1 tyre manufacturer, \u20ac28.6B: sulphur vulcaniser body forgings 316L, autoclave nozzle forgings SA182 F316L). EN 10204 3.1/3.2, PED 2014/68/EU CE (T\u00dcV Rheinland NB 0035), NF EN 10083-3, AFNOR. CIF Le Havre 14\u201317 days from Mundra. +91-9265772827.",
+        "description2": "JK Forge supplies precision hot forgings to France \u2014 serving TotalEnergies (world's #4 oil supermajor, Gonfreville l'Orcher refinery near Le Havre: 254,000 bbl/day \u2014 one of France's largest refineries: SA182 F22 reactor nozzle forgings for the Hydrocracker [360\u00b0C/175 bar], SA182 F316L heat exchanger channel head forgings, PED Category IV), Airbus SE Toulouse (world's #2 aircraft OEM, Blagnac \u2014 A350 XWB and A320neo/A321XLR FAL assembly: Ti-6Al-4V AMS 4928 landing gear fitting forgings, 4340 VAR AMS 6265 main gear truck beam forgings, AS9100 Rev D, EASA Form One), EDF (\u00c9lectricit\u00e9 de France \u2014 world's largest nuclear generator: 56 operating reactors, 75% of France's electricity from nuclear \u2014 ASME Section III / RCC-M [R\u00e8gles de Conception et de Construction] nuclear forging requirements), Air Liquide (Paris \u2014 world's #1 industrial gas company, \u20ac29.9B revenue: A350 LF3 cryogenic nozzle forgings, PED Category IV, T\u00dcV Rheinland CE), and Michelin SCA (Clermont-Ferrand \u2014 world's #1 tyre manufacturer, \u20ac28.6B: sulphur vulcaniser body forgings 316L, autoclave nozzle forgings SA182 F316L). EN 10204 3.1/3.2, PED 2014/68/EU CE (T\u00dcV Rheinland NB 0035), NF EN 10083-3, AFNOR. CIF Le Havre 14\u201317 days from Mundra. +91 7600066117.",
         "components": [
             {
                 "title": "Factory Address",
@@ -14675,7 +14675,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier to France \u2014 Paris, Lyon, Toulouse, Le Havre, Marseille",
-        "description2": "JK Forge supplies precision hot forgings to France \u2014 serving TotalEnergies (world's #4 oil supermajor, Gonfreville l'Orcher refinery near Le Havre: 254,000 bbl/day \u2014 one of France's largest refineries: SA182 F22 reactor nozzle forgings for the Hydrocracker [360\u00b0C/175 bar], SA182 F316L heat exchanger channel head forgings, PED Category IV), Airbus SE Toulouse (world's #2 aircraft OEM, Blagnac \u2014 A350 XWB and A320neo/A321XLR FAL assembly: Ti-6Al-4V AMS 4928 landing gear fitting forgings, 4340 VAR AMS 6265 main gear truck beam forgings, AS9100 Rev D, EASA Form One), EDF (\u00c9lectricit\u00e9 de France \u2014 world's largest nuclear generator: 56 operating reactors, 75% of France's electricity from nuclear \u2014 ASME Section III / RCC-M [R\u00e8gles de Conception et de Construction] nuclear forging requirements), Air Liquide (Paris \u2014 world's #1 industrial gas company, \u20ac29.9B revenue: A350 LF3 cryogenic nozzle forgings, PED Category IV, T\u00dcV Rheinland CE), and Michelin SCA (Clermont-Ferrand \u2014 world's #1 tyre manufacturer, \u20ac28.6B: sulphur vulcaniser body forgings 316L, autoclave nozzle forgings SA182 F316L). EN 10204 3.1/3.2, PED 2014/68/EU CE (T\u00dcV Rheinland NB 0035), NF EN 10083-3, AFNOR. CIF Le Havre 14\u201317 days from Mundra. +91-9265772827.",
+        "description2": "JK Forge supplies precision hot forgings to France \u2014 serving TotalEnergies (world's #4 oil supermajor, Gonfreville l'Orcher refinery near Le Havre: 254,000 bbl/day \u2014 one of France's largest refineries: SA182 F22 reactor nozzle forgings for the Hydrocracker [360\u00b0C/175 bar], SA182 F316L heat exchanger channel head forgings, PED Category IV), Airbus SE Toulouse (world's #2 aircraft OEM, Blagnac \u2014 A350 XWB and A320neo/A321XLR FAL assembly: Ti-6Al-4V AMS 4928 landing gear fitting forgings, 4340 VAR AMS 6265 main gear truck beam forgings, AS9100 Rev D, EASA Form One), EDF (\u00c9lectricit\u00e9 de France \u2014 world's largest nuclear generator: 56 operating reactors, 75% of France's electricity from nuclear \u2014 ASME Section III / RCC-M [R\u00e8gles de Conception et de Construction] nuclear forging requirements), Air Liquide (Paris \u2014 world's #1 industrial gas company, \u20ac29.9B revenue: A350 LF3 cryogenic nozzle forgings, PED Category IV, T\u00dcV Rheinland CE), and Michelin SCA (Clermont-Ferrand \u2014 world's #1 tyre manufacturer, \u20ac28.6B: sulphur vulcaniser body forgings 316L, autoclave nozzle forgings SA182 F316L). EN 10204 3.1/3.2, PED 2014/68/EU CE (T\u00dcV Rheinland NB 0035), NF EN 10083-3, AFNOR. CIF Le Havre 14\u201317 days from Mundra. +91 7600066117.",
         "components": [
             {
                 "title": "Factory Address",
@@ -14783,7 +14783,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier to Austria \u2014 Vienna, Linz, Graz, Salzburg",
-        "description2": "JK Forge supplies precision hot forgings to Austria \u2014 serving voestalpine AG Linz (world's #4 specialty steel manufacturer, 7 MTPA crude steel, world's #1 rail switch and turnout manufacturer \u2014 42CrMo4 Q+T BOF trunnion ring forgings, S355J2 crane hook forgings for voestalpine's own steel plant, wire rod mill guide roller forgings in 34CrNiMo6), AVL List GmbH Graz (world's #1 powertrain engineering and testing company, \u20ac1.7B revenue \u2014 42CrMo4 Q+T dynamometer hub forgings, 4340 Q+T test stand shaft forgings for 10,000 RPM engine test cells), Andritz AG Graz (world's #2 pulp and paper equipment OEM, \u20ac6.8B \u2014 316L stainless shaft forgings for pulp digesters, 17-4 PH disc forgings for hydro turbines), Anton Paar GmbH Graz (world's #1 laboratory instrument manufacturer \u2014 precision 316L and titanium forging parts for rheometers and density meters), and Rosenbauer International AG (Leonding \u2014 world's #1 fire truck manufacturer: 4340 Q+T ladder truck chassis bracket forgings). EN 10204 3.1/3.2, PED 2014/68/EU CE (T\u00dcV Austria NB 0408), IATF 16949:2016. CIF Trieste 14\u201317 days from Mundra (660 km road to Vienna, 420 km to Graz). +91-9265772827.",
+        "description2": "JK Forge supplies precision hot forgings to Austria \u2014 serving voestalpine AG Linz (world's #4 specialty steel manufacturer, 7 MTPA crude steel, world's #1 rail switch and turnout manufacturer \u2014 42CrMo4 Q+T BOF trunnion ring forgings, S355J2 crane hook forgings for voestalpine's own steel plant, wire rod mill guide roller forgings in 34CrNiMo6), AVL List GmbH Graz (world's #1 powertrain engineering and testing company, \u20ac1.7B revenue \u2014 42CrMo4 Q+T dynamometer hub forgings, 4340 Q+T test stand shaft forgings for 10,000 RPM engine test cells), Andritz AG Graz (world's #2 pulp and paper equipment OEM, \u20ac6.8B \u2014 316L stainless shaft forgings for pulp digesters, 17-4 PH disc forgings for hydro turbines), Anton Paar GmbH Graz (world's #1 laboratory instrument manufacturer \u2014 precision 316L and titanium forging parts for rheometers and density meters), and Rosenbauer International AG (Leonding \u2014 world's #1 fire truck manufacturer: 4340 Q+T ladder truck chassis bracket forgings). EN 10204 3.1/3.2, PED 2014/68/EU CE (T\u00dcV Austria NB 0408), IATF 16949:2016. CIF Trieste 14\u201317 days from Mundra (660 km road to Vienna, 420 km to Graz). +91 7600066117.",
         "components": [
             {
                 "title": "T\u00dcV Austria NB 0408 \u2014 Austrian PED Notified Body",
@@ -14895,7 +14895,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier to Austria \u2014 Vienna, Linz, Graz, Salzburg",
-        "description2": "JK Forge supplies precision hot forgings to Austria \u2014 serving voestalpine AG Linz (world's #4 specialty steel manufacturer, 7 MTPA crude steel, world's #1 rail switch and turnout manufacturer \u2014 42CrMo4 Q+T BOF trunnion ring forgings, S355J2 crane hook forgings for voestalpine's own steel plant, wire rod mill guide roller forgings in 34CrNiMo6), AVL List GmbH Graz (world's #1 powertrain engineering and testing company, \u20ac1.7B revenue \u2014 42CrMo4 Q+T dynamometer hub forgings, 4340 Q+T test stand shaft forgings for 10,000 RPM engine test cells), Andritz AG Graz (world's #2 pulp and paper equipment OEM, \u20ac6.8B \u2014 316L stainless shaft forgings for pulp digesters, 17-4 PH disc forgings for hydro turbines), Anton Paar GmbH Graz (world's #1 laboratory instrument manufacturer \u2014 precision 316L and titanium forging parts for rheometers and density meters), and Rosenbauer International AG (Leonding \u2014 world's #1 fire truck manufacturer: 4340 Q+T ladder truck chassis bracket forgings). EN 10204 3.1/3.2, PED 2014/68/EU CE (T\u00dcV Austria NB 0408), IATF 16949:2016. CIF Trieste 14\u201317 days from Mundra (660 km road to Vienna, 420 km to Graz). +91-9265772827.",
+        "description2": "JK Forge supplies precision hot forgings to Austria \u2014 serving voestalpine AG Linz (world's #4 specialty steel manufacturer, 7 MTPA crude steel, world's #1 rail switch and turnout manufacturer \u2014 42CrMo4 Q+T BOF trunnion ring forgings, S355J2 crane hook forgings for voestalpine's own steel plant, wire rod mill guide roller forgings in 34CrNiMo6), AVL List GmbH Graz (world's #1 powertrain engineering and testing company, \u20ac1.7B revenue \u2014 42CrMo4 Q+T dynamometer hub forgings, 4340 Q+T test stand shaft forgings for 10,000 RPM engine test cells), Andritz AG Graz (world's #2 pulp and paper equipment OEM, \u20ac6.8B \u2014 316L stainless shaft forgings for pulp digesters, 17-4 PH disc forgings for hydro turbines), Anton Paar GmbH Graz (world's #1 laboratory instrument manufacturer \u2014 precision 316L and titanium forging parts for rheometers and density meters), and Rosenbauer International AG (Leonding \u2014 world's #1 fire truck manufacturer: 4340 Q+T ladder truck chassis bracket forgings). EN 10204 3.1/3.2, PED 2014/68/EU CE (T\u00dcV Austria NB 0408), IATF 16949:2016. CIF Trieste 14\u201317 days from Mundra (660 km road to Vienna, 420 km to Graz). +91 7600066117.",
         "components": [
             {
                 "title": "T\u00dcV Austria NB 0408 \u2014 Austrian PED Notified Body",
@@ -15007,7 +15007,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Pittsburgh's Steel Heritage, Energy, and Advanced Manufacturing Economy",
-        "description2": "JK Forge exports forged components to Pittsburgh, Pennsylvania \u2014 alloy steel shaft, flange, and structural forgings for the industrial equipment manufacturers, energy sector fabricators, and advanced manufacturing companies operating across the region's diversified modern economy. ASTM/ASME material grades and EN 10204 3.1/3.2 certification. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Pittsburgh, Pennsylvania \u2014 alloy steel shaft, flange, and structural forgings for the industrial equipment manufacturers, energy sector fabricators, and advanced manufacturing companies operating across the region's diversified modern economy. ASTM/ASME material grades and EN 10204 3.1/3.2 certification. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Industrial & Robotics Equipment Manufacturing",
@@ -15131,7 +15131,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Pittsburgh's Steel Heritage, Energy, and Advanced Manufacturing Economy",
-        "description2": "JK Forge exports forged components to Pittsburgh, Pennsylvania \u2014 alloy steel shaft, flange, and structural forgings for the industrial equipment manufacturers, energy sector fabricators, and advanced manufacturing companies operating across the region's diversified modern economy. ASTM/ASME material grades and EN 10204 3.1/3.2 certification. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Pittsburgh, Pennsylvania \u2014 alloy steel shaft, flange, and structural forgings for the industrial equipment manufacturers, energy sector fabricators, and advanced manufacturing companies operating across the region's diversified modern economy. ASTM/ASME material grades and EN 10204 3.1/3.2 certification. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Industrial & Robotics Equipment Manufacturing",
@@ -15255,7 +15255,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Phoenix \u2014 Semiconductor Fab Growth, Aerospace & Defense Manufacturing, Southwest Industrial Expansion",
-        "description2": "JK Forge exports forged components to Phoenix, Arizona \u2014 alloy steel and stainless structural, bracket, and equipment component forgings for the semiconductor fabrication and equipment sector expanding rapidly across the Phoenix metro area, the region's long-standing aerospace and defense manufacturing base, and the broader Southwest US industrial growth corridor. AS9100-aligned documentation, ASTM/ASME material grades, and CIF West Coast port logistics with inland delivery. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Phoenix, Arizona \u2014 alloy steel and stainless structural, bracket, and equipment component forgings for the semiconductor fabrication and equipment sector expanding rapidly across the Phoenix metro area, the region's long-standing aerospace and defense manufacturing base, and the broader Southwest US industrial growth corridor. AS9100-aligned documentation, ASTM/ASME material grades, and CIF West Coast port logistics with inland delivery. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Aerospace & Defense Component Manufacturing",
@@ -15379,7 +15379,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Phoenix \u2014 Semiconductor Fab Growth, Aerospace & Defense Manufacturing, Southwest Industrial Expansion",
-        "description2": "JK Forge exports forged components to Phoenix, Arizona \u2014 alloy steel and stainless structural, bracket, and equipment component forgings for the semiconductor fabrication and equipment sector expanding rapidly across the Phoenix metro area, the region's long-standing aerospace and defense manufacturing base, and the broader Southwest US industrial growth corridor. AS9100-aligned documentation, ASTM/ASME material grades, and CIF West Coast port logistics with inland delivery. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Phoenix, Arizona \u2014 alloy steel and stainless structural, bracket, and equipment component forgings for the semiconductor fabrication and equipment sector expanding rapidly across the Phoenix metro area, the region's long-standing aerospace and defense manufacturing base, and the broader Southwest US industrial growth corridor. AS9100-aligned documentation, ASTM/ASME material grades, and CIF West Coast port logistics with inland delivery. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Aerospace & Defense Component Manufacturing",
@@ -15503,7 +15503,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier to Brazil \u2014 Rio de Janeiro, S\u00e3o Paulo, Belo Horizonte, Santos, Vit\u00f3ria",
-        "description2": "JK Forge supplies precision hot forgings to Brazil \u2014 serving Petrobras (Rio de Janeiro \u2014 world's #5 deepwater oil producer, pre-salt Santos Basin: B\u00fazios field 1.8 Mbbl/day \u2014 world's #1 deepwater oil field by production: AISI 8630M API 6A PSL4 [most stringent API level] subsea Christmas tree body forgings [690 bar/10,000 PSI service in H2S-containing pre-salt crude], 15-5 PH AMS 5659 H900 subsea connector forgings, SAF 2507 super-duplex stainless manifold branch forgings), Vale SA (Parauapebas, Par\u00e1 \u2014 Caraj\u00e1s Iron Ore Mine: 340 MTPA \u2014 world's largest iron ore mine [66% Fe content], world's highest quality iron ore: 42CrMo4 Q+T SAG mill primary drive shaft forgings, 34CrNiMo6 Q+T ball mill trunnion shaft forgings, S355J2 conveyor head pulley shaft forgings, EN 10228-3 Class 3 UT), Embraer SA (S\u00e3o Jos\u00e9 dos Campos, SP \u2014 world's #3 commercial aircraft OEM, E2 family: E175-E2/E190-E2/E195-E2: Ti-6Al-4V AMS 4928 wing main spar fitting forgings, 15-5 PH AMS 5659 H900 landing gear oleo cylinder forgings, AS9100 Rev D), and USIMINAS (Ipatinga, MG \u2014 4.5 MTPA flat steel: BOF trunnion ring forgings 42CrMo4 Q+T). ABNT NBR, ASME VIII, API 6A/6D. CIF Santos 20\u201323 days. +91-9265772827.",
+        "description2": "JK Forge supplies precision hot forgings to Brazil \u2014 serving Petrobras (Rio de Janeiro \u2014 world's #5 deepwater oil producer, pre-salt Santos Basin: B\u00fazios field 1.8 Mbbl/day \u2014 world's #1 deepwater oil field by production: AISI 8630M API 6A PSL4 [most stringent API level] subsea Christmas tree body forgings [690 bar/10,000 PSI service in H2S-containing pre-salt crude], 15-5 PH AMS 5659 H900 subsea connector forgings, SAF 2507 super-duplex stainless manifold branch forgings), Vale SA (Parauapebas, Par\u00e1 \u2014 Caraj\u00e1s Iron Ore Mine: 340 MTPA \u2014 world's largest iron ore mine [66% Fe content], world's highest quality iron ore: 42CrMo4 Q+T SAG mill primary drive shaft forgings, 34CrNiMo6 Q+T ball mill trunnion shaft forgings, S355J2 conveyor head pulley shaft forgings, EN 10228-3 Class 3 UT), Embraer SA (S\u00e3o Jos\u00e9 dos Campos, SP \u2014 world's #3 commercial aircraft OEM, E2 family: E175-E2/E190-E2/E195-E2: Ti-6Al-4V AMS 4928 wing main spar fitting forgings, 15-5 PH AMS 5659 H900 landing gear oleo cylinder forgings, AS9100 Rev D), and USIMINAS (Ipatinga, MG \u2014 4.5 MTPA flat steel: BOF trunnion ring forgings 42CrMo4 Q+T). ABNT NBR, ASME VIII, API 6A/6D. CIF Santos 20\u201323 days. +91 7600066117.",
         "components": [
             {
                 "title": "Factory Address",
@@ -15611,7 +15611,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier to Brazil \u2014 Rio de Janeiro, S\u00e3o Paulo, Belo Horizonte, Santos, Vit\u00f3ria",
-        "description2": "JK Forge supplies precision hot forgings to Brazil \u2014 serving Petrobras (Rio de Janeiro \u2014 world's #5 deepwater oil producer, pre-salt Santos Basin: B\u00fazios field 1.8 Mbbl/day \u2014 world's #1 deepwater oil field by production: AISI 8630M API 6A PSL4 [most stringent API level] subsea Christmas tree body forgings [690 bar/10,000 PSI service in H2S-containing pre-salt crude], 15-5 PH AMS 5659 H900 subsea connector forgings, SAF 2507 super-duplex stainless manifold branch forgings), Vale SA (Parauapebas, Par\u00e1 \u2014 Caraj\u00e1s Iron Ore Mine: 340 MTPA \u2014 world's largest iron ore mine [66% Fe content], world's highest quality iron ore: 42CrMo4 Q+T SAG mill primary drive shaft forgings, 34CrNiMo6 Q+T ball mill trunnion shaft forgings, S355J2 conveyor head pulley shaft forgings, EN 10228-3 Class 3 UT), Embraer SA (S\u00e3o Jos\u00e9 dos Campos, SP \u2014 world's #3 commercial aircraft OEM, E2 family: E175-E2/E190-E2/E195-E2: Ti-6Al-4V AMS 4928 wing main spar fitting forgings, 15-5 PH AMS 5659 H900 landing gear oleo cylinder forgings, AS9100 Rev D), and USIMINAS (Ipatinga, MG \u2014 4.5 MTPA flat steel: BOF trunnion ring forgings 42CrMo4 Q+T). ABNT NBR, ASME VIII, API 6A/6D. CIF Santos 20\u201323 days. +91-9265772827.",
+        "description2": "JK Forge supplies precision hot forgings to Brazil \u2014 serving Petrobras (Rio de Janeiro \u2014 world's #5 deepwater oil producer, pre-salt Santos Basin: B\u00fazios field 1.8 Mbbl/day \u2014 world's #1 deepwater oil field by production: AISI 8630M API 6A PSL4 [most stringent API level] subsea Christmas tree body forgings [690 bar/10,000 PSI service in H2S-containing pre-salt crude], 15-5 PH AMS 5659 H900 subsea connector forgings, SAF 2507 super-duplex stainless manifold branch forgings), Vale SA (Parauapebas, Par\u00e1 \u2014 Caraj\u00e1s Iron Ore Mine: 340 MTPA \u2014 world's largest iron ore mine [66% Fe content], world's highest quality iron ore: 42CrMo4 Q+T SAG mill primary drive shaft forgings, 34CrNiMo6 Q+T ball mill trunnion shaft forgings, S355J2 conveyor head pulley shaft forgings, EN 10228-3 Class 3 UT), Embraer SA (S\u00e3o Jos\u00e9 dos Campos, SP \u2014 world's #3 commercial aircraft OEM, E2 family: E175-E2/E190-E2/E195-E2: Ti-6Al-4V AMS 4928 wing main spar fitting forgings, 15-5 PH AMS 5659 H900 landing gear oleo cylinder forgings, AS9100 Rev D), and USIMINAS (Ipatinga, MG \u2014 4.5 MTPA flat steel: BOF trunnion ring forgings 42CrMo4 Q+T). ABNT NBR, ASME VIII, API 6A/6D. CIF Santos 20\u201323 days. +91 7600066117.",
         "components": [
             {
                 "title": "Factory Address",
@@ -15719,7 +15719,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Precision Hot Forgings for Hosur's Automotive & Auto-Component Manufacturing Cluster",
-        "description2": "JK Forge supplies precision hot forgings to Hosur, Tamil Nadu \u2014 alloy steel, carbon steel, and stainless steel forgings for the two-wheeler, automotive component, and precision engineering manufacturing cluster concentrated around this major industrial town near Bangalore. Multimodal road and rail dispatch from our Shapar GIDC facility in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies precision hot forgings to Hosur, Tamil Nadu \u2014 alloy steel, carbon steel, and stainless steel forgings for the two-wheeler, automotive component, and precision engineering manufacturing cluster concentrated around this major industrial town near Bangalore. Multimodal road and rail dispatch from our Shapar GIDC facility in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Tier 1 & Tier 2 Auto-Component Manufacturing",
@@ -15817,7 +15817,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I get a quote for delivery to Hosur?",
-                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91-9265772827. We respond with a price and lead time, and confirm the most cost-effective freight option for your consignment size."
+                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91 7600066117. We respond with a price and lead time, and confirm the most cost-effective freight option for your consignment size."
             }
         ]
     },
@@ -15843,7 +15843,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Precision Hot Forgings for Hosur's Automotive & Auto-Component Manufacturing Cluster",
-        "description2": "JK Forge supplies precision hot forgings to Hosur, Tamil Nadu \u2014 alloy steel, carbon steel, and stainless steel forgings for the two-wheeler, automotive component, and precision engineering manufacturing cluster concentrated around this major industrial town near Bangalore. Multimodal road and rail dispatch from our Shapar GIDC facility in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies precision hot forgings to Hosur, Tamil Nadu \u2014 alloy steel, carbon steel, and stainless steel forgings for the two-wheeler, automotive component, and precision engineering manufacturing cluster concentrated around this major industrial town near Bangalore. Multimodal road and rail dispatch from our Shapar GIDC facility in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Tier 1 & Tier 2 Auto-Component Manufacturing",
@@ -15941,7 +15941,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I get a quote for delivery to Hosur?",
-                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91-9265772827. We respond with a price and lead time, and confirm the most cost-effective freight option for your consignment size."
+                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91 7600066117. We respond with a price and lead time, and confirm the most cost-effective freight option for your consignment size."
             }
         ]
     },
@@ -15967,7 +15967,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Precision Hot Forgings for Bhavnagar's Port, Ship-Recycling & Heavy Engineering Industry",
-        "description2": "JK Forge supplies precision hot forgings to Bhavnagar, Gujarat \u2014 alloy steel, carbon steel, and stainless steel forgings for the ship-recycling and steel re-rolling, heavy engineering, and port-related manufacturing base concentrated across this historic Gujarat port city. Same-day to next-day road dispatch from our Shapar GIDC facility in Rajkot, India, less than 200 km away. Call +91-9265772827.",
+        "description2": "JK Forge supplies precision hot forgings to Bhavnagar, Gujarat \u2014 alloy steel, carbon steel, and stainless steel forgings for the ship-recycling and steel re-rolling, heavy engineering, and port-related manufacturing base concentrated across this historic Gujarat port city. Same-day to next-day road dispatch from our Shapar GIDC facility in Rajkot, India, less than 200 km away. Call +91 7600066117.",
         "components": [
             {
                 "title": "Heavy Engineering & Fabrication",
@@ -16065,7 +16065,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I get a quote for delivery to Bhavnagar?",
-                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91-9265772827. Given the short distance, we can often confirm price, lead time, and delivery scheduling the same day."
+                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91 7600066117. Given the short distance, we can often confirm price, lead time, and delivery scheduling the same day."
             }
         ]
     },
@@ -16091,7 +16091,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Precision Hot Forgings for Bhavnagar's Port, Ship-Recycling & Heavy Engineering Industry",
-        "description2": "JK Forge supplies precision hot forgings to Bhavnagar, Gujarat \u2014 alloy steel, carbon steel, and stainless steel forgings for the ship-recycling and steel re-rolling, heavy engineering, and port-related manufacturing base concentrated across this historic Gujarat port city. Same-day to next-day road dispatch from our Shapar GIDC facility in Rajkot, India, less than 200 km away. Call +91-9265772827.",
+        "description2": "JK Forge supplies precision hot forgings to Bhavnagar, Gujarat \u2014 alloy steel, carbon steel, and stainless steel forgings for the ship-recycling and steel re-rolling, heavy engineering, and port-related manufacturing base concentrated across this historic Gujarat port city. Same-day to next-day road dispatch from our Shapar GIDC facility in Rajkot, India, less than 200 km away. Call +91 7600066117.",
         "components": [
             {
                 "title": "Heavy Engineering & Fabrication",
@@ -16189,7 +16189,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I get a quote for delivery to Bhavnagar?",
-                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91-9265772827. Given the short distance, we can often confirm price, lead time, and delivery scheduling the same day."
+                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91 7600066117. Given the short distance, we can often confirm price, lead time, and delivery scheduling the same day."
             }
         ]
     },
@@ -16215,7 +16215,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Detroit's Automotive Manufacturing and Supply Chain Base",
-        "description2": "JK Forge exports forged components to Detroit, Michigan \u2014 steering, suspension, driveline, and powertrain component forgings for the automotive OEMs and extensive Tier 1 and Tier 2 supply chain concentrated across Southeast Michigan. Alloy steel grades, IATF 16949-aligned quality documentation, and CIF Midwest logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Detroit, Michigan \u2014 steering, suspension, driveline, and powertrain component forgings for the automotive OEMs and extensive Tier 1 and Tier 2 supply chain concentrated across Southeast Michigan. Alloy steel grades, IATF 16949-aligned quality documentation, and CIF Midwest logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Driveline & Powertrain Component Manufacturing",
@@ -16339,7 +16339,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Detroit's Automotive Manufacturing and Supply Chain Base",
-        "description2": "JK Forge exports forged components to Detroit, Michigan \u2014 steering, suspension, driveline, and powertrain component forgings for the automotive OEMs and extensive Tier 1 and Tier 2 supply chain concentrated across Southeast Michigan. Alloy steel grades, IATF 16949-aligned quality documentation, and CIF Midwest logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Detroit, Michigan \u2014 steering, suspension, driveline, and powertrain component forgings for the automotive OEMs and extensive Tier 1 and Tier 2 supply chain concentrated across Southeast Michigan. Alloy steel grades, IATF 16949-aligned quality documentation, and CIF Midwest logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Driveline & Powertrain Component Manufacturing",
@@ -16463,7 +16463,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Trinidad and Tobago's Energy, LNG & Industrial Sector",
-        "description2": "JK Forge exports certified forged components to Trinidad and Tobago \u2014 alloy and stainless steel flanges, fittings, valve body blanks, and structural forgings for the country's petrochemical, natural gas, and LNG export sector. ASTM/ASME material grades, full third-party material certification, and CIF Point Lisas or Port of Spain shipping. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports certified forged components to Trinidad and Tobago \u2014 alloy and stainless steel flanges, fittings, valve body blanks, and structural forgings for the country's petrochemical, natural gas, and LNG export sector. ASTM/ASME material grades, full third-party material certification, and CIF Point Lisas or Port of Spain shipping. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Petrochemical & Ammonia/Methanol Manufacturing",
@@ -16587,7 +16587,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Trinidad and Tobago's Energy, LNG & Industrial Sector",
-        "description2": "JK Forge exports certified forged components to Trinidad and Tobago \u2014 alloy and stainless steel flanges, fittings, valve body blanks, and structural forgings for the country's petrochemical, natural gas, and LNG export sector. ASTM/ASME material grades, full third-party material certification, and CIF Point Lisas or Port of Spain shipping. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports certified forged components to Trinidad and Tobago \u2014 alloy and stainless steel flanges, fittings, valve body blanks, and structural forgings for the country's petrochemical, natural gas, and LNG export sector. ASTM/ASME material grades, full third-party material certification, and CIF Point Lisas or Port of Spain shipping. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Petrochemical & Ammonia/Methanol Manufacturing",
@@ -16711,7 +16711,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier to Munich \u2014 Bavaria's Automotive, Aerospace, and Industrial Giants",
-        "description2": "JK Forge exports DIN EN 10204 3.1 and IATF 16949:2016-certified precision hot forgings to Munich and Bavaria \u2014 supplying BMW Group Motorenwerk M\u00fcnchen (B47/B58/S58/S63 engine crankshaft rough forgings in 42CrMo4 Q+T and 34CrNiMo6 Q+T), MAN Truck & Bus M\u00fcnchen (D38 13L diesel engine crankshaft rough forgings in 42CrMo4, MAN EURO VI truck engine connecting rod blanks in 36MnVS4), Linde GmbH (Munich \u2014 world's #2 industrial gases company, AS/NZS 2885-equivalent valve body forgings for cryogenic oxygen/nitrogen plants), MTU Aero Engines (Munich \u2014 world's #4 aircraft engine OEM, Ti-6Al-4V and IN718 compressor and turbine disk forgings, AS9100 Rev D), Knorr-Bremse (Munich \u2014 world's #1 railway and commercial vehicle brake, brake caliper housing forgings in 42CrMo4 Q+T), and Siemens Healthineers Erlangen (Bavaria \u2014 MRI machine forgings in 316L stainless, cryostat nozzle forgings in A350 LF3). CIF Munich Ostbahnhof via Hamburg + DB Cargo 13\u201317 days from Mundra. +91-9265772827.",
+        "description2": "JK Forge exports DIN EN 10204 3.1 and IATF 16949:2016-certified precision hot forgings to Munich and Bavaria \u2014 supplying BMW Group Motorenwerk M\u00fcnchen (B47/B58/S58/S63 engine crankshaft rough forgings in 42CrMo4 Q+T and 34CrNiMo6 Q+T), MAN Truck & Bus M\u00fcnchen (D38 13L diesel engine crankshaft rough forgings in 42CrMo4, MAN EURO VI truck engine connecting rod blanks in 36MnVS4), Linde GmbH (Munich \u2014 world's #2 industrial gases company, AS/NZS 2885-equivalent valve body forgings for cryogenic oxygen/nitrogen plants), MTU Aero Engines (Munich \u2014 world's #4 aircraft engine OEM, Ti-6Al-4V and IN718 compressor and turbine disk forgings, AS9100 Rev D), Knorr-Bremse (Munich \u2014 world's #1 railway and commercial vehicle brake, brake caliper housing forgings in 42CrMo4 Q+T), and Siemens Healthineers Erlangen (Bavaria \u2014 MRI machine forgings in 316L stainless, cryostat nozzle forgings in A350 LF3). CIF Munich Ostbahnhof via Hamburg + DB Cargo 13\u201317 days from Mundra. +91 7600066117.",
         "components": [
             {
                 "title": "Factory Address",
@@ -16819,7 +16819,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier to Munich \u2014 Bavaria's Automotive, Aerospace, and Industrial Giants",
-        "description2": "JK Forge exports DIN EN 10204 3.1 and IATF 16949:2016-certified precision hot forgings to Munich and Bavaria \u2014 supplying BMW Group Motorenwerk M\u00fcnchen (B47/B58/S58/S63 engine crankshaft rough forgings in 42CrMo4 Q+T and 34CrNiMo6 Q+T), MAN Truck & Bus M\u00fcnchen (D38 13L diesel engine crankshaft rough forgings in 42CrMo4, MAN EURO VI truck engine connecting rod blanks in 36MnVS4), Linde GmbH (Munich \u2014 world's #2 industrial gases company, AS/NZS 2885-equivalent valve body forgings for cryogenic oxygen/nitrogen plants), MTU Aero Engines (Munich \u2014 world's #4 aircraft engine OEM, Ti-6Al-4V and IN718 compressor and turbine disk forgings, AS9100 Rev D), Knorr-Bremse (Munich \u2014 world's #1 railway and commercial vehicle brake, brake caliper housing forgings in 42CrMo4 Q+T), and Siemens Healthineers Erlangen (Bavaria \u2014 MRI machine forgings in 316L stainless, cryostat nozzle forgings in A350 LF3). CIF Munich Ostbahnhof via Hamburg + DB Cargo 13\u201317 days from Mundra. +91-9265772827.",
+        "description2": "JK Forge exports DIN EN 10204 3.1 and IATF 16949:2016-certified precision hot forgings to Munich and Bavaria \u2014 supplying BMW Group Motorenwerk M\u00fcnchen (B47/B58/S58/S63 engine crankshaft rough forgings in 42CrMo4 Q+T and 34CrNiMo6 Q+T), MAN Truck & Bus M\u00fcnchen (D38 13L diesel engine crankshaft rough forgings in 42CrMo4, MAN EURO VI truck engine connecting rod blanks in 36MnVS4), Linde GmbH (Munich \u2014 world's #2 industrial gases company, AS/NZS 2885-equivalent valve body forgings for cryogenic oxygen/nitrogen plants), MTU Aero Engines (Munich \u2014 world's #4 aircraft engine OEM, Ti-6Al-4V and IN718 compressor and turbine disk forgings, AS9100 Rev D), Knorr-Bremse (Munich \u2014 world's #1 railway and commercial vehicle brake, brake caliper housing forgings in 42CrMo4 Q+T), and Siemens Healthineers Erlangen (Bavaria \u2014 MRI machine forgings in 316L stainless, cryostat nozzle forgings in A350 LF3). CIF Munich Ostbahnhof via Hamburg + DB Cargo 13\u201317 days from Mundra. +91 7600066117.",
         "components": [
             {
                 "title": "Factory Address",
@@ -16927,7 +16927,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content DIN EN Certified Indian Forgings \u2014 DIN EN 10083-3, DIN EN 10025, EN 10204 3.1/3.2, PED 2014/68/EU",
-        "description2": "JK Forge supplies DIN EN 10204 3.1 and 3.2 certified precision hot forgings to Germany \u2014 complying with DIN EN 10083-3 (42CrMo4 [1.7225], 34CrNiMo6 [1.6582], 18CrNiMo7-6 [1.6587] \u2014 Germany's primary alloy steel standard for automotive, power generation, and heavy machinery forgings), DIN EN 10025-2 (S235JR through S355J2 structural steel \u2014 normalized forgings for construction and industrial machinery), DIN EN 10025-6 (S460Q through S960Q high-strength quenched and tempered structural forgings for offshore wind and cranes), PED 2014/68/EU (EU Pressure Equipment Directive \u2014 T\u00dcV Rheinland NB 0035 CE marking for all pressure vessel forgings, Category I through IV), EN 10204 3.1 (manufacturer's own inspection body material certificate \u2014 minimum requirement for all German industrial forgings), EN 10204 3.2 (independent third-party inspection certificate \u2014 mandatory for PED Category III\u2013IV and energy sector forgings, witnessed by T\u00dcV Rheinland, Bureau Veritas, or DNV GL), and DIN EN 10228-3 (ultrasonic testing of steel forgings \u2014 Class 3 and 4 acceptance). T\u00dcV Rheinland-audited manufacturing. Customers: BMW, BASF, Thyssenkrupp, Siemens Energy, SMS Group. CIF Hamburg 12\u201315 days. +91-9265772827.",
+        "description2": "JK Forge supplies DIN EN 10204 3.1 and 3.2 certified precision hot forgings to Germany \u2014 complying with DIN EN 10083-3 (42CrMo4 [1.7225], 34CrNiMo6 [1.6582], 18CrNiMo7-6 [1.6587] \u2014 Germany's primary alloy steel standard for automotive, power generation, and heavy machinery forgings), DIN EN 10025-2 (S235JR through S355J2 structural steel \u2014 normalized forgings for construction and industrial machinery), DIN EN 10025-6 (S460Q through S960Q high-strength quenched and tempered structural forgings for offshore wind and cranes), PED 2014/68/EU (EU Pressure Equipment Directive \u2014 T\u00dcV Rheinland NB 0035 CE marking for all pressure vessel forgings, Category I through IV), EN 10204 3.1 (manufacturer's own inspection body material certificate \u2014 minimum requirement for all German industrial forgings), EN 10204 3.2 (independent third-party inspection certificate \u2014 mandatory for PED Category III\u2013IV and energy sector forgings, witnessed by T\u00dcV Rheinland, Bureau Veritas, or DNV GL), and DIN EN 10228-3 (ultrasonic testing of steel forgings \u2014 Class 3 and 4 acceptance). T\u00dcV Rheinland-audited manufacturing. Customers: BMW, BASF, Thyssenkrupp, Siemens Energy, SMS Group. CIF Hamburg 12\u201315 days. +91 7600066117.",
         "components": [
             {
                 "title": "Factory Address",
@@ -17035,7 +17035,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content DIN EN Certified Indian Forgings \u2014 DIN EN 10083-3, DIN EN 10025, EN 10204 3.1/3.2, PED 2014/68/EU",
-        "description2": "JK Forge supplies DIN EN 10204 3.1 and 3.2 certified precision hot forgings to Germany \u2014 complying with DIN EN 10083-3 (42CrMo4 [1.7225], 34CrNiMo6 [1.6582], 18CrNiMo7-6 [1.6587] \u2014 Germany's primary alloy steel standard for automotive, power generation, and heavy machinery forgings), DIN EN 10025-2 (S235JR through S355J2 structural steel \u2014 normalized forgings for construction and industrial machinery), DIN EN 10025-6 (S460Q through S960Q high-strength quenched and tempered structural forgings for offshore wind and cranes), PED 2014/68/EU (EU Pressure Equipment Directive \u2014 T\u00dcV Rheinland NB 0035 CE marking for all pressure vessel forgings, Category I through IV), EN 10204 3.1 (manufacturer's own inspection body material certificate \u2014 minimum requirement for all German industrial forgings), EN 10204 3.2 (independent third-party inspection certificate \u2014 mandatory for PED Category III\u2013IV and energy sector forgings, witnessed by T\u00dcV Rheinland, Bureau Veritas, or DNV GL), and DIN EN 10228-3 (ultrasonic testing of steel forgings \u2014 Class 3 and 4 acceptance). T\u00dcV Rheinland-audited manufacturing. Customers: BMW, BASF, Thyssenkrupp, Siemens Energy, SMS Group. CIF Hamburg 12\u201315 days. +91-9265772827.",
+        "description2": "JK Forge supplies DIN EN 10204 3.1 and 3.2 certified precision hot forgings to Germany \u2014 complying with DIN EN 10083-3 (42CrMo4 [1.7225], 34CrNiMo6 [1.6582], 18CrNiMo7-6 [1.6587] \u2014 Germany's primary alloy steel standard for automotive, power generation, and heavy machinery forgings), DIN EN 10025-2 (S235JR through S355J2 structural steel \u2014 normalized forgings for construction and industrial machinery), DIN EN 10025-6 (S460Q through S960Q high-strength quenched and tempered structural forgings for offshore wind and cranes), PED 2014/68/EU (EU Pressure Equipment Directive \u2014 T\u00dcV Rheinland NB 0035 CE marking for all pressure vessel forgings, Category I through IV), EN 10204 3.1 (manufacturer's own inspection body material certificate \u2014 minimum requirement for all German industrial forgings), EN 10204 3.2 (independent third-party inspection certificate \u2014 mandatory for PED Category III\u2013IV and energy sector forgings, witnessed by T\u00dcV Rheinland, Bureau Veritas, or DNV GL), and DIN EN 10228-3 (ultrasonic testing of steel forgings \u2014 Class 3 and 4 acceptance). T\u00dcV Rheinland-audited manufacturing. Customers: BMW, BASF, Thyssenkrupp, Siemens Energy, SMS Group. CIF Hamburg 12\u201315 days. +91 7600066117.",
         "components": [
             {
                 "title": "Factory Address",
@@ -17967,7 +17967,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier to D\u00fcsseldorf \u2014 NRW's Steel, Energy, and Chemical Industry Giants",
-        "description2": "JK Forge exports DIN EN 10204 3.1, PED 2014/68/EU, and EN 10228-3-certified precision hot forgings to D\u00fcsseldorf and the Rhine-Ruhr industrial region \u2014 supplying Thyssenkrupp Steel Europe (Duisburg \u2014 Germany's #1 steelmaker, 11.5 MTPA: BOF converter trunnion ring forgings in 42CrMo4 Q+T, blast furnace trunnion ring forgings in 4340 Q+T, hot rolling mill main drive shaft forgings in 34CrNiMo6), SMS Group (D\u00fcsseldorf \u2014 world's #1 rolling mill and steelmaking equipment OEM: hydraulic press crosshead forgings in 42CrMo4, rolling mill housing forgings), Vallourec Germany (D\u00fcsseldorf \u2014 world's #1 OCTG oil country tubular goods: tube mill mandrel bar forgings in H13 hot work steel, piercing plug forgings in 30CrMoV9), E.ON SE (Essen \u2014 Germany's #1 electricity grid operator: offshore wind foundation monopile transition piece forgings in S460MLO), and Henkel AG (D\u00fcsseldorf \u2014 world's #1 adhesive technologies: process reactor forgings for Loctite and Bonderite). CIF Duisburg via Rotterdam + Rhine barge 15\u201318 days from Mundra. +91-9265772827.",
+        "description2": "JK Forge exports DIN EN 10204 3.1, PED 2014/68/EU, and EN 10228-3-certified precision hot forgings to D\u00fcsseldorf and the Rhine-Ruhr industrial region \u2014 supplying Thyssenkrupp Steel Europe (Duisburg \u2014 Germany's #1 steelmaker, 11.5 MTPA: BOF converter trunnion ring forgings in 42CrMo4 Q+T, blast furnace trunnion ring forgings in 4340 Q+T, hot rolling mill main drive shaft forgings in 34CrNiMo6), SMS Group (D\u00fcsseldorf \u2014 world's #1 rolling mill and steelmaking equipment OEM: hydraulic press crosshead forgings in 42CrMo4, rolling mill housing forgings), Vallourec Germany (D\u00fcsseldorf \u2014 world's #1 OCTG oil country tubular goods: tube mill mandrel bar forgings in H13 hot work steel, piercing plug forgings in 30CrMoV9), E.ON SE (Essen \u2014 Germany's #1 electricity grid operator: offshore wind foundation monopile transition piece forgings in S460MLO), and Henkel AG (D\u00fcsseldorf \u2014 world's #1 adhesive technologies: process reactor forgings for Loctite and Bonderite). CIF Duisburg via Rotterdam + Rhine barge 15\u201318 days from Mundra. +91 7600066117.",
         "components": [
             {
                 "title": "Factory Address",
@@ -18075,7 +18075,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier to D\u00fcsseldorf \u2014 NRW's Steel, Energy, and Chemical Industry Giants",
-        "description2": "JK Forge exports DIN EN 10204 3.1, PED 2014/68/EU, and EN 10228-3-certified precision hot forgings to D\u00fcsseldorf and the Rhine-Ruhr industrial region \u2014 supplying Thyssenkrupp Steel Europe (Duisburg \u2014 Germany's #1 steelmaker, 11.5 MTPA: BOF converter trunnion ring forgings in 42CrMo4 Q+T, blast furnace trunnion ring forgings in 4340 Q+T, hot rolling mill main drive shaft forgings in 34CrNiMo6), SMS Group (D\u00fcsseldorf \u2014 world's #1 rolling mill and steelmaking equipment OEM: hydraulic press crosshead forgings in 42CrMo4, rolling mill housing forgings), Vallourec Germany (D\u00fcsseldorf \u2014 world's #1 OCTG oil country tubular goods: tube mill mandrel bar forgings in H13 hot work steel, piercing plug forgings in 30CrMoV9), E.ON SE (Essen \u2014 Germany's #1 electricity grid operator: offshore wind foundation monopile transition piece forgings in S460MLO), and Henkel AG (D\u00fcsseldorf \u2014 world's #1 adhesive technologies: process reactor forgings for Loctite and Bonderite). CIF Duisburg via Rotterdam + Rhine barge 15\u201318 days from Mundra. +91-9265772827.",
+        "description2": "JK Forge exports DIN EN 10204 3.1, PED 2014/68/EU, and EN 10228-3-certified precision hot forgings to D\u00fcsseldorf and the Rhine-Ruhr industrial region \u2014 supplying Thyssenkrupp Steel Europe (Duisburg \u2014 Germany's #1 steelmaker, 11.5 MTPA: BOF converter trunnion ring forgings in 42CrMo4 Q+T, blast furnace trunnion ring forgings in 4340 Q+T, hot rolling mill main drive shaft forgings in 34CrNiMo6), SMS Group (D\u00fcsseldorf \u2014 world's #1 rolling mill and steelmaking equipment OEM: hydraulic press crosshead forgings in 42CrMo4, rolling mill housing forgings), Vallourec Germany (D\u00fcsseldorf \u2014 world's #1 OCTG oil country tubular goods: tube mill mandrel bar forgings in H13 hot work steel, piercing plug forgings in 30CrMoV9), E.ON SE (Essen \u2014 Germany's #1 electricity grid operator: offshore wind foundation monopile transition piece forgings in S460MLO), and Henkel AG (D\u00fcsseldorf \u2014 world's #1 adhesive technologies: process reactor forgings for Loctite and Bonderite). CIF Duisburg via Rotterdam + Rhine barge 15\u201318 days from Mundra. +91 7600066117.",
         "components": [
             {
                 "title": "Factory Address",
@@ -18525,7 +18525,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I get a forging quote for a European project?",
-                "answer": "Email your drawing (PDF or STEP), standard reference (EN 10250, EN 10083, or ASTM equivalent), material grade, heat treatment condition, certification requirement (3.1 or 3.2), quantity, and delivery port to sales@JK Forge.com. We return a CIF Rotterdam (or your preferred port) quotation in EUR or USD within 24 hours. Call +91-9265772827 for urgent requirements."
+                "answer": "Email your drawing (PDF or STEP), standard reference (EN 10250, EN 10083, or ASTM equivalent), material grade, heat treatment condition, certification requirement (3.1 or 3.2), quantity, and delivery port to sales@JK Forge.com. We return a CIF Rotterdam (or your preferred port) quotation in EUR or USD within 24 hours. Call +91 7600066117 for urgent requirements."
             }
         ]
     },
@@ -18661,7 +18661,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I get a forging quote for a European project?",
-                "answer": "Email your drawing (PDF or STEP), standard reference (EN 10250, EN 10083, or ASTM equivalent), material grade, heat treatment condition, certification requirement (3.1 or 3.2), quantity, and delivery port to sales@JK Forge.com. We return a CIF Rotterdam (or your preferred port) quotation in EUR or USD within 24 hours. Call +91-9265772827 for urgent requirements."
+                "answer": "Email your drawing (PDF or STEP), standard reference (EN 10250, EN 10083, or ASTM equivalent), material grade, heat treatment condition, certification requirement (3.1 or 3.2), quantity, and delivery port to sales@JK Forge.com. We return a CIF Rotterdam (or your preferred port) quotation in EUR or USD within 24 hours. Call +91 7600066117 for urgent requirements."
             }
         ]
     },
@@ -18687,7 +18687,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Winnipeg's Manufacturing, Agricultural Equipment & Rail Gateway Base",
-        "description2": "JK Forge exports forged components to Winnipeg, Manitoba \u2014 alloy steel forgings for the region's agricultural equipment manufacturers, general manufacturing base, and rail transportation gateway. Alloy steel grades, mill test certification, and CIF Central Canada logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Winnipeg, Manitoba \u2014 alloy steel forgings for the region's agricultural equipment manufacturers, general manufacturing base, and rail transportation gateway. Alloy steel grades, mill test certification, and CIF Central Canada logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Rail & Transportation Equipment Manufacturing",
@@ -18811,7 +18811,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Winnipeg's Manufacturing, Agricultural Equipment & Rail Gateway Base",
-        "description2": "JK Forge exports forged components to Winnipeg, Manitoba \u2014 alloy steel forgings for the region's agricultural equipment manufacturers, general manufacturing base, and rail transportation gateway. Alloy steel grades, mill test certification, and CIF Central Canada logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Winnipeg, Manitoba \u2014 alloy steel forgings for the region's agricultural equipment manufacturers, general manufacturing base, and rail transportation gateway. Alloy steel grades, mill test certification, and CIF Central Canada logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Rail & Transportation Equipment Manufacturing",
@@ -18935,7 +18935,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Charlotte \u2014 Energy Sector Equipment, Motorsport Engineering & Piedmont Manufacturing Corridor",
-        "description2": "JK Forge exports forged components to Charlotte, North Carolina \u2014 alloy and carbon steel structural, shaft, and fitting forgings for the region's concentrated energy sector utility and power equipment industry, its nationally significant motorsport engineering cluster, and the broader Piedmont manufacturing corridor across the Carolinas. ASTM/ASME material grades, motorsport-grade material documentation, and CIF Port of Charleston logistics with rail/road delivery. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Charlotte, North Carolina \u2014 alloy and carbon steel structural, shaft, and fitting forgings for the region's concentrated energy sector utility and power equipment industry, its nationally significant motorsport engineering cluster, and the broader Piedmont manufacturing corridor across the Carolinas. ASTM/ASME material grades, motorsport-grade material documentation, and CIF Port of Charleston logistics with rail/road delivery. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Motorsport & Racing Component Manufacturing",
@@ -19059,7 +19059,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Charlotte \u2014 Energy Sector Equipment, Motorsport Engineering & Piedmont Manufacturing Corridor",
-        "description2": "JK Forge exports forged components to Charlotte, North Carolina \u2014 alloy and carbon steel structural, shaft, and fitting forgings for the region's concentrated energy sector utility and power equipment industry, its nationally significant motorsport engineering cluster, and the broader Piedmont manufacturing corridor across the Carolinas. ASTM/ASME material grades, motorsport-grade material documentation, and CIF Port of Charleston logistics with rail/road delivery. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Charlotte, North Carolina \u2014 alloy and carbon steel structural, shaft, and fitting forgings for the region's concentrated energy sector utility and power equipment industry, its nationally significant motorsport engineering cluster, and the broader Piedmont manufacturing corridor across the Carolinas. ASTM/ASME material grades, motorsport-grade material documentation, and CIF Port of Charleston logistics with rail/road delivery. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Motorsport & Racing Component Manufacturing",
@@ -19183,7 +19183,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier to Belgium \u2014 Antwerp, Brussels, Ghent, Li\u00e8ge",
-        "description2": "JK Forge supplies precision hot forgings to Belgium \u2014 serving TotalEnergies Antwerp Refinery (338,000 bbl/day \u2014 one of Europe's largest refineries: SA182 F22 hydrocracker nozzle forgings, SA182 F316L heat exchanger head forgings, PED Category IV T\u00dcV Rheinland CE), Solvay SA (Brussels \u2014 world's #3 specialty chemicals: PVDF nozzle forgings in 316L Ra \u22640.8 \u00b5m, H2O2 reactor nozzle forgings in SA182 F316L, NF EN 10204 3.1), Umicore NV (Brussels \u2014 world's #1 EV battery cathode material [NMC, LFP] + world's #1 precious metal recycler: 316L battery recycling reactor nozzle forgings), ENGIE Belgium (Brussels \u2014 operates Doel 1\u20134 NPP + Tihange 1\u20133 NPP, Belgium's nuclear fleet: 6 PWR units [5.9 GWe], 50% Belgian electricity: EN 10204 3.2, ASME/RCC-M equivalent), INEOS Phenol Antwerp (world's #1 phenol/acetone producer, SA182 F316L reactor nozzle forgings 180\u00b0C/15 bar), and Audi Brussels (Forest/Anderlecht \u2014 Audi Q8 e-tron [electric SUV], 65,000/year: IATF 16949, e-motor shaft forgings 42CrMo4 Q+T). EN 10204 3.1/3.2, PED 2014/68/EU CE. CIF Antwerp 13\u201316 days from Mundra. +91-9265772827.",
+        "description2": "JK Forge supplies precision hot forgings to Belgium \u2014 serving TotalEnergies Antwerp Refinery (338,000 bbl/day \u2014 one of Europe's largest refineries: SA182 F22 hydrocracker nozzle forgings, SA182 F316L heat exchanger head forgings, PED Category IV T\u00dcV Rheinland CE), Solvay SA (Brussels \u2014 world's #3 specialty chemicals: PVDF nozzle forgings in 316L Ra \u22640.8 \u00b5m, H2O2 reactor nozzle forgings in SA182 F316L, NF EN 10204 3.1), Umicore NV (Brussels \u2014 world's #1 EV battery cathode material [NMC, LFP] + world's #1 precious metal recycler: 316L battery recycling reactor nozzle forgings), ENGIE Belgium (Brussels \u2014 operates Doel 1\u20134 NPP + Tihange 1\u20133 NPP, Belgium's nuclear fleet: 6 PWR units [5.9 GWe], 50% Belgian electricity: EN 10204 3.2, ASME/RCC-M equivalent), INEOS Phenol Antwerp (world's #1 phenol/acetone producer, SA182 F316L reactor nozzle forgings 180\u00b0C/15 bar), and Audi Brussels (Forest/Anderlecht \u2014 Audi Q8 e-tron [electric SUV], 65,000/year: IATF 16949, e-motor shaft forgings 42CrMo4 Q+T). EN 10204 3.1/3.2, PED 2014/68/EU CE. CIF Antwerp 13\u201316 days from Mundra. +91 7600066117.",
         "components": [
             {
                 "title": "Factory Address",
@@ -19291,7 +19291,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier to Belgium \u2014 Antwerp, Brussels, Ghent, Li\u00e8ge",
-        "description2": "JK Forge supplies precision hot forgings to Belgium \u2014 serving TotalEnergies Antwerp Refinery (338,000 bbl/day \u2014 one of Europe's largest refineries: SA182 F22 hydrocracker nozzle forgings, SA182 F316L heat exchanger head forgings, PED Category IV T\u00dcV Rheinland CE), Solvay SA (Brussels \u2014 world's #3 specialty chemicals: PVDF nozzle forgings in 316L Ra \u22640.8 \u00b5m, H2O2 reactor nozzle forgings in SA182 F316L, NF EN 10204 3.1), Umicore NV (Brussels \u2014 world's #1 EV battery cathode material [NMC, LFP] + world's #1 precious metal recycler: 316L battery recycling reactor nozzle forgings), ENGIE Belgium (Brussels \u2014 operates Doel 1\u20134 NPP + Tihange 1\u20133 NPP, Belgium's nuclear fleet: 6 PWR units [5.9 GWe], 50% Belgian electricity: EN 10204 3.2, ASME/RCC-M equivalent), INEOS Phenol Antwerp (world's #1 phenol/acetone producer, SA182 F316L reactor nozzle forgings 180\u00b0C/15 bar), and Audi Brussels (Forest/Anderlecht \u2014 Audi Q8 e-tron [electric SUV], 65,000/year: IATF 16949, e-motor shaft forgings 42CrMo4 Q+T). EN 10204 3.1/3.2, PED 2014/68/EU CE. CIF Antwerp 13\u201316 days from Mundra. +91-9265772827.",
+        "description2": "JK Forge supplies precision hot forgings to Belgium \u2014 serving TotalEnergies Antwerp Refinery (338,000 bbl/day \u2014 one of Europe's largest refineries: SA182 F22 hydrocracker nozzle forgings, SA182 F316L heat exchanger head forgings, PED Category IV T\u00dcV Rheinland CE), Solvay SA (Brussels \u2014 world's #3 specialty chemicals: PVDF nozzle forgings in 316L Ra \u22640.8 \u00b5m, H2O2 reactor nozzle forgings in SA182 F316L, NF EN 10204 3.1), Umicore NV (Brussels \u2014 world's #1 EV battery cathode material [NMC, LFP] + world's #1 precious metal recycler: 316L battery recycling reactor nozzle forgings), ENGIE Belgium (Brussels \u2014 operates Doel 1\u20134 NPP + Tihange 1\u20133 NPP, Belgium's nuclear fleet: 6 PWR units [5.9 GWe], 50% Belgian electricity: EN 10204 3.2, ASME/RCC-M equivalent), INEOS Phenol Antwerp (world's #1 phenol/acetone producer, SA182 F316L reactor nozzle forgings 180\u00b0C/15 bar), and Audi Brussels (Forest/Anderlecht \u2014 Audi Q8 e-tron [electric SUV], 65,000/year: IATF 16949, e-motor shaft forgings 42CrMo4 Q+T). EN 10204 3.1/3.2, PED 2014/68/EU CE. CIF Antwerp 13\u201316 days from Mundra. +91 7600066117.",
         "components": [
             {
                 "title": "Factory Address",
@@ -19399,7 +19399,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Papua New Guinea's Mining & LNG Export Economy",
-        "description2": "JK Forge supplies forged steel components to Papua New Guinea \u2014 alloy steel forgings for gold and copper mining equipment, LNG facility applications, and general industrial machinery, engineered for the demanding operating conditions of the Pacific's largest resource-extraction economy. API and ASTM material grades, full mill certification, and ocean freight via regional transshipment. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies forged steel components to Papua New Guinea \u2014 alloy steel forgings for gold and copper mining equipment, LNG facility applications, and general industrial machinery, engineered for the demanding operating conditions of the Pacific's largest resource-extraction economy. API and ASTM material grades, full mill certification, and ocean freight via regional transshipment. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "LNG Facility & Gas Field Equipment",
@@ -19523,7 +19523,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Papua New Guinea's Mining & LNG Export Economy",
-        "description2": "JK Forge supplies forged steel components to Papua New Guinea \u2014 alloy steel forgings for gold and copper mining equipment, LNG facility applications, and general industrial machinery, engineered for the demanding operating conditions of the Pacific's largest resource-extraction economy. API and ASTM material grades, full mill certification, and ocean freight via regional transshipment. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies forged steel components to Papua New Guinea \u2014 alloy steel forgings for gold and copper mining equipment, LNG facility applications, and general industrial machinery, engineered for the demanding operating conditions of the Pacific's largest resource-extraction economy. API and ASTM material grades, full mill certification, and ocean freight via regional transshipment. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "LNG Facility & Gas Field Equipment",
@@ -19919,7 +19919,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Norway, World's Largest Offshore Oil Producer and Fertilizer Leader",
-        "description2": "JK Forge exports NORSOK M-650, EN 10204 3.1, and DNV GL-certified precision hot forgings to Norway \u2014 supplying Equinor (Norway's national oil company \u2014 world's largest offshore oil producer, 2.1 Mbbl/day, Johan Sverdrup 755,000 bbl/day), Yara International (world's #1 fertilizer company, 7.3 MTPA ammonia, Porsgrunn HQ), Aker Solutions (Norway's #1 subsea OEM), Kvaerner (FPSO/platform topsides), TechnipFMC Kongsberg, and Kongsberg Gruppen (maritime/defence). CIF Bergen/Stavanger 16\u201320 days from Mundra via Suez Canal. EN 10204 3.1/3.2, NORSOK M-650, PED 2014/68/EU, DNV GL certified. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports NORSOK M-650, EN 10204 3.1, and DNV GL-certified precision hot forgings to Norway \u2014 supplying Equinor (Norway's national oil company \u2014 world's largest offshore oil producer, 2.1 Mbbl/day, Johan Sverdrup 755,000 bbl/day), Yara International (world's #1 fertilizer company, 7.3 MTPA ammonia, Porsgrunn HQ), Aker Solutions (Norway's #1 subsea OEM), Kvaerner (FPSO/platform topsides), TechnipFMC Kongsberg, and Kongsberg Gruppen (maritime/defence). CIF Bergen/Stavanger 16\u201320 days from Mundra via Suez Canal. EN 10204 3.1/3.2, NORSOK M-650, PED 2014/68/EU, DNV GL certified. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Factory Address",
@@ -20023,7 +20023,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Norway, World's Largest Offshore Oil Producer and Fertilizer Leader",
-        "description2": "JK Forge exports NORSOK M-650, EN 10204 3.1, and DNV GL-certified precision hot forgings to Norway \u2014 supplying Equinor (Norway's national oil company \u2014 world's largest offshore oil producer, 2.1 Mbbl/day, Johan Sverdrup 755,000 bbl/day), Yara International (world's #1 fertilizer company, 7.3 MTPA ammonia, Porsgrunn HQ), Aker Solutions (Norway's #1 subsea OEM), Kvaerner (FPSO/platform topsides), TechnipFMC Kongsberg, and Kongsberg Gruppen (maritime/defence). CIF Bergen/Stavanger 16\u201320 days from Mundra via Suez Canal. EN 10204 3.1/3.2, NORSOK M-650, PED 2014/68/EU, DNV GL certified. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports NORSOK M-650, EN 10204 3.1, and DNV GL-certified precision hot forgings to Norway \u2014 supplying Equinor (Norway's national oil company \u2014 world's largest offshore oil producer, 2.1 Mbbl/day, Johan Sverdrup 755,000 bbl/day), Yara International (world's #1 fertilizer company, 7.3 MTPA ammonia, Porsgrunn HQ), Aker Solutions (Norway's #1 subsea OEM), Kvaerner (FPSO/platform topsides), TechnipFMC Kongsberg, and Kongsberg Gruppen (maritime/defence). CIF Bergen/Stavanger 16\u201320 days from Mundra via Suez Canal. EN 10204 3.1/3.2, NORSOK M-650, PED 2014/68/EU, DNV GL certified. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Factory Address",
@@ -20127,7 +20127,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Turkmenistan's Natural Gas & Energy Sector Equipment Base",
-        "description2": "JK Forge supplies certified forgings to Turkmenistan \u2014 alloy steel and corrosion-resistant flange, valve, and fitting component forgings for the country's natural gas and broader energy sector equipment supply chain. EN 10204 3.1/3.2 certification, ASTM/DIN material grades, and CIF Caspian/Central Asia shipping. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified forgings to Turkmenistan \u2014 alloy steel and corrosion-resistant flange, valve, and fitting component forgings for the country's natural gas and broader energy sector equipment supply chain. EN 10204 3.1/3.2 certification, ASTM/DIN material grades, and CIF Caspian/Central Asia shipping. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Gas Processing & Pipeline Infrastructure",
@@ -20251,7 +20251,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Turkmenistan's Natural Gas & Energy Sector Equipment Base",
-        "description2": "JK Forge supplies certified forgings to Turkmenistan \u2014 alloy steel and corrosion-resistant flange, valve, and fitting component forgings for the country's natural gas and broader energy sector equipment supply chain. EN 10204 3.1/3.2 certification, ASTM/DIN material grades, and CIF Caspian/Central Asia shipping. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified forgings to Turkmenistan \u2014 alloy steel and corrosion-resistant flange, valve, and fitting component forgings for the country's natural gas and broader energy sector equipment supply chain. EN 10204 3.1/3.2 certification, ASTM/DIN material grades, and CIF Caspian/Central Asia shipping. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Gas Processing & Pipeline Infrastructure",
@@ -20375,7 +20375,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for S\u00e3o Paulo \u2014 Brazil's Largest Industrial and Financial Center",
-        "description2": "JK Forge exports forged components to S\u00e3o Paulo, Brazil \u2014 alloy steel forgings for the region's automotive-adjacent supply chain, general industrial manufacturing, and heavy equipment base. Alloy steel grades, mill test certification, and CIF Santos port logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to S\u00e3o Paulo, Brazil \u2014 alloy steel forgings for the region's automotive-adjacent supply chain, general industrial manufacturing, and heavy equipment base. Alloy steel grades, mill test certification, and CIF Santos port logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "General Industrial Machinery Manufacturing",
@@ -20499,7 +20499,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for S\u00e3o Paulo \u2014 Brazil's Largest Industrial and Financial Center",
-        "description2": "JK Forge exports forged components to S\u00e3o Paulo, Brazil \u2014 alloy steel forgings for the region's automotive-adjacent supply chain, general industrial manufacturing, and heavy equipment base. Alloy steel grades, mill test certification, and CIF Santos port logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to S\u00e3o Paulo, Brazil \u2014 alloy steel forgings for the region's automotive-adjacent supply chain, general industrial manufacturing, and heavy equipment base. Alloy steel grades, mill test certification, and CIF Santos port logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "General Industrial Machinery Manufacturing",
@@ -20623,7 +20623,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Uzbekistan's Mining, Textile Machinery & Growing Central Asian Industrial Base",
-        "description2": "JK Forge supplies certified precision forgings to Uzbekistan \u2014 alloy and carbon steel mining equipment, textile machinery, and general industrial forgings for the manufacturing base concentrated around Tashkent and Uzbekistan's other industrial centers. ASTM/GOST-compatible material grades, EN 10204 3.1/3.2 certification, and CIF regional seaport shipping with onward rail delivery through Central Asian transport corridors. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified precision forgings to Uzbekistan \u2014 alloy and carbon steel mining equipment, textile machinery, and general industrial forgings for the manufacturing base concentrated around Tashkent and Uzbekistan's other industrial centers. ASTM/GOST-compatible material grades, EN 10204 3.1/3.2 certification, and CIF regional seaport shipping with onward rail delivery through Central Asian transport corridors. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Textile & Cotton Processing Machinery",
@@ -20747,7 +20747,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Uzbekistan's Mining, Textile Machinery & Growing Central Asian Industrial Base",
-        "description2": "JK Forge supplies certified precision forgings to Uzbekistan \u2014 alloy and carbon steel mining equipment, textile machinery, and general industrial forgings for the manufacturing base concentrated around Tashkent and Uzbekistan's other industrial centers. ASTM/GOST-compatible material grades, EN 10204 3.1/3.2 certification, and CIF regional seaport shipping with onward rail delivery through Central Asian transport corridors. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified precision forgings to Uzbekistan \u2014 alloy and carbon steel mining equipment, textile machinery, and general industrial forgings for the manufacturing base concentrated around Tashkent and Uzbekistan's other industrial centers. ASTM/GOST-compatible material grades, EN 10204 3.1/3.2 certification, and CIF regional seaport shipping with onward rail delivery through Central Asian transport corridors. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Textile & Cotton Processing Machinery",
@@ -20871,7 +20871,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Los Angeles \u2014 Aerospace Engineering, Themed Entertainment & Port Logistics",
-        "description2": "JK Forge exports forged components to Los Angeles and Southern California \u2014 alloy steel and stainless structural, bracket, and fitting forgings for the region's aerospace and defense engineering corridor, themed entertainment and ride equipment manufacturers, and the importers and distributors served by the Port of Los Angeles and Port of Long Beach gateway. AS9100-aligned documentation, ASTM/ASME material grades, and CIF West Coast port logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Los Angeles and Southern California \u2014 alloy steel and stainless structural, bracket, and fitting forgings for the region's aerospace and defense engineering corridor, themed entertainment and ride equipment manufacturers, and the importers and distributors served by the Port of Los Angeles and Port of Long Beach gateway. AS9100-aligned documentation, ASTM/ASME material grades, and CIF West Coast port logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "General & Precision Manufacturing",
@@ -20995,7 +20995,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Los Angeles \u2014 Aerospace Engineering, Themed Entertainment & Port Logistics",
-        "description2": "JK Forge exports forged components to Los Angeles and Southern California \u2014 alloy steel and stainless structural, bracket, and fitting forgings for the region's aerospace and defense engineering corridor, themed entertainment and ride equipment manufacturers, and the importers and distributors served by the Port of Los Angeles and Port of Long Beach gateway. AS9100-aligned documentation, ASTM/ASME material grades, and CIF West Coast port logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Los Angeles and Southern California \u2014 alloy steel and stainless structural, bracket, and fitting forgings for the region's aerospace and defense engineering corridor, themed entertainment and ride equipment manufacturers, and the importers and distributors served by the Port of Los Angeles and Port of Long Beach gateway. AS9100-aligned documentation, ASTM/ASME material grades, and CIF West Coast port logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "General & Precision Manufacturing",
@@ -21119,7 +21119,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Montreal and Quebec's Aerospace-Adjacent Engineering Base",
-        "description2": "JK Forge exports forged components to Montreal, Quebec \u2014 alloy steel forgings for the region's aerospace-adjacent engineering firms, rail and transit equipment manufacturers, and general industrial base. Alloy steel grades, mill test certification, and CIF Eastern Canada logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Montreal, Quebec \u2014 alloy steel forgings for the region's aerospace-adjacent engineering firms, rail and transit equipment manufacturers, and general industrial base. Alloy steel grades, mill test certification, and CIF Eastern Canada logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Rail & Transit Equipment Manufacturing",
@@ -21243,7 +21243,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Montreal and Quebec's Aerospace-Adjacent Engineering Base",
-        "description2": "JK Forge exports forged components to Montreal, Quebec \u2014 alloy steel forgings for the region's aerospace-adjacent engineering firms, rail and transit equipment manufacturers, and general industrial base. Alloy steel grades, mill test certification, and CIF Eastern Canada logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Montreal, Quebec \u2014 alloy steel forgings for the region's aerospace-adjacent engineering firms, rail and transit equipment manufacturers, and general industrial base. Alloy steel grades, mill test certification, and CIF Eastern Canada logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Rail & Transit Equipment Manufacturing",
@@ -21449,7 +21449,7 @@ window.pageContent['locationsData'] = {
         "faqs": [
             {
                 "question": "Which is the best steel forging company in Rajkot?",
-                "answer": "JK Forge at Shapar, Rajkot, Gujarat is one of the leading steel forging manufacturers. We forge alloy steel, carbon steel, and stainless steel components using closed-die hot forging with in-house heat treatment and CNC machining. Contact +91-9265772827."
+                "answer": "JK Forge at Shapar, Rajkot, Gujarat is one of the leading steel forging manufacturers. We forge alloy steel, carbon steel, and stainless steel components using closed-die hot forging with in-house heat treatment and CNC machining. Contact +91 7600066117."
             },
             {
                 "question": "What steel grades does JK Forge use for forging?",
@@ -21457,7 +21457,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "What is the price of steel forging in Rajkot?",
-                "answer": "Steel forging prices in Rajkot depend on the steel grade, component weight, complexity, quantity, and post-forging operations (heat treatment, machining). Contact JK Forge at +91-9265772827 or sales@JK Forge.com for a price."
+                "answer": "Steel forging prices in Rajkot depend on the steel grade, component weight, complexity, quantity, and post-forging operations (heat treatment, machining). Contact JK Forge at +91 7600066117 or sales@JK Forge.com for a price."
             }
         ]
     },
@@ -21565,7 +21565,7 @@ window.pageContent['locationsData'] = {
         "faqs": [
             {
                 "question": "Which is the best steel forging company in Rajkot?",
-                "answer": "JK Forge at Shapar, Rajkot, Gujarat is one of the leading steel forging manufacturers. We forge alloy steel, carbon steel, and stainless steel components using closed-die hot forging with in-house heat treatment and CNC machining. Contact +91-9265772827."
+                "answer": "JK Forge at Shapar, Rajkot, Gujarat is one of the leading steel forging manufacturers. We forge alloy steel, carbon steel, and stainless steel components using closed-die hot forging with in-house heat treatment and CNC machining. Contact +91 7600066117."
             },
             {
                 "question": "What steel grades does JK Forge use for forging?",
@@ -21573,7 +21573,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "What is the price of steel forging in Rajkot?",
-                "answer": "Steel forging prices in Rajkot depend on the steel grade, component weight, complexity, quantity, and post-forging operations (heat treatment, machining). Contact JK Forge at +91-9265772827 or sales@JK Forge.com for a price."
+                "answer": "Steel forging prices in Rajkot depend on the steel grade, component weight, complexity, quantity, and post-forging operations (heat treatment, machining). Contact JK Forge at +91 7600066117 or sales@JK Forge.com for a price."
             }
         ]
     },
@@ -21871,7 +21871,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Precision Hot Forgings for Ranchi's Heavy Engineering, Machine Tool & Mineral-Rich Industrial Base",
-        "description2": "JK Forge supplies precision hot forgings to Ranchi, Jharkhand \u2014 alloy steel, carbon steel, and stainless steel forgings for the heavy engineering, machine tool, and mining equipment manufacturers concentrated across this mineral-rich eastern India industrial hub. Multimodal road and rail dispatch from our Shapar GIDC facility in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies precision hot forgings to Ranchi, Jharkhand \u2014 alloy steel, carbon steel, and stainless steel forgings for the heavy engineering, machine tool, and mining equipment manufacturers concentrated across this mineral-rich eastern India industrial hub. Multimodal road and rail dispatch from our Shapar GIDC facility in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Mining & Mineral Processing Equipment",
@@ -21969,7 +21969,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I get a quote for delivery to Ranchi?",
-                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91-9265772827. We respond with a price and lead time, and confirm the most cost-effective freight option for your consignment size."
+                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91 7600066117. We respond with a price and lead time, and confirm the most cost-effective freight option for your consignment size."
             }
         ]
     },
@@ -21995,7 +21995,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Precision Hot Forgings for Ranchi's Heavy Engineering, Machine Tool & Mineral-Rich Industrial Base",
-        "description2": "JK Forge supplies precision hot forgings to Ranchi, Jharkhand \u2014 alloy steel, carbon steel, and stainless steel forgings for the heavy engineering, machine tool, and mining equipment manufacturers concentrated across this mineral-rich eastern India industrial hub. Multimodal road and rail dispatch from our Shapar GIDC facility in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies precision hot forgings to Ranchi, Jharkhand \u2014 alloy steel, carbon steel, and stainless steel forgings for the heavy engineering, machine tool, and mining equipment manufacturers concentrated across this mineral-rich eastern India industrial hub. Multimodal road and rail dispatch from our Shapar GIDC facility in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Mining & Mineral Processing Equipment",
@@ -22093,7 +22093,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I get a quote for delivery to Ranchi?",
-                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91-9265772827. We respond with a price and lead time, and confirm the most cost-effective freight option for your consignment size."
+                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91 7600066117. We respond with a price and lead time, and confirm the most cost-effective freight option for your consignment size."
             }
         ]
     },
@@ -22382,7 +22382,7 @@ window.pageContent['locationsData'] = {
                 "sub": "Fast Quote Response"
             }
         ],
-        "description1": "JK Forge supplies pump shaft forgings, impeller blanks, compressor piston rods, valve seat rings and motor shaft blanks to Coimbatore's 2,500+ pump manufacturers and 400+ compressor OEMs. ISO 9001:2015 certified, Rajkot-based \u2014 1,600 km, 2-day road/rail freight. 30\u201340% cost advantage over local Tamil Nadu forging suppliers. Call +91-9265772827.",
+        "description1": "JK Forge supplies pump shaft forgings, impeller blanks, compressor piston rods, valve seat rings and motor shaft blanks to Coimbatore's 2,500+ pump manufacturers and 400+ compressor OEMs. ISO 9001:2015 certified, Rajkot-based \u2014 1,600 km, 2-day road/rail freight. 30\u201340% cost advantage over local Tamil Nadu forging suppliers. Call +91 7600066117.",
         "description2": "Coimbatore has earned its title as India's pump capital \u2014 over 2,500 pump manufacturers and 400+ compressor OEMs operate within the city and surrounding districts of Tirupur, Erode and Salem. These manufacturers collectively consume thousands of tonnes of forged components monthly. JK Forge has been supplying this cluster from Rajkot for over a decade, delivering ISO-certified forgings with a consistent 30\u201340% cost advantage over Tamil Nadu-based forging suppliers.",
         "components": [
             {
@@ -22518,7 +22518,7 @@ window.pageContent['locationsData'] = {
                 "sub": "Fast Quote Response"
             }
         ],
-        "description1": "JK Forge supplies pump shaft forgings, impeller blanks, compressor piston rods, valve seat rings and motor shaft blanks to Coimbatore's 2,500+ pump manufacturers and 400+ compressor OEMs. ISO 9001:2015 certified, Rajkot-based \u2014 1,600 km, 2-day road/rail freight. 30\u201340% cost advantage over local Tamil Nadu forging suppliers. Call +91-9265772827.",
+        "description1": "JK Forge supplies pump shaft forgings, impeller blanks, compressor piston rods, valve seat rings and motor shaft blanks to Coimbatore's 2,500+ pump manufacturers and 400+ compressor OEMs. ISO 9001:2015 certified, Rajkot-based \u2014 1,600 km, 2-day road/rail freight. 30\u201340% cost advantage over local Tamil Nadu forging suppliers. Call +91 7600066117.",
         "description2": "Coimbatore has earned its title as India's pump capital \u2014 over 2,500 pump manufacturers and 400+ compressor OEMs operate within the city and surrounding districts of Tirupur, Erode and Salem. These manufacturers collectively consume thousands of tonnes of forged components monthly. JK Forge has been supplying this cluster from Rajkot for over a decade, delivering ISO-certified forgings with a consistent 30\u201340% cost advantage over Tamil Nadu-based forging suppliers.",
         "components": [
             {
@@ -22655,7 +22655,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 North Macedonia's Automotive-Parts & Metalworking Sector",
-        "description2": "JK Forge supplies certified precision forgings to North Macedonia \u2014 alloy steel driveline, structural, and general engineering component forgings for the country's growing automotive-parts and metalworking manufacturing base. EN 10204 3.1/3.2 certification, DIN EN material grades, and CIF Thessaloniki or Durres shipping with onward road delivery. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified precision forgings to North Macedonia \u2014 alloy steel driveline, structural, and general engineering component forgings for the country's growing automotive-parts and metalworking manufacturing base. EN 10204 3.1/3.2 certification, DIN EN material grades, and CIF Thessaloniki or Durres shipping with onward road delivery. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Metalworking & Machine Component Manufacturing",
@@ -22779,7 +22779,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 North Macedonia's Automotive-Parts & Metalworking Sector",
-        "description2": "JK Forge supplies certified precision forgings to North Macedonia \u2014 alloy steel driveline, structural, and general engineering component forgings for the country's growing automotive-parts and metalworking manufacturing base. EN 10204 3.1/3.2 certification, DIN EN material grades, and CIF Thessaloniki or Durres shipping with onward road delivery. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified precision forgings to North Macedonia \u2014 alloy steel driveline, structural, and general engineering component forgings for the country's growing automotive-parts and metalworking manufacturing base. EN 10204 3.1/3.2 certification, DIN EN material grades, and CIF Thessaloniki or Durres shipping with onward road delivery. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Metalworking & Machine Component Manufacturing",
@@ -22903,7 +22903,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Calgary's Oil & Gas Engineering and Corporate Hub",
-        "description2": "JK Forge exports forged components to Calgary, Alberta \u2014 alloy steel forgings for the region's oil and gas equipment supply chain, energy engineering firms, and general Alberta industrial base. Alloy steel grades, mill test certification, and CIF Western Canada logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Calgary, Alberta \u2014 alloy steel forgings for the region's oil and gas equipment supply chain, energy engineering firms, and general Alberta industrial base. Alloy steel grades, mill test certification, and CIF Western Canada logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Pipeline & Processing Equipment Manufacturing",
@@ -23027,7 +23027,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Calgary's Oil & Gas Engineering and Corporate Hub",
-        "description2": "JK Forge exports forged components to Calgary, Alberta \u2014 alloy steel forgings for the region's oil and gas equipment supply chain, energy engineering firms, and general Alberta industrial base. Alloy steel grades, mill test certification, and CIF Western Canada logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Calgary, Alberta \u2014 alloy steel forgings for the region's oil and gas equipment supply chain, energy engineering firms, and general Alberta industrial base. Alloy steel grades, mill test certification, and CIF Western Canada logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Pipeline & Processing Equipment Manufacturing",
@@ -23151,7 +23151,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Zambia's Copperbelt Mining and Industrial Equipment Sector",
-        "description2": "JK Forge supplies certified forgings to Zambia \u2014 alloy and carbon steel forgings for mining equipment manufacturers, mineral processing equipment builders, and general industrial machinery manufacturers serving the Copperbelt and broader Zambian economy. Material test certification, ASTM/EN material grades, and shipping via Dar es Salaam or Durban with onward inland transport. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified forgings to Zambia \u2014 alloy and carbon steel forgings for mining equipment manufacturers, mineral processing equipment builders, and general industrial machinery manufacturers serving the Copperbelt and broader Zambian economy. Material test certification, ASTM/EN material grades, and shipping via Dar es Salaam or Durban with onward inland transport. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Mineral Processing & Extraction Equipment",
@@ -23275,7 +23275,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Zambia's Copperbelt Mining and Industrial Equipment Sector",
-        "description2": "JK Forge supplies certified forgings to Zambia \u2014 alloy and carbon steel forgings for mining equipment manufacturers, mineral processing equipment builders, and general industrial machinery manufacturers serving the Copperbelt and broader Zambian economy. Material test certification, ASTM/EN material grades, and shipping via Dar es Salaam or Durban with onward inland transport. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified forgings to Zambia \u2014 alloy and carbon steel forgings for mining equipment manufacturers, mineral processing equipment builders, and general industrial machinery manufacturers serving the Copperbelt and broader Zambian economy. Material test certification, ASTM/EN material grades, and shipping via Dar es Salaam or Durban with onward inland transport. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Mineral Processing & Extraction Equipment",
@@ -23399,7 +23399,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 C\u00f4te d'Ivoire's Port Logistics and Agri-Processing Industrial Base",
-        "description2": "JK Forge supplies certified forgings to C\u00f4te d'Ivoire (Ivory Coast) \u2014 alloy and carbon steel forgings for agricultural processing equipment manufacturers, port and materials handling equipment builders, and general industrial machinery manufacturers serving Abidjan and the broader West African market. Material test certification, ASTM/EN material grades, and direct CIF shipping to the Port of Abidjan. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified forgings to C\u00f4te d'Ivoire (Ivory Coast) \u2014 alloy and carbon steel forgings for agricultural processing equipment manufacturers, port and materials handling equipment builders, and general industrial machinery manufacturers serving Abidjan and the broader West African market. Material test certification, ASTM/EN material grades, and direct CIF shipping to the Port of Abidjan. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Port & Materials Handling Equipment Manufacturing",
@@ -23523,7 +23523,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 C\u00f4te d'Ivoire's Port Logistics and Agri-Processing Industrial Base",
-        "description2": "JK Forge supplies certified forgings to C\u00f4te d'Ivoire (Ivory Coast) \u2014 alloy and carbon steel forgings for agricultural processing equipment manufacturers, port and materials handling equipment builders, and general industrial machinery manufacturers serving Abidjan and the broader West African market. Material test certification, ASTM/EN material grades, and direct CIF shipping to the Port of Abidjan. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified forgings to C\u00f4te d'Ivoire (Ivory Coast) \u2014 alloy and carbon steel forgings for agricultural processing equipment manufacturers, port and materials handling equipment builders, and general industrial machinery manufacturers serving Abidjan and the broader West African market. Material test certification, ASTM/EN material grades, and direct CIF shipping to the Port of Abidjan. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Port & Materials Handling Equipment Manufacturing",
@@ -23647,7 +23647,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for the Twin Cities' Medical Device, Agricultural & Precision Manufacturing Base",
-        "description2": "JK Forge exports forged components to Minneapolis-St. Paul, Minnesota \u2014 alloy and stainless steel forgings for the region's agricultural equipment manufacturers, medical device and surgical instrument equipment manufacturers, and broader precision manufacturing base across the Upper Midwest. Alloy and stainless steel grades, full material certification, and CIF Midwest logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Minneapolis-St. Paul, Minnesota \u2014 alloy and stainless steel forgings for the region's agricultural equipment manufacturers, medical device and surgical instrument equipment manufacturers, and broader precision manufacturing base across the Upper Midwest. Alloy and stainless steel grades, full material certification, and CIF Midwest logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Agricultural Equipment Manufacturing",
@@ -23771,7 +23771,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for the Twin Cities' Medical Device, Agricultural & Precision Manufacturing Base",
-        "description2": "JK Forge exports forged components to Minneapolis-St. Paul, Minnesota \u2014 alloy and stainless steel forgings for the region's agricultural equipment manufacturers, medical device and surgical instrument equipment manufacturers, and broader precision manufacturing base across the Upper Midwest. Alloy and stainless steel grades, full material certification, and CIF Midwest logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Minneapolis-St. Paul, Minnesota \u2014 alloy and stainless steel forgings for the region's agricultural equipment manufacturers, medical device and surgical instrument equipment manufacturers, and broader precision manufacturing base across the Upper Midwest. Alloy and stainless steel grades, full material certification, and CIF Midwest logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Agricultural Equipment Manufacturing",
@@ -23895,7 +23895,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Dallas-Fort Worth \u2014 Aerospace Manufacturing, Energy Sector Engineering & General Industry",
-        "description2": "JK Forge exports forged components to Dallas-Fort Worth, Texas \u2014 alloy steel and carbon steel structural, bracket, and driveline forgings for the region's aerospace and defense aircraft manufacturing base, the corporate and engineering headquarters concentration of the oil and gas industry, and the broader general manufacturing sector across North Texas. ASTM/ASME material grades, AS9100-aligned documentation for aerospace buyers, and CIF Gulf Coast port logistics with inland delivery. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Dallas-Fort Worth, Texas \u2014 alloy steel and carbon steel structural, bracket, and driveline forgings for the region's aerospace and defense aircraft manufacturing base, the corporate and engineering headquarters concentration of the oil and gas industry, and the broader general manufacturing sector across North Texas. ASTM/ASME material grades, AS9100-aligned documentation for aerospace buyers, and CIF Gulf Coast port logistics with inland delivery. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Oil & Gas Equipment Engineering Support",
@@ -24019,7 +24019,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Dallas-Fort Worth \u2014 Aerospace Manufacturing, Energy Sector Engineering & General Industry",
-        "description2": "JK Forge exports forged components to Dallas-Fort Worth, Texas \u2014 alloy steel and carbon steel structural, bracket, and driveline forgings for the region's aerospace and defense aircraft manufacturing base, the corporate and engineering headquarters concentration of the oil and gas industry, and the broader general manufacturing sector across North Texas. ASTM/ASME material grades, AS9100-aligned documentation for aerospace buyers, and CIF Gulf Coast port logistics with inland delivery. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Dallas-Fort Worth, Texas \u2014 alloy steel and carbon steel structural, bracket, and driveline forgings for the region's aerospace and defense aircraft manufacturing base, the corporate and engineering headquarters concentration of the oil and gas industry, and the broader general manufacturing sector across North Texas. ASTM/ASME material grades, AS9100-aligned documentation for aerospace buyers, and CIF Gulf Coast port logistics with inland delivery. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Oil & Gas Equipment Engineering Support",
@@ -24143,7 +24143,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Kosovo's Mining Sector & Developing Industrial Base",
-        "description2": "JK Forge supplies certified forgings to Kosovo \u2014 alloy and wear-resistant steel component forgings for the country's lignite and lead-zinc mining equipment supply chain and developing general industrial sector. EN 10204 3.1/3.2 certification, DIN-aligned material grades, and CIF Adriatic/Balkan shipping. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified forgings to Kosovo \u2014 alloy and wear-resistant steel component forgings for the country's lignite and lead-zinc mining equipment supply chain and developing general industrial sector. EN 10204 3.1/3.2 certification, DIN-aligned material grades, and CIF Adriatic/Balkan shipping. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Mineral & Coal Processing Equipment Manufacturing",
@@ -24267,7 +24267,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Kosovo's Mining Sector & Developing Industrial Base",
-        "description2": "JK Forge supplies certified forgings to Kosovo \u2014 alloy and wear-resistant steel component forgings for the country's lignite and lead-zinc mining equipment supply chain and developing general industrial sector. EN 10204 3.1/3.2 certification, DIN-aligned material grades, and CIF Adriatic/Balkan shipping. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified forgings to Kosovo \u2014 alloy and wear-resistant steel component forgings for the country's lignite and lead-zinc mining equipment supply chain and developing general industrial sector. EN 10204 3.1/3.2 certification, DIN-aligned material grades, and CIF Adriatic/Balkan shipping. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Mineral & Coal Processing Equipment Manufacturing",
@@ -24391,7 +24391,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Rwanda's Emerging Manufacturing and Mining Equipment Sector",
-        "description2": "JK Forge supplies certified forgings to Rwanda \u2014 alloy and carbon steel forgings for mining equipment manufacturers, general manufacturing, and logistics and materials handling equipment builders serving Kigali and the broader Rwandan economy. Material test certification, ASTM/EN material grades, and shipping via Mombasa or Dar es Salaam with onward inland transport. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified forgings to Rwanda \u2014 alloy and carbon steel forgings for mining equipment manufacturers, general manufacturing, and logistics and materials handling equipment builders serving Kigali and the broader Rwandan economy. Material test certification, ASTM/EN material grades, and shipping via Mombasa or Dar es Salaam with onward inland transport. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "General Manufacturing & Light Industry",
@@ -24515,7 +24515,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Rwanda's Emerging Manufacturing and Mining Equipment Sector",
-        "description2": "JK Forge supplies certified forgings to Rwanda \u2014 alloy and carbon steel forgings for mining equipment manufacturers, general manufacturing, and logistics and materials handling equipment builders serving Kigali and the broader Rwandan economy. Material test certification, ASTM/EN material grades, and shipping via Mombasa or Dar es Salaam with onward inland transport. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified forgings to Rwanda \u2014 alloy and carbon steel forgings for mining equipment manufacturers, general manufacturing, and logistics and materials handling equipment builders serving Kigali and the broader Rwandan economy. Material test certification, ASTM/EN material grades, and shipping via Mombasa or Dar es Salaam with onward inland transport. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "General Manufacturing & Light Industry",
@@ -24911,7 +24911,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Slovakia's Automotive Assembly & Component Supply Chain",
-        "description2": "JK Forge supplies certified precision forgings to Slovakia \u2014 alloy steel driveline, steering, and suspension component forgings for the automotive assembly and component supply industry concentrated across the country. EN 10204 3.1/3.2 certification, DIN EN material grades, and CIF Hamburg or Koper shipping with road/rail delivery. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified precision forgings to Slovakia \u2014 alloy steel driveline, steering, and suspension component forgings for the automotive assembly and component supply industry concentrated across the country. EN 10204 3.1/3.2 certification, DIN EN material grades, and CIF Hamburg or Koper shipping with road/rail delivery. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Driveline & Transmission Component Manufacturing",
@@ -25035,7 +25035,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Slovakia's Automotive Assembly & Component Supply Chain",
-        "description2": "JK Forge supplies certified precision forgings to Slovakia \u2014 alloy steel driveline, steering, and suspension component forgings for the automotive assembly and component supply industry concentrated across the country. EN 10204 3.1/3.2 certification, DIN EN material grades, and CIF Hamburg or Koper shipping with road/rail delivery. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified precision forgings to Slovakia \u2014 alloy steel driveline, steering, and suspension component forgings for the automotive assembly and component supply industry concentrated across the country. EN 10204 3.1/3.2 certification, DIN EN material grades, and CIF Hamburg or Koper shipping with road/rail delivery. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Driveline & Transmission Component Manufacturing",
@@ -25159,7 +25159,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Precision Hot Forgings for Noida's Diverse Manufacturing and Export-Oriented Industry Base",
-        "description2": "JK Forge supplies precision hot forgings to Noida, Uttar Pradesh \u2014 alloy steel, carbon steel, and stainless steel forgings for the auto component, electronics hardware, engineering goods, and export-oriented manufacturing units concentrated across this planned Delhi-NCR industrial city. Multimodal dispatch from our Shapar GIDC, Rajkot facility. Call +91-9265772827.",
+        "description2": "JK Forge supplies precision hot forgings to Noida, Uttar Pradesh \u2014 alloy steel, carbon steel, and stainless steel forgings for the auto component, electronics hardware, engineering goods, and export-oriented manufacturing units concentrated across this planned Delhi-NCR industrial city. Multimodal dispatch from our Shapar GIDC, Rajkot facility. Call +91 7600066117.",
         "components": [
             {
                 "title": "Export-Oriented Engineering Manufacturing",
@@ -25257,7 +25257,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I get a quote for delivery to Noida?",
-                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91-9265772827. We respond with a price and lead time, and confirm the most cost-effective freight option for your consignment size."
+                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91 7600066117. We respond with a price and lead time, and confirm the most cost-effective freight option for your consignment size."
             }
         ]
     },
@@ -25283,7 +25283,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Precision Hot Forgings for Noida's Diverse Manufacturing and Export-Oriented Industry Base",
-        "description2": "JK Forge supplies precision hot forgings to Noida, Uttar Pradesh \u2014 alloy steel, carbon steel, and stainless steel forgings for the auto component, electronics hardware, engineering goods, and export-oriented manufacturing units concentrated across this planned Delhi-NCR industrial city. Multimodal dispatch from our Shapar GIDC, Rajkot facility. Call +91-9265772827.",
+        "description2": "JK Forge supplies precision hot forgings to Noida, Uttar Pradesh \u2014 alloy steel, carbon steel, and stainless steel forgings for the auto component, electronics hardware, engineering goods, and export-oriented manufacturing units concentrated across this planned Delhi-NCR industrial city. Multimodal dispatch from our Shapar GIDC, Rajkot facility. Call +91 7600066117.",
         "components": [
             {
                 "title": "Export-Oriented Engineering Manufacturing",
@@ -25381,7 +25381,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I get a quote for delivery to Noida?",
-                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91-9265772827. We respond with a price and lead time, and confirm the most cost-effective freight option for your consignment size."
+                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91 7600066117. We respond with a price and lead time, and confirm the most cost-effective freight option for your consignment size."
             }
         ]
     },
@@ -25407,7 +25407,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Turin's Automotive Engineering & Precision Manufacturing Base",
-        "description2": "JK Forge exports forged components to Turin, Italy \u2014 alloy steel steering, suspension, driveline, and powertrain component forgings for the automotive design, engineering, and component supply base concentrated in and around Turin. EN 10204 3.1/3.2 certification, DIN EN and UNI material grades, and CIF Genoa shipping with onward road delivery. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Turin, Italy \u2014 alloy steel steering, suspension, driveline, and powertrain component forgings for the automotive design, engineering, and component supply base concentrated in and around Turin. EN 10204 3.1/3.2 certification, DIN EN and UNI material grades, and CIF Genoa shipping with onward road delivery. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Driveline & Powertrain Component Manufacturing",
@@ -25531,7 +25531,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Turin's Automotive Engineering & Precision Manufacturing Base",
-        "description2": "JK Forge exports forged components to Turin, Italy \u2014 alloy steel steering, suspension, driveline, and powertrain component forgings for the automotive design, engineering, and component supply base concentrated in and around Turin. EN 10204 3.1/3.2 certification, DIN EN and UNI material grades, and CIF Genoa shipping with onward road delivery. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Turin, Italy \u2014 alloy steel steering, suspension, driveline, and powertrain component forgings for the automotive design, engineering, and component supply base concentrated in and around Turin. EN 10204 3.1/3.2 certification, DIN EN and UNI material grades, and CIF Genoa shipping with onward road delivery. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Driveline & Powertrain Component Manufacturing",
@@ -25655,7 +25655,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Rajkot Forging Supplier Serving Chennai's Auto & Industrial Belt",
-        "description2": "JK Forge supplies precision automotive and industrial hot forgings to Chennai's Oragadam and Sriperumbudur auto hubs \u2014 Hyundai, BMW, Renault-Nissan, Ashok Leyland, TVS, Royal Enfield \u2014 from our Shapar GIDC facility in Rajkot. Railway and road freight via Chennai port for export. Competitive pricing versus Coimbatore or local Tamil Nadu vendors. ISO 9001:2015. Call +91 92657 72827.",
+        "description2": "JK Forge supplies precision automotive and industrial hot forgings to Chennai's Oragadam and Sriperumbudur auto hubs \u2014 Hyundai, BMW, Renault-Nissan, Ashok Leyland, TVS, Royal Enfield \u2014 from our Shapar GIDC facility in Rajkot. Railway and road freight via Chennai port for export. Competitive pricing versus Coimbatore or local Tamil Nadu vendors. ISO 9001:2015. Call +91 7600066117.",
         "components": [
             {
                 "title": "Commercial Vehicle \u2014 Ashok Leyland, TAFE, Daimler",
@@ -25765,7 +25765,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I start ordering forgings from JK Forge for Chennai delivery?",
-                "answer": "Send your component drawings, material specifications, quantity requirements and delivery schedule to sales@JK Forge.com or call +91 92657 72827. Our team will review your requirements, confirm manufacturing capability, provide a quotation within 24 hours and advise on the optimal freight routing for your Chennai location."
+                "answer": "Send your component drawings, material specifications, quantity requirements and delivery schedule to sales@JK Forge.com or call +91 7600066117. Our team will review your requirements, confirm manufacturing capability, provide a quotation within 24 hours and advise on the optimal freight routing for your Chennai location."
             }
         ]
     },
@@ -25791,7 +25791,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Rajkot Forging Supplier Serving Chennai's Auto & Industrial Belt",
-        "description2": "JK Forge supplies precision automotive and industrial hot forgings to Chennai's Oragadam and Sriperumbudur auto hubs \u2014 Hyundai, BMW, Renault-Nissan, Ashok Leyland, TVS, Royal Enfield \u2014 from our Shapar GIDC facility in Rajkot. Railway and road freight via Chennai port for export. Competitive pricing versus Coimbatore or local Tamil Nadu vendors. ISO 9001:2015. Call +91 92657 72827.",
+        "description2": "JK Forge supplies precision automotive and industrial hot forgings to Chennai's Oragadam and Sriperumbudur auto hubs \u2014 Hyundai, BMW, Renault-Nissan, Ashok Leyland, TVS, Royal Enfield \u2014 from our Shapar GIDC facility in Rajkot. Railway and road freight via Chennai port for export. Competitive pricing versus Coimbatore or local Tamil Nadu vendors. ISO 9001:2015. Call +91 7600066117.",
         "components": [
             {
                 "title": "Commercial Vehicle \u2014 Ashok Leyland, TAFE, Daimler",
@@ -25901,7 +25901,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I start ordering forgings from JK Forge for Chennai delivery?",
-                "answer": "Send your component drawings, material specifications, quantity requirements and delivery schedule to sales@JK Forge.com or call +91 92657 72827. Our team will review your requirements, confirm manufacturing capability, provide a quotation within 24 hours and advise on the optimal freight routing for your Chennai location."
+                "answer": "Send your component drawings, material specifications, quantity requirements and delivery schedule to sales@JK Forge.com or call +91 7600066117. Our team will review your requirements, confirm manufacturing capability, provide a quotation within 24 hours and advise on the optimal freight routing for your Chennai location."
             }
         ]
     },
@@ -25927,7 +25927,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Fiji's Sugar, Tourism & Pacific Trade Hub Economy",
-        "description2": "JK Forge supplies forged steel components to Fiji \u2014 alloy and stainless steel forgings for sugar mill equipment, marine and port hardware, and tourism-related infrastructure applications, engineered for the Pacific island operating environment. AS/NZS and ASTM material grades, full mill certification, and ocean freight via regional transshipment to Suva. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies forged steel components to Fiji \u2014 alloy and stainless steel forgings for sugar mill equipment, marine and port hardware, and tourism-related infrastructure applications, engineered for the Pacific island operating environment. AS/NZS and ASTM material grades, full mill certification, and ocean freight via regional transshipment to Suva. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Marine, Port & Fishing Equipment",
@@ -26051,7 +26051,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Fiji's Sugar, Tourism & Pacific Trade Hub Economy",
-        "description2": "JK Forge supplies forged steel components to Fiji \u2014 alloy and stainless steel forgings for sugar mill equipment, marine and port hardware, and tourism-related infrastructure applications, engineered for the Pacific island operating environment. AS/NZS and ASTM material grades, full mill certification, and ocean freight via regional transshipment to Suva. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies forged steel components to Fiji \u2014 alloy and stainless steel forgings for sugar mill equipment, marine and port hardware, and tourism-related infrastructure applications, engineered for the Pacific island operating environment. AS/NZS and ASTM material grades, full mill certification, and ocean freight via regional transshipment to Suva. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Marine, Port & Fishing Equipment",
@@ -26415,7 +26415,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Sheffield \u2014 England's Historic \"Steel City\"",
-        "description2": "JK Forge exports forged components to Sheffield, England \u2014 alloy and carbon steel forgings for the region's steel, cutlery, tooling, and general engineering base. EN 10204 certification, BS EN/DIN material grades, and CIF UK logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Sheffield, England \u2014 alloy and carbon steel forgings for the region's steel, cutlery, tooling, and general engineering base. EN 10204 certification, BS EN/DIN material grades, and CIF UK logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Cutlery & Precision Metal Goods Manufacturing",
@@ -26539,7 +26539,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Sheffield \u2014 England's Historic \"Steel City\"",
-        "description2": "JK Forge exports forged components to Sheffield, England \u2014 alloy and carbon steel forgings for the region's steel, cutlery, tooling, and general engineering base. EN 10204 certification, BS EN/DIN material grades, and CIF UK logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Sheffield, England \u2014 alloy and carbon steel forgings for the region's steel, cutlery, tooling, and general engineering base. EN 10204 certification, BS EN/DIN material grades, and CIF UK logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Cutlery & Precision Metal Goods Manufacturing",
@@ -26663,7 +26663,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Croatia's Shipbuilding, Metalworking & Adriatic Manufacturing Base",
-        "description2": "JK Forge supplies certified precision forgings to Croatia \u2014 carbon and alloy steel forgings for the shipbuilding, metalworking, and general manufacturing industries concentrated along the Adriatic coast and inland industrial centers. EN 10204 3.1/3.2 certification, DIN EN material grades, and CIF Rijeka shipping via the North Adriatic route. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified precision forgings to Croatia \u2014 carbon and alloy steel forgings for the shipbuilding, metalworking, and general manufacturing industries concentrated along the Adriatic coast and inland industrial centers. EN 10204 3.1/3.2 certification, DIN EN material grades, and CIF Rijeka shipping via the North Adriatic route. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "General Metalworking & Machinery Manufacturing",
@@ -26787,7 +26787,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Croatia's Shipbuilding, Metalworking & Adriatic Manufacturing Base",
-        "description2": "JK Forge supplies certified precision forgings to Croatia \u2014 carbon and alloy steel forgings for the shipbuilding, metalworking, and general manufacturing industries concentrated along the Adriatic coast and inland industrial centers. EN 10204 3.1/3.2 certification, DIN EN material grades, and CIF Rijeka shipping via the North Adriatic route. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified precision forgings to Croatia \u2014 carbon and alloy steel forgings for the shipbuilding, metalworking, and general manufacturing industries concentrated along the Adriatic coast and inland industrial centers. EN 10204 3.1/3.2 certification, DIN EN material grades, and CIF Rijeka shipping via the North Adriatic route. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "General Metalworking & Machinery Manufacturing",
@@ -26911,7 +26911,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Indianapolis's Motorsport Engineering, Logistics & Manufacturing Base",
-        "description2": "JK Forge exports forged components to Indianapolis, Indiana \u2014 alloy steel motorsport, driveline, and general manufacturing component forgings for the motorsport engineering, logistics, and industrial base concentrated across Central Indiana. SAE/AISI material grades, IATF 16949-aligned documentation, and CIF Midwest logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Indianapolis, Indiana \u2014 alloy steel motorsport, driveline, and general manufacturing component forgings for the motorsport engineering, logistics, and industrial base concentrated across Central Indiana. SAE/AISI material grades, IATF 16949-aligned documentation, and CIF Midwest logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Automotive Component Manufacturing",
@@ -27035,7 +27035,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Indianapolis's Motorsport Engineering, Logistics & Manufacturing Base",
-        "description2": "JK Forge exports forged components to Indianapolis, Indiana \u2014 alloy steel motorsport, driveline, and general manufacturing component forgings for the motorsport engineering, logistics, and industrial base concentrated across Central Indiana. SAE/AISI material grades, IATF 16949-aligned documentation, and CIF Midwest logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Indianapolis, Indiana \u2014 alloy steel motorsport, driveline, and general manufacturing component forgings for the motorsport engineering, logistics, and industrial base concentrated across Central Indiana. SAE/AISI material grades, IATF 16949-aligned documentation, and CIF Midwest logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Automotive Component Manufacturing",
@@ -27159,7 +27159,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Atlanta \u2014 Southeast Logistics Hub, Automotive Manufacturing Corridor & Rail Freight Gateway",
-        "description2": "JK Forge exports forged components to Atlanta, Georgia \u2014 alloy and carbon steel structural, bracket, and driveline forgings for the automotive component manufacturers concentrated across the growing US Southeast manufacturing corridor, and for the equipment and machinery sectors supported by Atlanta's position as the region's leading logistics, distribution, and rail freight hub. IATF 16949-aligned documentation, ASTM/SAE material grades, and CIF Port of Savannah logistics with rail/road delivery. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Atlanta, Georgia \u2014 alloy and carbon steel structural, bracket, and driveline forgings for the automotive component manufacturers concentrated across the growing US Southeast manufacturing corridor, and for the equipment and machinery sectors supported by Atlanta's position as the region's leading logistics, distribution, and rail freight hub. IATF 16949-aligned documentation, ASTM/SAE material grades, and CIF Port of Savannah logistics with rail/road delivery. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Industrial Machinery & Equipment Manufacturing",
@@ -27283,7 +27283,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Atlanta \u2014 Southeast Logistics Hub, Automotive Manufacturing Corridor & Rail Freight Gateway",
-        "description2": "JK Forge exports forged components to Atlanta, Georgia \u2014 alloy and carbon steel structural, bracket, and driveline forgings for the automotive component manufacturers concentrated across the growing US Southeast manufacturing corridor, and for the equipment and machinery sectors supported by Atlanta's position as the region's leading logistics, distribution, and rail freight hub. IATF 16949-aligned documentation, ASTM/SAE material grades, and CIF Port of Savannah logistics with rail/road delivery. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Atlanta, Georgia \u2014 alloy and carbon steel structural, bracket, and driveline forgings for the automotive component manufacturers concentrated across the growing US Southeast manufacturing corridor, and for the equipment and machinery sectors supported by Atlanta's position as the region's leading logistics, distribution, and rail freight hub. IATF 16949-aligned documentation, ASTM/SAE material grades, and CIF Port of Savannah logistics with rail/road delivery. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Industrial Machinery & Equipment Manufacturing",
@@ -27407,7 +27407,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Vancouver's Pacific Gateway Port and Resource-Adjacent Industry",
-        "description2": "JK Forge exports forged components to Vancouver, British Columbia \u2014 alloy steel forgings for the region's forestry and mining equipment supply chain, marine and port-adjacent industry, and general West Coast industrial base. Alloy steel grades, mill test certification, and CIF Pacific Coast logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Vancouver, British Columbia \u2014 alloy steel forgings for the region's forestry and mining equipment supply chain, marine and port-adjacent industry, and general West Coast industrial base. Alloy steel grades, mill test certification, and CIF Pacific Coast logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Mining Equipment Component Manufacturing",
@@ -27531,7 +27531,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Vancouver's Pacific Gateway Port and Resource-Adjacent Industry",
-        "description2": "JK Forge exports forged components to Vancouver, British Columbia \u2014 alloy steel forgings for the region's forestry and mining equipment supply chain, marine and port-adjacent industry, and general West Coast industrial base. Alloy steel grades, mill test certification, and CIF Pacific Coast logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Vancouver, British Columbia \u2014 alloy steel forgings for the region's forestry and mining equipment supply chain, marine and port-adjacent industry, and general West Coast industrial base. Alloy steel grades, mill test certification, and CIF Pacific Coast logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Mining Equipment Component Manufacturing",
@@ -27655,7 +27655,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Seattle's Aerospace, Maritime & Precision Manufacturing Base",
-        "description2": "JK Forge exports forged components to Seattle and the Puget Sound region \u2014 alloy steel and stainless steel forgings for the region's aerospace-adjacent component and tooling manufacturers, maritime and shipbuilding industry, and precision manufacturing base. AS9100-aligned quality documentation, alloy and stainless steel grades, and CIF Pacific Northwest logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Seattle and the Puget Sound region \u2014 alloy steel and stainless steel forgings for the region's aerospace-adjacent component and tooling manufacturers, maritime and shipbuilding industry, and precision manufacturing base. AS9100-aligned quality documentation, alloy and stainless steel grades, and CIF Pacific Northwest logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Maritime & Shipbuilding Component Manufacturing",
@@ -27779,7 +27779,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Seattle's Aerospace, Maritime & Precision Manufacturing Base",
-        "description2": "JK Forge exports forged components to Seattle and the Puget Sound region \u2014 alloy steel and stainless steel forgings for the region's aerospace-adjacent component and tooling manufacturers, maritime and shipbuilding industry, and precision manufacturing base. AS9100-aligned quality documentation, alloy and stainless steel grades, and CIF Pacific Northwest logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Seattle and the Puget Sound region \u2014 alloy steel and stainless steel forgings for the region's aerospace-adjacent component and tooling manufacturers, maritime and shipbuilding industry, and precision manufacturing base. AS9100-aligned quality documentation, alloy and stainless steel grades, and CIF Pacific Northwest logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Maritime & Shipbuilding Component Manufacturing",
@@ -27903,7 +27903,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Cleveland's Steel Heritage and Advanced Manufacturing Base",
-        "description2": "JK Forge exports forged components to Cleveland, Ohio \u2014 alloy steel shaft, flange, and structural component forgings for the industrial equipment manufacturers and fabricators that remain part of the region's long-standing manufacturing base along Lake Erie. ASTM/SAE material grades and EN 10204 3.1/3.2 certification. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Cleveland, Ohio \u2014 alloy steel shaft, flange, and structural component forgings for the industrial equipment manufacturers and fabricators that remain part of the region's long-standing manufacturing base along Lake Erie. ASTM/SAE material grades and EN 10204 3.1/3.2 certification. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Industrial Machinery & Fluid Power Equipment",
@@ -28027,7 +28027,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Cleveland's Steel Heritage and Advanced Manufacturing Base",
-        "description2": "JK Forge exports forged components to Cleveland, Ohio \u2014 alloy steel shaft, flange, and structural component forgings for the industrial equipment manufacturers and fabricators that remain part of the region's long-standing manufacturing base along Lake Erie. ASTM/SAE material grades and EN 10204 3.1/3.2 certification. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Cleveland, Ohio \u2014 alloy steel shaft, flange, and structural component forgings for the industrial equipment manufacturers and fabricators that remain part of the region's long-standing manufacturing base along Lake Erie. ASTM/SAE material grades and EN 10204 3.1/3.2 certification. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Industrial Machinery & Fluid Power Equipment",
@@ -28151,7 +28151,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Ireland's Pharmaceutical, Medical Device & Technology Manufacturing Base",
-        "description2": "JK Forge supplies certified precision forgings to Ireland \u2014 stainless and alloy steel forgings for the pharmaceutical, medical device, and technology-sector manufacturing equipment industries concentrated across the country. EN 10204 3.1/3.2 certification, DIN EN and ASTM material grade equivalence, and CIF Dublin or Cork shipping. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified precision forgings to Ireland \u2014 stainless and alloy steel forgings for the pharmaceutical, medical device, and technology-sector manufacturing equipment industries concentrated across the country. EN 10204 3.1/3.2 certification, DIN EN and ASTM material grade equivalence, and CIF Dublin or Cork shipping. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Medical Device Manufacturing",
@@ -28275,7 +28275,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Ireland's Pharmaceutical, Medical Device & Technology Manufacturing Base",
-        "description2": "JK Forge supplies certified precision forgings to Ireland \u2014 stainless and alloy steel forgings for the pharmaceutical, medical device, and technology-sector manufacturing equipment industries concentrated across the country. EN 10204 3.1/3.2 certification, DIN EN and ASTM material grade equivalence, and CIF Dublin or Cork shipping. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified precision forgings to Ireland \u2014 stainless and alloy steel forgings for the pharmaceutical, medical device, and technology-sector manufacturing equipment industries concentrated across the country. EN 10204 3.1/3.2 certification, DIN EN and ASTM material grade equivalence, and CIF Dublin or Cork shipping. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Medical Device Manufacturing",
@@ -28399,7 +28399,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Tunisia's Automotive & Aerospace Component Manufacturing Base",
-        "description2": "JK Forge supplies certified precision forgings to Tunisia \u2014 alloy steel and aerospace-grade component forgings for the automotive parts and aerospace component manufacturing industries established across the country. EN 10204 3.1/3.2 certification, DIN EN and AS9100-aligned documentation, and CIF Rad\u00e8s or Sfax shipping via the Mediterranean. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified precision forgings to Tunisia \u2014 alloy steel and aerospace-grade component forgings for the automotive parts and aerospace component manufacturing industries established across the country. EN 10204 3.1/3.2 certification, DIN EN and AS9100-aligned documentation, and CIF Rad\u00e8s or Sfax shipping via the Mediterranean. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Aerospace Component & Sub-Assembly Manufacturing",
@@ -28523,7 +28523,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Tunisia's Automotive & Aerospace Component Manufacturing Base",
-        "description2": "JK Forge supplies certified precision forgings to Tunisia \u2014 alloy steel and aerospace-grade component forgings for the automotive parts and aerospace component manufacturing industries established across the country. EN 10204 3.1/3.2 certification, DIN EN and AS9100-aligned documentation, and CIF Rad\u00e8s or Sfax shipping via the Mediterranean. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified precision forgings to Tunisia \u2014 alloy steel and aerospace-grade component forgings for the automotive parts and aerospace component manufacturing industries established across the country. EN 10204 3.1/3.2 certification, DIN EN and AS9100-aligned documentation, and CIF Rad\u00e8s or Sfax shipping via the Mediterranean. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Aerospace Component & Sub-Assembly Manufacturing",
@@ -28647,7 +28647,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Precision Hot Forgings for Jamshedpur's Steel Industry and Heavy Engineering Base",
-        "description2": "JK Forge supplies precision hot forgings to Jamshedpur, Jharkhand \u2014 alloy steel, carbon steel, and stainless steel forgings for the steel industry ancillary manufacturers, heavy engineering, automotive component, and general industrial base concentrated across India's first planned industrial city. Multimodal rail and road dispatch from our Shapar GIDC facility in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies precision hot forgings to Jamshedpur, Jharkhand \u2014 alloy steel, carbon steel, and stainless steel forgings for the steel industry ancillary manufacturers, heavy engineering, automotive component, and general industrial base concentrated across India's first planned industrial city. Multimodal rail and road dispatch from our Shapar GIDC facility in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Automotive Component & Ancillary Manufacturing",
@@ -28745,7 +28745,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I get a quote for delivery to Jamshedpur?",
-                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91-9265772827. We respond with a price and lead time, and confirm the most cost-effective freight option for your consignment size."
+                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91 7600066117. We respond with a price and lead time, and confirm the most cost-effective freight option for your consignment size."
             }
         ]
     },
@@ -28771,7 +28771,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Precision Hot Forgings for Jamshedpur's Steel Industry and Heavy Engineering Base",
-        "description2": "JK Forge supplies precision hot forgings to Jamshedpur, Jharkhand \u2014 alloy steel, carbon steel, and stainless steel forgings for the steel industry ancillary manufacturers, heavy engineering, automotive component, and general industrial base concentrated across India's first planned industrial city. Multimodal rail and road dispatch from our Shapar GIDC facility in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies precision hot forgings to Jamshedpur, Jharkhand \u2014 alloy steel, carbon steel, and stainless steel forgings for the steel industry ancillary manufacturers, heavy engineering, automotive component, and general industrial base concentrated across India's first planned industrial city. Multimodal rail and road dispatch from our Shapar GIDC facility in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Automotive Component & Ancillary Manufacturing",
@@ -28869,7 +28869,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I get a quote for delivery to Jamshedpur?",
-                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91-9265772827. We respond with a price and lead time, and confirm the most cost-effective freight option for your consignment size."
+                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91 7600066117. We respond with a price and lead time, and confirm the most cost-effective freight option for your consignment size."
             }
         ]
     },
@@ -28894,7 +28894,7 @@ window.pageContent['locationsData'] = {
                 "sub": "Fast Quote Response"
             }
         ],
-        "description1": "JK Forge supplies precision hot forgings to Hyderabad's defence, pharmaceutical, aerospace and oil & gas industries from our ISO 9001:2015 certified plant in Rajkot, Gujarat \u2014 1,100 km and 18\u201320 hours by road freight. We supply DRDL, BDL, DMRL and Bharat Forge Kalyani-cluster OEMs with defence-grade forgings, pharma SS316L fittings, aerospace titanium and nickel alloy forgings, and HPCL Vizag refinery components. Call +91-9265772827.",
+        "description1": "JK Forge supplies precision hot forgings to Hyderabad's defence, pharmaceutical, aerospace and oil & gas industries from our ISO 9001:2015 certified plant in Rajkot, Gujarat \u2014 1,100 km and 18\u201320 hours by road freight. We supply DRDL, BDL, DMRL and Bharat Forge Kalyani-cluster OEMs with defence-grade forgings, pharma SS316L fittings, aerospace titanium and nickel alloy forgings, and HPCL Vizag refinery components. Call +91 7600066117.",
         "description2": "Hyderabad concentrates India's defence R&D, missile systems, pharmaceutical bulk drug manufacturing, aerospace precision parts and one of the country's largest oil refineries. Each of these sectors has forging requirements that demand precision, documented material quality and reliable supply. JK Forge has been meeting these requirements for customers across Telangana and Andhra Pradesh for over 20 years.",
         "components": [
             {
@@ -29005,7 +29005,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I place an order from Hyderabad?",
-                "answer": "Email your drawing, material specification, quantity and delivery requirement to sales@JK Forge.com or call +91-9265772827. We provide a quotation within 24 hours. For defence and aerospace enquiries, please also share the applicable quality standard or approval reference."
+                "answer": "Email your drawing, material specification, quantity and delivery requirement to sales@JK Forge.com or call +91 7600066117. We provide a quotation within 24 hours. For defence and aerospace enquiries, please also share the applicable quality standard or approval reference."
             }
         ]
     },
@@ -29030,7 +29030,7 @@ window.pageContent['locationsData'] = {
                 "sub": "Fast Quote Response"
             }
         ],
-        "description1": "JK Forge supplies precision hot forgings to Hyderabad's defence, pharmaceutical, aerospace and oil & gas industries from our ISO 9001:2015 certified plant in Rajkot, Gujarat \u2014 1,100 km and 18\u201320 hours by road freight. We supply DRDL, BDL, DMRL and Bharat Forge Kalyani-cluster OEMs with defence-grade forgings, pharma SS316L fittings, aerospace titanium and nickel alloy forgings, and HPCL Vizag refinery components. Call +91-9265772827.",
+        "description1": "JK Forge supplies precision hot forgings to Hyderabad's defence, pharmaceutical, aerospace and oil & gas industries from our ISO 9001:2015 certified plant in Rajkot, Gujarat \u2014 1,100 km and 18\u201320 hours by road freight. We supply DRDL, BDL, DMRL and Bharat Forge Kalyani-cluster OEMs with defence-grade forgings, pharma SS316L fittings, aerospace titanium and nickel alloy forgings, and HPCL Vizag refinery components. Call +91 7600066117.",
         "description2": "Hyderabad concentrates India's defence R&D, missile systems, pharmaceutical bulk drug manufacturing, aerospace precision parts and one of the country's largest oil refineries. Each of these sectors has forging requirements that demand precision, documented material quality and reliable supply. JK Forge has been meeting these requirements for customers across Telangana and Andhra Pradesh for over 20 years.",
         "components": [
             {
@@ -29141,7 +29141,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I place an order from Hyderabad?",
-                "answer": "Email your drawing, material specification, quantity and delivery requirement to sales@JK Forge.com or call +91-9265772827. We provide a quotation within 24 hours. For defence and aerospace enquiries, please also share the applicable quality standard or approval reference."
+                "answer": "Email your drawing, material specification, quantity and delivery requirement to sales@JK Forge.com or call +91 7600066117. We provide a quotation within 24 hours. For defence and aerospace enquiries, please also share the applicable quality standard or approval reference."
             }
         ]
     },
@@ -29167,7 +29167,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Precision Hot Forgings for Kanpur's Historic Engineering and Manufacturing Heritage",
-        "description2": "JK Forge supplies precision hot forgings to Kanpur, Uttar Pradesh \u2014 alloy steel and carbon steel forgings for the engineering goods, leather and textile machinery, and general manufacturing industries that continue North India's long industrial heritage in this historic city. Multimodal dispatch from our Shapar GIDC, Rajkot facility. Call +91-9265772827.",
+        "description2": "JK Forge supplies precision hot forgings to Kanpur, Uttar Pradesh \u2014 alloy steel and carbon steel forgings for the engineering goods, leather and textile machinery, and general manufacturing industries that continue North India's long industrial heritage in this historic city. Multimodal dispatch from our Shapar GIDC, Rajkot facility. Call +91 7600066117.",
         "components": [
             {
                 "title": "General Engineering Goods Manufacturing",
@@ -29265,7 +29265,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I get a quote for delivery to Kanpur?",
-                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91-9265772827. We respond with a price and lead time, and confirm the most cost-effective freight option for your consignment size."
+                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91 7600066117. We respond with a price and lead time, and confirm the most cost-effective freight option for your consignment size."
             }
         ]
     },
@@ -29291,7 +29291,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Precision Hot Forgings for Kanpur's Historic Engineering and Manufacturing Heritage",
-        "description2": "JK Forge supplies precision hot forgings to Kanpur, Uttar Pradesh \u2014 alloy steel and carbon steel forgings for the engineering goods, leather and textile machinery, and general manufacturing industries that continue North India's long industrial heritage in this historic city. Multimodal dispatch from our Shapar GIDC, Rajkot facility. Call +91-9265772827.",
+        "description2": "JK Forge supplies precision hot forgings to Kanpur, Uttar Pradesh \u2014 alloy steel and carbon steel forgings for the engineering goods, leather and textile machinery, and general manufacturing industries that continue North India's long industrial heritage in this historic city. Multimodal dispatch from our Shapar GIDC, Rajkot facility. Call +91 7600066117.",
         "components": [
             {
                 "title": "General Engineering Goods Manufacturing",
@@ -29389,7 +29389,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I get a quote for delivery to Kanpur?",
-                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91-9265772827. We respond with a price and lead time, and confirm the most cost-effective freight option for your consignment size."
+                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91 7600066117. We respond with a price and lead time, and confirm the most cost-effective freight option for your consignment size."
             }
         ]
     },
@@ -29757,7 +29757,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I get a forging quote for Surat delivery?",
-                "answer": "Email your drawing, material grade, quantity, and required certifications to info@JK Forge.com or call +91-9265772827. We respond with price, lead time, and documentation list within 24 business hours."
+                "answer": "Email your drawing, material grade, quantity, and required certifications to info@JK Forge.com or call +91 7600066117. We respond with price, lead time, and documentation list within 24 business hours."
             }
         ]
     },
@@ -29893,7 +29893,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I get a forging quote for Surat delivery?",
-                "answer": "Email your drawing, material grade, quantity, and required certifications to info@JK Forge.com or call +91-9265772827. We respond with price, lead time, and documentation list within 24 business hours."
+                "answer": "Email your drawing, material grade, quantity, and required certifications to info@JK Forge.com or call +91 7600066117. We respond with price, lead time, and documentation list within 24 business hours."
             }
         ]
     },
@@ -29919,7 +29919,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Bulgaria's Growing Automotive Component & Industrial Manufacturing Base",
-        "description2": "JK Forge supplies certified precision forgings to Bulgaria \u2014 alloy steel component forgings for the automotive parts, machine building, and general industrial manufacturing sectors expanding across the country. EN 10204 3.1/3.2 certification, DIN EN material grades, and CIF Varna or Burgas shipping via the Black Sea. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified precision forgings to Bulgaria \u2014 alloy steel component forgings for the automotive parts, machine building, and general industrial manufacturing sectors expanding across the country. EN 10204 3.1/3.2 certification, DIN EN material grades, and CIF Varna or Burgas shipping via the Black Sea. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Machine Building & Metalworking",
@@ -30043,7 +30043,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Bulgaria's Growing Automotive Component & Industrial Manufacturing Base",
-        "description2": "JK Forge supplies certified precision forgings to Bulgaria \u2014 alloy steel component forgings for the automotive parts, machine building, and general industrial manufacturing sectors expanding across the country. EN 10204 3.1/3.2 certification, DIN EN material grades, and CIF Varna or Burgas shipping via the Black Sea. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified precision forgings to Bulgaria \u2014 alloy steel component forgings for the automotive parts, machine building, and general industrial manufacturing sectors expanding across the country. EN 10204 3.1/3.2 certification, DIN EN material grades, and CIF Varna or Burgas shipping via the Black Sea. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Machine Building & Metalworking",
@@ -30167,7 +30167,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Belarus's Agricultural Machinery & Manufacturing Base",
-        "description2": "JK Forge supplies certified forgings to Belarus \u2014 alloy steel shaft, gear, and structural component forgings for the country's agricultural machinery manufacturing and broader industrial base. EN 10204 3.1/3.2 certification, DIN/GOST-aligned material grades, and CIF Baltic/Eastern Europe shipping. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified forgings to Belarus \u2014 alloy steel shaft, gear, and structural component forgings for the country's agricultural machinery manufacturing and broader industrial base. EN 10204 3.1/3.2 certification, DIN/GOST-aligned material grades, and CIF Baltic/Eastern Europe shipping. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Heavy Vehicle & Truck Component Manufacturing",
@@ -30291,7 +30291,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Belarus's Agricultural Machinery & Manufacturing Base",
-        "description2": "JK Forge supplies certified forgings to Belarus \u2014 alloy steel shaft, gear, and structural component forgings for the country's agricultural machinery manufacturing and broader industrial base. EN 10204 3.1/3.2 certification, DIN/GOST-aligned material grades, and CIF Baltic/Eastern Europe shipping. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified forgings to Belarus \u2014 alloy steel shaft, gear, and structural component forgings for the country's agricultural machinery manufacturing and broader industrial base. EN 10204 3.1/3.2 certification, DIN/GOST-aligned material grades, and CIF Baltic/Eastern Europe shipping. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Heavy Vehicle & Truck Component Manufacturing",
@@ -30687,7 +30687,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Moldova's Agricultural & Light Industrial Base",
-        "description2": "JK Forge supplies certified forgings to Moldova \u2014 alloy steel component forgings for the country's agricultural equipment, food processing machinery, and general light industrial sector. EN 10204 3.1/3.2 certification, DIN-aligned material grades, and CIF Black Sea/Eastern Europe shipping. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified forgings to Moldova \u2014 alloy steel component forgings for the country's agricultural equipment, food processing machinery, and general light industrial sector. EN 10204 3.1/3.2 certification, DIN-aligned material grades, and CIF Black Sea/Eastern Europe shipping. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Metalworking & Fabrication Services",
@@ -30799,7 +30799,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Moldova's Agricultural & Light Industrial Base",
-        "description2": "JK Forge supplies certified forgings to Moldova \u2014 alloy steel component forgings for the country's agricultural equipment, food processing machinery, and general light industrial sector. EN 10204 3.1/3.2 certification, DIN-aligned material grades, and CIF Black Sea/Eastern Europe shipping. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified forgings to Moldova \u2014 alloy steel component forgings for the country's agricultural equipment, food processing machinery, and general light industrial sector. EN 10204 3.1/3.2 certification, DIN-aligned material grades, and CIF Black Sea/Eastern Europe shipping. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Metalworking & Fabrication Services",
@@ -30911,7 +30911,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Bahrain's Aluminium Smelting, Petrochemical & Gulf Financial-Industrial Hub",
-        "description2": "JK Forge supplies certified precision forgings to Bahrain \u2014 alloy and carbon steel structural, equipment, and processing component forgings for the industrial base concentrated around Manama and the wider Bahraini economy, including the region's substantial aluminium smelting and petrochemical processing industry. ASTM/ASME material grades, EN 10204 3.1/3.2 certification, and CIF Khalifa Bin Salman Port shipping. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified precision forgings to Bahrain \u2014 alloy and carbon steel structural, equipment, and processing component forgings for the industrial base concentrated around Manama and the wider Bahraini economy, including the region's substantial aluminium smelting and petrochemical processing industry. ASTM/ASME material grades, EN 10204 3.1/3.2 certification, and CIF Khalifa Bin Salman Port shipping. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Petrochemical & Oil Refining Equipment",
@@ -31035,7 +31035,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Bahrain's Aluminium Smelting, Petrochemical & Gulf Financial-Industrial Hub",
-        "description2": "JK Forge supplies certified precision forgings to Bahrain \u2014 alloy and carbon steel structural, equipment, and processing component forgings for the industrial base concentrated around Manama and the wider Bahraini economy, including the region's substantial aluminium smelting and petrochemical processing industry. ASTM/ASME material grades, EN 10204 3.1/3.2 certification, and CIF Khalifa Bin Salman Port shipping. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified precision forgings to Bahrain \u2014 alloy and carbon steel structural, equipment, and processing component forgings for the industrial base concentrated around Manama and the wider Bahraini economy, including the region's substantial aluminium smelting and petrochemical processing industry. ASTM/ASME material grades, EN 10204 3.1/3.2 certification, and CIF Khalifa Bin Salman Port shipping. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Petrochemical & Oil Refining Equipment",
@@ -31158,7 +31158,7 @@ window.pageContent['locationsData'] = {
                 "sub": "Fast Quote Response"
             }
         ],
-        "description1": "JK Forge supplies precision hot forgings to Delhi NCR's industrial clusters \u2014 Faridabad, Manesar, Gurgaon, Noida and Greater Noida \u2014 from Shapar GIDC, Rajkot. 1,100 km, 18\u201320 hr road freight. Rail bulk option via Indian Railways. Supply to Maruti Suzuki, Hero MotoCorp, JCB India, Delhi Metro and BHEL Haridwar. Same-day dispatch on stocked items. ISO 9001:2015. Call +91 92657 72827.",
+        "description1": "JK Forge supplies precision hot forgings to Delhi NCR's industrial clusters \u2014 Faridabad, Manesar, Gurgaon, Noida and Greater Noida \u2014 from Shapar GIDC, Rajkot. 1,100 km, 18\u201320 hr road freight. Rail bulk option via Indian Railways. Supply to Maruti Suzuki, Hero MotoCorp, JCB India, Delhi Metro and BHEL Haridwar. Same-day dispatch on stocked items. ISO 9001:2015. Call +91 7600066117.",
         "description2": "Delhi NCR is North India's largest industrial manufacturing corridor, running from Dharuhera and Manesar in Haryana through Gurgaon, Faridabad, Delhi, Noida and Greater Noida into western Uttar Pradesh. Automotive OEMs \u2014 Maruti Suzuki, Hero MotoCorp, Honda Motorcycles, JCB India \u2014 anchor the region's industrial economy, surrounded by a dense network of Tier 1 and Tier 2 component manufacturers, general engineering companies, defence contractors and infrastructure project suppliers. JK Forge has supplied precision hot forgings to Delhi NCR's industrial buyers for over 20 years. At approximately 1,100 km from Rajkot and 18\u201320 hours by road, Delhi NCR falls within a logistics window that makes Rajkot forging both viable and commercially competitive versus local Faridabad or Ludhiana alternatives on most automotive and industrial forging types.",
         "components": [
             {
@@ -31261,7 +31261,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "Can you supply same-day for urgent requirements from Delhi NCR customers?",
-                "answer": "Yes, for items we hold in stock. JK Forge maintains stock of standard forging blanks \u2014 round billets in EN8, EN19, EN24 and stainless steel; standard flanges and couplings in carbon steel. Orders before 2 PM on stocked items are dispatched same day. Contact +91 92657 72827 to check stock availability for your requirement."
+                "answer": "Yes, for items we hold in stock. JK Forge maintains stock of standard forging blanks \u2014 round billets in EN8, EN19, EN24 and stainless steel; standard flanges and couplings in carbon steel. Orders before 2 PM on stocked items are dispatched same day. Contact +91 7600066117 to check stock availability for your requirement."
             },
             {
                 "question": "Do you coordinate BHEL Haridwar supply chain forgings?",
@@ -31269,7 +31269,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I start purchasing forgings from JK Forge for Delhi NCR delivery?",
-                "answer": "Contact us at +91 92657 72827 or sales@JK Forge.com with your forging drawings, material specification, quantity and delivery schedule. We will review your requirements, confirm manufacturing capability, advise on stocked items available for fast delivery and provide a quotation with lead time within 24\u201348 hours."
+                "answer": "Contact us at +91 7600066117 or sales@JK Forge.com with your forging drawings, material specification, quantity and delivery schedule. We will review your requirements, confirm manufacturing capability, advise on stocked items available for fast delivery and provide a quotation with lead time within 24\u201348 hours."
             }
         ]
     },
@@ -31294,7 +31294,7 @@ window.pageContent['locationsData'] = {
                 "sub": "Fast Quote Response"
             }
         ],
-        "description1": "JK Forge supplies precision hot forgings to Delhi NCR's industrial clusters \u2014 Faridabad, Manesar, Gurgaon, Noida and Greater Noida \u2014 from Shapar GIDC, Rajkot. 1,100 km, 18\u201320 hr road freight. Rail bulk option via Indian Railways. Supply to Maruti Suzuki, Hero MotoCorp, JCB India, Delhi Metro and BHEL Haridwar. Same-day dispatch on stocked items. ISO 9001:2015. Call +91 92657 72827.",
+        "description1": "JK Forge supplies precision hot forgings to Delhi NCR's industrial clusters \u2014 Faridabad, Manesar, Gurgaon, Noida and Greater Noida \u2014 from Shapar GIDC, Rajkot. 1,100 km, 18\u201320 hr road freight. Rail bulk option via Indian Railways. Supply to Maruti Suzuki, Hero MotoCorp, JCB India, Delhi Metro and BHEL Haridwar. Same-day dispatch on stocked items. ISO 9001:2015. Call +91 7600066117.",
         "description2": "Delhi NCR is North India's largest industrial manufacturing corridor, running from Dharuhera and Manesar in Haryana through Gurgaon, Faridabad, Delhi, Noida and Greater Noida into western Uttar Pradesh. Automotive OEMs \u2014 Maruti Suzuki, Hero MotoCorp, Honda Motorcycles, JCB India \u2014 anchor the region's industrial economy, surrounded by a dense network of Tier 1 and Tier 2 component manufacturers, general engineering companies, defence contractors and infrastructure project suppliers. JK Forge has supplied precision hot forgings to Delhi NCR's industrial buyers for over 20 years. At approximately 1,100 km from Rajkot and 18\u201320 hours by road, Delhi NCR falls within a logistics window that makes Rajkot forging both viable and commercially competitive versus local Faridabad or Ludhiana alternatives on most automotive and industrial forging types.",
         "components": [
             {
@@ -31397,7 +31397,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "Can you supply same-day for urgent requirements from Delhi NCR customers?",
-                "answer": "Yes, for items we hold in stock. JK Forge maintains stock of standard forging blanks \u2014 round billets in EN8, EN19, EN24 and stainless steel; standard flanges and couplings in carbon steel. Orders before 2 PM on stocked items are dispatched same day. Contact +91 92657 72827 to check stock availability for your requirement."
+                "answer": "Yes, for items we hold in stock. JK Forge maintains stock of standard forging blanks \u2014 round billets in EN8, EN19, EN24 and stainless steel; standard flanges and couplings in carbon steel. Orders before 2 PM on stocked items are dispatched same day. Contact +91 7600066117 to check stock availability for your requirement."
             },
             {
                 "question": "Do you coordinate BHEL Haridwar supply chain forgings?",
@@ -31405,7 +31405,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I start purchasing forgings from JK Forge for Delhi NCR delivery?",
-                "answer": "Contact us at +91 92657 72827 or sales@JK Forge.com with your forging drawings, material specification, quantity and delivery schedule. We will review your requirements, confirm manufacturing capability, advise on stocked items available for fast delivery and provide a quotation with lead time within 24\u201348 hours."
+                "answer": "Contact us at +91 7600066117 or sales@JK Forge.com with your forging drawings, material specification, quantity and delivery schedule. We will review your requirements, confirm manufacturing capability, advise on stocked items available for fast delivery and provide a quotation with lead time within 24\u201348 hours."
             }
         ]
     },
@@ -31431,7 +31431,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Sri Lanka's Growing Engineering, Port & Industrial Manufacturing Base",
-        "description2": "JK Forge supplies certified precision forgings to Sri Lanka \u2014 carbon and alloy steel component forgings for the engineering, port and marine equipment, and general industrial manufacturing sectors developing across the country. EN 10204 3.1/3.2 certification and short-transit CIF Colombo shipping given Sri Lanka's proximity to India. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified precision forgings to Sri Lanka \u2014 carbon and alloy steel component forgings for the engineering, port and marine equipment, and general industrial manufacturing sectors developing across the country. EN 10204 3.1/3.2 certification and short-transit CIF Colombo shipping given Sri Lanka's proximity to India. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Rubber & Tire Industry Equipment",
@@ -31555,7 +31555,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Sri Lanka's Growing Engineering, Port & Industrial Manufacturing Base",
-        "description2": "JK Forge supplies certified precision forgings to Sri Lanka \u2014 carbon and alloy steel component forgings for the engineering, port and marine equipment, and general industrial manufacturing sectors developing across the country. EN 10204 3.1/3.2 certification and short-transit CIF Colombo shipping given Sri Lanka's proximity to India. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified precision forgings to Sri Lanka \u2014 carbon and alloy steel component forgings for the engineering, port and marine equipment, and general industrial manufacturing sectors developing across the country. EN 10204 3.1/3.2 certification and short-transit CIF Colombo shipping given Sri Lanka's proximity to India. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Rubber & Tire Industry Equipment",
@@ -31761,7 +31761,7 @@ window.pageContent['locationsData'] = {
         "faqs": [
             {
                 "question": "Can JK Forge supply forgings to Ludhiana manufacturers?",
-                "answer": "Yes. We supply Ludhiana bicycle, auto parts, agricultural implement and industrial hardware manufacturers from our Shapar, Rajkot factory. The distance is approximately 1,300 km \u2014 20\u201322 hours road freight. For regular customers, we operate weekly scheduled truck routes on the Gujarat-Punjab corridor. Call +91-9265772827 to discuss your requirements and current lead times."
+                "answer": "Yes. We supply Ludhiana bicycle, auto parts, agricultural implement and industrial hardware manufacturers from our Shapar, Rajkot factory. The distance is approximately 1,300 km \u2014 20\u201322 hours road freight. For regular customers, we operate weekly scheduled truck routes on the Gujarat-Punjab corridor. Call +91 7600066117 to discuss your requirements and current lead times."
             },
             {
                 "question": "What is the delivery time from Rajkot to Ludhiana?",
@@ -31769,7 +31769,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "Do you have experience forging bicycle hub components for Ludhiana supply chains?",
-                "answer": "Yes. Bicycle hub flanges, freewheel bodies, sprocket bodies and crank forgings are familiar products for us. We understand the flash control requirements, weight consistency expectations and surface allowance specs of bicycle OEM supply. Both rough forging supply and flash-trimmed/coined components are available. Call +91-9265772827 or email sales@JK Forge.com with your hub drawing for a quotation."
+                "answer": "Yes. Bicycle hub flanges, freewheel bodies, sprocket bodies and crank forgings are familiar products for us. We understand the flash control requirements, weight consistency expectations and surface allowance specs of bicycle OEM supply. Both rough forging supply and flash-trimmed/coined components are available. Call +91 7600066117 or email sales@JK Forge.com with your hub drawing for a quotation."
             },
             {
                 "question": "What pricing advantages does Rajkot offer over NCR forging suppliers for Ludhiana buyers?",
@@ -31781,7 +31781,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "What material grades do you carry in stock for Ludhiana supply?",
-                "answer": "We carry rolling stock of C45, EN8, IS 2062, EN19T (42CrMo4), EN24T (817M40), 20MnCr5 and 65Mn. Tool steel grades (Cr-V, H13, D2) are ordered per project. Spring steel (SUP9, EN45) is held in smaller quantities and can be replenished within 5\u20137 days. Material availability for your specific part can be confirmed within 24 hours \u2014 call +91-9265772827."
+                "answer": "We carry rolling stock of C45, EN8, IS 2062, EN19T (42CrMo4), EN24T (817M40), 20MnCr5 and 65Mn. Tool steel grades (Cr-V, H13, D2) are ordered per project. Spring steel (SUP9, EN45) is held in smaller quantities and can be replenished within 5\u20137 days. Material availability for your specific part can be confirmed within 24 hours \u2014 call +91 7600066117."
             },
             {
                 "question": "What is the minimum order quantity for Ludhiana forging supply?",
@@ -31789,7 +31789,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How quickly can you turn around new forging dies for a Ludhiana programme?",
-                "answer": "Our in-house die shop manufactures new forging dies from H13 hot-work steel in 7\u201310 working days for simple to medium-complexity shapes. Complex multi-impression dies take 12\u201315 working days. Die design is done in-house with 3D CAD modelling and draft angle analysis before machining starts. For urgent programmes, we can prioritise die production to hit 5\u20137 day turnaround for simple shapes \u2014 call +91-9265772827 to confirm feasibility."
+                "answer": "Our in-house die shop manufactures new forging dies from H13 hot-work steel in 7\u201310 working days for simple to medium-complexity shapes. Complex multi-impression dies take 12\u201315 working days. Die design is done in-house with 3D CAD modelling and draft angle analysis before machining starts. For urgent programmes, we can prioritise die production to hit 5\u20137 day turnaround for simple shapes \u2014 call +91 7600066117 to confirm feasibility."
             }
         ]
     },
@@ -31897,7 +31897,7 @@ window.pageContent['locationsData'] = {
         "faqs": [
             {
                 "question": "Can JK Forge supply forgings to Ludhiana manufacturers?",
-                "answer": "Yes. We supply Ludhiana bicycle, auto parts, agricultural implement and industrial hardware manufacturers from our Shapar, Rajkot factory. The distance is approximately 1,300 km \u2014 20\u201322 hours road freight. For regular customers, we operate weekly scheduled truck routes on the Gujarat-Punjab corridor. Call +91-9265772827 to discuss your requirements and current lead times."
+                "answer": "Yes. We supply Ludhiana bicycle, auto parts, agricultural implement and industrial hardware manufacturers from our Shapar, Rajkot factory. The distance is approximately 1,300 km \u2014 20\u201322 hours road freight. For regular customers, we operate weekly scheduled truck routes on the Gujarat-Punjab corridor. Call +91 7600066117 to discuss your requirements and current lead times."
             },
             {
                 "question": "What is the delivery time from Rajkot to Ludhiana?",
@@ -31905,7 +31905,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "Do you have experience forging bicycle hub components for Ludhiana supply chains?",
-                "answer": "Yes. Bicycle hub flanges, freewheel bodies, sprocket bodies and crank forgings are familiar products for us. We understand the flash control requirements, weight consistency expectations and surface allowance specs of bicycle OEM supply. Both rough forging supply and flash-trimmed/coined components are available. Call +91-9265772827 or email sales@JK Forge.com with your hub drawing for a quotation."
+                "answer": "Yes. Bicycle hub flanges, freewheel bodies, sprocket bodies and crank forgings are familiar products for us. We understand the flash control requirements, weight consistency expectations and surface allowance specs of bicycle OEM supply. Both rough forging supply and flash-trimmed/coined components are available. Call +91 7600066117 or email sales@JK Forge.com with your hub drawing for a quotation."
             },
             {
                 "question": "What pricing advantages does Rajkot offer over NCR forging suppliers for Ludhiana buyers?",
@@ -31917,7 +31917,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "What material grades do you carry in stock for Ludhiana supply?",
-                "answer": "We carry rolling stock of C45, EN8, IS 2062, EN19T (42CrMo4), EN24T (817M40), 20MnCr5 and 65Mn. Tool steel grades (Cr-V, H13, D2) are ordered per project. Spring steel (SUP9, EN45) is held in smaller quantities and can be replenished within 5\u20137 days. Material availability for your specific part can be confirmed within 24 hours \u2014 call +91-9265772827."
+                "answer": "We carry rolling stock of C45, EN8, IS 2062, EN19T (42CrMo4), EN24T (817M40), 20MnCr5 and 65Mn. Tool steel grades (Cr-V, H13, D2) are ordered per project. Spring steel (SUP9, EN45) is held in smaller quantities and can be replenished within 5\u20137 days. Material availability for your specific part can be confirmed within 24 hours \u2014 call +91 7600066117."
             },
             {
                 "question": "What is the minimum order quantity for Ludhiana forging supply?",
@@ -31925,7 +31925,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How quickly can you turn around new forging dies for a Ludhiana programme?",
-                "answer": "Our in-house die shop manufactures new forging dies from H13 hot-work steel in 7\u201310 working days for simple to medium-complexity shapes. Complex multi-impression dies take 12\u201315 working days. Die design is done in-house with 3D CAD modelling and draft angle analysis before machining starts. For urgent programmes, we can prioritise die production to hit 5\u20137 day turnaround for simple shapes \u2014 call +91-9265772827 to confirm feasibility."
+                "answer": "Our in-house die shop manufactures new forging dies from H13 hot-work steel in 7\u201310 working days for simple to medium-complexity shapes. Complex multi-impression dies take 12\u201315 working days. Die design is done in-house with 3D CAD modelling and draft angle analysis before machining starts. For urgent programmes, we can prioritise die production to hit 5\u20137 day turnaround for simple shapes \u2014 call +91 7600066117 to confirm feasibility."
             }
         ]
     },
@@ -31951,7 +31951,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier to Czech Republic \u2014 Prague, Brno, Ostrava, Plze\u0148",
-        "description2": "JK Forge supplies precision hot forgings to the Czech Republic \u2014 serving \u0160koda Auto AS Mlad\u00e1 Boleslav (VW Group \u2014 900,000 vehicles/year including \u0160koda Octavia, Fabia, Superb, Enyaq iV: IATF 16949:2016, PPAP Level 3, VW Group Einkauf FORMEL Q, 42CrMo4 Q+T crankshaft rough forgings, 18CrNiMo7-6 gearbox carrier forgings, 36MnVS4 fracture-split connecting rod blanks), \u010cEZ Group (Prague \u2014 Dukovany NPP 4\u00d7VVER-440 [total 2,040 MWe] + Temel\u00edn NPP 2\u00d7VVER-1000 [total 2,160 MWe]: SA182 F316LN nozzle forgings for nuclear auxiliary systems, PED Category III\u2013IV), Skoda Power (Pilsen/Plze\u0148 \u2014 steam turbines for nuclear and thermal power plants worldwide: 42CrMo4 Q+T turbine blade carrier ring forgings, 34CrNiMo6 LP shaft forgings), ArcelorMittal Ostrava (2.5 MTPA \u2014 Czech Republic's largest steel plant: 42CrMo4 BOF trunnion ring forgings, rolling mill pinion shaft forgings, EN 10228-3 Class 3), Bosch Jihlava (Czech Republic's largest Bosch plant \u2014 40 million fuel injectors/year: IATF 16949, 42CrMo4 Q+T CRDI injector body forgings 2,500 bar), and Toyota/PSA Kol\u00edn JV (Kol\u00edn \u2014 350,000 Toyota Aygo X + Peugeot 108/208 derivatives/year). EN 10204 3.1/3.2. CIF Hamburg 12\u201315 days + road 560 km to Prague. +91-9265772827.",
+        "description2": "JK Forge supplies precision hot forgings to the Czech Republic \u2014 serving \u0160koda Auto AS Mlad\u00e1 Boleslav (VW Group \u2014 900,000 vehicles/year including \u0160koda Octavia, Fabia, Superb, Enyaq iV: IATF 16949:2016, PPAP Level 3, VW Group Einkauf FORMEL Q, 42CrMo4 Q+T crankshaft rough forgings, 18CrNiMo7-6 gearbox carrier forgings, 36MnVS4 fracture-split connecting rod blanks), \u010cEZ Group (Prague \u2014 Dukovany NPP 4\u00d7VVER-440 [total 2,040 MWe] + Temel\u00edn NPP 2\u00d7VVER-1000 [total 2,160 MWe]: SA182 F316LN nozzle forgings for nuclear auxiliary systems, PED Category III\u2013IV), Skoda Power (Pilsen/Plze\u0148 \u2014 steam turbines for nuclear and thermal power plants worldwide: 42CrMo4 Q+T turbine blade carrier ring forgings, 34CrNiMo6 LP shaft forgings), ArcelorMittal Ostrava (2.5 MTPA \u2014 Czech Republic's largest steel plant: 42CrMo4 BOF trunnion ring forgings, rolling mill pinion shaft forgings, EN 10228-3 Class 3), Bosch Jihlava (Czech Republic's largest Bosch plant \u2014 40 million fuel injectors/year: IATF 16949, 42CrMo4 Q+T CRDI injector body forgings 2,500 bar), and Toyota/PSA Kol\u00edn JV (Kol\u00edn \u2014 350,000 Toyota Aygo X + Peugeot 108/208 derivatives/year). EN 10204 3.1/3.2. CIF Hamburg 12\u201315 days + road 560 km to Prague. +91 7600066117.",
         "components": [
             {
                 "title": "Factory Address",
@@ -32059,7 +32059,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier to Czech Republic \u2014 Prague, Brno, Ostrava, Plze\u0148",
-        "description2": "JK Forge supplies precision hot forgings to the Czech Republic \u2014 serving \u0160koda Auto AS Mlad\u00e1 Boleslav (VW Group \u2014 900,000 vehicles/year including \u0160koda Octavia, Fabia, Superb, Enyaq iV: IATF 16949:2016, PPAP Level 3, VW Group Einkauf FORMEL Q, 42CrMo4 Q+T crankshaft rough forgings, 18CrNiMo7-6 gearbox carrier forgings, 36MnVS4 fracture-split connecting rod blanks), \u010cEZ Group (Prague \u2014 Dukovany NPP 4\u00d7VVER-440 [total 2,040 MWe] + Temel\u00edn NPP 2\u00d7VVER-1000 [total 2,160 MWe]: SA182 F316LN nozzle forgings for nuclear auxiliary systems, PED Category III\u2013IV), Skoda Power (Pilsen/Plze\u0148 \u2014 steam turbines for nuclear and thermal power plants worldwide: 42CrMo4 Q+T turbine blade carrier ring forgings, 34CrNiMo6 LP shaft forgings), ArcelorMittal Ostrava (2.5 MTPA \u2014 Czech Republic's largest steel plant: 42CrMo4 BOF trunnion ring forgings, rolling mill pinion shaft forgings, EN 10228-3 Class 3), Bosch Jihlava (Czech Republic's largest Bosch plant \u2014 40 million fuel injectors/year: IATF 16949, 42CrMo4 Q+T CRDI injector body forgings 2,500 bar), and Toyota/PSA Kol\u00edn JV (Kol\u00edn \u2014 350,000 Toyota Aygo X + Peugeot 108/208 derivatives/year). EN 10204 3.1/3.2. CIF Hamburg 12\u201315 days + road 560 km to Prague. +91-9265772827.",
+        "description2": "JK Forge supplies precision hot forgings to the Czech Republic \u2014 serving \u0160koda Auto AS Mlad\u00e1 Boleslav (VW Group \u2014 900,000 vehicles/year including \u0160koda Octavia, Fabia, Superb, Enyaq iV: IATF 16949:2016, PPAP Level 3, VW Group Einkauf FORMEL Q, 42CrMo4 Q+T crankshaft rough forgings, 18CrNiMo7-6 gearbox carrier forgings, 36MnVS4 fracture-split connecting rod blanks), \u010cEZ Group (Prague \u2014 Dukovany NPP 4\u00d7VVER-440 [total 2,040 MWe] + Temel\u00edn NPP 2\u00d7VVER-1000 [total 2,160 MWe]: SA182 F316LN nozzle forgings for nuclear auxiliary systems, PED Category III\u2013IV), Skoda Power (Pilsen/Plze\u0148 \u2014 steam turbines for nuclear and thermal power plants worldwide: 42CrMo4 Q+T turbine blade carrier ring forgings, 34CrNiMo6 LP shaft forgings), ArcelorMittal Ostrava (2.5 MTPA \u2014 Czech Republic's largest steel plant: 42CrMo4 BOF trunnion ring forgings, rolling mill pinion shaft forgings, EN 10228-3 Class 3), Bosch Jihlava (Czech Republic's largest Bosch plant \u2014 40 million fuel injectors/year: IATF 16949, 42CrMo4 Q+T CRDI injector body forgings 2,500 bar), and Toyota/PSA Kol\u00edn JV (Kol\u00edn \u2014 350,000 Toyota Aygo X + Peugeot 108/208 derivatives/year). EN 10204 3.1/3.2. CIF Hamburg 12\u201315 days + road 560 km to Prague. +91 7600066117.",
         "components": [
             {
                 "title": "Factory Address",
@@ -32167,7 +32167,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Leeds and Yorkshire's Manufacturing & Engineering Base",
-        "description2": "JK Forge exports forged components to Leeds, England \u2014 alloy and carbon steel forgings for the Yorkshire general engineering, industrial equipment, and manufacturing base. EN 10204 certification, BS EN/DIN material grades, and CIF UK logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Leeds, England \u2014 alloy and carbon steel forgings for the Yorkshire general engineering, industrial equipment, and manufacturing base. EN 10204 certification, BS EN/DIN material grades, and CIF UK logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Construction Equipment Component Manufacturing",
@@ -32291,7 +32291,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Leeds and Yorkshire's Manufacturing & Engineering Base",
-        "description2": "JK Forge exports forged components to Leeds, England \u2014 alloy and carbon steel forgings for the Yorkshire general engineering, industrial equipment, and manufacturing base. EN 10204 certification, BS EN/DIN material grades, and CIF UK logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Leeds, England \u2014 alloy and carbon steel forgings for the Yorkshire general engineering, industrial equipment, and manufacturing base. EN 10204 certification, BS EN/DIN material grades, and CIF UK logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Construction Equipment Component Manufacturing",
@@ -32415,7 +32415,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Guyana's Emerging Offshore Oil, Gas & Mining Economy",
-        "description2": "JK Forge exports forged components to Guyana \u2014 alloy and stainless steel flanges, fittings, valve body blanks, and structural forgings serving the country's rapidly expanding offshore oil and gas supply base, bauxite mining sector, and agricultural equipment industry. ASTM/ASME material grades with full certification and CIF Georgetown shipping. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Guyana \u2014 alloy and stainless steel flanges, fittings, valve body blanks, and structural forgings serving the country's rapidly expanding offshore oil and gas supply base, bauxite mining sector, and agricultural equipment industry. ASTM/ASME material grades with full certification and CIF Georgetown shipping. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Bauxite Mining & Mineral Processing",
@@ -32539,7 +32539,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Guyana's Emerging Offshore Oil, Gas & Mining Economy",
-        "description2": "JK Forge exports forged components to Guyana \u2014 alloy and stainless steel flanges, fittings, valve body blanks, and structural forgings serving the country's rapidly expanding offshore oil and gas supply base, bauxite mining sector, and agricultural equipment industry. ASTM/ASME material grades with full certification and CIF Georgetown shipping. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Guyana \u2014 alloy and stainless steel flanges, fittings, valve body blanks, and structural forgings serving the country's rapidly expanding offshore oil and gas supply base, bauxite mining sector, and agricultural equipment industry. ASTM/ASME material grades with full certification and CIF Georgetown shipping. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Bauxite Mining & Mineral Processing",
@@ -32663,7 +32663,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Nepal's Hydropower, Infrastructure & Construction Sector",
-        "description2": "JK Forge supplies forged steel components to Nepal \u2014 alloy and carbon steel forgings for hydropower project construction, infrastructure development, and general engineering, shipped directly across the India-Nepal land border from our Rajkot, India manufacturing facility. IS and ASTM material grades, full mill certification, and road/rail delivery avoiding ocean freight transit entirely. Call +91-9265772827.",
+        "description2": "JK Forge supplies forged steel components to Nepal \u2014 alloy and carbon steel forgings for hydropower project construction, infrastructure development, and general engineering, shipped directly across the India-Nepal land border from our Rajkot, India manufacturing facility. IS and ASTM material grades, full mill certification, and road/rail delivery avoiding ocean freight transit entirely. Call +91 7600066117.",
         "components": [
             {
                 "title": "Road, Bridge & Transmission Infrastructure",
@@ -32787,7 +32787,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Nepal's Hydropower, Infrastructure & Construction Sector",
-        "description2": "JK Forge supplies forged steel components to Nepal \u2014 alloy and carbon steel forgings for hydropower project construction, infrastructure development, and general engineering, shipped directly across the India-Nepal land border from our Rajkot, India manufacturing facility. IS and ASTM material grades, full mill certification, and road/rail delivery avoiding ocean freight transit entirely. Call +91-9265772827.",
+        "description2": "JK Forge supplies forged steel components to Nepal \u2014 alloy and carbon steel forgings for hydropower project construction, infrastructure development, and general engineering, shipped directly across the India-Nepal land border from our Rajkot, India manufacturing facility. IS and ASTM material grades, full mill certification, and road/rail delivery avoiding ocean freight transit entirely. Call +91 7600066117.",
         "components": [
             {
                 "title": "Road, Bridge & Transmission Infrastructure",
@@ -32911,7 +32911,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Denver's Energy, Aerospace & Mining Equipment Base",
-        "description2": "JK Forge exports forged components to Denver and the Front Range region of Colorado \u2014 alloy steel forgings for the region's oil & gas equipment, renewable energy, aerospace, and mining equipment manufacturing base. Alloy steel grades, full material certification, and CIF Gulf/West Coast logistics with onward inland delivery. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Denver and the Front Range region of Colorado \u2014 alloy steel forgings for the region's oil & gas equipment, renewable energy, aerospace, and mining equipment manufacturing base. Alloy steel grades, full material certification, and CIF Gulf/West Coast logistics with onward inland delivery. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Renewable Energy Equipment Manufacturing",
@@ -33035,7 +33035,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Denver's Energy, Aerospace & Mining Equipment Base",
-        "description2": "JK Forge exports forged components to Denver and the Front Range region of Colorado \u2014 alloy steel forgings for the region's oil & gas equipment, renewable energy, aerospace, and mining equipment manufacturing base. Alloy steel grades, full material certification, and CIF Gulf/West Coast logistics with onward inland delivery. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Denver and the Front Range region of Colorado \u2014 alloy steel forgings for the region's oil & gas equipment, renewable energy, aerospace, and mining equipment manufacturing base. Alloy steel grades, full material certification, and CIF Gulf/West Coast logistics with onward inland delivery. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Renewable Energy Equipment Manufacturing",
@@ -33159,7 +33159,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier to Australia \u2014 Perth, Brisbane, Darwin, Melbourne, Sydney",
-        "description2": "JK Forge supplies precision hot forgings to Australia \u2014 serving Rio Tinto Pilbara Iron Ore (Port Hedland, WA \u2014 world's #1 iron ore producer: 360 MTPA, 16 mines + 1,700 km private railway AutoHaul [world's first fully autonomous heavy-haul railway]: 42CrMo4 Q+T crusher jaw shaft forgings, 34CrNiMo6 primary ball mill drive shaft forgings OD 400mm, S355J2 conveyor head pulley shaft forgings \u2014 AS 1085 / ASME VIII), BHP Group (Melbourne \u2014 Pilbara iron ore 290 MTPA + Olympic Dam [Olympic Dam, SA: world's #1 uranium resource + world's #4 copper: 200,000 t/year Cu + 4,000 t/year U3O8]: SA182 F316L and F304L stainless nozzle forgings for sulfuric acid leach circuits, titanium Gr.2 nozzle forgings for uranium SX [solvent extraction], ASME VIII, AS 4343), Woodside Energy (Perth \u2014 Pluto LNG 4.9 MTPA + NWS LNG 16.9 MTPA + Scarborough FLNG 5 MTPA [under construction 2024]: SA182 F316L cryogenic nozzle forgings, A350 LF3 nozzle forgings, PED/ASME III-2/AS 1210 pressure vessel code), Fortescue Metals Group (Perth \u2014 175 MTPA iron ore, world's #4 iron ore producer: SAG mill trunnion ring forgings), and Rio Tinto's Weipa Bauxite (Queensland \u2014 35 MTPA: 42CrMo4 Q+T grinding mill drive shaft forgings). AS/NZS, ASME VIII, API 6A. CIF Port Hedland 10\u201312 days / CIF Fremantle 10\u201313 days. +91-9265772827.",
+        "description2": "JK Forge supplies precision hot forgings to Australia \u2014 serving Rio Tinto Pilbara Iron Ore (Port Hedland, WA \u2014 world's #1 iron ore producer: 360 MTPA, 16 mines + 1,700 km private railway AutoHaul [world's first fully autonomous heavy-haul railway]: 42CrMo4 Q+T crusher jaw shaft forgings, 34CrNiMo6 primary ball mill drive shaft forgings OD 400mm, S355J2 conveyor head pulley shaft forgings \u2014 AS 1085 / ASME VIII), BHP Group (Melbourne \u2014 Pilbara iron ore 290 MTPA + Olympic Dam [Olympic Dam, SA: world's #1 uranium resource + world's #4 copper: 200,000 t/year Cu + 4,000 t/year U3O8]: SA182 F316L and F304L stainless nozzle forgings for sulfuric acid leach circuits, titanium Gr.2 nozzle forgings for uranium SX [solvent extraction], ASME VIII, AS 4343), Woodside Energy (Perth \u2014 Pluto LNG 4.9 MTPA + NWS LNG 16.9 MTPA + Scarborough FLNG 5 MTPA [under construction 2024]: SA182 F316L cryogenic nozzle forgings, A350 LF3 nozzle forgings, PED/ASME III-2/AS 1210 pressure vessel code), Fortescue Metals Group (Perth \u2014 175 MTPA iron ore, world's #4 iron ore producer: SAG mill trunnion ring forgings), and Rio Tinto's Weipa Bauxite (Queensland \u2014 35 MTPA: 42CrMo4 Q+T grinding mill drive shaft forgings). AS/NZS, ASME VIII, API 6A. CIF Port Hedland 10\u201312 days / CIF Fremantle 10\u201313 days. +91 7600066117.",
         "components": [
             {
                 "title": "Factory Address",
@@ -33267,7 +33267,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier to Australia \u2014 Perth, Brisbane, Darwin, Melbourne, Sydney",
-        "description2": "JK Forge supplies precision hot forgings to Australia \u2014 serving Rio Tinto Pilbara Iron Ore (Port Hedland, WA \u2014 world's #1 iron ore producer: 360 MTPA, 16 mines + 1,700 km private railway AutoHaul [world's first fully autonomous heavy-haul railway]: 42CrMo4 Q+T crusher jaw shaft forgings, 34CrNiMo6 primary ball mill drive shaft forgings OD 400mm, S355J2 conveyor head pulley shaft forgings \u2014 AS 1085 / ASME VIII), BHP Group (Melbourne \u2014 Pilbara iron ore 290 MTPA + Olympic Dam [Olympic Dam, SA: world's #1 uranium resource + world's #4 copper: 200,000 t/year Cu + 4,000 t/year U3O8]: SA182 F316L and F304L stainless nozzle forgings for sulfuric acid leach circuits, titanium Gr.2 nozzle forgings for uranium SX [solvent extraction], ASME VIII, AS 4343), Woodside Energy (Perth \u2014 Pluto LNG 4.9 MTPA + NWS LNG 16.9 MTPA + Scarborough FLNG 5 MTPA [under construction 2024]: SA182 F316L cryogenic nozzle forgings, A350 LF3 nozzle forgings, PED/ASME III-2/AS 1210 pressure vessel code), Fortescue Metals Group (Perth \u2014 175 MTPA iron ore, world's #4 iron ore producer: SAG mill trunnion ring forgings), and Rio Tinto's Weipa Bauxite (Queensland \u2014 35 MTPA: 42CrMo4 Q+T grinding mill drive shaft forgings). AS/NZS, ASME VIII, API 6A. CIF Port Hedland 10\u201312 days / CIF Fremantle 10\u201313 days. +91-9265772827.",
+        "description2": "JK Forge supplies precision hot forgings to Australia \u2014 serving Rio Tinto Pilbara Iron Ore (Port Hedland, WA \u2014 world's #1 iron ore producer: 360 MTPA, 16 mines + 1,700 km private railway AutoHaul [world's first fully autonomous heavy-haul railway]: 42CrMo4 Q+T crusher jaw shaft forgings, 34CrNiMo6 primary ball mill drive shaft forgings OD 400mm, S355J2 conveyor head pulley shaft forgings \u2014 AS 1085 / ASME VIII), BHP Group (Melbourne \u2014 Pilbara iron ore 290 MTPA + Olympic Dam [Olympic Dam, SA: world's #1 uranium resource + world's #4 copper: 200,000 t/year Cu + 4,000 t/year U3O8]: SA182 F316L and F304L stainless nozzle forgings for sulfuric acid leach circuits, titanium Gr.2 nozzle forgings for uranium SX [solvent extraction], ASME VIII, AS 4343), Woodside Energy (Perth \u2014 Pluto LNG 4.9 MTPA + NWS LNG 16.9 MTPA + Scarborough FLNG 5 MTPA [under construction 2024]: SA182 F316L cryogenic nozzle forgings, A350 LF3 nozzle forgings, PED/ASME III-2/AS 1210 pressure vessel code), Fortescue Metals Group (Perth \u2014 175 MTPA iron ore, world's #4 iron ore producer: SAG mill trunnion ring forgings), and Rio Tinto's Weipa Bauxite (Queensland \u2014 35 MTPA: 42CrMo4 Q+T grinding mill drive shaft forgings). AS/NZS, ASME VIII, API 6A. CIF Port Hedland 10\u201312 days / CIF Fremantle 10\u201313 days. +91 7600066117.",
         "components": [
             {
                 "title": "Factory Address",
@@ -33375,7 +33375,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Latvia's Engineering Manufacturing Heritage & Riga Transshipment Hub",
-        "description2": "JK Forge supplies certified precision forgings to Latvia \u2014 alloy and carbon steel structural, machinery, and general engineering forgings for the manufacturing and metalworking base concentrated around Riga and Latvia's other industrial centers. EN 10204 3.1/3.2 certification, DIN EN material grades, and CIF Riga shipping with road/rail delivery across the Baltic region. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified precision forgings to Latvia \u2014 alloy and carbon steel structural, machinery, and general engineering forgings for the manufacturing and metalworking base concentrated around Riga and Latvia's other industrial centers. EN 10204 3.1/3.2 certification, DIN EN material grades, and CIF Riga shipping with road/rail delivery across the Baltic region. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Metalworking & General Fabrication",
@@ -33499,7 +33499,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Latvia's Engineering Manufacturing Heritage & Riga Transshipment Hub",
-        "description2": "JK Forge supplies certified precision forgings to Latvia \u2014 alloy and carbon steel structural, machinery, and general engineering forgings for the manufacturing and metalworking base concentrated around Riga and Latvia's other industrial centers. EN 10204 3.1/3.2 certification, DIN EN material grades, and CIF Riga shipping with road/rail delivery across the Baltic region. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified precision forgings to Latvia \u2014 alloy and carbon steel structural, machinery, and general engineering forgings for the manufacturing and metalworking base concentrated around Riga and Latvia's other industrial centers. EN 10204 3.1/3.2 certification, DIN EN material grades, and CIF Riga shipping with road/rail delivery across the Baltic region. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Metalworking & General Fabrication",
@@ -33863,7 +33863,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Melbourne \u2014 Victoria's Largest Industrial & Manufacturing City",
-        "description2": "JK Forge exports forged components to Melbourne, Victoria \u2014 alloy steel forgings for the region's automotive-adjacent supply chain, general manufacturing, and industrial equipment base. Alloy steel grades, mill test certification, and CIF Southeast Australia logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Melbourne, Victoria \u2014 alloy steel forgings for the region's automotive-adjacent supply chain, general manufacturing, and industrial equipment base. Alloy steel grades, mill test certification, and CIF Southeast Australia logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "General Industrial Machinery Manufacturing",
@@ -33987,7 +33987,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Melbourne \u2014 Victoria's Largest Industrial & Manufacturing City",
-        "description2": "JK Forge exports forged components to Melbourne, Victoria \u2014 alloy steel forgings for the region's automotive-adjacent supply chain, general manufacturing, and industrial equipment base. Alloy steel grades, mill test certification, and CIF Southeast Australia logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Melbourne, Victoria \u2014 alloy steel forgings for the region's automotive-adjacent supply chain, general manufacturing, and industrial equipment base. Alloy steel grades, mill test certification, and CIF Southeast Australia logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "General Industrial Machinery Manufacturing",
@@ -34111,7 +34111,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Lithuania's Engineering, Machinery & Baltic Logistics Gateway",
-        "description2": "JK Forge supplies certified precision forgings to Lithuania \u2014 alloy and carbon steel machinery, structural, and general engineering component forgings for the manufacturing base concentrated around Vilnius, Kaunas, and Klaip\u0117da. EN 10204 3.1/3.2 certification, DIN EN material grades, and CIF Klaip\u0117da shipping with road/rail delivery across the Baltic region. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified precision forgings to Lithuania \u2014 alloy and carbon steel machinery, structural, and general engineering component forgings for the manufacturing base concentrated around Vilnius, Kaunas, and Klaip\u0117da. EN 10204 3.1/3.2 certification, DIN EN material grades, and CIF Klaip\u0117da shipping with road/rail delivery across the Baltic region. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Automotive & Electronics Component Supply Chain",
@@ -34235,7 +34235,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Lithuania's Engineering, Machinery & Baltic Logistics Gateway",
-        "description2": "JK Forge supplies certified precision forgings to Lithuania \u2014 alloy and carbon steel machinery, structural, and general engineering component forgings for the manufacturing base concentrated around Vilnius, Kaunas, and Klaip\u0117da. EN 10204 3.1/3.2 certification, DIN EN material grades, and CIF Klaip\u0117da shipping with road/rail delivery across the Baltic region. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified precision forgings to Lithuania \u2014 alloy and carbon steel machinery, structural, and general engineering component forgings for the manufacturing base concentrated around Vilnius, Kaunas, and Klaip\u0117da. EN 10204 3.1/3.2 certification, DIN EN material grades, and CIF Klaip\u0117da shipping with road/rail delivery across the Baltic region. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Automotive & Electronics Component Supply Chain",
@@ -34359,7 +34359,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Lyon's Chemical, Pharmaceutical & Precision Manufacturing Base",
-        "description2": "JK Forge exports forged components to Lyon, France \u2014 stainless and alloy steel flanges, fittings, valve body blanks, and precision component forgings for the chemical, pharmaceutical, and advanced manufacturing industries concentrated across the Lyon metropolitan region. EN 10204 3.1/3.2 certification, DIN EN and NF material grades, and CIF Marseille or Fos-sur-Mer shipping. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Lyon, France \u2014 stainless and alloy steel flanges, fittings, valve body blanks, and precision component forgings for the chemical, pharmaceutical, and advanced manufacturing industries concentrated across the Lyon metropolitan region. EN 10204 3.1/3.2 certification, DIN EN and NF material grades, and CIF Marseille or Fos-sur-Mer shipping. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Pharmaceutical & Biotechnology Manufacturing",
@@ -34483,7 +34483,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Lyon's Chemical, Pharmaceutical & Precision Manufacturing Base",
-        "description2": "JK Forge exports forged components to Lyon, France \u2014 stainless and alloy steel flanges, fittings, valve body blanks, and precision component forgings for the chemical, pharmaceutical, and advanced manufacturing industries concentrated across the Lyon metropolitan region. EN 10204 3.1/3.2 certification, DIN EN and NF material grades, and CIF Marseille or Fos-sur-Mer shipping. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Lyon, France \u2014 stainless and alloy steel flanges, fittings, valve body blanks, and precision component forgings for the chemical, pharmaceutical, and advanced manufacturing industries concentrated across the Lyon metropolitan region. EN 10204 3.1/3.2 certification, DIN EN and NF material grades, and CIF Marseille or Fos-sur-Mer shipping. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Pharmaceutical & Biotechnology Manufacturing",
@@ -34607,7 +34607,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier to Frankfurt \u2014 Rhine-Main Chemical Industry and Aviation MRO Hub",
-        "description2": "JK Forge exports PED 2014/68/EU, AS9100 Rev D, and DIN EN 10204 3.1-certified precision hot forgings to Frankfurt and the Rhine-Main Region \u2014 supplying Infraserv H\u00f6chst (Industriepark H\u00f6chst \u2014 Germany's largest chemical industrial park, 90+ companies, 22,000 workers: Celanese acetic acid reactor nozzle forgings in SA182 F316L, Clariant specialty chemical reactor forgings in 316L, Sanofi Aventis sterile pharmaceutical reactor nozzle forgings in 316L BN2/BN3 hygienic finish), Evonik Industries Frankfurt (specialty chemicals \u2014 PLEXIGLAS acrylic monomer reactor forgings in SA182 F304L, Vestamid PA12 polymerization reactor nozzle forgings in SA182 F316L), Fraport AG Frankfurt Airport (world's #3 cargo airport, 2.3 million tonnes/year: airside ground support equipment forgings), Lufthansa Technik AG Frankfurt (world's #1 MRO \u2014 aircraft maintenance, repair, overhaul: Ti-6Al-4V landing gear component forgings, AS9100 Rev D), and Deutsche Bahn AG Frankfurt (ICE4 high-speed train bogie frame forgings in S355J2, axle forgings in EA4T to EN 13261). CIF Frankfurt via Hamburg + DB Cargo 14\u201317 days. Call +91-9265772827.",
+        "description2": "JK Forge exports PED 2014/68/EU, AS9100 Rev D, and DIN EN 10204 3.1-certified precision hot forgings to Frankfurt and the Rhine-Main Region \u2014 supplying Infraserv H\u00f6chst (Industriepark H\u00f6chst \u2014 Germany's largest chemical industrial park, 90+ companies, 22,000 workers: Celanese acetic acid reactor nozzle forgings in SA182 F316L, Clariant specialty chemical reactor forgings in 316L, Sanofi Aventis sterile pharmaceutical reactor nozzle forgings in 316L BN2/BN3 hygienic finish), Evonik Industries Frankfurt (specialty chemicals \u2014 PLEXIGLAS acrylic monomer reactor forgings in SA182 F304L, Vestamid PA12 polymerization reactor nozzle forgings in SA182 F316L), Fraport AG Frankfurt Airport (world's #3 cargo airport, 2.3 million tonnes/year: airside ground support equipment forgings), Lufthansa Technik AG Frankfurt (world's #1 MRO \u2014 aircraft maintenance, repair, overhaul: Ti-6Al-4V landing gear component forgings, AS9100 Rev D), and Deutsche Bahn AG Frankfurt (ICE4 high-speed train bogie frame forgings in S355J2, axle forgings in EA4T to EN 13261). CIF Frankfurt via Hamburg + DB Cargo 14\u201317 days. Call +91 7600066117.",
         "components": [
             {
                 "title": "Factory Address",
@@ -34715,7 +34715,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier to Frankfurt \u2014 Rhine-Main Chemical Industry and Aviation MRO Hub",
-        "description2": "JK Forge exports PED 2014/68/EU, AS9100 Rev D, and DIN EN 10204 3.1-certified precision hot forgings to Frankfurt and the Rhine-Main Region \u2014 supplying Infraserv H\u00f6chst (Industriepark H\u00f6chst \u2014 Germany's largest chemical industrial park, 90+ companies, 22,000 workers: Celanese acetic acid reactor nozzle forgings in SA182 F316L, Clariant specialty chemical reactor forgings in 316L, Sanofi Aventis sterile pharmaceutical reactor nozzle forgings in 316L BN2/BN3 hygienic finish), Evonik Industries Frankfurt (specialty chemicals \u2014 PLEXIGLAS acrylic monomer reactor forgings in SA182 F304L, Vestamid PA12 polymerization reactor nozzle forgings in SA182 F316L), Fraport AG Frankfurt Airport (world's #3 cargo airport, 2.3 million tonnes/year: airside ground support equipment forgings), Lufthansa Technik AG Frankfurt (world's #1 MRO \u2014 aircraft maintenance, repair, overhaul: Ti-6Al-4V landing gear component forgings, AS9100 Rev D), and Deutsche Bahn AG Frankfurt (ICE4 high-speed train bogie frame forgings in S355J2, axle forgings in EA4T to EN 13261). CIF Frankfurt via Hamburg + DB Cargo 14\u201317 days. Call +91-9265772827.",
+        "description2": "JK Forge exports PED 2014/68/EU, AS9100 Rev D, and DIN EN 10204 3.1-certified precision hot forgings to Frankfurt and the Rhine-Main Region \u2014 supplying Infraserv H\u00f6chst (Industriepark H\u00f6chst \u2014 Germany's largest chemical industrial park, 90+ companies, 22,000 workers: Celanese acetic acid reactor nozzle forgings in SA182 F316L, Clariant specialty chemical reactor forgings in 316L, Sanofi Aventis sterile pharmaceutical reactor nozzle forgings in 316L BN2/BN3 hygienic finish), Evonik Industries Frankfurt (specialty chemicals \u2014 PLEXIGLAS acrylic monomer reactor forgings in SA182 F304L, Vestamid PA12 polymerization reactor nozzle forgings in SA182 F316L), Fraport AG Frankfurt Airport (world's #3 cargo airport, 2.3 million tonnes/year: airside ground support equipment forgings), Lufthansa Technik AG Frankfurt (world's #1 MRO \u2014 aircraft maintenance, repair, overhaul: Ti-6Al-4V landing gear component forgings, AS9100 Rev D), and Deutsche Bahn AG Frankfurt (ICE4 high-speed train bogie frame forgings in S355J2, axle forgings in EA4T to EN 13261). CIF Frankfurt via Hamburg + DB Cargo 14\u201317 days. Call +91 7600066117.",
         "components": [
             {
                 "title": "Factory Address",
@@ -35087,7 +35087,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 New Zealand, Pacific Rim's Methanol, Steel, and Dairy Industrial Hub",
-        "description2": "JK Forge exports EN 10204 3.1 and PED 2014/68/EU-certified precision hot forgings to New Zealand \u2014 supplying Methanex Corporation (world's #1 methanol producer \u2014 Vancouver HQ, Motunui plant Taranaki: 1.7 MTPA methanol, the world's single largest methanol production site, 2 plants \u00d7 2,500 t/day \u2014 natural gas feedstock from the Pohokura and Maui fields), New Zealand Steel (BlueScope Steel Australia 100% \u2014 Glenbrook, South Auckland: 650,000 t/year steel from New Zealand ironsand via unique DRI-EAF process), Fonterra Cooperative Group (world's largest dairy exporter, 17 MTPA milk equivalent, Waikato + Canterbury \u2014 spray dryer and evaporator forgings), Ballance Agri-Nutrients (New Zealand's #1 fertilizer cooperative, Kapuni Taranaki ammonia-urea plant 100,000 t/year), and Vector Gas (natural gas pipeline, Auckland): valve body forgings in A182 F316L, compressor shaft forgings in 42CrMo4 Q+T, pump impeller forgings in duplex 2205. CIF Auckland/Tauranga 18\u201322 days from Mundra. Call +91-9265772827.",
+        "description2": "JK Forge exports EN 10204 3.1 and PED 2014/68/EU-certified precision hot forgings to New Zealand \u2014 supplying Methanex Corporation (world's #1 methanol producer \u2014 Vancouver HQ, Motunui plant Taranaki: 1.7 MTPA methanol, the world's single largest methanol production site, 2 plants \u00d7 2,500 t/day \u2014 natural gas feedstock from the Pohokura and Maui fields), New Zealand Steel (BlueScope Steel Australia 100% \u2014 Glenbrook, South Auckland: 650,000 t/year steel from New Zealand ironsand via unique DRI-EAF process), Fonterra Cooperative Group (world's largest dairy exporter, 17 MTPA milk equivalent, Waikato + Canterbury \u2014 spray dryer and evaporator forgings), Ballance Agri-Nutrients (New Zealand's #1 fertilizer cooperative, Kapuni Taranaki ammonia-urea plant 100,000 t/year), and Vector Gas (natural gas pipeline, Auckland): valve body forgings in A182 F316L, compressor shaft forgings in 42CrMo4 Q+T, pump impeller forgings in duplex 2205. CIF Auckland/Tauranga 18\u201322 days from Mundra. Call +91 7600066117.",
         "components": [
             {
                 "title": "Factory Address",
@@ -35195,7 +35195,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 New Zealand, Pacific Rim's Methanol, Steel, and Dairy Industrial Hub",
-        "description2": "JK Forge exports EN 10204 3.1 and PED 2014/68/EU-certified precision hot forgings to New Zealand \u2014 supplying Methanex Corporation (world's #1 methanol producer \u2014 Vancouver HQ, Motunui plant Taranaki: 1.7 MTPA methanol, the world's single largest methanol production site, 2 plants \u00d7 2,500 t/day \u2014 natural gas feedstock from the Pohokura and Maui fields), New Zealand Steel (BlueScope Steel Australia 100% \u2014 Glenbrook, South Auckland: 650,000 t/year steel from New Zealand ironsand via unique DRI-EAF process), Fonterra Cooperative Group (world's largest dairy exporter, 17 MTPA milk equivalent, Waikato + Canterbury \u2014 spray dryer and evaporator forgings), Ballance Agri-Nutrients (New Zealand's #1 fertilizer cooperative, Kapuni Taranaki ammonia-urea plant 100,000 t/year), and Vector Gas (natural gas pipeline, Auckland): valve body forgings in A182 F316L, compressor shaft forgings in 42CrMo4 Q+T, pump impeller forgings in duplex 2205. CIF Auckland/Tauranga 18\u201322 days from Mundra. Call +91-9265772827.",
+        "description2": "JK Forge exports EN 10204 3.1 and PED 2014/68/EU-certified precision hot forgings to New Zealand \u2014 supplying Methanex Corporation (world's #1 methanol producer \u2014 Vancouver HQ, Motunui plant Taranaki: 1.7 MTPA methanol, the world's single largest methanol production site, 2 plants \u00d7 2,500 t/day \u2014 natural gas feedstock from the Pohokura and Maui fields), New Zealand Steel (BlueScope Steel Australia 100% \u2014 Glenbrook, South Auckland: 650,000 t/year steel from New Zealand ironsand via unique DRI-EAF process), Fonterra Cooperative Group (world's largest dairy exporter, 17 MTPA milk equivalent, Waikato + Canterbury \u2014 spray dryer and evaporator forgings), Ballance Agri-Nutrients (New Zealand's #1 fertilizer cooperative, Kapuni Taranaki ammonia-urea plant 100,000 t/year), and Vector Gas (natural gas pipeline, Auckland): valve body forgings in A182 F316L, compressor shaft forgings in 42CrMo4 Q+T, pump impeller forgings in duplex 2205. CIF Auckland/Tauranga 18\u201322 days from Mundra. Call +91 7600066117.",
         "components": [
             {
                 "title": "Factory Address",
@@ -35303,7 +35303,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Cameroon's Oil, Timber & Central African Trade Gateway",
-        "description2": "JK Forge supplies forged steel components to Cameroon \u2014 alloy steel forgings for oil and gas equipment, timber processing machinery, and general industrial applications, shipped directly to the Douala logistics gateway serving Central Africa. EN and ASTM material grades, full mill certification, and direct ocean freight to Douala port. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies forged steel components to Cameroon \u2014 alloy steel forgings for oil and gas equipment, timber processing machinery, and general industrial applications, shipped directly to the Douala logistics gateway serving Central Africa. EN and ASTM material grades, full mill certification, and direct ocean freight to Douala port. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Timber Harvesting & Processing Equipment",
@@ -35427,7 +35427,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Cameroon's Oil, Timber & Central African Trade Gateway",
-        "description2": "JK Forge supplies forged steel components to Cameroon \u2014 alloy steel forgings for oil and gas equipment, timber processing machinery, and general industrial applications, shipped directly to the Douala logistics gateway serving Central Africa. EN and ASTM material grades, full mill certification, and direct ocean freight to Douala port. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies forged steel components to Cameroon \u2014 alloy steel forgings for oil and gas equipment, timber processing machinery, and general industrial applications, shipped directly to the Douala logistics gateway serving Central Africa. EN and ASTM material grades, full mill certification, and direct ocean freight to Douala port. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Timber Harvesting & Processing Equipment",
@@ -35551,7 +35551,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Cyprus's Shipping Registry, Marine & Offshore Energy Sector",
-        "description2": "JK Forge supplies certified forgings to Cyprus \u2014 alloy and stainless steel forgings for the marine and ship management industry, offshore energy equipment manufacturers, and general industrial machinery manufacturers serving Limassol and the broader Cypriot and Eastern Mediterranean market. Material test certification, EN material grades, and direct CIF shipping to Limassol. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified forgings to Cyprus \u2014 alloy and stainless steel forgings for the marine and ship management industry, offshore energy equipment manufacturers, and general industrial machinery manufacturers serving Limassol and the broader Cypriot and Eastern Mediterranean market. Material test certification, EN material grades, and direct CIF shipping to Limassol. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Offshore Energy Equipment Manufacturing",
@@ -35675,7 +35675,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Cyprus's Shipping Registry, Marine & Offshore Energy Sector",
-        "description2": "JK Forge supplies certified forgings to Cyprus \u2014 alloy and stainless steel forgings for the marine and ship management industry, offshore energy equipment manufacturers, and general industrial machinery manufacturers serving Limassol and the broader Cypriot and Eastern Mediterranean market. Material test certification, EN material grades, and direct CIF shipping to Limassol. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified forgings to Cyprus \u2014 alloy and stainless steel forgings for the marine and ship management industry, offshore energy equipment manufacturers, and general industrial machinery manufacturers serving Limassol and the broader Cypriot and Eastern Mediterranean market. Material test certification, EN material grades, and direct CIF shipping to Limassol. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Offshore Energy Equipment Manufacturing",
@@ -36031,7 +36031,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Armenia's Copper-Molybdenum Mining and Manufacturing Base",
-        "description2": "JK Forge supplies certified forgings to Armenia \u2014 alloy and carbon steel forgings for copper and molybdenum mining equipment manufacturers, general engineering, and growing industrial and technology-adjacent manufacturing sectors serving Yerevan and the broader Armenian economy. Material test certification, EN/GOST material grades, and shipping via Poti or Batumi with onward inland transport. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified forgings to Armenia \u2014 alloy and carbon steel forgings for copper and molybdenum mining equipment manufacturers, general engineering, and growing industrial and technology-adjacent manufacturing sectors serving Yerevan and the broader Armenian economy. Material test certification, EN/GOST material grades, and shipping via Poti or Batumi with onward inland transport. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "General Machine Building & Industrial Equipment",
@@ -36155,7 +36155,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Armenia's Copper-Molybdenum Mining and Manufacturing Base",
-        "description2": "JK Forge supplies certified forgings to Armenia \u2014 alloy and carbon steel forgings for copper and molybdenum mining equipment manufacturers, general engineering, and growing industrial and technology-adjacent manufacturing sectors serving Yerevan and the broader Armenian economy. Material test certification, EN/GOST material grades, and shipping via Poti or Batumi with onward inland transport. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified forgings to Armenia \u2014 alloy and carbon steel forgings for copper and molybdenum mining equipment manufacturers, general engineering, and growing industrial and technology-adjacent manufacturing sectors serving Yerevan and the broader Armenian economy. Material test certification, EN/GOST material grades, and shipping via Poti or Batumi with onward inland transport. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "General Machine Building & Industrial Equipment",
@@ -36389,7 +36389,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I get a forging quote for Nagpur delivery?",
-                "answer": "Send your drawing, material spec, quantity, and delivery address in Nagpur to info@JK Forge.com or call +91-9265772827. We respond with price, lead time, and freight options within 24 business hours."
+                "answer": "Send your drawing, material spec, quantity, and delivery address in Nagpur to info@JK Forge.com or call +91 7600066117. We respond with price, lead time, and freight options within 24 business hours."
             }
         ]
     },
@@ -36525,7 +36525,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I get a forging quote for Nagpur delivery?",
-                "answer": "Send your drawing, material spec, quantity, and delivery address in Nagpur to info@JK Forge.com or call +91-9265772827. We respond with price, lead time, and freight options within 24 business hours."
+                "answer": "Send your drawing, material spec, quantity, and delivery address in Nagpur to info@JK Forge.com or call +91 7600066117. We respond with price, lead time, and freight options within 24 business hours."
             }
         ]
     },
@@ -36551,7 +36551,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier to Stuttgart \u2014 Baden-W\u00fcrttemberg's Automotive and Engineering Industrial Core",
-        "description2": "JK Forge exports IATF 16949:2016 and DIN EN 10204 3.1-certified precision hot forgings to Stuttgart and Baden-W\u00fcrttemberg \u2014 supplying Mercedes-Benz AG Stuttgart (OM654d 2.0L diesel and M256 3.0L inline-6 crankshaft rough forgings in 42CrMo4 Q+T, 9G-Tronic AT planetary carrier forgings in 18CrNiMo7-6, AMG engine forgings in 34CrNiMo6), Porsche AG Zuffenhausen (992 GT3 RS 4.0L naturally aspirated flat-6 crankshaft forgings in 34CrNiMo6, Taycan 4S e-motor shaft forgings in 42CrMo4), Robert Bosch GmbH Gerlingen (common rail injector body forgings in 42CrMo4 Q+T \u2014 2,500 bar injection pressure), ZF Friedrichshafen (ZF 8HP planetary gear carrier forgings in 18CrNiMo7-6 carburized), Daimler Truck AG (Stuttgart \u2014 OM471 13L Euro VI crankshaft forgings in 42CrMo4, 200,000 Actros trucks/year), and TRUMPF (Ditzingen \u2014 world's #1 laser cutting machine OEM, precision machine tool frame forgings). CIF Stuttgart via Hamburg + DB Cargo 13\u201317 days. Call +91-9265772827.",
+        "description2": "JK Forge exports IATF 16949:2016 and DIN EN 10204 3.1-certified precision hot forgings to Stuttgart and Baden-W\u00fcrttemberg \u2014 supplying Mercedes-Benz AG Stuttgart (OM654d 2.0L diesel and M256 3.0L inline-6 crankshaft rough forgings in 42CrMo4 Q+T, 9G-Tronic AT planetary carrier forgings in 18CrNiMo7-6, AMG engine forgings in 34CrNiMo6), Porsche AG Zuffenhausen (992 GT3 RS 4.0L naturally aspirated flat-6 crankshaft forgings in 34CrNiMo6, Taycan 4S e-motor shaft forgings in 42CrMo4), Robert Bosch GmbH Gerlingen (common rail injector body forgings in 42CrMo4 Q+T \u2014 2,500 bar injection pressure), ZF Friedrichshafen (ZF 8HP planetary gear carrier forgings in 18CrNiMo7-6 carburized), Daimler Truck AG (Stuttgart \u2014 OM471 13L Euro VI crankshaft forgings in 42CrMo4, 200,000 Actros trucks/year), and TRUMPF (Ditzingen \u2014 world's #1 laser cutting machine OEM, precision machine tool frame forgings). CIF Stuttgart via Hamburg + DB Cargo 13\u201317 days. Call +91 7600066117.",
         "components": [
             {
                 "title": "Factory Address",
@@ -36659,7 +36659,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier to Stuttgart \u2014 Baden-W\u00fcrttemberg's Automotive and Engineering Industrial Core",
-        "description2": "JK Forge exports IATF 16949:2016 and DIN EN 10204 3.1-certified precision hot forgings to Stuttgart and Baden-W\u00fcrttemberg \u2014 supplying Mercedes-Benz AG Stuttgart (OM654d 2.0L diesel and M256 3.0L inline-6 crankshaft rough forgings in 42CrMo4 Q+T, 9G-Tronic AT planetary carrier forgings in 18CrNiMo7-6, AMG engine forgings in 34CrNiMo6), Porsche AG Zuffenhausen (992 GT3 RS 4.0L naturally aspirated flat-6 crankshaft forgings in 34CrNiMo6, Taycan 4S e-motor shaft forgings in 42CrMo4), Robert Bosch GmbH Gerlingen (common rail injector body forgings in 42CrMo4 Q+T \u2014 2,500 bar injection pressure), ZF Friedrichshafen (ZF 8HP planetary gear carrier forgings in 18CrNiMo7-6 carburized), Daimler Truck AG (Stuttgart \u2014 OM471 13L Euro VI crankshaft forgings in 42CrMo4, 200,000 Actros trucks/year), and TRUMPF (Ditzingen \u2014 world's #1 laser cutting machine OEM, precision machine tool frame forgings). CIF Stuttgart via Hamburg + DB Cargo 13\u201317 days. Call +91-9265772827.",
+        "description2": "JK Forge exports IATF 16949:2016 and DIN EN 10204 3.1-certified precision hot forgings to Stuttgart and Baden-W\u00fcrttemberg \u2014 supplying Mercedes-Benz AG Stuttgart (OM654d 2.0L diesel and M256 3.0L inline-6 crankshaft rough forgings in 42CrMo4 Q+T, 9G-Tronic AT planetary carrier forgings in 18CrNiMo7-6, AMG engine forgings in 34CrNiMo6), Porsche AG Zuffenhausen (992 GT3 RS 4.0L naturally aspirated flat-6 crankshaft forgings in 34CrNiMo6, Taycan 4S e-motor shaft forgings in 42CrMo4), Robert Bosch GmbH Gerlingen (common rail injector body forgings in 42CrMo4 Q+T \u2014 2,500 bar injection pressure), ZF Friedrichshafen (ZF 8HP planetary gear carrier forgings in 18CrNiMo7-6 carburized), Daimler Truck AG (Stuttgart \u2014 OM471 13L Euro VI crankshaft forgings in 42CrMo4, 200,000 Actros trucks/year), and TRUMPF (Ditzingen \u2014 world's #1 laser cutting machine OEM, precision machine tool frame forgings). CIF Stuttgart via Hamburg + DB Cargo 13\u201317 days. Call +91 7600066117.",
         "components": [
             {
                 "title": "Factory Address",
@@ -36767,7 +36767,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Azerbaijan's Caspian Oil & Gas Industry and Middle Corridor Trade Route",
-        "description2": "JK Forge supplies certified precision forgings to Azerbaijan \u2014 alloy and carbon steel oilfield, machinery, and general industrial forgings for the energy sector and manufacturing base concentrated around Baku and the wider Caspian region. ASTM/API material grades, EN 10204 3.1/3.2 certification, and CIF Baku shipping via Gulf or Black Sea routing. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified precision forgings to Azerbaijan \u2014 alloy and carbon steel oilfield, machinery, and general industrial forgings for the energy sector and manufacturing base concentrated around Baku and the wider Caspian region. ASTM/API material grades, EN 10204 3.1/3.2 certification, and CIF Baku shipping via Gulf or Black Sea routing. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Machine Building & Industrial Equipment",
@@ -36891,7 +36891,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Azerbaijan's Caspian Oil & Gas Industry and Middle Corridor Trade Route",
-        "description2": "JK Forge supplies certified precision forgings to Azerbaijan \u2014 alloy and carbon steel oilfield, machinery, and general industrial forgings for the energy sector and manufacturing base concentrated around Baku and the wider Caspian region. ASTM/API material grades, EN 10204 3.1/3.2 certification, and CIF Baku shipping via Gulf or Black Sea routing. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified precision forgings to Azerbaijan \u2014 alloy and carbon steel oilfield, machinery, and general industrial forgings for the energy sector and manufacturing base concentrated around Baku and the wider Caspian region. ASTM/API material grades, EN 10204 3.1/3.2 certification, and CIF Baku shipping via Gulf or Black Sea routing. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Machine Building & Industrial Equipment",
@@ -37015,7 +37015,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Precision Hot Forgings for Durgapur's Steel and Heavy Engineering Industrial Belt",
-        "description2": "JK Forge supplies precision hot forgings to Durgapur, West Bengal \u2014 alloy steel, carbon steel, and stainless steel forgings for the steel plant ancillary, heavy engineering, and general manufacturing base concentrated across this planned industrial city at the heart of eastern India's steel and heavy engineering belt. Multimodal road and rail dispatch from our Shapar GIDC facility in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies precision hot forgings to Durgapur, West Bengal \u2014 alloy steel, carbon steel, and stainless steel forgings for the steel plant ancillary, heavy engineering, and general manufacturing base concentrated across this planned industrial city at the heart of eastern India's steel and heavy engineering belt. Multimodal road and rail dispatch from our Shapar GIDC facility in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Heavy Engineering & Machine Building",
@@ -37113,7 +37113,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I get a quote for delivery to Durgapur?",
-                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91-9265772827. We respond with a price and lead time, and confirm the most cost-effective freight option for your consignment size."
+                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91 7600066117. We respond with a price and lead time, and confirm the most cost-effective freight option for your consignment size."
             }
         ]
     },
@@ -37139,7 +37139,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Precision Hot Forgings for Durgapur's Steel and Heavy Engineering Industrial Belt",
-        "description2": "JK Forge supplies precision hot forgings to Durgapur, West Bengal \u2014 alloy steel, carbon steel, and stainless steel forgings for the steel plant ancillary, heavy engineering, and general manufacturing base concentrated across this planned industrial city at the heart of eastern India's steel and heavy engineering belt. Multimodal road and rail dispatch from our Shapar GIDC facility in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies precision hot forgings to Durgapur, West Bengal \u2014 alloy steel, carbon steel, and stainless steel forgings for the steel plant ancillary, heavy engineering, and general manufacturing base concentrated across this planned industrial city at the heart of eastern India's steel and heavy engineering belt. Multimodal road and rail dispatch from our Shapar GIDC facility in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Heavy Engineering & Machine Building",
@@ -37237,7 +37237,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I get a quote for delivery to Durgapur?",
-                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91-9265772827. We respond with a price and lead time, and confirm the most cost-effective freight option for your consignment size."
+                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91 7600066117. We respond with a price and lead time, and confirm the most cost-effective freight option for your consignment size."
             }
         ]
     },
@@ -37263,7 +37263,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Precision Hot Forgings for Manesar's Automotive Manufacturing Cluster in the NCR Region",
-        "description2": "JK Forge supplies precision hot forgings to Manesar, Haryana \u2014 alloy steel, carbon steel, and stainless steel forgings for the automotive vehicle assembly, Tier 1/Tier 2 auto-component, and general engineering manufacturing cluster concentrated across this major NCR industrial hub. Multimodal dispatch from our Shapar GIDC facility in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies precision hot forgings to Manesar, Haryana \u2014 alloy steel, carbon steel, and stainless steel forgings for the automotive vehicle assembly, Tier 1/Tier 2 auto-component, and general engineering manufacturing cluster concentrated across this major NCR industrial hub. Multimodal dispatch from our Shapar GIDC facility in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Tier 1 & Tier 2 Auto-Component Manufacturing",
@@ -37361,7 +37361,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I get a quote for delivery to Manesar?",
-                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91-9265772827. We respond with a price and lead time, and confirm the most cost-effective freight option for your consignment size."
+                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91 7600066117. We respond with a price and lead time, and confirm the most cost-effective freight option for your consignment size."
             }
         ]
     },
@@ -37387,7 +37387,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Precision Hot Forgings for Manesar's Automotive Manufacturing Cluster in the NCR Region",
-        "description2": "JK Forge supplies precision hot forgings to Manesar, Haryana \u2014 alloy steel, carbon steel, and stainless steel forgings for the automotive vehicle assembly, Tier 1/Tier 2 auto-component, and general engineering manufacturing cluster concentrated across this major NCR industrial hub. Multimodal dispatch from our Shapar GIDC facility in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies precision hot forgings to Manesar, Haryana \u2014 alloy steel, carbon steel, and stainless steel forgings for the automotive vehicle assembly, Tier 1/Tier 2 auto-component, and general engineering manufacturing cluster concentrated across this major NCR industrial hub. Multimodal dispatch from our Shapar GIDC facility in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Tier 1 & Tier 2 Auto-Component Manufacturing",
@@ -37485,7 +37485,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I get a quote for delivery to Manesar?",
-                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91-9265772827. We respond with a price and lead time, and confirm the most cost-effective freight option for your consignment size."
+                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91 7600066117. We respond with a price and lead time, and confirm the most cost-effective freight option for your consignment size."
             }
         ]
     },
@@ -37759,7 +37759,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Precision Hot Forgings for Sonepat's Auto Component & NCR Industrial Belt Manufacturing Base",
-        "description2": "JK Forge supplies precision hot forgings to Sonepat, Haryana \u2014 alloy steel, carbon steel, and stainless steel forgings for the auto component, hand tool, and general engineering manufacturers concentrated across this Delhi-NCR-adjacent industrial city. Multimodal dispatch from our Shapar GIDC facility in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies precision hot forgings to Sonepat, Haryana \u2014 alloy steel, carbon steel, and stainless steel forgings for the auto component, hand tool, and general engineering manufacturers concentrated across this Delhi-NCR-adjacent industrial city. Multimodal dispatch from our Shapar GIDC facility in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Hand Tool & Hardware Manufacturing",
@@ -37857,7 +37857,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I get a quote for delivery to Sonepat?",
-                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91-9265772827. We respond with a price and lead time, and confirm the most cost-effective freight option for your consignment size."
+                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91 7600066117. We respond with a price and lead time, and confirm the most cost-effective freight option for your consignment size."
             }
         ]
     },
@@ -37883,7 +37883,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Precision Hot Forgings for Sonepat's Auto Component & NCR Industrial Belt Manufacturing Base",
-        "description2": "JK Forge supplies precision hot forgings to Sonepat, Haryana \u2014 alloy steel, carbon steel, and stainless steel forgings for the auto component, hand tool, and general engineering manufacturers concentrated across this Delhi-NCR-adjacent industrial city. Multimodal dispatch from our Shapar GIDC facility in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies precision hot forgings to Sonepat, Haryana \u2014 alloy steel, carbon steel, and stainless steel forgings for the auto component, hand tool, and general engineering manufacturers concentrated across this Delhi-NCR-adjacent industrial city. Multimodal dispatch from our Shapar GIDC facility in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Hand Tool & Hardware Manufacturing",
@@ -37981,7 +37981,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I get a quote for delivery to Sonepat?",
-                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91-9265772827. We respond with a price and lead time, and confirm the most cost-effective freight option for your consignment size."
+                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91 7600066117. We respond with a price and lead time, and confirm the most cost-effective freight option for your consignment size."
             }
         ]
     },
@@ -38007,7 +38007,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Botswana's Diamond Mining & Diversifying Industrial Base",
-        "description2": "JK Forge supplies forged steel components to Botswana \u2014 alloy steel forgings for diamond and mineral mining equipment, general manufacturing, and construction applications, engineered for the demanding conditions of Southern Africa's mining sector. SANS-aligned and ASTM material grades, full mill certification, and CIF Durban shipping with onward road/rail delivery. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies forged steel components to Botswana \u2014 alloy steel forgings for diamond and mineral mining equipment, general manufacturing, and construction applications, engineered for the demanding conditions of Southern Africa's mining sector. SANS-aligned and ASTM material grades, full mill certification, and CIF Durban shipping with onward road/rail delivery. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "General Manufacturing & Agro-Processing",
@@ -38131,7 +38131,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Botswana's Diamond Mining & Diversifying Industrial Base",
-        "description2": "JK Forge supplies forged steel components to Botswana \u2014 alloy steel forgings for diamond and mineral mining equipment, general manufacturing, and construction applications, engineered for the demanding conditions of Southern Africa's mining sector. SANS-aligned and ASTM material grades, full mill certification, and CIF Durban shipping with onward road/rail delivery. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies forged steel components to Botswana \u2014 alloy steel forgings for diamond and mineral mining equipment, general manufacturing, and construction applications, engineered for the demanding conditions of Southern Africa's mining sector. SANS-aligned and ASTM material grades, full mill certification, and CIF Durban shipping with onward road/rail delivery. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "General Manufacturing & Agro-Processing",
@@ -38254,7 +38254,7 @@ window.pageContent['locationsData'] = {
                 "sub": "Fast Quote Response"
             }
         ],
-        "description1": "JK Forge supplies precision hot forgings to Mumbai's industrial zones \u2014 MIDC Thane, Navi Mumbai, Taloja, Ambernath and Nashik \u2014 from our Shapar GIDC facility in Rajkot. Same-day dispatch on standard stock items, overnight road freight, and ISO 9001:2015 certified quality documentation make us the preferred forging supplier for Mumbai's oil & gas, chemical and engineering sectors. Call +91 92657 72827.",
+        "description1": "JK Forge supplies precision hot forgings to Mumbai's industrial zones \u2014 MIDC Thane, Navi Mumbai, Taloja, Ambernath and Nashik \u2014 from our Shapar GIDC facility in Rajkot. Same-day dispatch on standard stock items, overnight road freight, and ISO 9001:2015 certified quality documentation make us the preferred forging supplier for Mumbai's oil & gas, chemical and engineering sectors. Call +91 7600066117.",
         "description2": "Mumbai and its surrounding MIDC industrial belt \u2014 Thane, Navi Mumbai, Taloja, Ambernath, Nashik \u2014 represent one of India's highest concentrations of oil and gas companies, chemical plants, engineering fabricators and heavy industries. JK Forge at Rajkot is approximately 650 km from Mumbai \u2014 a 10-hour road freight run that enables same-day despatch and next-morning delivery on express freight. Our pricing is consistently more competitive than Mumbai-area local vendors because our Rajkot manufacturing costs are structurally lower, and our JNPT port proximity gives export customers an additional freight option.",
         "components": [
             {
@@ -38365,7 +38365,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I place an order with JK Forge as a Mumbai-based buyer?",
-                "answer": "Contact us at +91 92657 72827 or sales@JK Forge.com with your drawing, material specification, standard, quantity and delivery schedule. We will provide a quotation within 24 hours and can arrange collection from our facility or delivery to your Mumbai location via our freight network."
+                "answer": "Contact us at +91 7600066117 or sales@JK Forge.com with your drawing, material specification, standard, quantity and delivery schedule. We will provide a quotation within 24 hours and can arrange collection from our facility or delivery to your Mumbai location via our freight network."
             }
         ]
     },
@@ -38390,7 +38390,7 @@ window.pageContent['locationsData'] = {
                 "sub": "Fast Quote Response"
             }
         ],
-        "description1": "JK Forge supplies precision hot forgings to Mumbai's industrial zones \u2014 MIDC Thane, Navi Mumbai, Taloja, Ambernath and Nashik \u2014 from our Shapar GIDC facility in Rajkot. Same-day dispatch on standard stock items, overnight road freight, and ISO 9001:2015 certified quality documentation make us the preferred forging supplier for Mumbai's oil & gas, chemical and engineering sectors. Call +91 92657 72827.",
+        "description1": "JK Forge supplies precision hot forgings to Mumbai's industrial zones \u2014 MIDC Thane, Navi Mumbai, Taloja, Ambernath and Nashik \u2014 from our Shapar GIDC facility in Rajkot. Same-day dispatch on standard stock items, overnight road freight, and ISO 9001:2015 certified quality documentation make us the preferred forging supplier for Mumbai's oil & gas, chemical and engineering sectors. Call +91 7600066117.",
         "description2": "Mumbai and its surrounding MIDC industrial belt \u2014 Thane, Navi Mumbai, Taloja, Ambernath, Nashik \u2014 represent one of India's highest concentrations of oil and gas companies, chemical plants, engineering fabricators and heavy industries. JK Forge at Rajkot is approximately 650 km from Mumbai \u2014 a 10-hour road freight run that enables same-day despatch and next-morning delivery on express freight. Our pricing is consistently more competitive than Mumbai-area local vendors because our Rajkot manufacturing costs are structurally lower, and our JNPT port proximity gives export customers an additional freight option.",
         "components": [
             {
@@ -38501,7 +38501,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I place an order with JK Forge as a Mumbai-based buyer?",
-                "answer": "Contact us at +91 92657 72827 or sales@JK Forge.com with your drawing, material specification, standard, quantity and delivery schedule. We will provide a quotation within 24 hours and can arrange collection from our facility or delivery to your Mumbai location via our freight network."
+                "answer": "Contact us at +91 7600066117 or sales@JK Forge.com with your drawing, material specification, standard, quantity and delivery schedule. We will provide a quotation within 24 hours and can arrange collection from our facility or delivery to your Mumbai location via our freight network."
             }
         ]
     },
@@ -38527,7 +38527,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Senegal's Port Logistics, Phosphate Mining & Industrial Base",
-        "description2": "JK Forge supplies certified forgings to Senegal \u2014 alloy and carbon steel forgings for phosphate mining equipment manufacturers, port and materials handling equipment builders, and general industrial machinery manufacturers serving Dakar and the broader Senegalese and West African market. Material test certification, ASTM/EN material grades, and direct CIF shipping to the Port of Dakar. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified forgings to Senegal \u2014 alloy and carbon steel forgings for phosphate mining equipment manufacturers, port and materials handling equipment builders, and general industrial machinery manufacturers serving Dakar and the broader Senegalese and West African market. Material test certification, ASTM/EN material grades, and direct CIF shipping to the Port of Dakar. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Port & Materials Handling Equipment Manufacturing",
@@ -38651,7 +38651,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Indian Forging Supplier \u2014 Senegal's Port Logistics, Phosphate Mining & Industrial Base",
-        "description2": "JK Forge supplies certified forgings to Senegal \u2014 alloy and carbon steel forgings for phosphate mining equipment manufacturers, port and materials handling equipment builders, and general industrial machinery manufacturers serving Dakar and the broader Senegalese and West African market. Material test certification, ASTM/EN material grades, and direct CIF shipping to the Port of Dakar. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies certified forgings to Senegal \u2014 alloy and carbon steel forgings for phosphate mining equipment manufacturers, port and materials handling equipment builders, and general industrial machinery manufacturers serving Dakar and the broader Senegalese and West African market. Material test certification, ASTM/EN material grades, and direct CIF shipping to the Port of Dakar. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Port & Materials Handling Equipment Manufacturing",
@@ -38775,7 +38775,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content India's EV Forging Specialist \u2014 Tesla Gigafactory Berlin, BMW iX/i4, VW ID Family, Mercedes EQS, CATL",
-        "description2": "JK Forge is India's leading EV (Electric Vehicle) forging manufacturer \u2014 supplying precision hot forgings for Germany's electric vehicle revolution: Tesla Gigafactory Berlin-Brandenburg (Gr\u00fcnheide, Brandenburg \u2014 500,000 Model Y/year: battery housing mounting bracket forgings in 6061-T6 aluminium, underbody structural bracket forgings in A356-T6 Al, rear sub-frame gearbox mount forgings in 42CrMo4 Q+T), BMW Group EV (Munich \u2014 400,000 iX/i4/i5/i7 BEV/year: e-motor shaft forgings in 42CrMo4 Q+T, 5th-gen eDrive motor stator housing forgings in A356-T6 Al, planetary carrier forgings in 18CrNiMo7-6 carburized for 2-speed eDrive gearbox), Volkswagen ID.4/ID.7 (Zwickau \u2014 world's #1 EV-dedicated factory, 300,000 BEV/year: VW MEB rear e-axle motor shaft forgings in 42CrMo4 Q+T), Mercedes-Benz EQS/EQE (Sindelfingen \u2014 AMG EQS 53: 484 kW, e-motor shaft forgings in 34CrNiMo6 Q+T), and CATL Erfurt (world's #1 battery manufacturer, Europe's first CATL gigafactory \u2014 battery pack module end-plate forgings in 6061-T6 Al). IATF 16949:2016, EN 10204 3.1. CIF Hamburg 12\u201315 days. +91-9265772827.",
+        "description2": "JK Forge is India's leading EV (Electric Vehicle) forging manufacturer \u2014 supplying precision hot forgings for Germany's electric vehicle revolution: Tesla Gigafactory Berlin-Brandenburg (Gr\u00fcnheide, Brandenburg \u2014 500,000 Model Y/year: battery housing mounting bracket forgings in 6061-T6 aluminium, underbody structural bracket forgings in A356-T6 Al, rear sub-frame gearbox mount forgings in 42CrMo4 Q+T), BMW Group EV (Munich \u2014 400,000 iX/i4/i5/i7 BEV/year: e-motor shaft forgings in 42CrMo4 Q+T, 5th-gen eDrive motor stator housing forgings in A356-T6 Al, planetary carrier forgings in 18CrNiMo7-6 carburized for 2-speed eDrive gearbox), Volkswagen ID.4/ID.7 (Zwickau \u2014 world's #1 EV-dedicated factory, 300,000 BEV/year: VW MEB rear e-axle motor shaft forgings in 42CrMo4 Q+T), Mercedes-Benz EQS/EQE (Sindelfingen \u2014 AMG EQS 53: 484 kW, e-motor shaft forgings in 34CrNiMo6 Q+T), and CATL Erfurt (world's #1 battery manufacturer, Europe's first CATL gigafactory \u2014 battery pack module end-plate forgings in 6061-T6 Al). IATF 16949:2016, EN 10204 3.1. CIF Hamburg 12\u201315 days. +91 7600066117.",
         "components": [
             {
                 "title": "Factory Address",
@@ -38883,7 +38883,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content India's EV Forging Specialist \u2014 Tesla Gigafactory Berlin, BMW iX/i4, VW ID Family, Mercedes EQS, CATL",
-        "description2": "JK Forge is India's leading EV (Electric Vehicle) forging manufacturer \u2014 supplying precision hot forgings for Germany's electric vehicle revolution: Tesla Gigafactory Berlin-Brandenburg (Gr\u00fcnheide, Brandenburg \u2014 500,000 Model Y/year: battery housing mounting bracket forgings in 6061-T6 aluminium, underbody structural bracket forgings in A356-T6 Al, rear sub-frame gearbox mount forgings in 42CrMo4 Q+T), BMW Group EV (Munich \u2014 400,000 iX/i4/i5/i7 BEV/year: e-motor shaft forgings in 42CrMo4 Q+T, 5th-gen eDrive motor stator housing forgings in A356-T6 Al, planetary carrier forgings in 18CrNiMo7-6 carburized for 2-speed eDrive gearbox), Volkswagen ID.4/ID.7 (Zwickau \u2014 world's #1 EV-dedicated factory, 300,000 BEV/year: VW MEB rear e-axle motor shaft forgings in 42CrMo4 Q+T), Mercedes-Benz EQS/EQE (Sindelfingen \u2014 AMG EQS 53: 484 kW, e-motor shaft forgings in 34CrNiMo6 Q+T), and CATL Erfurt (world's #1 battery manufacturer, Europe's first CATL gigafactory \u2014 battery pack module end-plate forgings in 6061-T6 Al). IATF 16949:2016, EN 10204 3.1. CIF Hamburg 12\u201315 days. +91-9265772827.",
+        "description2": "JK Forge is India's leading EV (Electric Vehicle) forging manufacturer \u2014 supplying precision hot forgings for Germany's electric vehicle revolution: Tesla Gigafactory Berlin-Brandenburg (Gr\u00fcnheide, Brandenburg \u2014 500,000 Model Y/year: battery housing mounting bracket forgings in 6061-T6 aluminium, underbody structural bracket forgings in A356-T6 Al, rear sub-frame gearbox mount forgings in 42CrMo4 Q+T), BMW Group EV (Munich \u2014 400,000 iX/i4/i5/i7 BEV/year: e-motor shaft forgings in 42CrMo4 Q+T, 5th-gen eDrive motor stator housing forgings in A356-T6 Al, planetary carrier forgings in 18CrNiMo7-6 carburized for 2-speed eDrive gearbox), Volkswagen ID.4/ID.7 (Zwickau \u2014 world's #1 EV-dedicated factory, 300,000 BEV/year: VW MEB rear e-axle motor shaft forgings in 42CrMo4 Q+T), Mercedes-Benz EQS/EQE (Sindelfingen \u2014 AMG EQS 53: 484 kW, e-motor shaft forgings in 34CrNiMo6 Q+T), and CATL Erfurt (world's #1 battery manufacturer, Europe's first CATL gigafactory \u2014 battery pack module end-plate forgings in 6061-T6 Al). IATF 16949:2016, EN 10204 3.1. CIF Hamburg 12\u201315 days. +91 7600066117.",
         "components": [
             {
                 "title": "Factory Address",
@@ -39341,7 +39341,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I get a quote for Ahmedabad delivery?",
-                "answer": "Email your drawing, material grade, quantity, and delivery location to info@JK Forge.com or call +91-9265772827. We reply with a price and lead time within 24 business hours."
+                "answer": "Email your drawing, material grade, quantity, and delivery location to info@JK Forge.com or call +91 7600066117. We reply with a price and lead time within 24 business hours."
             }
         ]
     },
@@ -39477,7 +39477,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I get a quote for Ahmedabad delivery?",
-                "answer": "Email your drawing, material grade, quantity, and delivery location to info@JK Forge.com or call +91-9265772827. We reply with a price and lead time within 24 business hours."
+                "answer": "Email your drawing, material grade, quantity, and delivery location to info@JK Forge.com or call +91 7600066117. We reply with a price and lead time within 24 business hours."
             }
         ]
     },
@@ -39503,7 +39503,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Precision Hot Forgings for Faridabad's Engineering and Auto Component Industry",
-        "description2": "JK Forge supplies precision hot forgings to Faridabad, Haryana \u2014 alloy steel, carbon steel, and stainless steel forgings for the tractor and farm equipment, auto component, hand tool, and general engineering manufacturers concentrated across this major Delhi-NCR industrial city. Multimodal dispatch from our Shapar GIDC, Rajkot facility. Call +91-9265772827.",
+        "description2": "JK Forge supplies precision hot forgings to Faridabad, Haryana \u2014 alloy steel, carbon steel, and stainless steel forgings for the tractor and farm equipment, auto component, hand tool, and general engineering manufacturers concentrated across this major Delhi-NCR industrial city. Multimodal dispatch from our Shapar GIDC, Rajkot facility. Call +91 7600066117.",
         "components": [
             {
                 "title": "Automotive Ancillary & Component Manufacturing",
@@ -39601,7 +39601,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I get a quote for delivery to Faridabad?",
-                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91-9265772827. We respond with a price and lead time, and confirm the most cost-effective freight option for your consignment size."
+                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91 7600066117. We respond with a price and lead time, and confirm the most cost-effective freight option for your consignment size."
             }
         ]
     },
@@ -39627,7 +39627,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Precision Hot Forgings for Faridabad's Engineering and Auto Component Industry",
-        "description2": "JK Forge supplies precision hot forgings to Faridabad, Haryana \u2014 alloy steel, carbon steel, and stainless steel forgings for the tractor and farm equipment, auto component, hand tool, and general engineering manufacturers concentrated across this major Delhi-NCR industrial city. Multimodal dispatch from our Shapar GIDC, Rajkot facility. Call +91-9265772827.",
+        "description2": "JK Forge supplies precision hot forgings to Faridabad, Haryana \u2014 alloy steel, carbon steel, and stainless steel forgings for the tractor and farm equipment, auto component, hand tool, and general engineering manufacturers concentrated across this major Delhi-NCR industrial city. Multimodal dispatch from our Shapar GIDC, Rajkot facility. Call +91 7600066117.",
         "components": [
             {
                 "title": "Automotive Ancillary & Component Manufacturing",
@@ -39725,7 +39725,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I get a quote for delivery to Faridabad?",
-                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91-9265772827. We respond with a price and lead time, and confirm the most cost-effective freight option for your consignment size."
+                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91 7600066117. We respond with a price and lead time, and confirm the most cost-effective freight option for your consignment size."
             }
         ]
     },
@@ -39751,7 +39751,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Precision Hot Forgings for Bhopal's Heavy Electrical Equipment and Central India Industrial Base",
-        "description2": "JK Forge supplies precision hot forgings to Bhopal, Madhya Pradesh \u2014 alloy steel, carbon steel, and stainless steel forgings for the heavy electrical equipment manufacturing industry and broader general engineering base concentrated in this central India industrial hub. Multimodal road and rail dispatch from our Shapar GIDC facility in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies precision hot forgings to Bhopal, Madhya Pradesh \u2014 alloy steel, carbon steel, and stainless steel forgings for the heavy electrical equipment manufacturing industry and broader general engineering base concentrated in this central India industrial hub. Multimodal road and rail dispatch from our Shapar GIDC facility in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Power Equipment Ancillary & Fabrication",
@@ -39849,7 +39849,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I get a quote for delivery to Bhopal?",
-                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91-9265772827. We respond with a price and lead time, and confirm the most cost-effective freight option for your consignment size."
+                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91 7600066117. We respond with a price and lead time, and confirm the most cost-effective freight option for your consignment size."
             }
         ]
     },
@@ -39875,7 +39875,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Precision Hot Forgings for Bhopal's Heavy Electrical Equipment and Central India Industrial Base",
-        "description2": "JK Forge supplies precision hot forgings to Bhopal, Madhya Pradesh \u2014 alloy steel, carbon steel, and stainless steel forgings for the heavy electrical equipment manufacturing industry and broader general engineering base concentrated in this central India industrial hub. Multimodal road and rail dispatch from our Shapar GIDC facility in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies precision hot forgings to Bhopal, Madhya Pradesh \u2014 alloy steel, carbon steel, and stainless steel forgings for the heavy electrical equipment manufacturing industry and broader general engineering base concentrated in this central India industrial hub. Multimodal road and rail dispatch from our Shapar GIDC facility in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Power Equipment Ancillary & Fabrication",
@@ -39973,7 +39973,7 @@ window.pageContent['locationsData'] = {
             },
             {
                 "question": "How do I get a quote for delivery to Bhopal?",
-                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91-9265772827. We respond with a price and lead time, and confirm the most cost-effective freight option for your consignment size."
+                "answer": "Email your drawing, material grade, and quantity requirement to sales@JK Forge.com or call +91 7600066117. We respond with a price and lead time, and confirm the most cost-effective freight option for your consignment size."
             }
         ]
     },
@@ -39999,7 +39999,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Brisbane \u2014 Queensland's Industrial and Resources-Adjacent Hub",
-        "description2": "JK Forge exports forged components to Brisbane, Queensland \u2014 alloy steel forgings for the region's mining-adjacent equipment supply chain, general manufacturing, and port-adjacent industrial base. Alloy steel grades, mill test certification, and CIF Queensland logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Brisbane, Queensland \u2014 alloy steel forgings for the region's mining-adjacent equipment supply chain, general manufacturing, and port-adjacent industrial base. Alloy steel grades, mill test certification, and CIF Queensland logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Marine & Port-Adjacent Equipment Manufacturing",
@@ -40123,7 +40123,7 @@ window.pageContent['locationsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Components for Brisbane \u2014 Queensland's Industrial and Resources-Adjacent Hub",
-        "description2": "JK Forge exports forged components to Brisbane, Queensland \u2014 alloy steel forgings for the region's mining-adjacent equipment supply chain, general manufacturing, and port-adjacent industrial base. Alloy steel grades, mill test certification, and CIF Queensland logistics. Manufactured in Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge exports forged components to Brisbane, Queensland \u2014 alloy steel forgings for the region's mining-adjacent equipment supply chain, general manufacturing, and port-adjacent industrial base. Alloy steel grades, mill test certification, and CIF Queensland logistics. Manufactured in Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Marine & Port-Adjacent Equipment Manufacturing",

@@ -23,7 +23,7 @@ REPLACEMENTS = [
     
     # Phone numbers
     (r'\+91[-\s]*92657[-\s]*72827', '+91-00000-00000'),
-    (r'9265772827', '0000000000'),
+    (r'7600066117', '0000000000'),
     
     # Addresses
     (r'(?i)Plot No\.3/B,\s*Rs No\.551P/3,?\s*(?:Ganga Forging,?\s*)?Chaitanya Industrial Area,?\s*(?:Ganga Gate,?\s*)?Shapar', 'Plot 1, JK Industrial Zone, Metropolis'),

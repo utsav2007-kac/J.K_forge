@@ -239,7 +239,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Rice Milling Equipment Forgings \u2014 Huller Roller Shafts, Sheller & Whitening/Polishing Machine Component Forgings",
-        "description2": "JK Forge manufactures forged components for rice milling equipment \u2014 huller and sheller shaft forgings, whitening and polishing machine components, and paddy grading and conveying equipment components \u2014 in wear-resistant alloy steel engineered for the abrasive, continuous-duty demands rice processing places on mechanical equipment. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for rice milling equipment \u2014 huller and sheller shaft forgings, whitening and polishing machine components, and paddy grading and conveying equipment components \u2014 in wear-resistant alloy steel engineered for the abrasive, continuous-duty demands rice processing places on mechanical equipment. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Whitening and Polishing Machine Rotor Forgings",
@@ -355,7 +355,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Rice Milling Equipment Forgings \u2014 Huller Roller Shafts, Sheller & Whitening/Polishing Machine Component Forgings",
-        "description2": "JK Forge manufactures forged components for rice milling equipment \u2014 huller and sheller shaft forgings, whitening and polishing machine components, and paddy grading and conveying equipment components \u2014 in wear-resistant alloy steel engineered for the abrasive, continuous-duty demands rice processing places on mechanical equipment. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for rice milling equipment \u2014 huller and sheller shaft forgings, whitening and polishing machine components, and paddy grading and conveying equipment components \u2014 in wear-resistant alloy steel engineered for the abrasive, continuous-duty demands rice processing places on mechanical equipment. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Whitening and Polishing Machine Rotor Forgings",
@@ -471,7 +471,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Forgings for Low-Carbon Steelmaking \u2014 Hydrogen-Based DRI Plant and Electric Arc Furnace Equipment Components",
-        "description2": "JK Forge manufactures forged components for green and low-carbon steel production equipment \u2014 hydrogen-based direct reduced iron (DRI) plant components and electric arc furnace (EAF) equipment forgings for the emerging low-carbon steelmaking pathways replacing conventional blast furnace and basic oxygen furnace routes. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for green and low-carbon steel production equipment \u2014 hydrogen-based direct reduced iron (DRI) plant components and electric arc furnace (EAF) equipment forgings for the emerging low-carbon steelmaking pathways replacing conventional blast furnace and basic oxygen furnace routes. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Factory Address",
@@ -575,7 +575,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Forgings for Low-Carbon Steelmaking \u2014 Hydrogen-Based DRI Plant and Electric Arc Furnace Equipment Components",
-        "description2": "JK Forge manufactures forged components for green and low-carbon steel production equipment \u2014 hydrogen-based direct reduced iron (DRI) plant components and electric arc furnace (EAF) equipment forgings for the emerging low-carbon steelmaking pathways replacing conventional blast furnace and basic oxygen furnace routes. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for green and low-carbon steel production equipment \u2014 hydrogen-based direct reduced iron (DRI) plant components and electric arc furnace (EAF) equipment forgings for the emerging low-carbon steelmaking pathways replacing conventional blast furnace and basic oxygen furnace routes. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Factory Address",
@@ -679,7 +679,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Material Handling Forgings \u2014 Forklift Forks & Masts, Hoist Hooks, Pallet Truck Axles & Conveyor Drive Components",
-        "description2": "JK Forge manufactures forged components for material handling equipment \u2014 forklift fork and mast components, hoist hooks, pallet truck axles, and conveyor drive shaft and sprocket components \u2014 for warehouse, logistics, and industrial material handling applications where component failure risks both equipment damage and operator safety. EN24, SAE 4140, and case-hardening grade options. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for material handling equipment \u2014 forklift fork and mast components, hoist hooks, pallet truck axles, and conveyor drive shaft and sprocket components \u2014 for warehouse, logistics, and industrial material handling applications where component failure risks both equipment damage and operator safety. EN24, SAE 4140, and case-hardening grade options. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Hoist Hook and Rigging Component Forgings",
@@ -803,7 +803,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Material Handling Forgings \u2014 Forklift Forks & Masts, Hoist Hooks, Pallet Truck Axles & Conveyor Drive Components",
-        "description2": "JK Forge manufactures forged components for material handling equipment \u2014 forklift fork and mast components, hoist hooks, pallet truck axles, and conveyor drive shaft and sprocket components \u2014 for warehouse, logistics, and industrial material handling applications where component failure risks both equipment damage and operator safety. EN24, SAE 4140, and case-hardening grade options. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for material handling equipment \u2014 forklift fork and mast components, hoist hooks, pallet truck axles, and conveyor drive shaft and sprocket components \u2014 for warehouse, logistics, and industrial material handling applications where component failure risks both equipment damage and operator safety. EN24, SAE 4140, and case-hardening grade options. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Hoist Hook and Rigging Component Forgings",
@@ -927,7 +927,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Recycling & Circular Economy Equipment Forgings \u2014 Shredder Rotors, Baler Rams, Sorting Machinery",
-        "description2": "JK Forge manufactures wear-resistant forgings for scrap metal, plastic, and municipal recycling equipment \u2014 industrial shredder rotor and hammer forgings, baler ram and structural forgings, and sorting/separation equipment shaft components \u2014 in high-hardness abrasion-resistant alloy steel engineered for the abrasive, unpredictable material stream recycling equipment processes. EN 10204 3.1 documentation. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures wear-resistant forgings for scrap metal, plastic, and municipal recycling equipment \u2014 industrial shredder rotor and hammer forgings, baler ram and structural forgings, and sorting/separation equipment shaft components \u2014 in high-hardness abrasion-resistant alloy steel engineered for the abrasive, unpredictable material stream recycling equipment processes. EN 10204 3.1 documentation. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Baler Ram and Structural Forgings",
@@ -1047,7 +1047,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Recycling & Circular Economy Equipment Forgings \u2014 Shredder Rotors, Baler Rams, Sorting Machinery",
-        "description2": "JK Forge manufactures wear-resistant forgings for scrap metal, plastic, and municipal recycling equipment \u2014 industrial shredder rotor and hammer forgings, baler ram and structural forgings, and sorting/separation equipment shaft components \u2014 in high-hardness abrasion-resistant alloy steel engineered for the abrasive, unpredictable material stream recycling equipment processes. EN 10204 3.1 documentation. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures wear-resistant forgings for scrap metal, plastic, and municipal recycling equipment \u2014 industrial shredder rotor and hammer forgings, baler ram and structural forgings, and sorting/separation equipment shaft components \u2014 in high-hardness abrasion-resistant alloy steel engineered for the abrasive, unpredictable material stream recycling equipment processes. EN 10204 3.1 documentation. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Baler Ram and Structural Forgings",
@@ -1167,7 +1167,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content FSRU Forgings \u2014 Cryogenic Cargo System, Regasification Process & Marine Structural Component Forgings for Floating LNG Import Vessels",
-        "description2": "JK Forge manufactures forged components for FSRU (Floating Storage and Regasification Unit) vessels \u2014 the floating LNG import and regasification vessels distinct from both production FPSOs and onshore LNG terminals \u2014 combining cryogenic-grade cargo containment and process forgings with marine structural and mooring component forgings. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for FSRU (Floating Storage and Regasification Unit) vessels \u2014 the floating LNG import and regasification vessels distinct from both production FPSOs and onshore LNG terminals \u2014 combining cryogenic-grade cargo containment and process forgings with marine structural and mooring component forgings. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Onboard Regasification Process Equipment Forgings",
@@ -1279,7 +1279,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content FSRU Forgings \u2014 Cryogenic Cargo System, Regasification Process & Marine Structural Component Forgings for Floating LNG Import Vessels",
-        "description2": "JK Forge manufactures forged components for FSRU (Floating Storage and Regasification Unit) vessels \u2014 the floating LNG import and regasification vessels distinct from both production FPSOs and onshore LNG terminals \u2014 combining cryogenic-grade cargo containment and process forgings with marine structural and mooring component forgings. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for FSRU (Floating Storage and Regasification Unit) vessels \u2014 the floating LNG import and regasification vessels distinct from both production FPSOs and onshore LNG terminals \u2014 combining cryogenic-grade cargo containment and process forgings with marine structural and mooring component forgings. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Onboard Regasification Process Equipment Forgings",
@@ -1391,7 +1391,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Tire Manufacturing Equipment Forgings \u2014 Curing Press Platen, Mold Frame & Bladder Mechanism Component Forgings",
-        "description2": "JK Forge manufactures forged components for tire manufacturing equipment \u2014 curing press platen and structural forgings, tire mold frame components, and bladder mechanism parts \u2014 in high-strength alloy steel engineered for the sustained high-pressure, high-temperature demands of the tire curing process. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for tire manufacturing equipment \u2014 curing press platen and structural forgings, tire mold frame components, and bladder mechanism parts \u2014 in high-strength alloy steel engineered for the sustained high-pressure, high-temperature demands of the tire curing process. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Tire Mold Frame and Segment Component Forgings",
@@ -1511,7 +1511,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Tire Manufacturing Equipment Forgings \u2014 Curing Press Platen, Mold Frame & Bladder Mechanism Component Forgings",
-        "description2": "JK Forge manufactures forged components for tire manufacturing equipment \u2014 curing press platen and structural forgings, tire mold frame components, and bladder mechanism parts \u2014 in high-strength alloy steel engineered for the sustained high-pressure, high-temperature demands of the tire curing process. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for tire manufacturing equipment \u2014 curing press platen and structural forgings, tire mold frame components, and bladder mechanism parts \u2014 in high-strength alloy steel engineered for the sustained high-pressure, high-temperature demands of the tire curing process. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Tire Mold Frame and Segment Component Forgings",
@@ -1631,7 +1631,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content EV Charging Infrastructure Forgings \u2014 Busbar Terminals, Connector Bodies & Thermal Management Components for DC Fast Chargers",
-        "description2": "JK Forge manufactures forged components for EV charging infrastructure \u2014 busbar terminal connectors, charging connector housing components, and thermal management fittings for DC fast charging (DCFC) stations. Copper alloy and aluminum options addressing the high-current electrical conductivity and heat dissipation this rapidly growing infrastructure category demands. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for EV charging infrastructure \u2014 busbar terminal connectors, charging connector housing components, and thermal management fittings for DC fast charging (DCFC) stations. Copper alloy and aluminum options addressing the high-current electrical conductivity and heat dissipation this rapidly growing infrastructure category demands. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Charging Connector Housing Components",
@@ -1755,7 +1755,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content EV Charging Infrastructure Forgings \u2014 Busbar Terminals, Connector Bodies & Thermal Management Components for DC Fast Chargers",
-        "description2": "JK Forge manufactures forged components for EV charging infrastructure \u2014 busbar terminal connectors, charging connector housing components, and thermal management fittings for DC fast charging (DCFC) stations. Copper alloy and aluminum options addressing the high-current electrical conductivity and heat dissipation this rapidly growing infrastructure category demands. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for EV charging infrastructure \u2014 busbar terminal connectors, charging connector housing components, and thermal management fittings for DC fast charging (DCFC) stations. Copper alloy and aluminum options addressing the high-current electrical conductivity and heat dissipation this rapidly growing infrastructure category demands. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Charging Connector Housing Components",
@@ -1879,7 +1879,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Sawmill & Timber Processing Forgings \u2014 Saw Arbor Shafts, Feed Roll & Debarker Component Forgings",
-        "description2": "JK Forge manufactures forged components for sawmill and timber processing equipment \u2014 headrig and edger saw arbor shaft forgings, log feed roll and carriage component forgings, and debarker and chipper drive shaft components \u2014 engineered for the sustained shock and vibration loading continuous log processing places on rotating machinery. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for sawmill and timber processing equipment \u2014 headrig and edger saw arbor shaft forgings, log feed roll and carriage component forgings, and debarker and chipper drive shaft components \u2014 engineered for the sustained shock and vibration loading continuous log processing places on rotating machinery. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Log Feed Roll and Carriage Component Forgings",
@@ -2003,7 +2003,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Sawmill & Timber Processing Forgings \u2014 Saw Arbor Shafts, Feed Roll & Debarker Component Forgings",
-        "description2": "JK Forge manufactures forged components for sawmill and timber processing equipment \u2014 headrig and edger saw arbor shaft forgings, log feed roll and carriage component forgings, and debarker and chipper drive shaft components \u2014 engineered for the sustained shock and vibration loading continuous log processing places on rotating machinery. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for sawmill and timber processing equipment \u2014 headrig and edger saw arbor shaft forgings, log feed roll and carriage component forgings, and debarker and chipper drive shaft components \u2014 engineered for the sustained shock and vibration loading continuous log processing places on rotating machinery. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Log Feed Roll and Carriage Component Forgings",
@@ -2333,7 +2333,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Biofuel & Renewable Fuel Refinery Forgings \u2014 SAF, Renewable Diesel, Bioethanol Plant Components",
-        "description2": "JK Forge manufactures forged process equipment components for biofuel refineries \u2014 sustainable aviation fuel (SAF) and renewable diesel hydrotreating unit valve and flange forgings, bioethanol distillation column fittings \u2014 in alloy and stainless steel grades matched to the hydroprocessing conditions and feedstock-specific corrosion considerations biofuel production presents. ASME Section VIII compliance support, EN 10204 3.1/3.2 certification. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged process equipment components for biofuel refineries \u2014 sustainable aviation fuel (SAF) and renewable diesel hydrotreating unit valve and flange forgings, bioethanol distillation column fittings \u2014 in alloy and stainless steel grades matched to the hydroprocessing conditions and feedstock-specific corrosion considerations biofuel production presents. ASME Section VIII compliance support, EN 10204 3.1/3.2 certification. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "High-Pressure Reactor and Piping Flange Forgings",
@@ -2457,7 +2457,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Biofuel & Renewable Fuel Refinery Forgings \u2014 SAF, Renewable Diesel, Bioethanol Plant Components",
-        "description2": "JK Forge manufactures forged process equipment components for biofuel refineries \u2014 sustainable aviation fuel (SAF) and renewable diesel hydrotreating unit valve and flange forgings, bioethanol distillation column fittings \u2014 in alloy and stainless steel grades matched to the hydroprocessing conditions and feedstock-specific corrosion considerations biofuel production presents. ASME Section VIII compliance support, EN 10204 3.1/3.2 certification. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged process equipment components for biofuel refineries \u2014 sustainable aviation fuel (SAF) and renewable diesel hydrotreating unit valve and flange forgings, bioethanol distillation column fittings \u2014 in alloy and stainless steel grades matched to the hydroprocessing conditions and feedstock-specific corrosion considerations biofuel production presents. ASME Section VIII compliance support, EN 10204 3.1/3.2 certification. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "High-Pressure Reactor and Piping Flange Forgings",
@@ -2581,7 +2581,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content LNG Bunkering Vessel Forgings \u2014 Cryogenic Transfer Arm, Ship-to-Ship Manifold & Marine Fuel System Component Forgings",
-        "description2": "JK Forge manufactures forged components for LNG bunkering vessels \u2014 the mobile ship-to-ship marine fuel supply fleet delivering LNG directly to gas-fuelled ships \u2014 including cryogenic transfer arm and manifold flange forgings, valve body forgings, and marine structural components in 9% nickel steel and 304L/316L stainless, distinct from the fixed import/export infrastructure of an LNG terminal. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for LNG bunkering vessels \u2014 the mobile ship-to-ship marine fuel supply fleet delivering LNG directly to gas-fuelled ships \u2014 including cryogenic transfer arm and manifold flange forgings, valve body forgings, and marine structural components in 9% nickel steel and 304L/316L stainless, distinct from the fixed import/export infrastructure of an LNG terminal. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Low-Temperature Charpy Impact Testing",
@@ -2693,7 +2693,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content LNG Bunkering Vessel Forgings \u2014 Cryogenic Transfer Arm, Ship-to-Ship Manifold & Marine Fuel System Component Forgings",
-        "description2": "JK Forge manufactures forged components for LNG bunkering vessels \u2014 the mobile ship-to-ship marine fuel supply fleet delivering LNG directly to gas-fuelled ships \u2014 including cryogenic transfer arm and manifold flange forgings, valve body forgings, and marine structural components in 9% nickel steel and 304L/316L stainless, distinct from the fixed import/export infrastructure of an LNG terminal. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for LNG bunkering vessels \u2014 the mobile ship-to-ship marine fuel supply fleet delivering LNG directly to gas-fuelled ships \u2014 including cryogenic transfer arm and manifold flange forgings, valve body forgings, and marine structural components in 9% nickel steel and 304L/316L stainless, distinct from the fixed import/export infrastructure of an LNG terminal. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Low-Temperature Charpy Impact Testing",
@@ -2805,7 +2805,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content EV Battery Gigafactory Equipment Forgings \u2014 Calendering Rolls, Mixing Shafts, Cell Assembly Components",
-        "description2": "JK Forge manufactures precision forged components for lithium-ion battery gigafactory manufacturing equipment \u2014 calendering roll shafts, electrode slurry mixing shafts, and cell assembly line structural and drivetrain components \u2014 in high-precision alloy steel engineered for the dimensional consistency and surface finish battery electrode manufacturing processes require. ISO 9001:2015 certified, full material traceability. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures precision forged components for lithium-ion battery gigafactory manufacturing equipment \u2014 calendering roll shafts, electrode slurry mixing shafts, and cell assembly line structural and drivetrain components \u2014 in high-precision alloy steel engineered for the dimensional consistency and surface finish battery electrode manufacturing processes require. ISO 9001:2015 certified, full material traceability. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Electrode Slurry Mixing Shaft Forgings",
@@ -2925,7 +2925,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content EV Battery Gigafactory Equipment Forgings \u2014 Calendering Rolls, Mixing Shafts, Cell Assembly Components",
-        "description2": "JK Forge manufactures precision forged components for lithium-ion battery gigafactory manufacturing equipment \u2014 calendering roll shafts, electrode slurry mixing shafts, and cell assembly line structural and drivetrain components \u2014 in high-precision alloy steel engineered for the dimensional consistency and surface finish battery electrode manufacturing processes require. ISO 9001:2015 certified, full material traceability. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures precision forged components for lithium-ion battery gigafactory manufacturing equipment \u2014 calendering roll shafts, electrode slurry mixing shafts, and cell assembly line structural and drivetrain components \u2014 in high-precision alloy steel engineered for the dimensional consistency and surface finish battery electrode manufacturing processes require. ISO 9001:2015 certified, full material traceability. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Electrode Slurry Mixing Shaft Forgings",
@@ -3277,7 +3277,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Direct Air Capture Forgings \u2014 Large-Volume Air Contactor Fan, Sorbent Vessel & Low-Concentration CO2 Handling Component Forgings",
-        "description2": "JK Forge manufactures forged components for direct air capture (DAC) plants \u2014 the technology extracting CO2 directly from ambient atmospheric air rather than from a concentrated industrial emission source \u2014 including air contactor structural and fan hub forgings, sorbent vessel flange forgings, and downstream low-concentration CO2 compression components. Distinct from point-source carbon capture equipment. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for direct air capture (DAC) plants \u2014 the technology extracting CO2 directly from ambient atmospheric air rather than from a concentrated industrial emission source \u2014 including air contactor structural and fan hub forgings, sorbent vessel flange forgings, and downstream low-concentration CO2 compression components. Distinct from point-source carbon capture equipment. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Sorbent and Solvent Vessel Flange Forgings",
@@ -3397,7 +3397,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Direct Air Capture Forgings \u2014 Large-Volume Air Contactor Fan, Sorbent Vessel & Low-Concentration CO2 Handling Component Forgings",
-        "description2": "JK Forge manufactures forged components for direct air capture (DAC) plants \u2014 the technology extracting CO2 directly from ambient atmospheric air rather than from a concentrated industrial emission source \u2014 including air contactor structural and fan hub forgings, sorbent vessel flange forgings, and downstream low-concentration CO2 compression components. Distinct from point-source carbon capture equipment. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for direct air capture (DAC) plants \u2014 the technology extracting CO2 directly from ambient atmospheric air rather than from a concentrated industrial emission source \u2014 including air contactor structural and fan hub forgings, sorbent vessel flange forgings, and downstream low-concentration CO2 compression components. Distinct from point-source carbon capture equipment. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Sorbent and Solvent Vessel Flange Forgings",
@@ -3517,7 +3517,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Hydropower Turbine Precision Forging \u2014 CA6NM, 17-4 PH, F6NM \u2014 Francis, Kaplan, Pelton",
-        "description2": "JK Forge manufactures precision hot forgings for the global hydropower industry \u2014 Francis turbine runner blade forgings in CA6NM martensitic stainless (ASTM A743), Kaplan turbine runner hub and blade forgings, Pelton wheel bucket forgings in CA6NM, main shaft forgings in 34CrNiMo6 (up to 15 tonnes), generator shaft forgings in 26NiCrMoV14-5 (ASTM A469 Class 2), and wicket gate trunnion forgings \u2014 serving Voith Hydro (world's #1 hydro OEM), Andritz Hydro (Austria), BHEL Bhopal and Haridwar (India), GE Vernova Hydro, and Alstom/SENER. From 100 MW run-of-river plants to the 22,500 MW Three Gorges scale. ISO 9001:2015, EN 10204 3.1, CA6NM ASTM A743/A487 certified. Rajkot, Gujarat, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures precision hot forgings for the global hydropower industry \u2014 Francis turbine runner blade forgings in CA6NM martensitic stainless (ASTM A743), Kaplan turbine runner hub and blade forgings, Pelton wheel bucket forgings in CA6NM, main shaft forgings in 34CrNiMo6 (up to 15 tonnes), generator shaft forgings in 26NiCrMoV14-5 (ASTM A469 Class 2), and wicket gate trunnion forgings \u2014 serving Voith Hydro (world's #1 hydro OEM), Andritz Hydro (Austria), BHEL Bhopal and Haridwar (India), GE Vernova Hydro, and Alstom/SENER. From 100 MW run-of-river plants to the 22,500 MW Three Gorges scale. ISO 9001:2015, EN 10204 3.1, CA6NM ASTM A743/A487 certified. Rajkot, Gujarat, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Kaplan Turbine Runner Hub and Blade Forgings",
@@ -3653,7 +3653,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Hydropower Turbine Precision Forging \u2014 CA6NM, 17-4 PH, F6NM \u2014 Francis, Kaplan, Pelton",
-        "description2": "JK Forge manufactures precision hot forgings for the global hydropower industry \u2014 Francis turbine runner blade forgings in CA6NM martensitic stainless (ASTM A743), Kaplan turbine runner hub and blade forgings, Pelton wheel bucket forgings in CA6NM, main shaft forgings in 34CrNiMo6 (up to 15 tonnes), generator shaft forgings in 26NiCrMoV14-5 (ASTM A469 Class 2), and wicket gate trunnion forgings \u2014 serving Voith Hydro (world's #1 hydro OEM), Andritz Hydro (Austria), BHEL Bhopal and Haridwar (India), GE Vernova Hydro, and Alstom/SENER. From 100 MW run-of-river plants to the 22,500 MW Three Gorges scale. ISO 9001:2015, EN 10204 3.1, CA6NM ASTM A743/A487 certified. Rajkot, Gujarat, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures precision hot forgings for the global hydropower industry \u2014 Francis turbine runner blade forgings in CA6NM martensitic stainless (ASTM A743), Kaplan turbine runner hub and blade forgings, Pelton wheel bucket forgings in CA6NM, main shaft forgings in 34CrNiMo6 (up to 15 tonnes), generator shaft forgings in 26NiCrMoV14-5 (ASTM A469 Class 2), and wicket gate trunnion forgings \u2014 serving Voith Hydro (world's #1 hydro OEM), Andritz Hydro (Austria), BHEL Bhopal and Haridwar (India), GE Vernova Hydro, and Alstom/SENER. From 100 MW run-of-river plants to the 22,500 MW Three Gorges scale. ISO 9001:2015, EN 10204 3.1, CA6NM ASTM A743/A487 certified. Rajkot, Gujarat, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Kaplan Turbine Runner Hub and Blade Forgings",
@@ -3995,7 +3995,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Cold Chain Forgings \u2014 Compressor Components, Valve Bodies & Fittings for Refrigerated Warehouse & Reefer Transport Equipment",
-        "description2": "JK Forge manufactures forged components for cold chain logistics equipment \u2014 refrigeration compressor components, valve bodies, and piping fittings \u2014 for refrigerated warehouse (cold storage) and reefer container/trailer transport equipment. Material selection addressing both refrigerant compatibility and the low-temperature toughness cold chain equipment's operating environment demands. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for cold chain logistics equipment \u2014 refrigeration compressor components, valve bodies, and piping fittings \u2014 for refrigerated warehouse (cold storage) and reefer container/trailer transport equipment. Material selection addressing both refrigerant compatibility and the low-temperature toughness cold chain equipment's operating environment demands. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Refrigerant Valve Body Forgings",
@@ -4119,7 +4119,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Cold Chain Forgings \u2014 Compressor Components, Valve Bodies & Fittings for Refrigerated Warehouse & Reefer Transport Equipment",
-        "description2": "JK Forge manufactures forged components for cold chain logistics equipment \u2014 refrigeration compressor components, valve bodies, and piping fittings \u2014 for refrigerated warehouse (cold storage) and reefer container/trailer transport equipment. Material selection addressing both refrigerant compatibility and the low-temperature toughness cold chain equipment's operating environment demands. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for cold chain logistics equipment \u2014 refrigeration compressor components, valve bodies, and piping fittings \u2014 for refrigerated warehouse (cold storage) and reefer container/trailer transport equipment. Material selection addressing both refrigerant compatibility and the low-temperature toughness cold chain equipment's operating environment demands. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Refrigerant Valve Body Forgings",
@@ -4531,7 +4531,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Forestry & Logging Equipment Forgings \u2014 Harvester Head, Grapple, Skidder Axle Components",
-        "description2": "JK Forge manufactures wear-resistant and structural forgings for forestry and logging equipment \u2014 harvester head feed roller and knife mounting forgings, grapple arm and pivot pin components, and skidder axle and articulation joint forgings \u2014 in high-strength alloy steel engineered for the combination of heavy shock loading and abrasive outdoor forest terrain operation. EN 10204 3.1 documentation. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures wear-resistant and structural forgings for forestry and logging equipment \u2014 harvester head feed roller and knife mounting forgings, grapple arm and pivot pin components, and skidder axle and articulation joint forgings \u2014 in high-strength alloy steel engineered for the combination of heavy shock loading and abrasive outdoor forest terrain operation. EN 10204 3.1 documentation. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Grapple Arm and Pivot Pin Forgings",
@@ -4655,7 +4655,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Forestry & Logging Equipment Forgings \u2014 Harvester Head, Grapple, Skidder Axle Components",
-        "description2": "JK Forge manufactures wear-resistant and structural forgings for forestry and logging equipment \u2014 harvester head feed roller and knife mounting forgings, grapple arm and pivot pin components, and skidder axle and articulation joint forgings \u2014 in high-strength alloy steel engineered for the combination of heavy shock loading and abrasive outdoor forest terrain operation. EN 10204 3.1 documentation. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures wear-resistant and structural forgings for forestry and logging equipment \u2014 harvester head feed roller and knife mounting forgings, grapple arm and pivot pin components, and skidder axle and articulation joint forgings \u2014 in high-strength alloy steel engineered for the combination of heavy shock loading and abrasive outdoor forest terrain operation. EN 10204 3.1 documentation. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Grapple Arm and Pivot Pin Forgings",
@@ -4779,7 +4779,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Aerospace Precision Forgings \u2014 Ti-6Al-4V, IN718, AMS 4928 \u2014 AS9100 Rev D Certified",
-        "description2": "JK Forge manufactures AS9100 Rev D and AMS-certified aerospace precision hot forgings \u2014 titanium 6Al-4V (AMS 4928/4967 \u2014 compressor blade blanks, fan disk forgings), Inconel 718 (AMS 5664 \u2014 turbine disk and compressor disk forgings, \u2212253\u00b0C cryogenic to 650\u00b0C gas turbine service), 15-5 PH stainless (AMS 5659 \u2014 landing gear fitting forgings), AMS 6265 (4340 VAR \u2014 high-strength aircraft structural forgings), and maraging 300 (AMS 6521 \u2014 landing gear trunnion forgings) \u2014 serving HAL (Hindustan Aeronautics Limited \u2014 Tejas MK2, ALH Dhruv HTT-40), Safran Aircraft Engines (CFM LEAP compressor), GE Aviation (GE90/GEnx/LEAP), DRDO, Bharat Forge (joint development), and Airbus STELIA Morocco. AS9100 Rev D, AMS 2750F (pyrometry), NADCAP heat treatment, ISO 9001:2015 certified. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures AS9100 Rev D and AMS-certified aerospace precision hot forgings \u2014 titanium 6Al-4V (AMS 4928/4967 \u2014 compressor blade blanks, fan disk forgings), Inconel 718 (AMS 5664 \u2014 turbine disk and compressor disk forgings, \u2212253\u00b0C cryogenic to 650\u00b0C gas turbine service), 15-5 PH stainless (AMS 5659 \u2014 landing gear fitting forgings), AMS 6265 (4340 VAR \u2014 high-strength aircraft structural forgings), and maraging 300 (AMS 6521 \u2014 landing gear trunnion forgings) \u2014 serving HAL (Hindustan Aeronautics Limited \u2014 Tejas MK2, ALH Dhruv HTT-40), Safran Aircraft Engines (CFM LEAP compressor), GE Aviation (GE90/GEnx/LEAP), DRDO, Bharat Forge (joint development), and Airbus STELIA Morocco. AS9100 Rev D, AMS 2750F (pyrometry), NADCAP heat treatment, ISO 9001:2015 certified. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Factory Address",
@@ -4887,7 +4887,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Aerospace Precision Forgings \u2014 Ti-6Al-4V, IN718, AMS 4928 \u2014 AS9100 Rev D Certified",
-        "description2": "JK Forge manufactures AS9100 Rev D and AMS-certified aerospace precision hot forgings \u2014 titanium 6Al-4V (AMS 4928/4967 \u2014 compressor blade blanks, fan disk forgings), Inconel 718 (AMS 5664 \u2014 turbine disk and compressor disk forgings, \u2212253\u00b0C cryogenic to 650\u00b0C gas turbine service), 15-5 PH stainless (AMS 5659 \u2014 landing gear fitting forgings), AMS 6265 (4340 VAR \u2014 high-strength aircraft structural forgings), and maraging 300 (AMS 6521 \u2014 landing gear trunnion forgings) \u2014 serving HAL (Hindustan Aeronautics Limited \u2014 Tejas MK2, ALH Dhruv HTT-40), Safran Aircraft Engines (CFM LEAP compressor), GE Aviation (GE90/GEnx/LEAP), DRDO, Bharat Forge (joint development), and Airbus STELIA Morocco. AS9100 Rev D, AMS 2750F (pyrometry), NADCAP heat treatment, ISO 9001:2015 certified. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures AS9100 Rev D and AMS-certified aerospace precision hot forgings \u2014 titanium 6Al-4V (AMS 4928/4967 \u2014 compressor blade blanks, fan disk forgings), Inconel 718 (AMS 5664 \u2014 turbine disk and compressor disk forgings, \u2212253\u00b0C cryogenic to 650\u00b0C gas turbine service), 15-5 PH stainless (AMS 5659 \u2014 landing gear fitting forgings), AMS 6265 (4340 VAR \u2014 high-strength aircraft structural forgings), and maraging 300 (AMS 6521 \u2014 landing gear trunnion forgings) \u2014 serving HAL (Hindustan Aeronautics Limited \u2014 Tejas MK2, ALH Dhruv HTT-40), Safran Aircraft Engines (CFM LEAP compressor), GE Aviation (GE90/GEnx/LEAP), DRDO, Bharat Forge (joint development), and Airbus STELIA Morocco. AS9100 Rev D, AMS 2750F (pyrometry), NADCAP heat treatment, ISO 9001:2015 certified. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Factory Address",
@@ -4995,7 +4995,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Battery Swapping Station Forgings \u2014 Robotic Exchange Arm, Battery Lock Mechanism & Lift Platform Component Forgings",
-        "description2": "JK Forge manufactures forged components for EV battery swapping station equipment \u2014 robotic exchange arm structural forgings, battery locking mechanism components, and lift platform forgings for the automated, mechanically distinct battery exchange approach to EV energy replenishment, genuinely different from plug-in charging infrastructure. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for EV battery swapping station equipment \u2014 robotic exchange arm structural forgings, battery locking mechanism components, and lift platform forgings for the automated, mechanically distinct battery exchange approach to EV energy replenishment, genuinely different from plug-in charging infrastructure. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Battery Locking Mechanism Component Forgings",
@@ -5115,7 +5115,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Battery Swapping Station Forgings \u2014 Robotic Exchange Arm, Battery Lock Mechanism & Lift Platform Component Forgings",
-        "description2": "JK Forge manufactures forged components for EV battery swapping station equipment \u2014 robotic exchange arm structural forgings, battery locking mechanism components, and lift platform forgings for the automated, mechanically distinct battery exchange approach to EV energy replenishment, genuinely different from plug-in charging infrastructure. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for EV battery swapping station equipment \u2014 robotic exchange arm structural forgings, battery locking mechanism components, and lift platform forgings for the automated, mechanically distinct battery exchange approach to EV energy replenishment, genuinely different from plug-in charging infrastructure. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Battery Locking Mechanism Component Forgings",
@@ -5507,7 +5507,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Offshore Supply Vessel Forgings \u2014 Winch, Towing, Anchor Handling & Dynamic Positioning Component Forgings for the Support Fleet",
-        "description2": "JK Forge manufactures forged components for offshore supply vessels \u2014 the support fleet of platform supply vessels and anchor handling tug supply vessels servicing offshore oil and gas platforms \u2014 including winch, towing, anchor handling, and dynamic positioning thruster component forgings distinct from the production platform equipment these vessels service. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for offshore supply vessels \u2014 the support fleet of platform supply vessels and anchor handling tug supply vessels servicing offshore oil and gas platforms \u2014 including winch, towing, anchor handling, and dynamic positioning thruster component forgings distinct from the production platform equipment these vessels service. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Deck Crane and Cargo Handling Equipment Forgings",
@@ -5631,7 +5631,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Offshore Supply Vessel Forgings \u2014 Winch, Towing, Anchor Handling & Dynamic Positioning Component Forgings for the Support Fleet",
-        "description2": "JK Forge manufactures forged components for offshore supply vessels \u2014 the support fleet of platform supply vessels and anchor handling tug supply vessels servicing offshore oil and gas platforms \u2014 including winch, towing, anchor handling, and dynamic positioning thruster component forgings distinct from the production platform equipment these vessels service. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for offshore supply vessels \u2014 the support fleet of platform supply vessels and anchor handling tug supply vessels servicing offshore oil and gas platforms \u2014 including winch, towing, anchor handling, and dynamic positioning thruster component forgings distinct from the production platform equipment these vessels service. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Deck Crane and Cargo Handling Equipment Forgings",
@@ -5755,7 +5755,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Longwall Mining Forgings \u2014 Shearer, Roof Support, Armored Face Conveyor & Drive-Train Component Forgings",
-        "description2": "JK Forge manufactures forged components for underground longwall mining equipment \u2014 shearer structural and drive-train components, hydraulic roof support structural components, and armored face conveyor drive-train components \u2014 engineered for the continuous heavy-duty cyclic loading longwall mining systems place on equipment operating far underground, where reliability and structural integrity carry outsized operational consequence. Alloy steel grades selected for fatigue and impact resistance. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for underground longwall mining equipment \u2014 shearer structural and drive-train components, hydraulic roof support structural components, and armored face conveyor drive-train components \u2014 engineered for the continuous heavy-duty cyclic loading longwall mining systems place on equipment operating far underground, where reliability and structural integrity carry outsized operational consequence. Alloy steel grades selected for fatigue and impact resistance. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Armored Face Conveyor Drive-Train Forgings",
@@ -5879,7 +5879,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Longwall Mining Forgings \u2014 Shearer, Roof Support, Armored Face Conveyor & Drive-Train Component Forgings",
-        "description2": "JK Forge manufactures forged components for underground longwall mining equipment \u2014 shearer structural and drive-train components, hydraulic roof support structural components, and armored face conveyor drive-train components \u2014 engineered for the continuous heavy-duty cyclic loading longwall mining systems place on equipment operating far underground, where reliability and structural integrity carry outsized operational consequence. Alloy steel grades selected for fatigue and impact resistance. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for underground longwall mining equipment \u2014 shearer structural and drive-train components, hydraulic roof support structural components, and armored face conveyor drive-train components \u2014 engineered for the continuous heavy-duty cyclic loading longwall mining systems place on equipment operating far underground, where reliability and structural integrity carry outsized operational consequence. Alloy steel grades selected for fatigue and impact resistance. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Armored Face Conveyor Drive-Train Forgings",
@@ -6003,7 +6003,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content District Heating Forgings \u2014 Valve Bodies, Pipe Fittings & Expansion Joint Components for Centralized Heat Networks",
-        "description2": "JK Forge manufactures forged components for district heating network infrastructure \u2014 valve bodies, pipe fittings, and expansion joint components for the centralized hot water and steam distribution systems common across Northern and Central Europe and increasingly adopted elsewhere. Components engineered for the network's operating temperature and pressure and the long service life buried pipeline infrastructure demands. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for district heating network infrastructure \u2014 valve bodies, pipe fittings, and expansion joint components for the centralized hot water and steam distribution systems common across Northern and Central Europe and increasingly adopted elsewhere. Components engineered for the network's operating temperature and pressure and the long service life buried pipeline infrastructure demands. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Pipe Fitting Forgings \u2014 Flanges, Tees and Elbows",
@@ -6123,7 +6123,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content District Heating Forgings \u2014 Valve Bodies, Pipe Fittings & Expansion Joint Components for Centralized Heat Networks",
-        "description2": "JK Forge manufactures forged components for district heating network infrastructure \u2014 valve bodies, pipe fittings, and expansion joint components for the centralized hot water and steam distribution systems common across Northern and Central Europe and increasingly adopted elsewhere. Components engineered for the network's operating temperature and pressure and the long service life buried pipeline infrastructure demands. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for district heating network infrastructure \u2014 valve bodies, pipe fittings, and expansion joint components for the centralized hot water and steam distribution systems common across Northern and Central Europe and increasingly adopted elsewhere. Components engineered for the network's operating temperature and pressure and the long service life buried pipeline infrastructure demands. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Pipe Fitting Forgings \u2014 Flanges, Tees and Elbows",
@@ -6243,7 +6243,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Mining Equipment Precision Forging \u2014 Haul Truck, SAG Mill, Shovel, Slurry Pump",
-        "description2": "JK Forge manufactures precision hot forgings for the global mining equipment industry \u2014 haul truck spindle and kingpin forgings for Caterpillar 797F (400-tonne), Komatsu 930E-5, and Liebherr T 284, SAG/ball mill trunnion ring forgings in 4140 Q+T (up to 5m diameter), cone crusher main shaft forgings in 4340 Q+T (induction hardened), jaw crusher eccentric shaft forgings, Weir WARMAN slurry pump casing forgings in Duplex 2205, and drill rod adapter forgings in 4145H. Supply to Caterpillar, Komatsu, Epiroc, Sandvik, FLSmidth, Metso Outotec, and Weir Group. ASTM A668, SAE AMS 6415, ISO 9001:2015 certified. Rajkot, Gujarat, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures precision hot forgings for the global mining equipment industry \u2014 haul truck spindle and kingpin forgings for Caterpillar 797F (400-tonne), Komatsu 930E-5, and Liebherr T 284, SAG/ball mill trunnion ring forgings in 4140 Q+T (up to 5m diameter), cone crusher main shaft forgings in 4340 Q+T (induction hardened), jaw crusher eccentric shaft forgings, Weir WARMAN slurry pump casing forgings in Duplex 2205, and drill rod adapter forgings in 4145H. Supply to Caterpillar, Komatsu, Epiroc, Sandvik, FLSmidth, Metso Outotec, and Weir Group. ASTM A668, SAE AMS 6415, ISO 9001:2015 certified. Rajkot, Gujarat, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Jaw Crusher Eccentric Shaft Forgings \u2014 4340 Alloy",
@@ -6375,7 +6375,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Mining Equipment Precision Forging \u2014 Haul Truck, SAG Mill, Shovel, Slurry Pump",
-        "description2": "JK Forge manufactures precision hot forgings for the global mining equipment industry \u2014 haul truck spindle and kingpin forgings for Caterpillar 797F (400-tonne), Komatsu 930E-5, and Liebherr T 284, SAG/ball mill trunnion ring forgings in 4140 Q+T (up to 5m diameter), cone crusher main shaft forgings in 4340 Q+T (induction hardened), jaw crusher eccentric shaft forgings, Weir WARMAN slurry pump casing forgings in Duplex 2205, and drill rod adapter forgings in 4145H. Supply to Caterpillar, Komatsu, Epiroc, Sandvik, FLSmidth, Metso Outotec, and Weir Group. ASTM A668, SAE AMS 6415, ISO 9001:2015 certified. Rajkot, Gujarat, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures precision hot forgings for the global mining equipment industry \u2014 haul truck spindle and kingpin forgings for Caterpillar 797F (400-tonne), Komatsu 930E-5, and Liebherr T 284, SAG/ball mill trunnion ring forgings in 4140 Q+T (up to 5m diameter), cone crusher main shaft forgings in 4340 Q+T (induction hardened), jaw crusher eccentric shaft forgings, Weir WARMAN slurry pump casing forgings in Duplex 2205, and drill rod adapter forgings in 4145H. Supply to Caterpillar, Komatsu, Epiroc, Sandvik, FLSmidth, Metso Outotec, and Weir Group. ASTM A668, SAE AMS 6415, ISO 9001:2015 certified. Rajkot, Gujarat, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Jaw Crusher Eccentric Shaft Forgings \u2014 4340 Alloy",
@@ -6795,7 +6795,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Solar Tracker Forgings \u2014 Pivot Bearings, Torque Tube Connectors & Drive Mechanism Components for PV Tracking Systems",
-        "description2": "JK Forge manufactures forged components for solar tracker systems \u2014 pivot bearings, torque tube connectors, and drive mechanism components for the single-axis and dual-axis tracking structures that rotate photovoltaic panel arrays to follow the sun's path through the day. Components engineered to reliably actuate through tens of thousands of cycles across the tracker's multi-decade service life while withstanding outdoor wind and weather loading. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for solar tracker systems \u2014 pivot bearings, torque tube connectors, and drive mechanism components for the single-axis and dual-axis tracking structures that rotate photovoltaic panel arrays to follow the sun's path through the day. Components engineered to reliably actuate through tens of thousands of cycles across the tracker's multi-decade service life while withstanding outdoor wind and weather loading. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Torque Tube Connector and Coupling Forgings",
@@ -6915,7 +6915,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Solar Tracker Forgings \u2014 Pivot Bearings, Torque Tube Connectors & Drive Mechanism Components for PV Tracking Systems",
-        "description2": "JK Forge manufactures forged components for solar tracker systems \u2014 pivot bearings, torque tube connectors, and drive mechanism components for the single-axis and dual-axis tracking structures that rotate photovoltaic panel arrays to follow the sun's path through the day. Components engineered to reliably actuate through tens of thousands of cycles across the tracker's multi-decade service life while withstanding outdoor wind and weather loading. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for solar tracker systems \u2014 pivot bearings, torque tube connectors, and drive mechanism components for the single-axis and dual-axis tracking structures that rotate photovoltaic panel arrays to follow the sun's path through the day. Components engineered to reliably actuate through tens of thousands of cycles across the tracker's multi-decade service life while withstanding outdoor wind and weather loading. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Torque Tube Connector and Coupling Forgings",
@@ -7035,7 +7035,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Asphalt Mixing Plant Forgings \u2014 Drum Mixer Shaft, Pugmill Paddle & Aggregate Feed Component Forgings",
-        "description2": "JK Forge manufactures forged components for asphalt mixing plant equipment \u2014 drum mixer shaft and flighting support forgings, pugmill paddle shaft components, and cold feed and hot aggregate elevator shaft forgings \u2014 engineered for continuous abrasive aggregate handling under the elevated operating temperatures asphalt production requires. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for asphalt mixing plant equipment \u2014 drum mixer shaft and flighting support forgings, pugmill paddle shaft components, and cold feed and hot aggregate elevator shaft forgings \u2014 engineered for continuous abrasive aggregate handling under the elevated operating temperatures asphalt production requires. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Pugmill Paddle Shaft and Tip Component Forgings",
@@ -7151,7 +7151,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Asphalt Mixing Plant Forgings \u2014 Drum Mixer Shaft, Pugmill Paddle & Aggregate Feed Component Forgings",
-        "description2": "JK Forge manufactures forged components for asphalt mixing plant equipment \u2014 drum mixer shaft and flighting support forgings, pugmill paddle shaft components, and cold feed and hot aggregate elevator shaft forgings \u2014 engineered for continuous abrasive aggregate handling under the elevated operating temperatures asphalt production requires. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for asphalt mixing plant equipment \u2014 drum mixer shaft and flighting support forgings, pugmill paddle shaft components, and cold feed and hot aggregate elevator shaft forgings \u2014 engineered for continuous abrasive aggregate handling under the elevated operating temperatures asphalt production requires. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Pugmill Paddle Shaft and Tip Component Forgings",
@@ -7267,7 +7267,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Iron Ore Pelletizing Forgings \u2014 Balling Drum, Induration Furnace & Travelling Grate Component Forgings for Ore Beneficiation",
-        "description2": "JK Forge manufactures forged components for iron ore pelletizing plants \u2014 balling drum and disc component forgings, induration furnace and travelling grate mechanical components, and material handling equipment forgings for the ore beneficiation stage that converts fine iron ore concentrate into the pellet feedstock steelmaking requires. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for iron ore pelletizing plants \u2014 balling drum and disc component forgings, induration furnace and travelling grate mechanical components, and material handling equipment forgings for the ore beneficiation stage that converts fine iron ore concentrate into the pellet feedstock steelmaking requires. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Grate-Kiln System Component Forgings",
@@ -7383,7 +7383,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Iron Ore Pelletizing Forgings \u2014 Balling Drum, Induration Furnace & Travelling Grate Component Forgings for Ore Beneficiation",
-        "description2": "JK Forge manufactures forged components for iron ore pelletizing plants \u2014 balling drum and disc component forgings, induration furnace and travelling grate mechanical components, and material handling equipment forgings for the ore beneficiation stage that converts fine iron ore concentrate into the pellet feedstock steelmaking requires. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for iron ore pelletizing plants \u2014 balling drum and disc component forgings, induration furnace and travelling grate mechanical components, and material handling equipment forgings for the ore beneficiation stage that converts fine iron ore concentrate into the pellet feedstock steelmaking requires. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Grate-Kiln System Component Forgings",
@@ -7499,7 +7499,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Port & Cargo Handling Equipment Forgings \u2014 STS Crane Trolley, RTG Wheel & Spreader Component Forgings",
-        "description2": "JK Forge manufactures heavy structural and mechanical forgings for port cargo handling equipment \u2014 ship-to-shore (STS) container crane trolley and boom pin forgings, rubber-tyred gantry (RTG) crane wheel and bogie forgings, and container spreader and twist-lock forgings \u2014 in high-strength alloy steel, engineered for the continuous heavy cyclic loading and outdoor marine environment port equipment operates in. ISO 9001:2015 certified, EN 10204 3.1/3.2 documentation. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures heavy structural and mechanical forgings for port cargo handling equipment \u2014 ship-to-shore (STS) container crane trolley and boom pin forgings, rubber-tyred gantry (RTG) crane wheel and bogie forgings, and container spreader and twist-lock forgings \u2014 in high-strength alloy steel, engineered for the continuous heavy cyclic loading and outdoor marine environment port equipment operates in. ISO 9001:2015 certified, EN 10204 3.1/3.2 documentation. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "RTG and RMG Crane Wheel and Bogie Forgings",
@@ -7623,7 +7623,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Port & Cargo Handling Equipment Forgings \u2014 STS Crane Trolley, RTG Wheel & Spreader Component Forgings",
-        "description2": "JK Forge manufactures heavy structural and mechanical forgings for port cargo handling equipment \u2014 ship-to-shore (STS) container crane trolley and boom pin forgings, rubber-tyred gantry (RTG) crane wheel and bogie forgings, and container spreader and twist-lock forgings \u2014 in high-strength alloy steel, engineered for the continuous heavy cyclic loading and outdoor marine environment port equipment operates in. ISO 9001:2015 certified, EN 10204 3.1/3.2 documentation. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures heavy structural and mechanical forgings for port cargo handling equipment \u2014 ship-to-shore (STS) container crane trolley and boom pin forgings, rubber-tyred gantry (RTG) crane wheel and bogie forgings, and container spreader and twist-lock forgings \u2014 in high-strength alloy steel, engineered for the continuous heavy cyclic loading and outdoor marine environment port equipment operates in. ISO 9001:2015 certified, EN 10204 3.1/3.2 documentation. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "RTG and RMG Crane Wheel and Bogie Forgings",
@@ -8035,7 +8035,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Geothermal Drilling Rig Forgings \u2014 Drill String Connection, Tool Joint & Rig Structural Component Forgings",
-        "description2": "JK Forge manufactures forged components specifically for geothermal drilling rig equipment \u2014 drill string connection and tool joint forgings, drill collar forgings, and rig structural components \u2014 engineered for the elevated bottom-hole temperatures geothermal well drilling routinely encounters, well beyond typical conventional oil and gas drilling conditions. Alloy steel grades selected for high-temperature strength retention. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components specifically for geothermal drilling rig equipment \u2014 drill string connection and tool joint forgings, drill collar forgings, and rig structural components \u2014 engineered for the elevated bottom-hole temperatures geothermal well drilling routinely encounters, well beyond typical conventional oil and gas drilling conditions. Alloy steel grades selected for high-temperature strength retention. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Drill Collar Forgings",
@@ -8159,7 +8159,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Geothermal Drilling Rig Forgings \u2014 Drill String Connection, Tool Joint & Rig Structural Component Forgings",
-        "description2": "JK Forge manufactures forged components specifically for geothermal drilling rig equipment \u2014 drill string connection and tool joint forgings, drill collar forgings, and rig structural components \u2014 engineered for the elevated bottom-hole temperatures geothermal well drilling routinely encounters, well beyond typical conventional oil and gas drilling conditions. Alloy steel grades selected for high-temperature strength retention. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components specifically for geothermal drilling rig equipment \u2014 drill string connection and tool joint forgings, drill collar forgings, and rig structural components \u2014 engineered for the elevated bottom-hole temperatures geothermal well drilling routinely encounters, well beyond typical conventional oil and gas drilling conditions. Alloy steel grades selected for high-temperature strength retention. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Drill Collar Forgings",
@@ -8283,7 +8283,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Steel Plant Precision Forgings \u2014 Roll Forgings, Trunnions, Shafts \u2014 ArcelorMittal, POSCO, Nippon Steel",
-        "description2": "JK Forge manufactures heavy hot forgings for the global steel industry \u2014 hot strip mill work roll forgings in HSS (High-Speed Steel, M2/M3 grade) and ICDP (Indefinite Chill Double Poured) semisteel, BOF (Basic Oxygen Furnace) converter trunnion ring forgings in 42CrMo4 (up to 30 tonnes), rolling mill backup roll shaft forgings in 9Ni steel or modified 4340, pinion shaft forgings in 18CrNiMo7-6 (case-hardened 58\u201362 HRC), continuous caster drive shaft forgings in 34CrNiMo6, and ladle turret column forgings \u2014 serving ArcelorMittal (world's #2 steel producer, 58 MTPA), POSCO (68.5 MTPA), Nippon Steel (66 MTPA), Tata Steel, JSPL (Jindal Steel & Power), and SAIL (Steel Authority of India). ISO 9001:2015, EN 10204 3.1, 100% UT/MT NDE certified. Rajkot, Gujarat, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures heavy hot forgings for the global steel industry \u2014 hot strip mill work roll forgings in HSS (High-Speed Steel, M2/M3 grade) and ICDP (Indefinite Chill Double Poured) semisteel, BOF (Basic Oxygen Furnace) converter trunnion ring forgings in 42CrMo4 (up to 30 tonnes), rolling mill backup roll shaft forgings in 9Ni steel or modified 4340, pinion shaft forgings in 18CrNiMo7-6 (case-hardened 58\u201362 HRC), continuous caster drive shaft forgings in 34CrNiMo6, and ladle turret column forgings \u2014 serving ArcelorMittal (world's #2 steel producer, 58 MTPA), POSCO (68.5 MTPA), Nippon Steel (66 MTPA), Tata Steel, JSPL (Jindal Steel & Power), and SAIL (Steel Authority of India). ISO 9001:2015, EN 10204 3.1, 100% UT/MT NDE certified. Rajkot, Gujarat, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Ladle Metallurgy Shaft and Stirrer Forgings",
@@ -8403,7 +8403,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Steel Plant Precision Forgings \u2014 Roll Forgings, Trunnions, Shafts \u2014 ArcelorMittal, POSCO, Nippon Steel",
-        "description2": "JK Forge manufactures heavy hot forgings for the global steel industry \u2014 hot strip mill work roll forgings in HSS (High-Speed Steel, M2/M3 grade) and ICDP (Indefinite Chill Double Poured) semisteel, BOF (Basic Oxygen Furnace) converter trunnion ring forgings in 42CrMo4 (up to 30 tonnes), rolling mill backup roll shaft forgings in 9Ni steel or modified 4340, pinion shaft forgings in 18CrNiMo7-6 (case-hardened 58\u201362 HRC), continuous caster drive shaft forgings in 34CrNiMo6, and ladle turret column forgings \u2014 serving ArcelorMittal (world's #2 steel producer, 58 MTPA), POSCO (68.5 MTPA), Nippon Steel (66 MTPA), Tata Steel, JSPL (Jindal Steel & Power), and SAIL (Steel Authority of India). ISO 9001:2015, EN 10204 3.1, 100% UT/MT NDE certified. Rajkot, Gujarat, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures heavy hot forgings for the global steel industry \u2014 hot strip mill work roll forgings in HSS (High-Speed Steel, M2/M3 grade) and ICDP (Indefinite Chill Double Poured) semisteel, BOF (Basic Oxygen Furnace) converter trunnion ring forgings in 42CrMo4 (up to 30 tonnes), rolling mill backup roll shaft forgings in 9Ni steel or modified 4340, pinion shaft forgings in 18CrNiMo7-6 (case-hardened 58\u201362 HRC), continuous caster drive shaft forgings in 34CrNiMo6, and ladle turret column forgings \u2014 serving ArcelorMittal (world's #2 steel producer, 58 MTPA), POSCO (68.5 MTPA), Nippon Steel (66 MTPA), Tata Steel, JSPL (Jindal Steel & Power), and SAIL (Steel Authority of India). ISO 9001:2015, EN 10204 3.1, 100% UT/MT NDE certified. Rajkot, Gujarat, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Ladle Metallurgy Shaft and Stirrer Forgings",
@@ -8523,7 +8523,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content WTIV Forgings \u2014 Jack-Up Leg Pinion, Rack Chord Connection & Heavy-Lift Crane Component Forgings for Turbine Installation Vessels",
-        "description2": "JK Forge manufactures forged components for wind turbine installation vessels (WTIVs) \u2014 the specialized self-elevating jack-up vessels that install offshore wind turbines and foundations \u2014 including jack-up leg structural connection forgings, rack-and-pinion drive system component forgings, and heavy-lift crane component forgings, distinct from both floating turbine platforms and general offshore supply vessels. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for wind turbine installation vessels (WTIVs) \u2014 the specialized self-elevating jack-up vessels that install offshore wind turbines and foundations \u2014 including jack-up leg structural connection forgings, rack-and-pinion drive system component forgings, and heavy-lift crane component forgings, distinct from both floating turbine platforms and general offshore supply vessels. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Heavy-Lift Crane Slew Ring and Boom Pin Forgings",
@@ -8639,7 +8639,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content WTIV Forgings \u2014 Jack-Up Leg Pinion, Rack Chord Connection & Heavy-Lift Crane Component Forgings for Turbine Installation Vessels",
-        "description2": "JK Forge manufactures forged components for wind turbine installation vessels (WTIVs) \u2014 the specialized self-elevating jack-up vessels that install offshore wind turbines and foundations \u2014 including jack-up leg structural connection forgings, rack-and-pinion drive system component forgings, and heavy-lift crane component forgings, distinct from both floating turbine platforms and general offshore supply vessels. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for wind turbine installation vessels (WTIVs) \u2014 the specialized self-elevating jack-up vessels that install offshore wind turbines and foundations \u2014 including jack-up leg structural connection forgings, rack-and-pinion drive system component forgings, and heavy-lift crane component forgings, distinct from both floating turbine platforms and general offshore supply vessels. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Heavy-Lift Crane Slew Ring and Boom Pin Forgings",
@@ -8755,7 +8755,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Brick & Clay Products Forgings \u2014 Extruder Auger Shaft, Pug Mill & Press Component Forgings",
-        "description2": "JK Forge manufactures forged components for brick and clay product manufacturing equipment \u2014 extruder auger and barrel shaft forgings, pug mill and clay preparation shaft components, and brick press and cutting equipment component forgings \u2014 in wear-resistant alloy steel engineered for continuous operation against abrasive raw clay and shale. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for brick and clay product manufacturing equipment \u2014 extruder auger and barrel shaft forgings, pug mill and clay preparation shaft components, and brick press and cutting equipment component forgings \u2014 in wear-resistant alloy steel engineered for continuous operation against abrasive raw clay and shale. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Pug Mill Mixing Shaft and Blade Forgings",
@@ -8875,7 +8875,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Brick & Clay Products Forgings \u2014 Extruder Auger Shaft, Pug Mill & Press Component Forgings",
-        "description2": "JK Forge manufactures forged components for brick and clay product manufacturing equipment \u2014 extruder auger and barrel shaft forgings, pug mill and clay preparation shaft components, and brick press and cutting equipment component forgings \u2014 in wear-resistant alloy steel engineered for continuous operation against abrasive raw clay and shale. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for brick and clay product manufacturing equipment \u2014 extruder auger and barrel shaft forgings, pug mill and clay preparation shaft components, and brick press and cutting equipment component forgings \u2014 in wear-resistant alloy steel engineered for continuous operation against abrasive raw clay and shale. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Pug Mill Mixing Shaft and Blade Forgings",
@@ -9571,7 +9571,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Dry Dock Infrastructure Forgings \u2014 Caisson Gate Hinge, Dock Pump Shaft & Capstan Component Forgings",
-        "description2": "JK Forge manufactures forged components for shipyard dry dock infrastructure \u2014 caisson gate hinge and sealing mechanism forgings, dock dewatering pump shaft components, and capstan and mooring bollard structural forgings \u2014 engineered for the sustained hydrostatic loading and marine corrosion exposure permanent dock infrastructure experiences across decades of service. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for shipyard dry dock infrastructure \u2014 caisson gate hinge and sealing mechanism forgings, dock dewatering pump shaft components, and capstan and mooring bollard structural forgings \u2014 engineered for the sustained hydrostatic loading and marine corrosion exposure permanent dock infrastructure experiences across decades of service. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Dock Dewatering Pump Shaft Forgings",
@@ -9687,7 +9687,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Dry Dock Infrastructure Forgings \u2014 Caisson Gate Hinge, Dock Pump Shaft & Capstan Component Forgings",
-        "description2": "JK Forge manufactures forged components for shipyard dry dock infrastructure \u2014 caisson gate hinge and sealing mechanism forgings, dock dewatering pump shaft components, and capstan and mooring bollard structural forgings \u2014 engineered for the sustained hydrostatic loading and marine corrosion exposure permanent dock infrastructure experiences across decades of service. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for shipyard dry dock infrastructure \u2014 caisson gate hinge and sealing mechanism forgings, dock dewatering pump shaft components, and capstan and mooring bollard structural forgings \u2014 engineered for the sustained hydrostatic loading and marine corrosion exposure permanent dock infrastructure experiences across decades of service. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Dock Dewatering Pump Shaft Forgings",
@@ -9803,7 +9803,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Air Separation Unit Forgings \u2014 Cryogenic Valve Body, Flange & Cold Box Piping Component Forgings for Industrial Gas Plants",
-        "description2": "JK Forge manufactures cryogenic-grade forgings for air separation units (ASUs) \u2014 the industrial gas plants that distill atmospheric air into oxygen, nitrogen, and argon \u2014 including valve body and flange forgings in 304L/316L stainless steel and 9% nickel steel for cold box service down to approximately \u2212196\u00b0C, alongside carbon steel forgings for ambient-temperature balance-of-plant systems. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures cryogenic-grade forgings for air separation units (ASUs) \u2014 the industrial gas plants that distill atmospheric air into oxygen, nitrogen, and argon \u2014 including valve body and flange forgings in 304L/316L stainless steel and 9% nickel steel for cold box service down to approximately \u2212196\u00b0C, alongside carbon steel forgings for ambient-temperature balance-of-plant systems. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Cryogenic Flange Forgings for Cold Box Piping",
@@ -9919,7 +9919,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Air Separation Unit Forgings \u2014 Cryogenic Valve Body, Flange & Cold Box Piping Component Forgings for Industrial Gas Plants",
-        "description2": "JK Forge manufactures cryogenic-grade forgings for air separation units (ASUs) \u2014 the industrial gas plants that distill atmospheric air into oxygen, nitrogen, and argon \u2014 including valve body and flange forgings in 304L/316L stainless steel and 9% nickel steel for cold box service down to approximately \u2212196\u00b0C, alongside carbon steel forgings for ambient-temperature balance-of-plant systems. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures cryogenic-grade forgings for air separation units (ASUs) \u2014 the industrial gas plants that distill atmospheric air into oxygen, nitrogen, and argon \u2014 including valve body and flange forgings in 304L/316L stainless steel and 9% nickel steel for cold box service down to approximately \u2212196\u00b0C, alongside carbon steel forgings for ambient-temperature balance-of-plant systems. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Cryogenic Flange Forgings for Cold Box Piping",
@@ -10035,7 +10035,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Data Center Cooling Forgings \u2014 Manifold Blocks, Valve Bodies & Quick-Disconnect Fittings for CDU & Liquid Cooling Loops",
-        "description2": "JK Forge manufactures forged components for data center liquid cooling infrastructure \u2014 manifold blocks, valve bodies, and quick-disconnect fitting bodies for coolant distribution units (CDUs), direct-to-chip cooling loops, and rear-door heat exchanger systems. Stainless steel and copper alloy options addressing the leak-tight reliability high-density AI/HPC compute cooling demands. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for data center liquid cooling infrastructure \u2014 manifold blocks, valve bodies, and quick-disconnect fitting bodies for coolant distribution units (CDUs), direct-to-chip cooling loops, and rear-door heat exchanger systems. Stainless steel and copper alloy options addressing the leak-tight reliability high-density AI/HPC compute cooling demands. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Valve Body Forgings for Cooling Loop Isolation",
@@ -10159,7 +10159,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Data Center Cooling Forgings \u2014 Manifold Blocks, Valve Bodies & Quick-Disconnect Fittings for CDU & Liquid Cooling Loops",
-        "description2": "JK Forge manufactures forged components for data center liquid cooling infrastructure \u2014 manifold blocks, valve bodies, and quick-disconnect fitting bodies for coolant distribution units (CDUs), direct-to-chip cooling loops, and rear-door heat exchanger systems. Stainless steel and copper alloy options addressing the leak-tight reliability high-density AI/HPC compute cooling demands. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for data center liquid cooling infrastructure \u2014 manifold blocks, valve bodies, and quick-disconnect fitting bodies for coolant distribution units (CDUs), direct-to-chip cooling loops, and rear-door heat exchanger systems. Stainless steel and copper alloy options addressing the leak-tight reliability high-density AI/HPC compute cooling demands. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Valve Body Forgings for Cooling Loop Isolation",
@@ -10283,7 +10283,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Edible Oil Extraction Plant Forgings \u2014 Expeller Screw Shaft, Press Cage & Solvent Extraction Equipment Component Forgings",
-        "description2": "JK Forge manufactures forged components for edible oil extraction and expeller plant equipment \u2014 screw press shaft forgings, press cage and barrel components, and solvent extraction plant mechanical parts \u2014 in wear-resistant and corrosion-resistant alloy steel matched to the mechanical and chemical demands of oilseed processing. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for edible oil extraction and expeller plant equipment \u2014 screw press shaft forgings, press cage and barrel components, and solvent extraction plant mechanical parts \u2014 in wear-resistant and corrosion-resistant alloy steel matched to the mechanical and chemical demands of oilseed processing. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Press Cage and Barrel Component Forgings",
@@ -10395,7 +10395,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Edible Oil Extraction Plant Forgings \u2014 Expeller Screw Shaft, Press Cage & Solvent Extraction Equipment Component Forgings",
-        "description2": "JK Forge manufactures forged components for edible oil extraction and expeller plant equipment \u2014 screw press shaft forgings, press cage and barrel components, and solvent extraction plant mechanical parts \u2014 in wear-resistant and corrosion-resistant alloy steel matched to the mechanical and chemical demands of oilseed processing. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for edible oil extraction and expeller plant equipment \u2014 screw press shaft forgings, press cage and barrel components, and solvent extraction plant mechanical parts \u2014 in wear-resistant and corrosion-resistant alloy steel matched to the mechanical and chemical demands of oilseed processing. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Press Cage and Barrel Component Forgings",
@@ -10507,7 +10507,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Marine Dredging Forgings \u2014 Cutter Head Shaft, Ladder Pin, Spud & Suction Pipe Component Forgings",
-        "description2": "JK Forge manufactures forged components for marine and port dredging equipment \u2014 cutter suction dredger cutter head shaft forgings, ladder and swing winch pin components, and spud and anchoring system structural forgings \u2014 engineered for continuous abrasive contact with dredged seabed material combined with sustained marine environmental exposure. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for marine and port dredging equipment \u2014 cutter suction dredger cutter head shaft forgings, ladder and swing winch pin components, and spud and anchoring system structural forgings \u2014 engineered for continuous abrasive contact with dredged seabed material combined with sustained marine environmental exposure. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Ladder Pin and Hinge Structural Forgings",
@@ -10627,7 +10627,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Marine Dredging Forgings \u2014 Cutter Head Shaft, Ladder Pin, Spud & Suction Pipe Component Forgings",
-        "description2": "JK Forge manufactures forged components for marine and port dredging equipment \u2014 cutter suction dredger cutter head shaft forgings, ladder and swing winch pin components, and spud and anchoring system structural forgings \u2014 engineered for continuous abrasive contact with dredged seabed material combined with sustained marine environmental exposure. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for marine and port dredging equipment \u2014 cutter suction dredger cutter head shaft forgings, ladder and swing winch pin components, and spud and anchoring system structural forgings \u2014 engineered for continuous abrasive contact with dredged seabed material combined with sustained marine environmental exposure. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Ladder Pin and Hinge Structural Forgings",
@@ -10747,7 +10747,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Microgrid Equipment Forgings \u2014 Switchgear, Enclosure & Interconnection Component Forgings for Distributed, Islandable Power Systems",
-        "description2": "JK Forge manufactures forged components for microgrid equipment \u2014 switchgear and enclosure structural forgings, interconnection and busbar connector forgings, and generator and energy storage integration hardware for the distributed, independently islandable power systems increasingly deployed at campuses, industrial sites, remote communities, and critical infrastructure facilities. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for microgrid equipment \u2014 switchgear and enclosure structural forgings, interconnection and busbar connector forgings, and generator and energy storage integration hardware for the distributed, independently islandable power systems increasingly deployed at campuses, industrial sites, remote communities, and critical infrastructure facilities. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Busbar and Interconnection Terminal Forgings",
@@ -10859,7 +10859,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Microgrid Equipment Forgings \u2014 Switchgear, Enclosure & Interconnection Component Forgings for Distributed, Islandable Power Systems",
-        "description2": "JK Forge manufactures forged components for microgrid equipment \u2014 switchgear and enclosure structural forgings, interconnection and busbar connector forgings, and generator and energy storage integration hardware for the distributed, independently islandable power systems increasingly deployed at campuses, industrial sites, remote communities, and critical infrastructure facilities. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for microgrid equipment \u2014 switchgear and enclosure structural forgings, interconnection and busbar connector forgings, and generator and energy storage integration hardware for the distributed, independently islandable power systems increasingly deployed at campuses, industrial sites, remote communities, and critical infrastructure facilities. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Busbar and Interconnection Terminal Forgings",
@@ -10971,7 +10971,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Aviation MRO Forgings \u2014 AS9100 Rev D Certified Replacement, Overhaul & Spare Component Forgings for the Aftermarket Sector",
-        "description2": "JK Forge manufactures AS9100 Rev D certified forged replacement and spare components for the commercial aviation maintenance, repair and overhaul (MRO) sector \u2014 the aftermarket forging supply distinct from new-build OEM aircraft and engine manufacturing \u2014 in titanium, nickel alloy, and high-strength alloy steel to original part specification. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures AS9100 Rev D certified forged replacement and spare components for the commercial aviation maintenance, repair and overhaul (MRO) sector \u2014 the aftermarket forging supply distinct from new-build OEM aircraft and engine manufacturing \u2014 in titanium, nickel alloy, and high-strength alloy steel to original part specification. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Original Part Specification and Material Match",
@@ -11079,7 +11079,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Aviation MRO Forgings \u2014 AS9100 Rev D Certified Replacement, Overhaul & Spare Component Forgings for the Aftermarket Sector",
-        "description2": "JK Forge manufactures AS9100 Rev D certified forged replacement and spare components for the commercial aviation maintenance, repair and overhaul (MRO) sector \u2014 the aftermarket forging supply distinct from new-build OEM aircraft and engine manufacturing \u2014 in titanium, nickel alloy, and high-strength alloy steel to original part specification. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures AS9100 Rev D certified forged replacement and spare components for the commercial aviation maintenance, repair and overhaul (MRO) sector \u2014 the aftermarket forging supply distinct from new-build OEM aircraft and engine manufacturing \u2014 in titanium, nickel alloy, and high-strength alloy steel to original part specification. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Original Part Specification and Material Match",
@@ -11187,7 +11187,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Forgings for Small Modular Reactors \u2014 A Distinct Component and Certification Profile From Conventional Large Nuclear Plants",
-        "description2": "JK Forge manufactures forged components for the small modular reactor (SMR) sector \u2014 the emerging class of factory-fabricated, modular nuclear power designs with a component and certification profile genuinely distinct from conventional large-scale nuclear power plant construction. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for the small modular reactor (SMR) sector \u2014 the emerging class of factory-fabricated, modular nuclear power designs with a component and certification profile genuinely distinct from conventional large-scale nuclear power plant construction. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Balance-of-Plant and Auxiliary System Forgings",
@@ -11299,7 +11299,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Forgings for Small Modular Reactors \u2014 A Distinct Component and Certification Profile From Conventional Large Nuclear Plants",
-        "description2": "JK Forge manufactures forged components for the small modular reactor (SMR) sector \u2014 the emerging class of factory-fabricated, modular nuclear power designs with a component and certification profile genuinely distinct from conventional large-scale nuclear power plant construction. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for the small modular reactor (SMR) sector \u2014 the emerging class of factory-fabricated, modular nuclear power designs with a component and certification profile genuinely distinct from conventional large-scale nuclear power plant construction. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Balance-of-Plant and Auxiliary System Forgings",
@@ -11643,7 +11643,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content CO2 Shipping Terminal Forgings \u2014 Liquefied CO2 Loading Arm, Storage Tank & Carrier Interface Component Forgings for Offshore Sequestration Logistics",
-        "description2": "JK Forge manufactures forged components for offshore CO2 shipping and export terminals \u2014 liquefied CO2 loading arm forgings, storage tank flange forgings, and carrier interface component forgings for the emerging maritime logistics chain moving captured CO2 by ship to offshore geological sequestration sites, distinct from LNG shipping terminal infrastructure and from CO2's own point-source capture equipment. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for offshore CO2 shipping and export terminals \u2014 liquefied CO2 loading arm forgings, storage tank flange forgings, and carrier interface component forgings for the emerging maritime logistics chain moving captured CO2 by ship to offshore geological sequestration sites, distinct from LNG shipping terminal infrastructure and from CO2's own point-source capture equipment. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "CO2 Storage Tank Flange and Nozzle Forgings",
@@ -11763,7 +11763,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content CO2 Shipping Terminal Forgings \u2014 Liquefied CO2 Loading Arm, Storage Tank & Carrier Interface Component Forgings for Offshore Sequestration Logistics",
-        "description2": "JK Forge manufactures forged components for offshore CO2 shipping and export terminals \u2014 liquefied CO2 loading arm forgings, storage tank flange forgings, and carrier interface component forgings for the emerging maritime logistics chain moving captured CO2 by ship to offshore geological sequestration sites, distinct from LNG shipping terminal infrastructure and from CO2's own point-source capture equipment. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for offshore CO2 shipping and export terminals \u2014 liquefied CO2 loading arm forgings, storage tank flange forgings, and carrier interface component forgings for the emerging maritime logistics chain moving captured CO2 by ship to offshore geological sequestration sites, distinct from LNG shipping terminal infrastructure and from CO2's own point-source capture equipment. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "CO2 Storage Tank Flange and Nozzle Forgings",
@@ -11883,7 +11883,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Naval Vessel Forgings \u2014 Hull Structural, Propulsion Shafting & Deck Hardware Components for Defense Shipbuilding",
-        "description2": "JK Forge manufactures forged components for naval and defense vessel construction \u2014 hull structural forgings, propulsion shafting components, and deck hardware forgings engineered to the elevated structural, shock, and reliability standards naval combatant and support vessel construction demands beyond typical commercial shipbuilding. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for naval and defense vessel construction \u2014 hull structural forgings, propulsion shafting components, and deck hardware forgings engineered to the elevated structural, shock, and reliability standards naval combatant and support vessel construction demands beyond typical commercial shipbuilding. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Propulsion Shafting and Coupling Forgings",
@@ -12003,7 +12003,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Naval Vessel Forgings \u2014 Hull Structural, Propulsion Shafting & Deck Hardware Components for Defense Shipbuilding",
-        "description2": "JK Forge manufactures forged components for naval and defense vessel construction \u2014 hull structural forgings, propulsion shafting components, and deck hardware forgings engineered to the elevated structural, shock, and reliability standards naval combatant and support vessel construction demands beyond typical commercial shipbuilding. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for naval and defense vessel construction \u2014 hull structural forgings, propulsion shafting components, and deck hardware forgings engineered to the elevated structural, shock, and reliability standards naval combatant and support vessel construction demands beyond typical commercial shipbuilding. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Propulsion Shafting and Coupling Forgings",
@@ -12123,7 +12123,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content District Cooling Forgings \u2014 Chilled Water Valve Bodies, Pipe Fittings & Plant Component Forgings for Centralized Cooling Networks",
-        "description2": "JK Forge manufactures forged components for municipal district cooling systems \u2014 valve bodies, pipe fittings, and central plant component forgings for the centralized chilled water distribution networks serving commercial districts, campuses, and dense urban developments. Components engineered for the network's sustained low-temperature circulation duty and long buried-infrastructure service life. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for municipal district cooling systems \u2014 valve bodies, pipe fittings, and central plant component forgings for the centralized chilled water distribution networks serving commercial districts, campuses, and dense urban developments. Components engineered for the network's sustained low-temperature circulation duty and long buried-infrastructure service life. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Central Chiller Plant Component Forgings",
@@ -12235,7 +12235,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content District Cooling Forgings \u2014 Chilled Water Valve Bodies, Pipe Fittings & Plant Component Forgings for Centralized Cooling Networks",
-        "description2": "JK Forge manufactures forged components for municipal district cooling systems \u2014 valve bodies, pipe fittings, and central plant component forgings for the centralized chilled water distribution networks serving commercial districts, campuses, and dense urban developments. Components engineered for the network's sustained low-temperature circulation duty and long buried-infrastructure service life. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for municipal district cooling systems \u2014 valve bodies, pipe fittings, and central plant component forgings for the centralized chilled water distribution networks serving commercial districts, campuses, and dense urban developments. Components engineered for the network's sustained low-temperature circulation duty and long buried-infrastructure service life. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Central Chiller Plant Component Forgings",
@@ -12347,7 +12347,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content FPSO Forgings \u2014 Structural Forgings and Process Piping & Valve Component Forgings for Floating Production Storage & Offloading Vessels",
-        "description2": "JK Forge manufactures forged components for FPSO (Floating Production Storage and Offloading) vessels \u2014 combining shipbuilding-scale structural forgings with process piping and valve forgings for the offshore oil and gas processing and storage vessels that operate continuously at sea for years without drydocking. Material selection addressing the exceptional reliability and corrosion resistance this demanding application requires. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for FPSO (Floating Production Storage and Offloading) vessels \u2014 combining shipbuilding-scale structural forgings with process piping and valve forgings for the offshore oil and gas processing and storage vessels that operate continuously at sea for years without drydocking. Material selection addressing the exceptional reliability and corrosion resistance this demanding application requires. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Process Piping Flange and Fitting Forgings",
@@ -12467,7 +12467,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content FPSO Forgings \u2014 Structural Forgings and Process Piping & Valve Component Forgings for Floating Production Storage & Offloading Vessels",
-        "description2": "JK Forge manufactures forged components for FPSO (Floating Production Storage and Offloading) vessels \u2014 combining shipbuilding-scale structural forgings with process piping and valve forgings for the offshore oil and gas processing and storage vessels that operate continuously at sea for years without drydocking. Material selection addressing the exceptional reliability and corrosion resistance this demanding application requires. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for FPSO (Floating Production Storage and Offloading) vessels \u2014 combining shipbuilding-scale structural forgings with process piping and valve forgings for the offshore oil and gas processing and storage vessels that operate continuously at sea for years without drydocking. Material selection addressing the exceptional reliability and corrosion resistance this demanding application requires. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Process Piping Flange and Fitting Forgings",
@@ -12697,7 +12697,7 @@ window.pageContent['industriesOtherData'] = {
             },
             {
                 "question": "How do I request a quotation for solar mounting forgings?",
-                "answer": "Send your component drawings, material grade, corrosion protection requirement and quantity forecast to sales@JK Forge.com or call +91 92657 72827. We will review your requirement and return a quotation within 24 hours. For high-volume projects, we recommend a technical discussion call to align on die design and production scheduling."
+                "answer": "Send your component drawings, material grade, corrosion protection requirement and quantity forecast to sales@JK Forge.com or call +91 7600066117. We will review your requirement and return a quotation within 24 hours. For high-volume projects, we recommend a technical discussion call to align on die design and production scheduling."
             }
         ]
     },
@@ -12833,7 +12833,7 @@ window.pageContent['industriesOtherData'] = {
             },
             {
                 "question": "How do I request a quotation for solar mounting forgings?",
-                "answer": "Send your component drawings, material grade, corrosion protection requirement and quantity forecast to sales@JK Forge.com or call +91 92657 72827. We will review your requirement and return a quotation within 24 hours. For high-volume projects, we recommend a technical discussion call to align on die design and production scheduling."
+                "answer": "Send your component drawings, material grade, corrosion protection requirement and quantity forecast to sales@JK Forge.com or call +91 7600066117. We will review your requirement and return a quotation within 24 hours. For high-volume projects, we recommend a technical discussion call to align on die design and production scheduling."
             }
         ]
     },
@@ -12859,7 +12859,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content E-Fuels & Power-to-Liquid Forgings \u2014 Synthetic Methanol, Fischer-Tropsch Reactor & Syngas Compression",
-        "description2": "JK Forge manufactures forged process equipment components for e-fuels (power-to-liquid synthetic fuel) plants \u2014 syngas compressor casing forgings, Fischer-Tropsch and methanol synthesis reactor flange forgings, and high-pressure piping fittings \u2014 in alloy and stainless steel grades matched to the high-pressure, hydrogen-rich synthesis gas conditions e-fuel production requires. ASME Section VIII compliance support, EN 10204 3.1/3.2 certification. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged process equipment components for e-fuels (power-to-liquid synthetic fuel) plants \u2014 syngas compressor casing forgings, Fischer-Tropsch and methanol synthesis reactor flange forgings, and high-pressure piping fittings \u2014 in alloy and stainless steel grades matched to the high-pressure, hydrogen-rich synthesis gas conditions e-fuel production requires. ASME Section VIII compliance support, EN 10204 3.1/3.2 certification. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Fischer-Tropsch Reactor Flange Forgings",
@@ -12983,7 +12983,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content E-Fuels & Power-to-Liquid Forgings \u2014 Synthetic Methanol, Fischer-Tropsch Reactor & Syngas Compression",
-        "description2": "JK Forge manufactures forged process equipment components for e-fuels (power-to-liquid synthetic fuel) plants \u2014 syngas compressor casing forgings, Fischer-Tropsch and methanol synthesis reactor flange forgings, and high-pressure piping fittings \u2014 in alloy and stainless steel grades matched to the high-pressure, hydrogen-rich synthesis gas conditions e-fuel production requires. ASME Section VIII compliance support, EN 10204 3.1/3.2 certification. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged process equipment components for e-fuels (power-to-liquid synthetic fuel) plants \u2014 syngas compressor casing forgings, Fischer-Tropsch and methanol synthesis reactor flange forgings, and high-pressure piping fittings \u2014 in alloy and stainless steel grades matched to the high-pressure, hydrogen-rich synthesis gas conditions e-fuel production requires. ASME Section VIII compliance support, EN 10204 3.1/3.2 certification. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Fischer-Tropsch Reactor Flange Forgings",
@@ -13107,7 +13107,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Packaging & Bottling Machinery Forgings \u2014 Filling Valve, Capping Head, Conveyor Drive Components",
-        "description2": "JK Forge manufactures precision forgings for packaging and bottling machinery \u2014 filling valve and capping head components, conveyor drive shaft forgings, and labeling/palletizing equipment structural components \u2014 in stainless steel and precision alloy steel engineered for the high-speed, continuous-cycle, hygienic operation modern packaging lines require. ISO 9001:2015 certified, food/beverage-grade material options. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures precision forgings for packaging and bottling machinery \u2014 filling valve and capping head components, conveyor drive shaft forgings, and labeling/palletizing equipment structural components \u2014 in stainless steel and precision alloy steel engineered for the high-speed, continuous-cycle, hygienic operation modern packaging lines require. ISO 9001:2015 certified, food/beverage-grade material options. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Capping Head and Torque Mechanism Forgings",
@@ -13231,7 +13231,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Packaging & Bottling Machinery Forgings \u2014 Filling Valve, Capping Head, Conveyor Drive Components",
-        "description2": "JK Forge manufactures precision forgings for packaging and bottling machinery \u2014 filling valve and capping head components, conveyor drive shaft forgings, and labeling/palletizing equipment structural components \u2014 in stainless steel and precision alloy steel engineered for the high-speed, continuous-cycle, hygienic operation modern packaging lines require. ISO 9001:2015 certified, food/beverage-grade material options. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures precision forgings for packaging and bottling machinery \u2014 filling valve and capping head components, conveyor drive shaft forgings, and labeling/palletizing equipment structural components \u2014 in stainless steel and precision alloy steel engineered for the high-speed, continuous-cycle, hygienic operation modern packaging lines require. ISO 9001:2015 certified, food/beverage-grade material options. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Capping Head and Torque Mechanism Forgings",
@@ -13841,7 +13841,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Wire Rod Mill Equipment Forgings \u2014 Finishing Block Roll Shafts, Laying Head & Pinch Roll Component Forgings for Downstream Rod Rolling",
-        "description2": "JK Forge manufactures forged components specifically for steel wire rod rolling mill equipment \u2014 finishing block roll shaft forgings, laying head components, and pinch roll and Stelmor cooling conveyor equipment parts \u2014 the high-speed downstream rolling equipment distinct from primary steelmaking. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components specifically for steel wire rod rolling mill equipment \u2014 finishing block roll shaft forgings, laying head components, and pinch roll and Stelmor cooling conveyor equipment parts \u2014 the high-speed downstream rolling equipment distinct from primary steelmaking. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Laying Head Component Forgings",
@@ -13953,7 +13953,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Wire Rod Mill Equipment Forgings \u2014 Finishing Block Roll Shafts, Laying Head & Pinch Roll Component Forgings for Downstream Rod Rolling",
-        "description2": "JK Forge manufactures forged components specifically for steel wire rod rolling mill equipment \u2014 finishing block roll shaft forgings, laying head components, and pinch roll and Stelmor cooling conveyor equipment parts \u2014 the high-speed downstream rolling equipment distinct from primary steelmaking. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components specifically for steel wire rod rolling mill equipment \u2014 finishing block roll shaft forgings, laying head components, and pinch roll and Stelmor cooling conveyor equipment parts \u2014 the high-speed downstream rolling equipment distinct from primary steelmaking. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Laying Head Component Forgings",
@@ -14065,7 +14065,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Floating Offshore Wind Forgings \u2014 Mooring Chain, Fairlead & Floating Substructure Connection Components",
-        "description2": "JK Forge manufactures forged components for floating offshore wind turbine platforms \u2014 mooring system hardware and floating substructure connection forgings for the semi-submersible, spar, and tension-leg platform designs that extend offshore wind development into deeper water than fixed-bottom foundations can reach. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for floating offshore wind turbine platforms \u2014 mooring system hardware and floating substructure connection forgings for the semi-submersible, spar, and tension-leg platform designs that extend offshore wind development into deeper water than fixed-bottom foundations can reach. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Chain Stopper and Mooring Termination Forgings",
@@ -14177,7 +14177,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Floating Offshore Wind Forgings \u2014 Mooring Chain, Fairlead & Floating Substructure Connection Components",
-        "description2": "JK Forge manufactures forged components for floating offshore wind turbine platforms \u2014 mooring system hardware and floating substructure connection forgings for the semi-submersible, spar, and tension-leg platform designs that extend offshore wind development into deeper water than fixed-bottom foundations can reach. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for floating offshore wind turbine platforms \u2014 mooring system hardware and floating substructure connection forgings for the semi-submersible, spar, and tension-leg platform designs that extend offshore wind development into deeper water than fixed-bottom foundations can reach. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Chain Stopper and Mooring Termination Forgings",
@@ -14289,7 +14289,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Offshore Decommissioning Forgings \u2014 Replacement Structural, Lifting & Well Plug Support Component Forgings for End-of-Life Platforms",
-        "description2": "JK Forge manufactures forged replacement and support components for offshore oil and gas platform decommissioning operations \u2014 structural connection, lifting and rigging, and well plug and abandonment equipment component forgings for the growing sector removing and safely retiring platforms reaching the end of their production life. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged replacement and support components for offshore oil and gas platform decommissioning operations \u2014 structural connection, lifting and rigging, and well plug and abandonment equipment component forgings for the growing sector removing and safely retiring platforms reaching the end of their production life. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Full Dimensional and Material Certification",
@@ -14397,7 +14397,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Offshore Decommissioning Forgings \u2014 Replacement Structural, Lifting & Well Plug Support Component Forgings for End-of-Life Platforms",
-        "description2": "JK Forge manufactures forged replacement and support components for offshore oil and gas platform decommissioning operations \u2014 structural connection, lifting and rigging, and well plug and abandonment equipment component forgings for the growing sector removing and safely retiring platforms reaching the end of their production life. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged replacement and support components for offshore oil and gas platform decommissioning operations \u2014 structural connection, lifting and rigging, and well plug and abandonment equipment component forgings for the growing sector removing and safely retiring platforms reaching the end of their production life. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Full Dimensional and Material Certification",
@@ -14505,7 +14505,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Biomass-to-Energy Forgings \u2014 Fuel Feed, Combustion, and Steam Turbine Component Forgings",
-        "description2": "JK Forge manufactures forged components for biomass power generation plants \u2014 fuel feed system shafts and drive components, combustion and grate equipment components, and steam turbine and generator shaft forgings \u2014 engineered for the ash chemistry and erosive conditions that combusting wood pellets, agricultural residue, and other organic feedstocks can present. Alloy and stainless grades matched to fuel-specific corrosion risk. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for biomass power generation plants \u2014 fuel feed system shafts and drive components, combustion and grate equipment components, and steam turbine and generator shaft forgings \u2014 engineered for the ash chemistry and erosive conditions that combusting wood pellets, agricultural residue, and other organic feedstocks can present. Alloy and stainless grades matched to fuel-specific corrosion risk. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Steam Turbine Casing and Shaft Forgings",
@@ -14629,7 +14629,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Biomass-to-Energy Forgings \u2014 Fuel Feed, Combustion, and Steam Turbine Component Forgings",
-        "description2": "JK Forge manufactures forged components for biomass power generation plants \u2014 fuel feed system shafts and drive components, combustion and grate equipment components, and steam turbine and generator shaft forgings \u2014 engineered for the ash chemistry and erosive conditions that combusting wood pellets, agricultural residue, and other organic feedstocks can present. Alloy and stainless grades matched to fuel-specific corrosion risk. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for biomass power generation plants \u2014 fuel feed system shafts and drive components, combustion and grate equipment components, and steam turbine and generator shaft forgings \u2014 engineered for the ash chemistry and erosive conditions that combusting wood pellets, agricultural residue, and other organic feedstocks can present. Alloy and stainless grades matched to fuel-specific corrosion risk. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Steam Turbine Casing and Shaft Forgings",
@@ -14969,7 +14969,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Cotton Ginning Equipment Forgings \u2014 Saw Gin Shafts, Roller Gin Components & Bale Press Forgings for a Core Gujarat Agricultural Industry",
-        "description2": "JK Forge manufactures forged components for cotton ginning equipment \u2014 saw gin cylinder shafts, roller gin components, and bale press structural and mechanical parts \u2014 in wear-resistant alloy steel matched to the abrasive, high-cycle demands of separating cotton fibre from seed at commercial ginning volumes. Manufactured in Rajkot, Gujarat, India, one of India's leading cotton-producing states. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for cotton ginning equipment \u2014 saw gin cylinder shafts, roller gin components, and bale press structural and mechanical parts \u2014 in wear-resistant alloy steel matched to the abrasive, high-cycle demands of separating cotton fibre from seed at commercial ginning volumes. Manufactured in Rajkot, Gujarat, India, one of India's leading cotton-producing states. Call +91 7600066117.",
         "components": [
             {
                 "title": "Roller Gin Shaft and Drive Component Forgings",
@@ -15085,7 +15085,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Cotton Ginning Equipment Forgings \u2014 Saw Gin Shafts, Roller Gin Components & Bale Press Forgings for a Core Gujarat Agricultural Industry",
-        "description2": "JK Forge manufactures forged components for cotton ginning equipment \u2014 saw gin cylinder shafts, roller gin components, and bale press structural and mechanical parts \u2014 in wear-resistant alloy steel matched to the abrasive, high-cycle demands of separating cotton fibre from seed at commercial ginning volumes. Manufactured in Rajkot, Gujarat, India, one of India's leading cotton-producing states. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for cotton ginning equipment \u2014 saw gin cylinder shafts, roller gin components, and bale press structural and mechanical parts \u2014 in wear-resistant alloy steel matched to the abrasive, high-cycle demands of separating cotton fibre from seed at commercial ginning volumes. Manufactured in Rajkot, Gujarat, India, one of India's leading cotton-producing states. Call +91 7600066117.",
         "components": [
             {
                 "title": "Roller Gin Shaft and Drive Component Forgings",
@@ -15201,7 +15201,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Green Ammonia Forgings \u2014 Pressure Vessel Nozzle, Valve Body & Compressor Component Forgings",
-        "description2": "JK Forge manufactures forged components for green ammonia production equipment \u2014 pressure vessel nozzle and flange forgings, valve body forgings, and compressor component forgings \u2014 engineered for the high-pressure synthesis loop conditions ammonia production requires, whether the hydrogen feedstock originates from renewable-powered electrolysis or conventional sources. Ammonia-service material selection and full certification. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for green ammonia production equipment \u2014 pressure vessel nozzle and flange forgings, valve body forgings, and compressor component forgings \u2014 engineered for the high-pressure synthesis loop conditions ammonia production requires, whether the hydrogen feedstock originates from renewable-powered electrolysis or conventional sources. Ammonia-service material selection and full certification. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Ammonia-Service Valve Body Forgings",
@@ -15325,7 +15325,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Green Ammonia Forgings \u2014 Pressure Vessel Nozzle, Valve Body & Compressor Component Forgings",
-        "description2": "JK Forge manufactures forged components for green ammonia production equipment \u2014 pressure vessel nozzle and flange forgings, valve body forgings, and compressor component forgings \u2014 engineered for the high-pressure synthesis loop conditions ammonia production requires, whether the hydrogen feedstock originates from renewable-powered electrolysis or conventional sources. Ammonia-service material selection and full certification. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for green ammonia production equipment \u2014 pressure vessel nozzle and flange forgings, valve body forgings, and compressor component forgings \u2014 engineered for the high-pressure synthesis loop conditions ammonia production requires, whether the hydrogen feedstock originates from renewable-powered electrolysis or conventional sources. Ammonia-service material selection and full certification. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Ammonia-Service Valve Body Forgings",
@@ -15737,7 +15737,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Offshore Wind Forgings \u2014 Monopile & Jacket Foundation Flanges, Transition Piece Components",
-        "description2": "JK Forge manufactures large-diameter forged flanges and structural connection components for offshore wind foundations \u2014 monopile and jacket foundation flanges, transition piece bolted connections, and pin pile forgings \u2014 in S355/S460 offshore structural steel grades, engineered for decades of cyclic wave and wind loading in the marine environment. EN 10225 offshore structural steel compliance, DNV/GL certification support, EN 10204 3.1/3.2 documentation. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures large-diameter forged flanges and structural connection components for offshore wind foundations \u2014 monopile and jacket foundation flanges, transition piece bolted connections, and pin pile forgings \u2014 in S355/S460 offshore structural steel grades, engineered for decades of cyclic wave and wind loading in the marine environment. EN 10225 offshore structural steel compliance, DNV/GL certification support, EN 10204 3.1/3.2 documentation. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Jacket Foundation Node and Chord Flanges",
@@ -15861,7 +15861,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Offshore Wind Forgings \u2014 Monopile & Jacket Foundation Flanges, Transition Piece Components",
-        "description2": "JK Forge manufactures large-diameter forged flanges and structural connection components for offshore wind foundations \u2014 monopile and jacket foundation flanges, transition piece bolted connections, and pin pile forgings \u2014 in S355/S460 offshore structural steel grades, engineered for decades of cyclic wave and wind loading in the marine environment. EN 10225 offshore structural steel compliance, DNV/GL certification support, EN 10204 3.1/3.2 documentation. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures large-diameter forged flanges and structural connection components for offshore wind foundations \u2014 monopile and jacket foundation flanges, transition piece bolted connections, and pin pile forgings \u2014 in S355/S460 offshore structural steel grades, engineered for decades of cyclic wave and wind loading in the marine environment. EN 10225 offshore structural steel compliance, DNV/GL certification support, EN 10204 3.1/3.2 documentation. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Jacket Foundation Node and Chord Flanges",
@@ -15985,7 +15985,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Carbon Capture, Utilization & Storage Forgings \u2014 CO2 Compression, Injection Wellhead, Pipeline",
-        "description2": "JK Forge manufactures forged components for carbon capture, utilization, and storage (CCUS) infrastructure \u2014 CO2 compressor casing and shaft forgings, injection wellhead and valve body forgings, and dense-phase CO2 pipeline flanges \u2014 in carbon steel, low-temperature carbon steel, and duplex stainless grades engineered for dense-phase CO2 service and the specific corrosion mechanisms wet CO2 presents. EN 10204 3.1/3.2 certification, ASME Section VIII and B31.3/B31.4 compliance support. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for carbon capture, utilization, and storage (CCUS) infrastructure \u2014 CO2 compressor casing and shaft forgings, injection wellhead and valve body forgings, and dense-phase CO2 pipeline flanges \u2014 in carbon steel, low-temperature carbon steel, and duplex stainless grades engineered for dense-phase CO2 service and the specific corrosion mechanisms wet CO2 presents. EN 10204 3.1/3.2 certification, ASME Section VIII and B31.3/B31.4 compliance support. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "CO2 Injection Wellhead and Valve Forgings",
@@ -16109,7 +16109,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Carbon Capture, Utilization & Storage Forgings \u2014 CO2 Compression, Injection Wellhead, Pipeline",
-        "description2": "JK Forge manufactures forged components for carbon capture, utilization, and storage (CCUS) infrastructure \u2014 CO2 compressor casing and shaft forgings, injection wellhead and valve body forgings, and dense-phase CO2 pipeline flanges \u2014 in carbon steel, low-temperature carbon steel, and duplex stainless grades engineered for dense-phase CO2 service and the specific corrosion mechanisms wet CO2 presents. EN 10204 3.1/3.2 certification, ASME Section VIII and B31.3/B31.4 compliance support. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for carbon capture, utilization, and storage (CCUS) infrastructure \u2014 CO2 compressor casing and shaft forgings, injection wellhead and valve body forgings, and dense-phase CO2 pipeline flanges \u2014 in carbon steel, low-temperature carbon steel, and duplex stainless grades engineered for dense-phase CO2 service and the specific corrosion mechanisms wet CO2 presents. EN 10204 3.1/3.2 certification, ASME Section VIII and B31.3/B31.4 compliance support. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "CO2 Injection Wellhead and Valve Forgings",
@@ -16233,7 +16233,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Vacuum Pump Forgings \u2014 Rotor Shaft & Housing Component Forgings for Semiconductor, Chemical Processing & Packaging Applications",
-        "description2": "JK Forge manufactures forged components for industrial vacuum pump equipment \u2014 rotor shafts and housing components used across semiconductor manufacturing, chemical processing, and packaging industries. Precision dimensional tolerance on rotor and housing components directly determines pump vacuum performance. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for industrial vacuum pump equipment \u2014 rotor shafts and housing components used across semiconductor manufacturing, chemical processing, and packaging industries. Precision dimensional tolerance on rotor and housing components directly determines pump vacuum performance. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Pump Housing Component Forgings",
@@ -16353,7 +16353,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Vacuum Pump Forgings \u2014 Rotor Shaft & Housing Component Forgings for Semiconductor, Chemical Processing & Packaging Applications",
-        "description2": "JK Forge manufactures forged components for industrial vacuum pump equipment \u2014 rotor shafts and housing components used across semiconductor manufacturing, chemical processing, and packaging industries. Precision dimensional tolerance on rotor and housing components directly determines pump vacuum performance. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for industrial vacuum pump equipment \u2014 rotor shafts and housing components used across semiconductor manufacturing, chemical processing, and packaging industries. Precision dimensional tolerance on rotor and housing components directly determines pump vacuum performance. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Pump Housing Component Forgings",
@@ -16473,7 +16473,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content CTV Forgings \u2014 Bow Fender, Push-On Boarding System, Hull & Waterjet/Propulsion Component Forgings for Offshore Wind Farm Crew Transfer",
-        "description2": "JK Forge manufactures forged components for offshore wind farm crew transfer vessels (CTVs) \u2014 the small, fast vessels ferrying technicians to offshore wind turbines \u2014 including bow fender and push-on boarding system forgings, lightweight hull structural components, and waterjet or propulsion system component forgings distinct from the larger platform-servicing offshore supply vessel fleet. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for offshore wind farm crew transfer vessels (CTVs) \u2014 the small, fast vessels ferrying technicians to offshore wind turbines \u2014 including bow fender and push-on boarding system forgings, lightweight hull structural components, and waterjet or propulsion system component forgings distinct from the larger platform-servicing offshore supply vessel fleet. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Marine Corrosion-Resistant Material Selection",
@@ -16585,7 +16585,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content CTV Forgings \u2014 Bow Fender, Push-On Boarding System, Hull & Waterjet/Propulsion Component Forgings for Offshore Wind Farm Crew Transfer",
-        "description2": "JK Forge manufactures forged components for offshore wind farm crew transfer vessels (CTVs) \u2014 the small, fast vessels ferrying technicians to offshore wind turbines \u2014 including bow fender and push-on boarding system forgings, lightweight hull structural components, and waterjet or propulsion system component forgings distinct from the larger platform-servicing offshore supply vessel fleet. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for offshore wind farm crew transfer vessels (CTVs) \u2014 the small, fast vessels ferrying technicians to offshore wind turbines \u2014 including bow fender and push-on boarding system forgings, lightweight hull structural components, and waterjet or propulsion system component forgings distinct from the larger platform-servicing offshore supply vessel fleet. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Marine Corrosion-Resistant Material Selection",
@@ -16697,7 +16697,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Desalination Plant Forgings \u2014 RO High-Pressure Pump Components, MSF Flash Chamber Fittings",
-        "description2": "JK Forge manufactures corrosion-resistant forgings for reverse osmosis (RO) and multi-stage flash (MSF) desalination plants \u2014 high-pressure pump casing and shaft forgings, seawater intake and brine discharge piping flanges, and valve body forgings in super duplex 2507, duplex 2205, and 316L stainless steel, engineered for continuous seawater and concentrated brine exposure. ISO 9001:2015 certified, EN 10204 3.1/3.2 documentation, NACE MR0175 compliance. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures corrosion-resistant forgings for reverse osmosis (RO) and multi-stage flash (MSF) desalination plants \u2014 high-pressure pump casing and shaft forgings, seawater intake and brine discharge piping flanges, and valve body forgings in super duplex 2507, duplex 2205, and 316L stainless steel, engineered for continuous seawater and concentrated brine exposure. ISO 9001:2015 certified, EN 10204 3.1/3.2 documentation, NACE MR0175 compliance. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "MSF Flash Chamber Nozzle and Fitting Forgings",
@@ -16817,7 +16817,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Desalination Plant Forgings \u2014 RO High-Pressure Pump Components, MSF Flash Chamber Fittings",
-        "description2": "JK Forge manufactures corrosion-resistant forgings for reverse osmosis (RO) and multi-stage flash (MSF) desalination plants \u2014 high-pressure pump casing and shaft forgings, seawater intake and brine discharge piping flanges, and valve body forgings in super duplex 2507, duplex 2205, and 316L stainless steel, engineered for continuous seawater and concentrated brine exposure. ISO 9001:2015 certified, EN 10204 3.1/3.2 documentation, NACE MR0175 compliance. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures corrosion-resistant forgings for reverse osmosis (RO) and multi-stage flash (MSF) desalination plants \u2014 high-pressure pump casing and shaft forgings, seawater intake and brine discharge piping flanges, and valve body forgings in super duplex 2507, duplex 2205, and 316L stainless steel, engineered for continuous seawater and concentrated brine exposure. ISO 9001:2015 certified, EN 10204 3.1/3.2 documentation, NACE MR0175 compliance. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "MSF Flash Chamber Nozzle and Fitting Forgings",
@@ -16937,7 +16937,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Feed Processing Forgings \u2014 Hammer Mill Rotor, Pellet Mill Die & Roller, and Mixer Shaft Component Forgings for Feed Milling",
-        "description2": "JK Forge manufactures forged components for livestock feed processing and milling equipment \u2014 hammer mill rotor and hammer forgings, pellet mill die and roller component forgings, and mixer shaft forgings for the equipment that grinds, mixes, and pellets grain and other feedstock into finished animal feed. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for livestock feed processing and milling equipment \u2014 hammer mill rotor and hammer forgings, pellet mill die and roller component forgings, and mixer shaft forgings for the equipment that grinds, mixes, and pellets grain and other feedstock into finished animal feed. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Pellet Mill Die and Roller Component Forgings",
@@ -17053,7 +17053,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Feed Processing Forgings \u2014 Hammer Mill Rotor, Pellet Mill Die & Roller, and Mixer Shaft Component Forgings for Feed Milling",
-        "description2": "JK Forge manufactures forged components for livestock feed processing and milling equipment \u2014 hammer mill rotor and hammer forgings, pellet mill die and roller component forgings, and mixer shaft forgings for the equipment that grinds, mixes, and pellets grain and other feedstock into finished animal feed. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for livestock feed processing and milling equipment \u2014 hammer mill rotor and hammer forgings, pellet mill die and roller component forgings, and mixer shaft forgings for the equipment that grinds, mixes, and pellets grain and other feedstock into finished animal feed. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Pellet Mill Die and Roller Component Forgings",
@@ -17169,7 +17169,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Metro & Urban Rail Transit Forgings \u2014 Wheel, Axle, Bogie Components for Metro Rolling Stock",
-        "description2": "JK Forge manufactures forged wheel, axle, and bogie components for metro and urban rail transit rolling stock \u2014 distinct from freight and mainline railway forgings in axle loading, duty cycle, and the high-frequency stop-start operation metro systems experience. EN 13261/EN 13979 compliant axle and wheel steel, RDSO specification support for Indian metro programmes. EN 10204 3.1/3.2 certification. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged wheel, axle, and bogie components for metro and urban rail transit rolling stock \u2014 distinct from freight and mainline railway forgings in axle loading, duty cycle, and the high-frequency stop-start operation metro systems experience. EN 13261/EN 13979 compliant axle and wheel steel, RDSO specification support for Indian metro programmes. EN 10204 3.1/3.2 certification. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Metro Axle Forgings",
@@ -17293,7 +17293,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Metro & Urban Rail Transit Forgings \u2014 Wheel, Axle, Bogie Components for Metro Rolling Stock",
-        "description2": "JK Forge manufactures forged wheel, axle, and bogie components for metro and urban rail transit rolling stock \u2014 distinct from freight and mainline railway forgings in axle loading, duty cycle, and the high-frequency stop-start operation metro systems experience. EN 13261/EN 13979 compliant axle and wheel steel, RDSO specification support for Indian metro programmes. EN 10204 3.1/3.2 certification. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged wheel, axle, and bogie components for metro and urban rail transit rolling stock \u2014 distinct from freight and mainline railway forgings in axle loading, duty cycle, and the high-frequency stop-start operation metro systems experience. EN 13261/EN 13979 compliant axle and wheel steel, RDSO specification support for Indian metro programmes. EN 10204 3.1/3.2 certification. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Metro Axle Forgings",
@@ -17417,7 +17417,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Cold Ironing / Shore Power Forgings \u2014 High-Current Connector, Cable Reel & Vessel Interface Component Forgings for Port Electrification",
-        "description2": "JK Forge manufactures forged components for cold ironing (shore power) equipment \u2014 high-current connector and plug housing forgings, cable management reel structural forgings, and vessel-side interface components for the port electrification infrastructure letting ships plug into shore-based electrical power at berth instead of running their own engines. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for cold ironing (shore power) equipment \u2014 high-current connector and plug housing forgings, cable management reel structural forgings, and vessel-side interface components for the port electrification infrastructure letting ships plug into shore-based electrical power at berth instead of running their own engines. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Cable Management Reel Structural Forgings",
@@ -17537,7 +17537,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Cold Ironing / Shore Power Forgings \u2014 High-Current Connector, Cable Reel & Vessel Interface Component Forgings for Port Electrification",
-        "description2": "JK Forge manufactures forged components for cold ironing (shore power) equipment \u2014 high-current connector and plug housing forgings, cable management reel structural forgings, and vessel-side interface components for the port electrification infrastructure letting ships plug into shore-based electrical power at berth instead of running their own engines. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for cold ironing (shore power) equipment \u2014 high-current connector and plug housing forgings, cable management reel structural forgings, and vessel-side interface components for the port electrification infrastructure letting ships plug into shore-based electrical power at berth instead of running their own engines. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Cable Management Reel Structural Forgings",
@@ -17657,7 +17657,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Ceramic Tile Manufacturing Equipment Forgings \u2014 Hydraulic Press Ram, Mold Frame & Die Set Forgings for One of Gujarat's Largest Industries",
-        "description2": "JK Forge manufactures forged components for ceramic tile manufacturing equipment \u2014 hydraulic press ram forgings, mold frame and die set components, and tile handling and kiln equipment parts \u2014 in high-strength alloy steel matched to the sustained high-pressure compaction demands tile pressing requires. Manufactured in Rajkot, Gujarat, home to one of the world's largest ceramic tile manufacturing clusters. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for ceramic tile manufacturing equipment \u2014 hydraulic press ram forgings, mold frame and die set components, and tile handling and kiln equipment parts \u2014 in high-strength alloy steel matched to the sustained high-pressure compaction demands tile pressing requires. Manufactured in Rajkot, Gujarat, home to one of the world's largest ceramic tile manufacturing clusters. Call +91 7600066117.",
         "components": [
             {
                 "title": "Mold Frame and Die Set Component Forgings",
@@ -17777,7 +17777,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Ceramic Tile Manufacturing Equipment Forgings \u2014 Hydraulic Press Ram, Mold Frame & Die Set Forgings for One of Gujarat's Largest Industries",
-        "description2": "JK Forge manufactures forged components for ceramic tile manufacturing equipment \u2014 hydraulic press ram forgings, mold frame and die set components, and tile handling and kiln equipment parts \u2014 in high-strength alloy steel matched to the sustained high-pressure compaction demands tile pressing requires. Manufactured in Rajkot, Gujarat, home to one of the world's largest ceramic tile manufacturing clusters. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for ceramic tile manufacturing equipment \u2014 hydraulic press ram forgings, mold frame and die set components, and tile handling and kiln equipment parts \u2014 in high-strength alloy steel matched to the sustained high-pressure compaction demands tile pressing requires. Manufactured in Rajkot, Gujarat, home to one of the world's largest ceramic tile manufacturing clusters. Call +91 7600066117.",
         "components": [
             {
                 "title": "Mold Frame and Die Set Component Forgings",
@@ -17897,7 +17897,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Wind Turbine Precision Forging \u2014 Main Shaft, Bearing Rings, Yaw & Pitch",
-        "description2": "JK Forge manufactures precision hot forgings for the global wind energy industry \u2014 main shaft forgings in 42CrMo4 Q+T (5\u201315 tonne, 3 MW to 15 MW turbines), pitch bearing inner ring forgings, yaw bearing ring forgings, generator shaft forgings in 34CrNiMo6, and tower flange forgings in S355NL \u2014 serving Vestas (world's #1 wind OEM), Siemens Gamesa Renewable Energy (SGRE), GE Vernova (Haliade-X), Nordex, and India's Suzlon and Inox Wind. DNV GL 2016 (DNVGL-ST-0376) and IEC 61400-1 documentation. EN 10204 3.1 material traceability. ISO 9001:2015 certified, Rajkot, Gujarat. Supplying global wind farms in Germany, Netherlands, UK, USA, India, China, Vietnam, and Taiwan. Call +91-9265772827.",
+        "description2": "JK Forge manufactures precision hot forgings for the global wind energy industry \u2014 main shaft forgings in 42CrMo4 Q+T (5\u201315 tonne, 3 MW to 15 MW turbines), pitch bearing inner ring forgings, yaw bearing ring forgings, generator shaft forgings in 34CrNiMo6, and tower flange forgings in S355NL \u2014 serving Vestas (world's #1 wind OEM), Siemens Gamesa Renewable Energy (SGRE), GE Vernova (Haliade-X), Nordex, and India's Suzlon and Inox Wind. DNV GL 2016 (DNVGL-ST-0376) and IEC 61400-1 documentation. EN 10204 3.1 material traceability. ISO 9001:2015 certified, Rajkot, Gujarat. Supplying global wind farms in Germany, Netherlands, UK, USA, India, China, Vietnam, and Taiwan. Call +91 7600066117.",
         "components": [
             {
                 "title": "Brake Disc & Rotor Hub Component Forgings",
@@ -18033,7 +18033,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Wind Turbine Precision Forging \u2014 Main Shaft, Bearing Rings, Yaw & Pitch",
-        "description2": "JK Forge manufactures precision hot forgings for the global wind energy industry \u2014 main shaft forgings in 42CrMo4 Q+T (5\u201315 tonne, 3 MW to 15 MW turbines), pitch bearing inner ring forgings, yaw bearing ring forgings, generator shaft forgings in 34CrNiMo6, and tower flange forgings in S355NL \u2014 serving Vestas (world's #1 wind OEM), Siemens Gamesa Renewable Energy (SGRE), GE Vernova (Haliade-X), Nordex, and India's Suzlon and Inox Wind. DNV GL 2016 (DNVGL-ST-0376) and IEC 61400-1 documentation. EN 10204 3.1 material traceability. ISO 9001:2015 certified, Rajkot, Gujarat. Supplying global wind farms in Germany, Netherlands, UK, USA, India, China, Vietnam, and Taiwan. Call +91-9265772827.",
+        "description2": "JK Forge manufactures precision hot forgings for the global wind energy industry \u2014 main shaft forgings in 42CrMo4 Q+T (5\u201315 tonne, 3 MW to 15 MW turbines), pitch bearing inner ring forgings, yaw bearing ring forgings, generator shaft forgings in 34CrNiMo6, and tower flange forgings in S355NL \u2014 serving Vestas (world's #1 wind OEM), Siemens Gamesa Renewable Energy (SGRE), GE Vernova (Haliade-X), Nordex, and India's Suzlon and Inox Wind. DNV GL 2016 (DNVGL-ST-0376) and IEC 61400-1 documentation. EN 10204 3.1 material traceability. ISO 9001:2015 certified, Rajkot, Gujarat. Supplying global wind farms in Germany, Netherlands, UK, USA, India, China, Vietnam, and Taiwan. Call +91 7600066117.",
         "components": [
             {
                 "title": "Brake Disc & Rotor Hub Component Forgings",
@@ -18457,7 +18457,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Brewery & Distillery Equipment Forgings \u2014 Fermentation Vessel Fittings, Mash Tun Valves, Still Column Flanges",
-        "description2": "JK Forge manufactures food-grade forged components for brewery and distillery equipment \u2014 fermentation vessel nozzle and manway fittings, mash tun and lauter tun valve forgings, and distillation column flange forgings \u2014 in 304/316L stainless steel engineered for the hygienic design, CIP (clean-in-place) compatibility, and product-contact material requirements beverage alcohol production demands. ISO 9001:2015 certified, food-grade material traceability. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures food-grade forged components for brewery and distillery equipment \u2014 fermentation vessel nozzle and manway fittings, mash tun and lauter tun valve forgings, and distillation column flange forgings \u2014 in 304/316L stainless steel engineered for the hygienic design, CIP (clean-in-place) compatibility, and product-contact material requirements beverage alcohol production demands. ISO 9001:2015 certified, food-grade material traceability. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Mash Tun and Lauter Tun Valve Forgings",
@@ -18577,7 +18577,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Brewery & Distillery Equipment Forgings \u2014 Fermentation Vessel Fittings, Mash Tun Valves, Still Column Flanges",
-        "description2": "JK Forge manufactures food-grade forged components for brewery and distillery equipment \u2014 fermentation vessel nozzle and manway fittings, mash tun and lauter tun valve forgings, and distillation column flange forgings \u2014 in 304/316L stainless steel engineered for the hygienic design, CIP (clean-in-place) compatibility, and product-contact material requirements beverage alcohol production demands. ISO 9001:2015 certified, food-grade material traceability. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures food-grade forged components for brewery and distillery equipment \u2014 fermentation vessel nozzle and manway fittings, mash tun and lauter tun valve forgings, and distillation column flange forgings \u2014 in 304/316L stainless steel engineered for the hygienic design, CIP (clean-in-place) compatibility, and product-contact material requirements beverage alcohol production demands. ISO 9001:2015 certified, food-grade material traceability. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Mash Tun and Lauter Tun Valve Forgings",
@@ -18697,7 +18697,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Wave and Tidal Energy Forgings \u2014 Converter Mooring, Hinge, Turbine Blade Root & Hub Component Forgings for Marine Renewables",
-        "description2": "JK Forge manufactures forged components for wave and tidal energy converter equipment \u2014 mooring and articulation hinge components for wave energy converters, and turbine blade root and hub component forgings for tidal stream turbines, engineered for a marine renewable energy environment combining continuous cyclic loading with sustained seawater immersion. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for wave and tidal energy converter equipment \u2014 mooring and articulation hinge components for wave energy converters, and turbine blade root and hub component forgings for tidal stream turbines, engineered for a marine renewable energy environment combining continuous cyclic loading with sustained seawater immersion. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Tidal Stream Turbine Blade Root and Hub Forgings",
@@ -18813,7 +18813,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Wave and Tidal Energy Forgings \u2014 Converter Mooring, Hinge, Turbine Blade Root & Hub Component Forgings for Marine Renewables",
-        "description2": "JK Forge manufactures forged components for wave and tidal energy converter equipment \u2014 mooring and articulation hinge components for wave energy converters, and turbine blade root and hub component forgings for tidal stream turbines, engineered for a marine renewable energy environment combining continuous cyclic loading with sustained seawater immersion. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for wave and tidal energy converter equipment \u2014 mooring and articulation hinge components for wave energy converters, and turbine blade root and hub component forgings for tidal stream turbines, engineered for a marine renewable energy environment combining continuous cyclic loading with sustained seawater immersion. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Tidal Stream Turbine Blade Root and Hub Forgings",
@@ -18929,7 +18929,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Grain Storage & Handling Forgings \u2014 Bucket Elevator, Auger Shaft, Silo Discharge Gate Components",
-        "description2": "JK Forge manufactures wear-resistant forgings for grain silo and bulk storage handling equipment \u2014 bucket elevator shaft and drive forgings, auger and screw conveyor shaft forgings, and silo discharge gate valve components \u2014 in alloy steel engineered for continuous-duty grain handling and India's expanding food grain storage infrastructure. EN 10204 3.1 documentation. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures wear-resistant forgings for grain silo and bulk storage handling equipment \u2014 bucket elevator shaft and drive forgings, auger and screw conveyor shaft forgings, and silo discharge gate valve components \u2014 in alloy steel engineered for continuous-duty grain handling and India's expanding food grain storage infrastructure. EN 10204 3.1 documentation. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Auger and Screw Conveyor Shaft Forgings",
@@ -19053,7 +19053,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Grain Storage & Handling Forgings \u2014 Bucket Elevator, Auger Shaft, Silo Discharge Gate Components",
-        "description2": "JK Forge manufactures wear-resistant forgings for grain silo and bulk storage handling equipment \u2014 bucket elevator shaft and drive forgings, auger and screw conveyor shaft forgings, and silo discharge gate valve components \u2014 in alloy steel engineered for continuous-duty grain handling and India's expanding food grain storage infrastructure. EN 10204 3.1 documentation. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures wear-resistant forgings for grain silo and bulk storage handling equipment \u2014 bucket elevator shaft and drive forgings, auger and screw conveyor shaft forgings, and silo discharge gate valve components \u2014 in alloy steel engineered for continuous-duty grain handling and India's expanding food grain storage infrastructure. EN 10204 3.1 documentation. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Auger and Screw Conveyor Shaft Forgings",
@@ -19177,7 +19177,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Grid-Scale BESS Forgings \u2014 Enclosure Structural Components, Thermal Management & Busbar Connector Forgings for Deployed Storage Systems",
-        "description2": "JK Forge manufactures forged components for grid-scale battery energy storage system (BESS) installations \u2014 the deployed storage assets themselves, not the equipment that manufactures battery cells \u2014 including enclosure structural forgings, thermal management system components, and electrical busbar and connector forgings engineered for sustained outdoor grid-connected service. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for grid-scale battery energy storage system (BESS) installations \u2014 the deployed storage assets themselves, not the equipment that manufactures battery cells \u2014 including enclosure structural forgings, thermal management system components, and electrical busbar and connector forgings engineered for sustained outdoor grid-connected service. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Thermal Management System Component Forgings",
@@ -19297,7 +19297,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Grid-Scale BESS Forgings \u2014 Enclosure Structural Components, Thermal Management & Busbar Connector Forgings for Deployed Storage Systems",
-        "description2": "JK Forge manufactures forged components for grid-scale battery energy storage system (BESS) installations \u2014 the deployed storage assets themselves, not the equipment that manufactures battery cells \u2014 including enclosure structural forgings, thermal management system components, and electrical busbar and connector forgings engineered for sustained outdoor grid-connected service. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for grid-scale battery energy storage system (BESS) installations \u2014 the deployed storage assets themselves, not the equipment that manufactures battery cells \u2014 including enclosure structural forgings, thermal management system components, and electrical busbar and connector forgings engineered for sustained outdoor grid-connected service. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Thermal Management System Component Forgings",
@@ -19417,7 +19417,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Electronic Waste (E-Waste) Recycling Forgings \u2014 Precision Shredder Rotor, Granulator & Separation Component Forgings",
-        "description2": "JK Forge manufactures forged components for electronic waste (e-waste) recycling equipment \u2014 precision shredder and granulator rotor forgings, circuit board and component liberation equipment shaft forgings, and material separation drum and shaft components \u2014 engineered for the mixed-material composition and precision size-reduction demands e-waste processing places on equipment, distinct from bulk scrap metal shredding. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for electronic waste (e-waste) recycling equipment \u2014 precision shredder and granulator rotor forgings, circuit board and component liberation equipment shaft forgings, and material separation drum and shaft components \u2014 engineered for the mixed-material composition and precision size-reduction demands e-waste processing places on equipment, distinct from bulk scrap metal shredding. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Material Separation Drum and Shaft Forgings",
@@ -19533,7 +19533,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Electronic Waste (E-Waste) Recycling Forgings \u2014 Precision Shredder Rotor, Granulator & Separation Component Forgings",
-        "description2": "JK Forge manufactures forged components for electronic waste (e-waste) recycling equipment \u2014 precision shredder and granulator rotor forgings, circuit board and component liberation equipment shaft forgings, and material separation drum and shaft components \u2014 engineered for the mixed-material composition and precision size-reduction demands e-waste processing places on equipment, distinct from bulk scrap metal shredding. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for electronic waste (e-waste) recycling equipment \u2014 precision shredder and granulator rotor forgings, circuit board and component liberation equipment shaft forgings, and material separation drum and shaft components \u2014 engineered for the mixed-material composition and precision size-reduction demands e-waste processing places on equipment, distinct from bulk scrap metal shredding. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Material Separation Drum and Shaft Forgings",
@@ -19649,7 +19649,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Electrolyzer Forgings \u2014 Pressure Vessel Components, Valve Bodies & Bipolar Plate Frame Forgings for PEM & Alkaline Stacks",
-        "description2": "JK Forge manufactures forged components specifically for green hydrogen electrolyzer equipment \u2014 pressure vessel components, valve bodies, and bipolar plate frame components for PEM and alkaline electrolysis stacks and their balance-of-plant systems, using renewable electricity to split water into hydrogen and oxygen. Material selection addressing cyclic start-stop operation and hydrogen purity requirements specific to electrolyzer stack and balance-of-plant equipment. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components specifically for green hydrogen electrolyzer equipment \u2014 pressure vessel components, valve bodies, and bipolar plate frame components for PEM and alkaline electrolysis stacks and their balance-of-plant systems, using renewable electricity to split water into hydrogen and oxygen. Material selection addressing cyclic start-stop operation and hydrogen purity requirements specific to electrolyzer stack and balance-of-plant equipment. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Bipolar Plate Frame Component Forgings",
@@ -19773,7 +19773,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Electrolyzer Forgings \u2014 Pressure Vessel Components, Valve Bodies & Bipolar Plate Frame Forgings for PEM & Alkaline Stacks",
-        "description2": "JK Forge manufactures forged components specifically for green hydrogen electrolyzer equipment \u2014 pressure vessel components, valve bodies, and bipolar plate frame components for PEM and alkaline electrolysis stacks and their balance-of-plant systems, using renewable electricity to split water into hydrogen and oxygen. Material selection addressing cyclic start-stop operation and hydrogen purity requirements specific to electrolyzer stack and balance-of-plant equipment. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components specifically for green hydrogen electrolyzer equipment \u2014 pressure vessel components, valve bodies, and bipolar plate frame components for PEM and alkaline electrolysis stacks and their balance-of-plant systems, using renewable electricity to split water into hydrogen and oxygen. Material selection addressing cyclic start-stop operation and hydrogen purity requirements specific to electrolyzer stack and balance-of-plant equipment. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Bipolar Plate Frame Component Forgings",
@@ -19897,7 +19897,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Space Launch Vehicle Forgings \u2014 Rocket Engine Turbopump, Propellant Tank Ring, Satellite Structural Components",
-        "description2": "JK Forge manufactures precision forgings for space launch vehicle and satellite structural applications \u2014 rocket engine turbopump housing and shaft forgings, propellant tank forged ring and dome segment components, and satellite structural bracket forgings \u2014 in titanium 6Al-4V, aluminium-lithium, and high-strength steel grades. AS9100 Rev D certified, full material traceability, ISRO/private space sector supply experience. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures precision forgings for space launch vehicle and satellite structural applications \u2014 rocket engine turbopump housing and shaft forgings, propellant tank forged ring and dome segment components, and satellite structural bracket forgings \u2014 in titanium 6Al-4V, aluminium-lithium, and high-strength steel grades. AS9100 Rev D certified, full material traceability, ISRO/private space sector supply experience. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Satellite Structural Bracket Forgings",
@@ -20013,7 +20013,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Space Launch Vehicle Forgings \u2014 Rocket Engine Turbopump, Propellant Tank Ring, Satellite Structural Components",
-        "description2": "JK Forge manufactures precision forgings for space launch vehicle and satellite structural applications \u2014 rocket engine turbopump housing and shaft forgings, propellant tank forged ring and dome segment components, and satellite structural bracket forgings \u2014 in titanium 6Al-4V, aluminium-lithium, and high-strength steel grades. AS9100 Rev D certified, full material traceability, ISRO/private space sector supply experience. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures precision forgings for space launch vehicle and satellite structural applications \u2014 rocket engine turbopump housing and shaft forgings, propellant tank forged ring and dome segment components, and satellite structural bracket forgings \u2014 in titanium 6Al-4V, aluminium-lithium, and high-strength steel grades. AS9100 Rev D certified, full material traceability, ISRO/private space sector supply experience. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Satellite Structural Bracket Forgings",
@@ -20129,7 +20129,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Coal Handling Plant Forgings \u2014 Conveyor Pulley Shaft, Crusher Rotor & Stacker-Reclaimer Component Forgings",
-        "description2": "JK Forge manufactures forged components for coal handling plant (CHP) equipment at power stations \u2014 conveyor pulley and idler shaft forgings, crusher rotor and hammer components, and stacker-reclaimer and wagon tippler structural forgings \u2014 engineered for continuous, high-tonnage bulk material handling duty. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for coal handling plant (CHP) equipment at power stations \u2014 conveyor pulley and idler shaft forgings, crusher rotor and hammer components, and stacker-reclaimer and wagon tippler structural forgings \u2014 engineered for continuous, high-tonnage bulk material handling duty. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Crusher Rotor and Hammer Forgings",
@@ -20249,7 +20249,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Coal Handling Plant Forgings \u2014 Conveyor Pulley Shaft, Crusher Rotor & Stacker-Reclaimer Component Forgings",
-        "description2": "JK Forge manufactures forged components for coal handling plant (CHP) equipment at power stations \u2014 conveyor pulley and idler shaft forgings, crusher rotor and hammer components, and stacker-reclaimer and wagon tippler structural forgings \u2014 engineered for continuous, high-tonnage bulk material handling duty. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for coal handling plant (CHP) equipment at power stations \u2014 conveyor pulley and idler shaft forgings, crusher rotor and hammer components, and stacker-reclaimer and wagon tippler structural forgings \u2014 engineered for continuous, high-tonnage bulk material handling duty. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Crusher Rotor and Hammer Forgings",
@@ -20369,7 +20369,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Green Hydrogen Forgings \u2014 Electrolyzer Stack Components, H2 Pipeline & Storage Vessel Flanges",
-        "description2": "JK Forge manufactures precision forgings for the green and blue hydrogen value chain \u2014 electrolyzer end plate and bipolar plate frame forgings (316L, titanium-clad options), high-pressure hydrogen pipeline and storage vessel flanges (duplex 2205, 316L, hydrogen-embrittlement-resistant grades), and compressor and valve body forgings for hydrogen refuelling infrastructure. ISO 9001:2015 certified, EN 10204 3.1/3.2 documentation, ASME Section VIII hydrogen service material compliance. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures precision forgings for the green and blue hydrogen value chain \u2014 electrolyzer end plate and bipolar plate frame forgings (316L, titanium-clad options), high-pressure hydrogen pipeline and storage vessel flanges (duplex 2205, 316L, hydrogen-embrittlement-resistant grades), and compressor and valve body forgings for hydrogen refuelling infrastructure. ISO 9001:2015 certified, EN 10204 3.1/3.2 documentation, ASME Section VIII hydrogen service material compliance. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "High-Pressure Hydrogen Pipeline Flanges",
@@ -20489,7 +20489,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Green Hydrogen Forgings \u2014 Electrolyzer Stack Components, H2 Pipeline & Storage Vessel Flanges",
-        "description2": "JK Forge manufactures precision forgings for the green and blue hydrogen value chain \u2014 electrolyzer end plate and bipolar plate frame forgings (316L, titanium-clad options), high-pressure hydrogen pipeline and storage vessel flanges (duplex 2205, 316L, hydrogen-embrittlement-resistant grades), and compressor and valve body forgings for hydrogen refuelling infrastructure. ISO 9001:2015 certified, EN 10204 3.1/3.2 documentation, ASME Section VIII hydrogen service material compliance. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures precision forgings for the green and blue hydrogen value chain \u2014 electrolyzer end plate and bipolar plate frame forgings (316L, titanium-clad options), high-pressure hydrogen pipeline and storage vessel flanges (duplex 2205, 316L, hydrogen-embrittlement-resistant grades), and compressor and valve body forgings for hydrogen refuelling infrastructure. ISO 9001:2015 certified, EN 10204 3.1/3.2 documentation, ASME Section VIII hydrogen service material compliance. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "High-Pressure Hydrogen Pipeline Flanges",
@@ -20897,7 +20897,7 @@ window.pageContent['industriesOtherData'] = {
         "faqs": [
             {
                 "question": "Who manufactures oil and gas forged components in Rajkot?",
-                "answer": "JK Forge at Shapar, Rajkot, Gujarat manufactures precision forged oil & gas components including valve bodies, flanges, couplings, high-pressure fittings, and pipeline components. Contact +91-9265772827 or sales@JK Forge.com."
+                "answer": "JK Forge at Shapar, Rajkot, Gujarat manufactures precision forged oil & gas components including valve bodies, flanges, couplings, high-pressure fittings, and pipeline components. Contact +91 7600066117 or sales@JK Forge.com."
             },
             {
                 "question": "What oil and gas forged products does JK Forge make?",
@@ -21009,7 +21009,7 @@ window.pageContent['industriesOtherData'] = {
         "faqs": [
             {
                 "question": "Who manufactures oil and gas forged components in Rajkot?",
-                "answer": "JK Forge at Shapar, Rajkot, Gujarat manufactures precision forged oil & gas components including valve bodies, flanges, couplings, high-pressure fittings, and pipeline components. Contact +91-9265772827 or sales@JK Forge.com."
+                "answer": "JK Forge at Shapar, Rajkot, Gujarat manufactures precision forged oil & gas components including valve bodies, flanges, couplings, high-pressure fittings, and pipeline components. Contact +91 7600066117 or sales@JK Forge.com."
             },
             {
                 "question": "What oil and gas forged products does JK Forge make?",
@@ -21039,7 +21039,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Ship Recycling Yard Forgings \u2014 Winch, Anchor Point, Cutting Support & Heavy Lifting Component Forgings for Vessel Breaking Operations",
-        "description2": "JK Forge manufactures forged components for ship recycling yard equipment \u2014 beaching winch and cable anchor forgings, heavy lifting and rigging hardware, and structural cutting support components for the vessel-breaking industry that dismantles end-of-life ships. Distinct from offshore platform decommissioning. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for ship recycling yard equipment \u2014 beaching winch and cable anchor forgings, heavy lifting and rigging hardware, and structural cutting support components for the vessel-breaking industry that dismantles end-of-life ships. Distinct from offshore platform decommissioning. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Heavy Lifting and Rigging Hardware Forgings",
@@ -21155,7 +21155,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Ship Recycling Yard Forgings \u2014 Winch, Anchor Point, Cutting Support & Heavy Lifting Component Forgings for Vessel Breaking Operations",
-        "description2": "JK Forge manufactures forged components for ship recycling yard equipment \u2014 beaching winch and cable anchor forgings, heavy lifting and rigging hardware, and structural cutting support components for the vessel-breaking industry that dismantles end-of-life ships. Distinct from offshore platform decommissioning. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for ship recycling yard equipment \u2014 beaching winch and cable anchor forgings, heavy lifting and rigging hardware, and structural cutting support components for the vessel-breaking industry that dismantles end-of-life ships. Distinct from offshore platform decommissioning. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Heavy Lifting and Rigging Hardware Forgings",
@@ -21271,7 +21271,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Fire Fighting Equipment Forgings \u2014 Fire Truck Pump Components, Hydrant Valve Bodies, Ladder Mechanisms",
-        "description2": "JK Forge manufactures forged components for fire fighting equipment \u2014 fire truck pump casing and shaft forgings, fire hydrant valve body forgings, and aerial ladder/turntable mechanism structural components \u2014 in alloy steel and bronze engineered for the reliability-critical, infrequently-tested-but-must-never-fail nature of firefighting equipment. EN 10204 3.1 documentation, NFPA-referenced material compliance support. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for fire fighting equipment \u2014 fire truck pump casing and shaft forgings, fire hydrant valve body forgings, and aerial ladder/turntable mechanism structural components \u2014 in alloy steel and bronze engineered for the reliability-critical, infrequently-tested-but-must-never-fail nature of firefighting equipment. EN 10204 3.1 documentation, NFPA-referenced material compliance support. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Fire Hydrant Valve Body Forgings",
@@ -21395,7 +21395,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Fire Fighting Equipment Forgings \u2014 Fire Truck Pump Components, Hydrant Valve Bodies, Ladder Mechanisms",
-        "description2": "JK Forge manufactures forged components for fire fighting equipment \u2014 fire truck pump casing and shaft forgings, fire hydrant valve body forgings, and aerial ladder/turntable mechanism structural components \u2014 in alloy steel and bronze engineered for the reliability-critical, infrequently-tested-but-must-never-fail nature of firefighting equipment. EN 10204 3.1 documentation, NFPA-referenced material compliance support. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for fire fighting equipment \u2014 fire truck pump casing and shaft forgings, fire hydrant valve body forgings, and aerial ladder/turntable mechanism structural components \u2014 in alloy steel and bronze engineered for the reliability-critical, infrequently-tested-but-must-never-fail nature of firefighting equipment. EN 10204 3.1 documentation, NFPA-referenced material compliance support. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Fire Hydrant Valve Body Forgings",
@@ -21519,7 +21519,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Container Crane Spreader Forgings \u2014 Twist-Lock, Corner Casting Engagement & Telescoping Frame Component Forgings",
-        "description2": "JK Forge manufactures forged components specifically for container crane spreaders \u2014 the corner-casting-engaging lifting attachment mounted beneath a port crane's hoist \u2014 including twist-lock forgings, telescoping frame connection forgings, and flipper/guide component forgings, distinct from our general port crane structural forging range. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components specifically for container crane spreaders \u2014 the corner-casting-engaging lifting attachment mounted beneath a port crane's hoist \u2014 including twist-lock forgings, telescoping frame connection forgings, and flipper/guide component forgings, distinct from our general port crane structural forging range. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Telescoping Frame Connection Forgings",
@@ -21639,7 +21639,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Container Crane Spreader Forgings \u2014 Twist-Lock, Corner Casting Engagement & Telescoping Frame Component Forgings",
-        "description2": "JK Forge manufactures forged components specifically for container crane spreaders \u2014 the corner-casting-engaging lifting attachment mounted beneath a port crane's hoist \u2014 including twist-lock forgings, telescoping frame connection forgings, and flipper/guide component forgings, distinct from our general port crane structural forging range. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components specifically for container crane spreaders \u2014 the corner-casting-engaging lifting attachment mounted beneath a port crane's hoist \u2014 including twist-lock forgings, telescoping frame connection forgings, and flipper/guide component forgings, distinct from our general port crane structural forging range. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Telescoping Frame Connection Forgings",
@@ -21759,7 +21759,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Ultra-High-Purity Gas Delivery Forgings \u2014 Regulator Body, Diaphragm Valve & Gas Cabinet Fitting Forgings for Semiconductor Process Gas Systems",
-        "description2": "JK Forge manufactures forged blanks for ultra-high-purity (UHP) gas delivery system components \u2014 regulator body forgings, diaphragm valve body forgings, and gas cabinet fitting blanks in ultra-high-purity 316L stainless steel \u2014 supplied for the specific gas panel, gas box, and point-of-use delivery subsystem within semiconductor fab process gas infrastructure, distinct from general fab equipment. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged blanks for ultra-high-purity (UHP) gas delivery system components \u2014 regulator body forgings, diaphragm valve body forgings, and gas cabinet fitting blanks in ultra-high-purity 316L stainless steel \u2014 supplied for the specific gas panel, gas box, and point-of-use delivery subsystem within semiconductor fab process gas infrastructure, distinct from general fab equipment. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Diaphragm Valve Body Forgings",
@@ -21883,7 +21883,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Ultra-High-Purity Gas Delivery Forgings \u2014 Regulator Body, Diaphragm Valve & Gas Cabinet Fitting Forgings for Semiconductor Process Gas Systems",
-        "description2": "JK Forge manufactures forged blanks for ultra-high-purity (UHP) gas delivery system components \u2014 regulator body forgings, diaphragm valve body forgings, and gas cabinet fitting blanks in ultra-high-purity 316L stainless steel \u2014 supplied for the specific gas panel, gas box, and point-of-use delivery subsystem within semiconductor fab process gas infrastructure, distinct from general fab equipment. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged blanks for ultra-high-purity (UHP) gas delivery system components \u2014 regulator body forgings, diaphragm valve body forgings, and gas cabinet fitting blanks in ultra-high-purity 316L stainless steel \u2014 supplied for the specific gas panel, gas box, and point-of-use delivery subsystem within semiconductor fab process gas infrastructure, distinct from general fab equipment. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Diaphragm Valve Body Forgings",
@@ -22007,7 +22007,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Geothermal Power Forgings \u2014 Production Wellhead, Steam Turbine, Brine Handling Valve Forgings",
-        "description2": "JK Forge manufactures forged components for geothermal power generation \u2014 production and injection wellhead forgings, geothermal steam turbine casing and shaft components, and brine handling valve and flange forgings \u2014 in materials engineered for geothermal fluid's characteristic combination of high temperature, dissolved minerals, and often corrosive/erosive brine chemistry. EN 10204 3.1/3.2 certification, API 6A wellhead compliance support. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for geothermal power generation \u2014 production and injection wellhead forgings, geothermal steam turbine casing and shaft components, and brine handling valve and flange forgings \u2014 in materials engineered for geothermal fluid's characteristic combination of high temperature, dissolved minerals, and often corrosive/erosive brine chemistry. EN 10204 3.1/3.2 certification, API 6A wellhead compliance support. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Brine Handling Valve and Flange Forgings",
@@ -22131,7 +22131,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Geothermal Power Forgings \u2014 Production Wellhead, Steam Turbine, Brine Handling Valve Forgings",
-        "description2": "JK Forge manufactures forged components for geothermal power generation \u2014 production and injection wellhead forgings, geothermal steam turbine casing and shaft components, and brine handling valve and flange forgings \u2014 in materials engineered for geothermal fluid's characteristic combination of high temperature, dissolved minerals, and often corrosive/erosive brine chemistry. EN 10204 3.1/3.2 certification, API 6A wellhead compliance support. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for geothermal power generation \u2014 production and injection wellhead forgings, geothermal steam turbine casing and shaft components, and brine handling valve and flange forgings \u2014 in materials engineered for geothermal fluid's characteristic combination of high temperature, dissolved minerals, and often corrosive/erosive brine chemistry. EN 10204 3.1/3.2 certification, API 6A wellhead compliance support. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Brine Handling Valve and Flange Forgings",
@@ -22255,7 +22255,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Injection Molding Machine Forgings \u2014 Tie-Bar, Platen & Toggle Clamp Mechanism Component Forgings for Large-Tonnage Clamping Units",
-        "description2": "JK Forge manufactures forged components for plastic injection molding machines \u2014 large tie-bar forgings, platen structural components, and toggle clamp mechanism components \u2014 in high-strength alloy steel engineered for the sustained, cyclic tensile and structural loading a molding machine's clamping unit generates on every single molding cycle. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for plastic injection molding machines \u2014 large tie-bar forgings, platen structural components, and toggle clamp mechanism components \u2014 in high-strength alloy steel engineered for the sustained, cyclic tensile and structural loading a molding machine's clamping unit generates on every single molding cycle. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Platen Structural Component Forgings",
@@ -22371,7 +22371,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Injection Molding Machine Forgings \u2014 Tie-Bar, Platen & Toggle Clamp Mechanism Component Forgings for Large-Tonnage Clamping Units",
-        "description2": "JK Forge manufactures forged components for plastic injection molding machines \u2014 large tie-bar forgings, platen structural components, and toggle clamp mechanism components \u2014 in high-strength alloy steel engineered for the sustained, cyclic tensile and structural loading a molding machine's clamping unit generates on every single molding cycle. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for plastic injection molding machines \u2014 large tie-bar forgings, platen structural components, and toggle clamp mechanism components \u2014 in high-strength alloy steel engineered for the sustained, cyclic tensile and structural loading a molding machine's clamping unit generates on every single molding cycle. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Platen Structural Component Forgings",
@@ -22487,7 +22487,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content SS316L (ASTM A182 F316L) Forged Components for Pharma & Biotech Plants",
-        "description2": "JK Forge manufactures SS316L forged flanges, valve bodies, nozzles, agitator shafts and impeller blanks for pharmaceutical API reactors, fermenters, lyophilisers and CIP/SIP systems at Shapar GIDC, Rajkot. ASME BPE compliant. Carbon \u22640.03%, Mo 2.0\u20133.0% certified. Ra \u22640.4 \u03bcm electropolish available. Third-party: SGS, T\u00dcV, RINA. Call +91 92657 72827.",
+        "description2": "JK Forge manufactures SS316L forged flanges, valve bodies, nozzles, agitator shafts and impeller blanks for pharmaceutical API reactors, fermenters, lyophilisers and CIP/SIP systems at Shapar GIDC, Rajkot. ASME BPE compliant. Carbon \u22640.03%, Mo 2.0\u20133.0% certified. Ra \u22640.4 \u03bcm electropolish available. Third-party: SGS, T\u00dcV, RINA. Call +91 7600066117.",
         "components": [
             {
                 "title": "Valve Bodies \u2014 Globe, Ball, Butterfly & Diaphragm",
@@ -22597,7 +22597,7 @@ window.pageContent['industriesOtherData'] = {
             },
             {
                 "question": "How do I request pharma-grade forged components from JK Forge?",
-                "answer": "Send your component drawing, material specification (ASTM A182 F316L), surface finish requirement, applicable standards (ASME BPE, ASTM A967) and quantity to sales@JK Forge.com or call +91 92657 72827. Include any special testing requirements \u2014 PMI, ASTM A262, third-party inspection agency. We will confirm capability and provide a quotation within 48 hours."
+                "answer": "Send your component drawing, material specification (ASTM A182 F316L), surface finish requirement, applicable standards (ASME BPE, ASTM A967) and quantity to sales@JK Forge.com or call +91 7600066117. Include any special testing requirements \u2014 PMI, ASTM A262, third-party inspection agency. We will confirm capability and provide a quotation within 48 hours."
             }
         ]
     },
@@ -22623,7 +22623,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content SS316L (ASTM A182 F316L) Forged Components for Pharma & Biotech Plants",
-        "description2": "JK Forge manufactures SS316L forged flanges, valve bodies, nozzles, agitator shafts and impeller blanks for pharmaceutical API reactors, fermenters, lyophilisers and CIP/SIP systems at Shapar GIDC, Rajkot. ASME BPE compliant. Carbon \u22640.03%, Mo 2.0\u20133.0% certified. Ra \u22640.4 \u03bcm electropolish available. Third-party: SGS, T\u00dcV, RINA. Call +91 92657 72827.",
+        "description2": "JK Forge manufactures SS316L forged flanges, valve bodies, nozzles, agitator shafts and impeller blanks for pharmaceutical API reactors, fermenters, lyophilisers and CIP/SIP systems at Shapar GIDC, Rajkot. ASME BPE compliant. Carbon \u22640.03%, Mo 2.0\u20133.0% certified. Ra \u22640.4 \u03bcm electropolish available. Third-party: SGS, T\u00dcV, RINA. Call +91 7600066117.",
         "components": [
             {
                 "title": "Valve Bodies \u2014 Globe, Ball, Butterfly & Diaphragm",
@@ -22733,7 +22733,7 @@ window.pageContent['industriesOtherData'] = {
             },
             {
                 "question": "How do I request pharma-grade forged components from JK Forge?",
-                "answer": "Send your component drawing, material specification (ASTM A182 F316L), surface finish requirement, applicable standards (ASME BPE, ASTM A967) and quantity to sales@JK Forge.com or call +91 92657 72827. Include any special testing requirements \u2014 PMI, ASTM A262, third-party inspection agency. We will confirm capability and provide a quotation within 48 hours."
+                "answer": "Send your component drawing, material specification (ASTM A182 F316L), surface finish requirement, applicable standards (ASME BPE, ASTM A967) and quantity to sales@JK Forge.com or call +91 7600066117. Include any special testing requirements \u2014 PMI, ASTM A262, third-party inspection agency. We will confirm capability and provide a quotation within 48 hours."
             }
         ]
     },
@@ -22759,7 +22759,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Rare Earth Element Forgings \u2014 Crusher, Leaching Vessel, Solvent Extraction & Separation Equipment Component Forgings",
-        "description2": "JK Forge manufactures forged components for rare earth element mining, processing, and refining equipment \u2014 crusher and grinding mill component forgings, leaching and solvent extraction vessel flange forgings, and separation equipment components engineered for the corrosive acid processing and high-value materials handling this critical minerals supply chain requires. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for rare earth element mining, processing, and refining equipment \u2014 crusher and grinding mill component forgings, leaching and solvent extraction vessel flange forgings, and separation equipment components engineered for the corrosive acid processing and high-value materials handling this critical minerals supply chain requires. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Full Dimensional and Material Certification",
@@ -22867,7 +22867,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Rare Earth Element Forgings \u2014 Crusher, Leaching Vessel, Solvent Extraction & Separation Equipment Component Forgings",
-        "description2": "JK Forge manufactures forged components for rare earth element mining, processing, and refining equipment \u2014 crusher and grinding mill component forgings, leaching and solvent extraction vessel flange forgings, and separation equipment components engineered for the corrosive acid processing and high-value materials handling this critical minerals supply chain requires. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for rare earth element mining, processing, and refining equipment \u2014 crusher and grinding mill component forgings, leaching and solvent extraction vessel flange forgings, and separation equipment components engineered for the corrosive acid processing and high-value materials handling this critical minerals supply chain requires. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Full Dimensional and Material Certification",
@@ -23263,7 +23263,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Gas Turbine Forgings \u2014 Casing Components, Compressor & Turbine Section Structural Forgings for Combined-Cycle & Simple-Cycle Plants",
-        "description2": "JK Forge manufactures forged components specifically for gas turbine power generation plants \u2014 casing components, compressor and turbine section structural forgings, and balance-of-plant piping components for combined-cycle and simple-cycle gas turbine power generation applications. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components specifically for gas turbine power generation plants \u2014 casing components, compressor and turbine section structural forgings, and balance-of-plant piping components for combined-cycle and simple-cycle gas turbine power generation applications. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Combustor and Turbine Casing Forgings",
@@ -23387,7 +23387,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Gas Turbine Forgings \u2014 Casing Components, Compressor & Turbine Section Structural Forgings for Combined-Cycle & Simple-Cycle Plants",
-        "description2": "JK Forge manufactures forged components specifically for gas turbine power generation plants \u2014 casing components, compressor and turbine section structural forgings, and balance-of-plant piping components for combined-cycle and simple-cycle gas turbine power generation applications. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components specifically for gas turbine power generation plants \u2014 casing components, compressor and turbine section structural forgings, and balance-of-plant piping components for combined-cycle and simple-cycle gas turbine power generation applications. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Combustor and Turbine Casing Forgings",
@@ -23511,7 +23511,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Marine and Shipbuilding Precision Forgings \u2014 Propeller Shaft, Rudder Stock, Crankshaft \u2014 DNV GL Approved",
-        "description2": "JK Forge manufactures DNV GL, Lloyd's Register, and ABS-approved precision hot forgings for global shipbuilding \u2014 propeller shaft forgings in Aquamet 22 (Cu-Ni-Al bronze alloy, equivalent to CuNi10Fe1Mn, seawater corrosion-resistant), intermediate shaft forgings in 42CrMo4 Q+T (Rm \u2265800 MPa, 100% UT per EN 10228-3 for Bureau Veritas, Lloyd's Register, DNV GL), rudder stock forgings in A694 F65 (high-strength 65 ksi/448 MPa yield, offshore-grade HSLA steel), marine crankshaft forging blanks in 42CrMo4 Q+T or 34CrNiMo6 Q+T (for MAN B&W, WinGD, W\u00e4rtsil\u00e4 slow-speed and medium-speed diesel engines), and mooring bollard forgings in SA675 Grade 70 \u2014 serving Hyundai Heavy Industries (world's #1 shipbuilder, Ulsan), Samsung Heavy Industries (world's #2), Hanwha Ocean (ex-DSME), Mitsubishi Shipbuilding Nagasaki, and Fincantieri Italy. DNV GL, Lloyd's Register, Bureau Veritas, ABS Type Approval. Rajkot, India. +91-9265772827.",
+        "description2": "JK Forge manufactures DNV GL, Lloyd's Register, and ABS-approved precision hot forgings for global shipbuilding \u2014 propeller shaft forgings in Aquamet 22 (Cu-Ni-Al bronze alloy, equivalent to CuNi10Fe1Mn, seawater corrosion-resistant), intermediate shaft forgings in 42CrMo4 Q+T (Rm \u2265800 MPa, 100% UT per EN 10228-3 for Bureau Veritas, Lloyd's Register, DNV GL), rudder stock forgings in A694 F65 (high-strength 65 ksi/448 MPa yield, offshore-grade HSLA steel), marine crankshaft forging blanks in 42CrMo4 Q+T or 34CrNiMo6 Q+T (for MAN B&W, WinGD, W\u00e4rtsil\u00e4 slow-speed and medium-speed diesel engines), and mooring bollard forgings in SA675 Grade 70 \u2014 serving Hyundai Heavy Industries (world's #1 shipbuilder, Ulsan), Samsung Heavy Industries (world's #2), Hanwha Ocean (ex-DSME), Mitsubishi Shipbuilding Nagasaki, and Fincantieri Italy. DNV GL, Lloyd's Register, Bureau Veritas, ABS Type Approval. Rajkot, India. +91 7600066117.",
         "components": [
             {
                 "title": "Factory Address",
@@ -23619,7 +23619,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Marine and Shipbuilding Precision Forgings \u2014 Propeller Shaft, Rudder Stock, Crankshaft \u2014 DNV GL Approved",
-        "description2": "JK Forge manufactures DNV GL, Lloyd's Register, and ABS-approved precision hot forgings for global shipbuilding \u2014 propeller shaft forgings in Aquamet 22 (Cu-Ni-Al bronze alloy, equivalent to CuNi10Fe1Mn, seawater corrosion-resistant), intermediate shaft forgings in 42CrMo4 Q+T (Rm \u2265800 MPa, 100% UT per EN 10228-3 for Bureau Veritas, Lloyd's Register, DNV GL), rudder stock forgings in A694 F65 (high-strength 65 ksi/448 MPa yield, offshore-grade HSLA steel), marine crankshaft forging blanks in 42CrMo4 Q+T or 34CrNiMo6 Q+T (for MAN B&W, WinGD, W\u00e4rtsil\u00e4 slow-speed and medium-speed diesel engines), and mooring bollard forgings in SA675 Grade 70 \u2014 serving Hyundai Heavy Industries (world's #1 shipbuilder, Ulsan), Samsung Heavy Industries (world's #2), Hanwha Ocean (ex-DSME), Mitsubishi Shipbuilding Nagasaki, and Fincantieri Italy. DNV GL, Lloyd's Register, Bureau Veritas, ABS Type Approval. Rajkot, India. +91-9265772827.",
+        "description2": "JK Forge manufactures DNV GL, Lloyd's Register, and ABS-approved precision hot forgings for global shipbuilding \u2014 propeller shaft forgings in Aquamet 22 (Cu-Ni-Al bronze alloy, equivalent to CuNi10Fe1Mn, seawater corrosion-resistant), intermediate shaft forgings in 42CrMo4 Q+T (Rm \u2265800 MPa, 100% UT per EN 10228-3 for Bureau Veritas, Lloyd's Register, DNV GL), rudder stock forgings in A694 F65 (high-strength 65 ksi/448 MPa yield, offshore-grade HSLA steel), marine crankshaft forging blanks in 42CrMo4 Q+T or 34CrNiMo6 Q+T (for MAN B&W, WinGD, W\u00e4rtsil\u00e4 slow-speed and medium-speed diesel engines), and mooring bollard forgings in SA675 Grade 70 \u2014 serving Hyundai Heavy Industries (world's #1 shipbuilder, Ulsan), Samsung Heavy Industries (world's #2), Hanwha Ocean (ex-DSME), Mitsubishi Shipbuilding Nagasaki, and Fincantieri Italy. DNV GL, Lloyd's Register, Bureau Veritas, ABS Type Approval. Rajkot, India. +91 7600066117.",
         "components": [
             {
                 "title": "Factory Address",
@@ -23727,7 +23727,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Cheese & Dairy Processing Forgings \u2014 Curd Agitator, Cheese Vat, Churn & Pasteurizer Shaft Forgings in Hygienic Stainless Steel",
-        "description2": "JK Forge manufactures forged components specifically for cheese and dairy processing equipment \u2014 curd-cutting and agitator shafts, cheese vat and churn components, and pasteurizer and separator shafts \u2014 in SS 316L and food-grade stainless steel, engineered for the specific hygienic and mechanical demands of dairy processing rather than food processing generically. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components specifically for cheese and dairy processing equipment \u2014 curd-cutting and agitator shafts, cheese vat and churn components, and pasteurizer and separator shafts \u2014 in SS 316L and food-grade stainless steel, engineered for the specific hygienic and mechanical demands of dairy processing rather than food processing generically. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Cheese Vat and Kettle Mixing Shaft Forgings",
@@ -23847,7 +23847,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Cheese & Dairy Processing Forgings \u2014 Curd Agitator, Cheese Vat, Churn & Pasteurizer Shaft Forgings in Hygienic Stainless Steel",
-        "description2": "JK Forge manufactures forged components specifically for cheese and dairy processing equipment \u2014 curd-cutting and agitator shafts, cheese vat and churn components, and pasteurizer and separator shafts \u2014 in SS 316L and food-grade stainless steel, engineered for the specific hygienic and mechanical demands of dairy processing rather than food processing generically. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components specifically for cheese and dairy processing equipment \u2014 curd-cutting and agitator shafts, cheese vat and churn components, and pasteurizer and separator shafts \u2014 in SS 316L and food-grade stainless steel, engineered for the specific hygienic and mechanical demands of dairy processing rather than food processing generically. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Cheese Vat and Kettle Mixing Shaft Forgings",
@@ -24543,7 +24543,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Spent Fuel Dry Storage Cask Forgings \u2014 Lid, Closure & Structural Component Forgings for a Downstream Nuclear Application",
-        "description2": "JK Forge manufactures forged components for spent nuclear fuel dry storage cask systems \u2014 lid and closure component forgings, structural basket and overpack connection forgings, in materials engineered for the long-duration containment and shielding integrity dry storage casks require, a genuinely distinct downstream application from reactor primary system equipment. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for spent nuclear fuel dry storage cask systems \u2014 lid and closure component forgings, structural basket and overpack connection forgings, in materials engineered for the long-duration containment and shielding integrity dry storage casks require, a genuinely distinct downstream application from reactor primary system equipment. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Overpack and Structural Shell Connection Forgings",
@@ -24659,7 +24659,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Spent Fuel Dry Storage Cask Forgings \u2014 Lid, Closure & Structural Component Forgings for a Downstream Nuclear Application",
-        "description2": "JK Forge manufactures forged components for spent nuclear fuel dry storage cask systems \u2014 lid and closure component forgings, structural basket and overpack connection forgings, in materials engineered for the long-duration containment and shielding integrity dry storage casks require, a genuinely distinct downstream application from reactor primary system equipment. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for spent nuclear fuel dry storage cask systems \u2014 lid and closure component forgings, structural basket and overpack connection forgings, in materials engineered for the long-duration containment and shielding integrity dry storage casks require, a genuinely distinct downstream application from reactor primary system equipment. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Overpack and Structural Shell Connection Forgings",
@@ -24775,7 +24775,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Offshore Aquaculture Forgings \u2014 Mooring Shackles, Cage Frame Connectors & Feed System Components for Fish Farming",
-        "description2": "JK Forge manufactures forged components for offshore fish farming and aquaculture equipment \u2014 mooring shackles, cage frame connectors, and feed system components \u2014 engineered for sustained marine corrosion exposure and the mooring-system-grade structural reliability offshore aquaculture installations require, given the high value of the contained livestock and the limited, weather-dependent maintenance access these remote installations face. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for offshore fish farming and aquaculture equipment \u2014 mooring shackles, cage frame connectors, and feed system components \u2014 engineered for sustained marine corrosion exposure and the mooring-system-grade structural reliability offshore aquaculture installations require, given the high value of the contained livestock and the limited, weather-dependent maintenance access these remote installations face. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Cage Frame Connector and Joint Forgings",
@@ -24899,7 +24899,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Offshore Aquaculture Forgings \u2014 Mooring Shackles, Cage Frame Connectors & Feed System Components for Fish Farming",
-        "description2": "JK Forge manufactures forged components for offshore fish farming and aquaculture equipment \u2014 mooring shackles, cage frame connectors, and feed system components \u2014 engineered for sustained marine corrosion exposure and the mooring-system-grade structural reliability offshore aquaculture installations require, given the high value of the contained livestock and the limited, weather-dependent maintenance access these remote installations face. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for offshore fish farming and aquaculture equipment \u2014 mooring shackles, cage frame connectors, and feed system components \u2014 engineered for sustained marine corrosion exposure and the mooring-system-grade structural reliability offshore aquaculture installations require, given the high value of the contained livestock and the limited, weather-dependent maintenance access these remote installations face. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Cage Frame Connector and Joint Forgings",
@@ -25023,7 +25023,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content CSP Forgings \u2014 Molten Salt Valve & Piping, Heliostat Pivot & Receiver Component Forgings for Thermal Solar Power Plants",
-        "description2": "JK Forge manufactures forged components for concentrated solar power (CSP) plants \u2014 molten salt valve and piping component forgings, heliostat and collector pivot bearing forgings, and receiver support structure components for the thermal, mirror-concentration solar technology genuinely distinct from photovoltaic solar equipment. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for concentrated solar power (CSP) plants \u2014 molten salt valve and piping component forgings, heliostat and collector pivot bearing forgings, and receiver support structure components for the thermal, mirror-concentration solar technology genuinely distinct from photovoltaic solar equipment. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Heliostat and Collector Pivot Bearing Forgings",
@@ -25139,7 +25139,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content CSP Forgings \u2014 Molten Salt Valve & Piping, Heliostat Pivot & Receiver Component Forgings for Thermal Solar Power Plants",
-        "description2": "JK Forge manufactures forged components for concentrated solar power (CSP) plants \u2014 molten salt valve and piping component forgings, heliostat and collector pivot bearing forgings, and receiver support structure components for the thermal, mirror-concentration solar technology genuinely distinct from photovoltaic solar equipment. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for concentrated solar power (CSP) plants \u2014 molten salt valve and piping component forgings, heliostat and collector pivot bearing forgings, and receiver support structure components for the thermal, mirror-concentration solar technology genuinely distinct from photovoltaic solar equipment. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Heliostat and Collector Pivot Bearing Forgings",
@@ -25255,7 +25255,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Cement Grinding Mill Forgings \u2014 Ball Mill Trunnion, Girth Gear & Vertical Roller Mill Component Forgings",
-        "description2": "JK Forge manufactures forged components for cement plant grinding equipment \u2014 ball mill trunnion and shell support forgings, vertical roller mill (VRM) roller and table segment forgings, and mill drive train shaft components \u2014 in wear- and fatigue-resistant alloy steel engineered for continuous grinding duty against highly abrasive clinker and raw meal. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for cement plant grinding equipment \u2014 ball mill trunnion and shell support forgings, vertical roller mill (VRM) roller and table segment forgings, and mill drive train shaft components \u2014 in wear- and fatigue-resistant alloy steel engineered for continuous grinding duty against highly abrasive clinker and raw meal. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Full Dimensional and Material Certification",
@@ -25363,7 +25363,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Cement Grinding Mill Forgings \u2014 Ball Mill Trunnion, Girth Gear & Vertical Roller Mill Component Forgings",
-        "description2": "JK Forge manufactures forged components for cement plant grinding equipment \u2014 ball mill trunnion and shell support forgings, vertical roller mill (VRM) roller and table segment forgings, and mill drive train shaft components \u2014 in wear- and fatigue-resistant alloy steel engineered for continuous grinding duty against highly abrasive clinker and raw meal. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for cement plant grinding equipment \u2014 ball mill trunnion and shell support forgings, vertical roller mill (VRM) roller and table segment forgings, and mill drive train shaft components \u2014 in wear- and fatigue-resistant alloy steel engineered for continuous grinding duty against highly abrasive clinker and raw meal. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Full Dimensional and Material Certification",
@@ -25471,7 +25471,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Glass Industry Forgings \u2014 Furnace Structural Components, IS Machine Blank/Blow Mould Arms, Forming Rolls",
-        "description2": "JK Forge manufactures heat-resistant and structural forgings for float glass, container glass, and fibreglass manufacturing equipment \u2014 furnace structural bracket and tie rod forgings, IS (individual section) machine mould-holder arm forgings, and glass forming roll shaft forgings \u2014 in heat-resistant alloy steel and high-temperature nickel alloys for furnace-adjacent applications. ISO 9001:2015 certified, EN 10204 3.1 documentation. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures heat-resistant and structural forgings for float glass, container glass, and fibreglass manufacturing equipment \u2014 furnace structural bracket and tie rod forgings, IS (individual section) machine mould-holder arm forgings, and glass forming roll shaft forgings \u2014 in heat-resistant alloy steel and high-temperature nickel alloys for furnace-adjacent applications. ISO 9001:2015 certified, EN 10204 3.1 documentation. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "IS Machine Mould-Holder Arm Forgings",
@@ -25591,7 +25591,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Glass Industry Forgings \u2014 Furnace Structural Components, IS Machine Blank/Blow Mould Arms, Forming Rolls",
-        "description2": "JK Forge manufactures heat-resistant and structural forgings for float glass, container glass, and fibreglass manufacturing equipment \u2014 furnace structural bracket and tie rod forgings, IS (individual section) machine mould-holder arm forgings, and glass forming roll shaft forgings \u2014 in heat-resistant alloy steel and high-temperature nickel alloys for furnace-adjacent applications. ISO 9001:2015 certified, EN 10204 3.1 documentation. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures heat-resistant and structural forgings for float glass, container glass, and fibreglass manufacturing equipment \u2014 furnace structural bracket and tie rod forgings, IS (individual section) machine mould-holder arm forgings, and glass forming roll shaft forgings \u2014 in heat-resistant alloy steel and high-temperature nickel alloys for furnace-adjacent applications. ISO 9001:2015 certified, EN 10204 3.1 documentation. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "IS Machine Mould-Holder Arm Forgings",
@@ -25711,7 +25711,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Deep-Sea Mining Forgings \u2014 Seabed Nodule Collector, Riser & Lift System Components for an Extreme-Pressure Environment",
-        "description2": "JK Forge manufactures forged components for deep-sea and seabed polymetallic nodule mining equipment \u2014 the emerging class of subsea mineral extraction technology operating in a genuinely severe combination of extreme hydrostatic pressure, sustained corrosion exposure, and continuous abrasion that few other industrial applications approach. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for deep-sea and seabed polymetallic nodule mining equipment \u2014 the emerging class of subsea mineral extraction technology operating in a genuinely severe combination of extreme hydrostatic pressure, sustained corrosion exposure, and continuous abrasion that few other industrial applications approach. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Full Dimensional and Material Certification",
@@ -25819,7 +25819,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Deep-Sea Mining Forgings \u2014 Seabed Nodule Collector, Riser & Lift System Components for an Extreme-Pressure Environment",
-        "description2": "JK Forge manufactures forged components for deep-sea and seabed polymetallic nodule mining equipment \u2014 the emerging class of subsea mineral extraction technology operating in a genuinely severe combination of extreme hydrostatic pressure, sustained corrosion exposure, and continuous abrasion that few other industrial applications approach. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for deep-sea and seabed polymetallic nodule mining equipment \u2014 the emerging class of subsea mineral extraction technology operating in a genuinely severe combination of extreme hydrostatic pressure, sustained corrosion exposure, and continuous abrasion that few other industrial applications approach. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Full Dimensional and Material Certification",
@@ -26325,7 +26325,7 @@ window.pageContent['industriesOtherData'] = {
             },
             {
                 "question": "How do I enquire about crane forged components from JK Forge?",
-                "answer": "Email your component drawing (PDF or STEP), capacity/WLL requirement, material specification, and required quantity to sales@JK Forge.com. For IS 3815 standard hooks, specify the WLL in tonnes and we will quote the standard size. For custom components, attach your OEM drawing. Call +91 92657 72827 for immediate assistance."
+                "answer": "Email your component drawing (PDF or STEP), capacity/WLL requirement, material specification, and required quantity to sales@JK Forge.com. For IS 3815 standard hooks, specify the WLL in tonnes and we will quote the standard size. For custom components, attach your OEM drawing. Call +91 7600066117 for immediate assistance."
             }
         ]
     },
@@ -26461,7 +26461,7 @@ window.pageContent['industriesOtherData'] = {
             },
             {
                 "question": "How do I enquire about crane forged components from JK Forge?",
-                "answer": "Email your component drawing (PDF or STEP), capacity/WLL requirement, material specification, and required quantity to sales@JK Forge.com. For IS 3815 standard hooks, specify the WLL in tonnes and we will quote the standard size. For custom components, attach your OEM drawing. Call +91 92657 72827 for immediate assistance."
+                "answer": "Email your component drawing (PDF or STEP), capacity/WLL requirement, material specification, and required quantity to sales@JK Forge.com. For IS 3815 standard hooks, specify the WLL in tonnes and we will quote the standard size. For custom components, attach your OEM drawing. Call +91 7600066117 for immediate assistance."
             }
         ]
     },
@@ -26487,7 +26487,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Lithium Supply Chain Forgings \u2014 Crushing & Processing Equipment Components, Chemical Processing Valves & Pump Forgings",
-        "description2": "JK Forge manufactures forged components for lithium mining and processing equipment \u2014 from hard-rock spodumene mining crushing and processing equipment components to brine extraction chemical processing valve and pump components \u2014 supporting the growing battery raw material supply chain. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for lithium mining and processing equipment \u2014 from hard-rock spodumene mining crushing and processing equipment components to brine extraction chemical processing valve and pump components \u2014 supporting the growing battery raw material supply chain. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Brine Processing Valve Body Forgings",
@@ -26603,7 +26603,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Lithium Supply Chain Forgings \u2014 Crushing & Processing Equipment Components, Chemical Processing Valves & Pump Forgings",
-        "description2": "JK Forge manufactures forged components for lithium mining and processing equipment \u2014 from hard-rock spodumene mining crushing and processing equipment components to brine extraction chemical processing valve and pump components \u2014 supporting the growing battery raw material supply chain. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for lithium mining and processing equipment \u2014 from hard-rock spodumene mining crushing and processing equipment components to brine extraction chemical processing valve and pump components \u2014 supporting the growing battery raw material supply chain. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Brine Processing Valve Body Forgings",
@@ -26719,7 +26719,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Motorsport & Racing Forgings \u2014 Race Engine Components, Suspension Uprights, Gearbox Internals",
-        "description2": "JK Forge manufactures high-performance forged components for motorsport applications \u2014 race engine crankshaft and connecting rod forgings, forged aluminium suspension uprights and control arms, and racing gearbox gear blank forgings \u2014 in premium alloy steel and aerospace-grade aluminium engineered for the extreme power density and weight-minimization motorsport demands. Full material traceability, rapid prototype-to-race development turnaround. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures high-performance forged components for motorsport applications \u2014 race engine crankshaft and connecting rod forgings, forged aluminium suspension uprights and control arms, and racing gearbox gear blank forgings \u2014 in premium alloy steel and aerospace-grade aluminium engineered for the extreme power density and weight-minimization motorsport demands. Full material traceability, rapid prototype-to-race development turnaround. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Racing Gearbox Gear Blank Forgings",
@@ -26843,7 +26843,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Motorsport & Racing Forgings \u2014 Race Engine Components, Suspension Uprights, Gearbox Internals",
-        "description2": "JK Forge manufactures high-performance forged components for motorsport applications \u2014 race engine crankshaft and connecting rod forgings, forged aluminium suspension uprights and control arms, and racing gearbox gear blank forgings \u2014 in premium alloy steel and aerospace-grade aluminium engineered for the extreme power density and weight-minimization motorsport demands. Full material traceability, rapid prototype-to-race development turnaround. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures high-performance forged components for motorsport applications \u2014 race engine crankshaft and connecting rod forgings, forged aluminium suspension uprights and control arms, and racing gearbox gear blank forgings \u2014 in premium alloy steel and aerospace-grade aluminium engineered for the extreme power density and weight-minimization motorsport demands. Full material traceability, rapid prototype-to-race development turnaround. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Racing Gearbox Gear Blank Forgings",
@@ -26966,7 +26966,7 @@ window.pageContent['industriesOtherData'] = {
                 "sub": "Fast Quote Response"
             }
         ],
-        "description1": "JK Forge manufactures precision hot forgings for the elevator and lift industry \u2014 traction sheaves, deflector pulleys, guide shoe brackets, rope anchor plates, car frame brackets and safety gear components \u2014 at our Shapar GIDC facility in Rajkot. We supply Otis, Schindler, Kone, ThyssenKrupp and Mitsubishi elevator OEMs and their Tier 1 suppliers across India. ISO 9001:2015. Call +91 92657 72827.",
+        "description1": "JK Forge manufactures precision hot forgings for the elevator and lift industry \u2014 traction sheaves, deflector pulleys, guide shoe brackets, rope anchor plates, car frame brackets and safety gear components \u2014 at our Shapar GIDC facility in Rajkot. We supply Otis, Schindler, Kone, ThyssenKrupp and Mitsubishi elevator OEMs and their Tier 1 suppliers across India. ISO 9001:2015. Call +91 7600066117.",
         "description2": "Elevator safety is non-negotiable, and the forged components at the heart of traction systems \u2014 sheaves, guide brackets, rope anchors and safety gear \u2014 must deliver consistent mechanical properties and dimensional accuracy across hundreds of thousands of operating cycles. Hot forging provides the grain flow integrity, impact resistance and dimensional repeatability that elevator OEMs demand from structural and safety-critical components. JK Forge's 20+ years of precision forging experience and ISO 9001:2015 certification make us a qualified and reliable supplier to India's elevator manufacturing industry.",
         "components": [
             {
@@ -27077,7 +27077,7 @@ window.pageContent['industriesOtherData'] = {
             },
             {
                 "question": "How do I enquire about elevator forging supply from JK Forge?",
-                "answer": "Send your component drawings, material and heat treatment specifications, quantity requirements and quality documentation requirements to sales@JK Forge.com or call +91 92657 72827. We will assess the requirement and provide a quotation within 24\u201348 hours."
+                "answer": "Send your component drawings, material and heat treatment specifications, quantity requirements and quality documentation requirements to sales@JK Forge.com or call +91 7600066117. We will assess the requirement and provide a quotation within 24\u201348 hours."
             }
         ]
     },
@@ -27102,7 +27102,7 @@ window.pageContent['industriesOtherData'] = {
                 "sub": "Fast Quote Response"
             }
         ],
-        "description1": "JK Forge manufactures precision hot forgings for the elevator and lift industry \u2014 traction sheaves, deflector pulleys, guide shoe brackets, rope anchor plates, car frame brackets and safety gear components \u2014 at our Shapar GIDC facility in Rajkot. We supply Otis, Schindler, Kone, ThyssenKrupp and Mitsubishi elevator OEMs and their Tier 1 suppliers across India. ISO 9001:2015. Call +91 92657 72827.",
+        "description1": "JK Forge manufactures precision hot forgings for the elevator and lift industry \u2014 traction sheaves, deflector pulleys, guide shoe brackets, rope anchor plates, car frame brackets and safety gear components \u2014 at our Shapar GIDC facility in Rajkot. We supply Otis, Schindler, Kone, ThyssenKrupp and Mitsubishi elevator OEMs and their Tier 1 suppliers across India. ISO 9001:2015. Call +91 7600066117.",
         "description2": "Elevator safety is non-negotiable, and the forged components at the heart of traction systems \u2014 sheaves, guide brackets, rope anchors and safety gear \u2014 must deliver consistent mechanical properties and dimensional accuracy across hundreds of thousands of operating cycles. Hot forging provides the grain flow integrity, impact resistance and dimensional repeatability that elevator OEMs demand from structural and safety-critical components. JK Forge's 20+ years of precision forging experience and ISO 9001:2015 certification make us a qualified and reliable supplier to India's elevator manufacturing industry.",
         "components": [
             {
@@ -27213,7 +27213,7 @@ window.pageContent['industriesOtherData'] = {
             },
             {
                 "question": "How do I enquire about elevator forging supply from JK Forge?",
-                "answer": "Send your component drawings, material and heat treatment specifications, quantity requirements and quality documentation requirements to sales@JK Forge.com or call +91 92657 72827. We will assess the requirement and provide a quotation within 24\u201348 hours."
+                "answer": "Send your component drawings, material and heat treatment specifications, quantity requirements and quality documentation requirements to sales@JK Forge.com or call +91 7600066117. We will assess the requirement and provide a quotation within 24\u201348 hours."
             }
         ]
     },
@@ -27527,7 +27527,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Pumped Storage Hydropower Forgings \u2014 Reversible Pump-Turbine, Main Shaft & Valve Component Forgings for Grid-Scale Energy Storage",
-        "description2": "JK Forge manufactures forged components for pumped-storage hydroelectric systems \u2014 reversible pump-turbine runner, main shaft, and valve component forgings engineered for the distinct dual-mode operation and far more frequent start-stop cycling pumped storage plants experience compared to conventional hydropower generation. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for pumped-storage hydroelectric systems \u2014 reversible pump-turbine runner, main shaft, and valve component forgings engineered for the distinct dual-mode operation and far more frequent start-stop cycling pumped storage plants experience compared to conventional hydropower generation. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Main Shaft Forgings for Dual-Mode Operation",
@@ -27639,7 +27639,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Pumped Storage Hydropower Forgings \u2014 Reversible Pump-Turbine, Main Shaft & Valve Component Forgings for Grid-Scale Energy Storage",
-        "description2": "JK Forge manufactures forged components for pumped-storage hydroelectric systems \u2014 reversible pump-turbine runner, main shaft, and valve component forgings engineered for the distinct dual-mode operation and far more frequent start-stop cycling pumped storage plants experience compared to conventional hydropower generation. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for pumped-storage hydroelectric systems \u2014 reversible pump-turbine runner, main shaft, and valve component forgings engineered for the distinct dual-mode operation and far more frequent start-stop cycling pumped storage plants experience compared to conventional hydropower generation. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Main Shaft Forgings for Dual-Mode Operation",
@@ -28327,7 +28327,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Bridge Construction Forgings \u2014 Pot Bearings, Expansion Joint Components, Cable-Stayed Anchorages",
-        "description2": "JK Forge manufactures forged structural components for bridge construction \u2014 pot and spherical bearing forgings, expansion joint structural components, and cable-stayed/suspension bridge anchorage forgings \u2014 in high-strength structural steel engineered for the combined static load, thermal movement, and seismic/dynamic loading bridge structures experience over 100+ year design lives. EN 1337 bearing standard compliance, IS 1893 seismic design support. EN 10204 3.1/3.2 certification. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged structural components for bridge construction \u2014 pot and spherical bearing forgings, expansion joint structural components, and cable-stayed/suspension bridge anchorage forgings \u2014 in high-strength structural steel engineered for the combined static load, thermal movement, and seismic/dynamic loading bridge structures experience over 100+ year design lives. EN 1337 bearing standard compliance, IS 1893 seismic design support. EN 10204 3.1/3.2 certification. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Expansion Joint Structural Component Forgings",
@@ -28447,7 +28447,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Bridge Construction Forgings \u2014 Pot Bearings, Expansion Joint Components, Cable-Stayed Anchorages",
-        "description2": "JK Forge manufactures forged structural components for bridge construction \u2014 pot and spherical bearing forgings, expansion joint structural components, and cable-stayed/suspension bridge anchorage forgings \u2014 in high-strength structural steel engineered for the combined static load, thermal movement, and seismic/dynamic loading bridge structures experience over 100+ year design lives. EN 1337 bearing standard compliance, IS 1893 seismic design support. EN 10204 3.1/3.2 certification. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged structural components for bridge construction \u2014 pot and spherical bearing forgings, expansion joint structural components, and cable-stayed/suspension bridge anchorage forgings \u2014 in high-strength structural steel engineered for the combined static load, thermal movement, and seismic/dynamic loading bridge structures experience over 100+ year design lives. EN 1337 bearing standard compliance, IS 1893 seismic design support. EN 10204 3.1/3.2 certification. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Expansion Joint Structural Component Forgings",
@@ -28567,7 +28567,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Ropeway & Cable Car Forgings \u2014 Sheave Wheels, Carrier Grips, Haul Rope Termination Components",
-        "description2": "JK Forge manufactures safety-critical forged components for ropeway and cable car systems \u2014 sheave wheel forgings, carrier grip mechanism components, and haul rope termination and anchorage forgings \u2014 in high-strength alloy steel engineered for continuous suspended-load operation and India's expanding ropeway infrastructure programme connecting hill stations, pilgrimage sites, and urban transit corridors. EN 10204 3.1/3.2 certification, full material traceability. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures safety-critical forged components for ropeway and cable car systems \u2014 sheave wheel forgings, carrier grip mechanism components, and haul rope termination and anchorage forgings \u2014 in high-strength alloy steel engineered for continuous suspended-load operation and India's expanding ropeway infrastructure programme connecting hill stations, pilgrimage sites, and urban transit corridors. EN 10204 3.1/3.2 certification, full material traceability. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Carrier Grip Mechanism Forgings",
@@ -28687,7 +28687,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Ropeway & Cable Car Forgings \u2014 Sheave Wheels, Carrier Grips, Haul Rope Termination Components",
-        "description2": "JK Forge manufactures safety-critical forged components for ropeway and cable car systems \u2014 sheave wheel forgings, carrier grip mechanism components, and haul rope termination and anchorage forgings \u2014 in high-strength alloy steel engineered for continuous suspended-load operation and India's expanding ropeway infrastructure programme connecting hill stations, pilgrimage sites, and urban transit corridors. EN 10204 3.1/3.2 certification, full material traceability. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures safety-critical forged components for ropeway and cable car systems \u2014 sheave wheel forgings, carrier grip mechanism components, and haul rope termination and anchorage forgings \u2014 in high-strength alloy steel engineered for continuous suspended-load operation and India's expanding ropeway infrastructure programme connecting hill stations, pilgrimage sites, and urban transit corridors. EN 10204 3.1/3.2 certification, full material traceability. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Carrier Grip Mechanism Forgings",
@@ -29095,7 +29095,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Graphite Electrode Manufacturing Equipment Forgings \u2014 Extrusion Press, Kneading & Graphitizing Furnace Component Forgings",
-        "description2": "JK Forge manufactures forged components for graphite electrode manufacturing equipment \u2014 the upstream supply-chain machinery that produces the graphite electrodes electric arc furnace (EAF) steelmaking depends on \u2014 including extrusion press rams and cross-heads, kneading mixer shafts, and baking/graphitizing furnace handling equipment components. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for graphite electrode manufacturing equipment \u2014 the upstream supply-chain machinery that produces the graphite electrodes electric arc furnace (EAF) steelmaking depends on \u2014 including extrusion press rams and cross-heads, kneading mixer shafts, and baking/graphitizing furnace handling equipment components. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Kneading and Mixing Equipment Shaft Forgings",
@@ -29207,7 +29207,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Graphite Electrode Manufacturing Equipment Forgings \u2014 Extrusion Press, Kneading & Graphitizing Furnace Component Forgings",
-        "description2": "JK Forge manufactures forged components for graphite electrode manufacturing equipment \u2014 the upstream supply-chain machinery that produces the graphite electrodes electric arc furnace (EAF) steelmaking depends on \u2014 including extrusion press rams and cross-heads, kneading mixer shafts, and baking/graphitizing furnace handling equipment components. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for graphite electrode manufacturing equipment \u2014 the upstream supply-chain machinery that produces the graphite electrodes electric arc furnace (EAF) steelmaking depends on \u2014 including extrusion press rams and cross-heads, kneading mixer shafts, and baking/graphitizing furnace handling equipment components. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Kneading and Mixing Equipment Shaft Forgings",
@@ -29319,7 +29319,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content VAWT Forgings \u2014 Central Rotor Shaft, Rotor Arm & Base Bearing Component Forgings for Vertical-Axis Wind Turbine Geometry",
-        "description2": "JK Forge manufactures forged components for vertical-axis wind turbines (VAWT) \u2014 central rotor shaft forgings, rotor arm connection forgings, and base bearing housing components for the genuinely distinct rotor geometry and load path vertical-axis turbines present compared to conventional horizontal-axis wind turbine drivetrains. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for vertical-axis wind turbines (VAWT) \u2014 central rotor shaft forgings, rotor arm connection forgings, and base bearing housing components for the genuinely distinct rotor geometry and load path vertical-axis turbines present compared to conventional horizontal-axis wind turbine drivetrains. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Rotor Arm Connection Forgings",
@@ -29443,7 +29443,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content VAWT Forgings \u2014 Central Rotor Shaft, Rotor Arm & Base Bearing Component Forgings for Vertical-Axis Wind Turbine Geometry",
-        "description2": "JK Forge manufactures forged components for vertical-axis wind turbines (VAWT) \u2014 central rotor shaft forgings, rotor arm connection forgings, and base bearing housing components for the genuinely distinct rotor geometry and load path vertical-axis turbines present compared to conventional horizontal-axis wind turbine drivetrains. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for vertical-axis wind turbines (VAWT) \u2014 central rotor shaft forgings, rotor arm connection forgings, and base bearing housing components for the genuinely distinct rotor geometry and load path vertical-axis turbines present compared to conventional horizontal-axis wind turbine drivetrains. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Rotor Arm Connection Forgings",
@@ -29567,7 +29567,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Amusement Ride Forgings \u2014 Roller Coaster Axle, Wheel Assembly & Ride Mechanism Structural Forgings",
-        "description2": "JK Forge manufactures safety-critical forged components for amusement park rides \u2014 roller coaster axle and wheel assembly forgings, ride restraint mechanism components, and rotating/articulating ride structural forgings \u2014 in high-strength alloy steel engineered to the same rigorous fatigue design and non-destructive testing standards applied across our safety-critical automotive and industrial forging product lines. EN 10204 3.1/3.2 certification, full material traceability. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures safety-critical forged components for amusement park rides \u2014 roller coaster axle and wheel assembly forgings, ride restraint mechanism components, and rotating/articulating ride structural forgings \u2014 in high-strength alloy steel engineered to the same rigorous fatigue design and non-destructive testing standards applied across our safety-critical automotive and industrial forging product lines. EN 10204 3.1/3.2 certification, full material traceability. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Ride Restraint Mechanism Component Forgings",
@@ -29679,7 +29679,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Amusement Ride Forgings \u2014 Roller Coaster Axle, Wheel Assembly & Ride Mechanism Structural Forgings",
-        "description2": "JK Forge manufactures safety-critical forged components for amusement park rides \u2014 roller coaster axle and wheel assembly forgings, ride restraint mechanism components, and rotating/articulating ride structural forgings \u2014 in high-strength alloy steel engineered to the same rigorous fatigue design and non-destructive testing standards applied across our safety-critical automotive and industrial forging product lines. EN 10204 3.1/3.2 certification, full material traceability. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures safety-critical forged components for amusement park rides \u2014 roller coaster axle and wheel assembly forgings, ride restraint mechanism components, and rotating/articulating ride structural forgings \u2014 in high-strength alloy steel engineered to the same rigorous fatigue design and non-destructive testing standards applied across our safety-critical automotive and industrial forging product lines. EN 10204 3.1/3.2 certification, full material traceability. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Ride Restraint Mechanism Component Forgings",
@@ -29791,7 +29791,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Wheat Flour Milling Forgings \u2014 Roller Mill Shaft, Purifier & Sifter Drive Component Forgings",
-        "description2": "JK Forge manufactures forged components for wheat flour milling equipment \u2014 roller mill shaft and roll journal forgings, plansifter and purifier drive shaft components, and grain cleaning and conditioning equipment shafts \u2014 engineered for the precision, continuous-duty demands roller milling of wheat into flour places on rotating machinery. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for wheat flour milling equipment \u2014 roller mill shaft and roll journal forgings, plansifter and purifier drive shaft components, and grain cleaning and conditioning equipment shafts \u2014 engineered for the precision, continuous-duty demands roller milling of wheat into flour places on rotating machinery. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Plansifter and Purifier Drive Shaft Forgings",
@@ -29903,7 +29903,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Wheat Flour Milling Forgings \u2014 Roller Mill Shaft, Purifier & Sifter Drive Component Forgings",
-        "description2": "JK Forge manufactures forged components for wheat flour milling equipment \u2014 roller mill shaft and roll journal forgings, plansifter and purifier drive shaft components, and grain cleaning and conditioning equipment shafts \u2014 engineered for the precision, continuous-duty demands roller milling of wheat into flour places on rotating machinery. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for wheat flour milling equipment \u2014 roller mill shaft and roll journal forgings, plansifter and purifier drive shaft components, and grain cleaning and conditioning equipment shafts \u2014 engineered for the precision, continuous-duty demands roller milling of wheat into flour places on rotating machinery. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Plansifter and Purifier Drive Shaft Forgings",
@@ -30015,7 +30015,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Industrial Robotics Forgings \u2014 Robotic Arm Structural Components, Joint Housings, Base Mounts",
-        "description2": "JK Forge manufactures precision forged blanks for industrial robotics manufacturers \u2014 robotic arm link and joint housing structural forgings, harmonic drive and gearbox mounting components, and base and pedestal mounting forgings \u2014 in aluminium (6061-T6, 7075-T6) and alloy steel (42CrMo4), engineered for the dimensional consistency positioning repeatability and load capacity industrial robots require. ISO 9001:2015 certified, IATF 16949-aligned quality for automotive robotics supply chains. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures precision forged blanks for industrial robotics manufacturers \u2014 robotic arm link and joint housing structural forgings, harmonic drive and gearbox mounting components, and base and pedestal mounting forgings \u2014 in aluminium (6061-T6, 7075-T6) and alloy steel (42CrMo4), engineered for the dimensional consistency positioning repeatability and load capacity industrial robots require. ISO 9001:2015 certified, IATF 16949-aligned quality for automotive robotics supply chains. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Base and Pedestal Mounting Forgings",
@@ -30127,7 +30127,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Industrial Robotics Forgings \u2014 Robotic Arm Structural Components, Joint Housings, Base Mounts",
-        "description2": "JK Forge manufactures precision forged blanks for industrial robotics manufacturers \u2014 robotic arm link and joint housing structural forgings, harmonic drive and gearbox mounting components, and base and pedestal mounting forgings \u2014 in aluminium (6061-T6, 7075-T6) and alloy steel (42CrMo4), engineered for the dimensional consistency positioning repeatability and load capacity industrial robots require. ISO 9001:2015 certified, IATF 16949-aligned quality for automotive robotics supply chains. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures precision forged blanks for industrial robotics manufacturers \u2014 robotic arm link and joint housing structural forgings, harmonic drive and gearbox mounting components, and base and pedestal mounting forgings \u2014 in aluminium (6061-T6, 7075-T6) and alloy steel (42CrMo4), engineered for the dimensional consistency positioning repeatability and load capacity industrial robots require. ISO 9001:2015 certified, IATF 16949-aligned quality for automotive robotics supply chains. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Base and Pedestal Mounting Forgings",
@@ -30239,7 +30239,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Jack-Up Drilling Rig Forgings \u2014 Leg Chord, Rack Plate, Jacking Pinion & Spudcan Component Forgings",
-        "description2": "JK Forge manufactures forged components for offshore jack-up drilling rigs \u2014 leg chord and rack plate section forgings, jacking system pinion and gearbox shaft components, and spudcan and jacking house structural forgings \u2014 engineered for the repeated elevation cycling and variable seabed foundation loading a self-elevating drilling unit's leg and jacking system experience. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for offshore jack-up drilling rigs \u2014 leg chord and rack plate section forgings, jacking system pinion and gearbox shaft components, and spudcan and jacking house structural forgings \u2014 engineered for the repeated elevation cycling and variable seabed foundation loading a self-elevating drilling unit's leg and jacking system experience. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Jacking System Pinion and Gearbox Shaft Forgings",
@@ -30359,7 +30359,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Jack-Up Drilling Rig Forgings \u2014 Leg Chord, Rack Plate, Jacking Pinion & Spudcan Component Forgings",
-        "description2": "JK Forge manufactures forged components for offshore jack-up drilling rigs \u2014 leg chord and rack plate section forgings, jacking system pinion and gearbox shaft components, and spudcan and jacking house structural forgings \u2014 engineered for the repeated elevation cycling and variable seabed foundation loading a self-elevating drilling unit's leg and jacking system experience. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for offshore jack-up drilling rigs \u2014 leg chord and rack plate section forgings, jacking system pinion and gearbox shaft components, and spudcan and jacking house structural forgings \u2014 engineered for the repeated elevation cycling and variable seabed foundation loading a self-elevating drilling unit's leg and jacking system experience. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Jacking System Pinion and Gearbox Shaft Forgings",
@@ -30479,7 +30479,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Semiconductor Fab Equipment Forgings \u2014 Ultra-High-Purity 316L Chamber Bodies, Gas Delivery Components",
-        "description2": "JK Forge manufactures precision forged blanks for semiconductor wafer fabrication equipment \u2014 process chamber body forgings, gas delivery manifold and valve body blanks, and vacuum flange forgings in ultra-high-purity 316L stainless steel \u2014 supplied to equipment manufacturers serving chip fab (foundry and memory) capital equipment programmes. Electropolish-ready surface preparation, low-carbon/low-inclusion material for outgassing control. ISO 9001:2015 certified, full material traceability. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures precision forged blanks for semiconductor wafer fabrication equipment \u2014 process chamber body forgings, gas delivery manifold and valve body blanks, and vacuum flange forgings in ultra-high-purity 316L stainless steel \u2014 supplied to equipment manufacturers serving chip fab (foundry and memory) capital equipment programmes. Electropolish-ready surface preparation, low-carbon/low-inclusion material for outgassing control. ISO 9001:2015 certified, full material traceability. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Gas Delivery Manifold and Valve Body Forgings",
@@ -30603,7 +30603,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Semiconductor Fab Equipment Forgings \u2014 Ultra-High-Purity 316L Chamber Bodies, Gas Delivery Components",
-        "description2": "JK Forge manufactures precision forged blanks for semiconductor wafer fabrication equipment \u2014 process chamber body forgings, gas delivery manifold and valve body blanks, and vacuum flange forgings in ultra-high-purity 316L stainless steel \u2014 supplied to equipment manufacturers serving chip fab (foundry and memory) capital equipment programmes. Electropolish-ready surface preparation, low-carbon/low-inclusion material for outgassing control. ISO 9001:2015 certified, full material traceability. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures precision forged blanks for semiconductor wafer fabrication equipment \u2014 process chamber body forgings, gas delivery manifold and valve body blanks, and vacuum flange forgings in ultra-high-purity 316L stainless steel \u2014 supplied to equipment manufacturers serving chip fab (foundry and memory) capital equipment programmes. Electropolish-ready surface preparation, low-carbon/low-inclusion material for outgassing control. ISO 9001:2015 certified, full material traceability. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Gas Delivery Manifold and Valve Body Forgings",
@@ -30727,7 +30727,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Potash Mining Forgings \u2014 Underground Extraction, Solution Mining & Processing Equipment Components for a Highly Corrosive Ore Body",
-        "description2": "JK Forge manufactures forged components for potash mining equipment \u2014 underground room-and-pillar extraction machinery, solution mining wellhead and brine handling components, and processing plant crystallizer and evaporator equipment forgings, engineered for potash's genuinely severe saline corrosion environment. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for potash mining equipment \u2014 underground room-and-pillar extraction machinery, solution mining wellhead and brine handling components, and processing plant crystallizer and evaporator equipment forgings, engineered for potash's genuinely severe saline corrosion environment. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Crystallizer and Evaporator Component Forgings",
@@ -30843,7 +30843,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Potash Mining Forgings \u2014 Underground Extraction, Solution Mining & Processing Equipment Components for a Highly Corrosive Ore Body",
-        "description2": "JK Forge manufactures forged components for potash mining equipment \u2014 underground room-and-pillar extraction machinery, solution mining wellhead and brine handling components, and processing plant crystallizer and evaporator equipment forgings, engineered for potash's genuinely severe saline corrosion environment. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for potash mining equipment \u2014 underground room-and-pillar extraction machinery, solution mining wellhead and brine handling components, and processing plant crystallizer and evaporator equipment forgings, engineered for potash's genuinely severe saline corrosion environment. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Crystallizer and Evaporator Component Forgings",
@@ -30959,7 +30959,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Paint & Coatings Manufacturing Forgings \u2014 High-Speed Disperser, Mixer & Mill Shaft Forgings for Pigment Dispersion Equipment",
-        "description2": "JK Forge manufactures forged components for industrial paint and coatings manufacturing equipment \u2014 high-speed disperser shaft forgings, mixing vessel agitator components, and bead mill and grinding equipment shaft forgings \u2014 in corrosion-resistant and wear-resistant alloy steel and stainless steel matched to abrasive pigment dispersion and solvent-exposure demands. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for industrial paint and coatings manufacturing equipment \u2014 high-speed disperser shaft forgings, mixing vessel agitator components, and bead mill and grinding equipment shaft forgings \u2014 in corrosion-resistant and wear-resistant alloy steel and stainless steel matched to abrasive pigment dispersion and solvent-exposure demands. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Mixing Vessel Agitator Shaft Forgings",
@@ -31071,7 +31071,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Paint & Coatings Manufacturing Forgings \u2014 High-Speed Disperser, Mixer & Mill Shaft Forgings for Pigment Dispersion Equipment",
-        "description2": "JK Forge manufactures forged components for industrial paint and coatings manufacturing equipment \u2014 high-speed disperser shaft forgings, mixing vessel agitator components, and bead mill and grinding equipment shaft forgings \u2014 in corrosion-resistant and wear-resistant alloy steel and stainless steel matched to abrasive pigment dispersion and solvent-exposure demands. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for industrial paint and coatings manufacturing equipment \u2014 high-speed disperser shaft forgings, mixing vessel agitator components, and bead mill and grinding equipment shaft forgings \u2014 in corrosion-resistant and wear-resistant alloy steel and stainless steel matched to abrasive pigment dispersion and solvent-exposure demands. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Mixing Vessel Agitator Shaft Forgings",
@@ -31677,7 +31677,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Floating Solar PV Forgings \u2014 Anchoring, Mooring & Float Connection Component Forgings for Water-Based Photovoltaic Installations",
-        "description2": "JK Forge manufactures forged components for floating solar photovoltaic (floatovoltaic) installations \u2014 anchor and mooring hardware forgings, float module connection forgings, and walkway structural components for PV arrays deployed on reservoirs, ponds, and other water bodies, engineered for a mooring and anchoring challenge genuinely distinct from ground-mount tracker or fixed-tilt solar structures. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for floating solar photovoltaic (floatovoltaic) installations \u2014 anchor and mooring hardware forgings, float module connection forgings, and walkway structural components for PV arrays deployed on reservoirs, ponds, and other water bodies, engineered for a mooring and anchoring challenge genuinely distinct from ground-mount tracker or fixed-tilt solar structures. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Mooring Line Connection and Shackle Forgings",
@@ -31793,7 +31793,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Floating Solar PV Forgings \u2014 Anchoring, Mooring & Float Connection Component Forgings for Water-Based Photovoltaic Installations",
-        "description2": "JK Forge manufactures forged components for floating solar photovoltaic (floatovoltaic) installations \u2014 anchor and mooring hardware forgings, float module connection forgings, and walkway structural components for PV arrays deployed on reservoirs, ponds, and other water bodies, engineered for a mooring and anchoring challenge genuinely distinct from ground-mount tracker or fixed-tilt solar structures. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for floating solar photovoltaic (floatovoltaic) installations \u2014 anchor and mooring hardware forgings, float module connection forgings, and walkway structural components for PV arrays deployed on reservoirs, ponds, and other water bodies, engineered for a mooring and anchoring challenge genuinely distinct from ground-mount tracker or fixed-tilt solar structures. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Mooring Line Connection and Shackle Forgings",
@@ -31909,7 +31909,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Cement Plant Precision Forgings \u2014 Kiln Tyre, Mill Shaft, Roller Press \u2014 EN 10204 3.1 Certified",
-        "description2": "JK Forge manufactures EN 10204 3.1-certified precision hot forgings for global cement plants \u2014 kiln tyre ring forgings in 42CrMo4 Q+T (Rm \u2265900 MPa, OD up to 8,000mm \u2014 for 6-metre diameter rotary kilns at 1,450\u00b0C clinker temperature), ball mill shell and head forgings in 42CrMo4, trunnion bearing housing forgings in 4340 Q+T, clinker cooler grate plate drive shaft forgings in 34CrNiMo6 Q+T, vertical roller mill (VRM) table journal forgings in 42CrMo4 Q+T (for Pfeiffer, Polysius, Loesche mills), ATOX raw mill roller shaft forgings in 42CrMo4, and roller press tyre ring forgings in 42CrMo4 Q+T \u2014 serving FLSmidth (world's #1 cement plant OEM, Copenhagen), Holcim/LafargeHolcim (world's #1 cement producer, 280 MTPA), HeidelbergCement (world's #2), Ambuja Cement (Holcim India), ACC Cement, UltraTech Cement (Aditya Birla \u2014 India's #1 cement company, 138 MTPA capacity), and Dangote Cement (Africa's #1, 50 MTPA). ISO 9001:2015, EN 10204 3.1, DIN EN 10083-3. Rajkot, India. +91-9265772827.",
+        "description2": "JK Forge manufactures EN 10204 3.1-certified precision hot forgings for global cement plants \u2014 kiln tyre ring forgings in 42CrMo4 Q+T (Rm \u2265900 MPa, OD up to 8,000mm \u2014 for 6-metre diameter rotary kilns at 1,450\u00b0C clinker temperature), ball mill shell and head forgings in 42CrMo4, trunnion bearing housing forgings in 4340 Q+T, clinker cooler grate plate drive shaft forgings in 34CrNiMo6 Q+T, vertical roller mill (VRM) table journal forgings in 42CrMo4 Q+T (for Pfeiffer, Polysius, Loesche mills), ATOX raw mill roller shaft forgings in 42CrMo4, and roller press tyre ring forgings in 42CrMo4 Q+T \u2014 serving FLSmidth (world's #1 cement plant OEM, Copenhagen), Holcim/LafargeHolcim (world's #1 cement producer, 280 MTPA), HeidelbergCement (world's #2), Ambuja Cement (Holcim India), ACC Cement, UltraTech Cement (Aditya Birla \u2014 India's #1 cement company, 138 MTPA capacity), and Dangote Cement (Africa's #1, 50 MTPA). ISO 9001:2015, EN 10204 3.1, DIN EN 10083-3. Rajkot, India. +91 7600066117.",
         "components": [
             {
                 "title": "Factory Address",
@@ -32017,7 +32017,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Cement Plant Precision Forgings \u2014 Kiln Tyre, Mill Shaft, Roller Press \u2014 EN 10204 3.1 Certified",
-        "description2": "JK Forge manufactures EN 10204 3.1-certified precision hot forgings for global cement plants \u2014 kiln tyre ring forgings in 42CrMo4 Q+T (Rm \u2265900 MPa, OD up to 8,000mm \u2014 for 6-metre diameter rotary kilns at 1,450\u00b0C clinker temperature), ball mill shell and head forgings in 42CrMo4, trunnion bearing housing forgings in 4340 Q+T, clinker cooler grate plate drive shaft forgings in 34CrNiMo6 Q+T, vertical roller mill (VRM) table journal forgings in 42CrMo4 Q+T (for Pfeiffer, Polysius, Loesche mills), ATOX raw mill roller shaft forgings in 42CrMo4, and roller press tyre ring forgings in 42CrMo4 Q+T \u2014 serving FLSmidth (world's #1 cement plant OEM, Copenhagen), Holcim/LafargeHolcim (world's #1 cement producer, 280 MTPA), HeidelbergCement (world's #2), Ambuja Cement (Holcim India), ACC Cement, UltraTech Cement (Aditya Birla \u2014 India's #1 cement company, 138 MTPA capacity), and Dangote Cement (Africa's #1, 50 MTPA). ISO 9001:2015, EN 10204 3.1, DIN EN 10083-3. Rajkot, India. +91-9265772827.",
+        "description2": "JK Forge manufactures EN 10204 3.1-certified precision hot forgings for global cement plants \u2014 kiln tyre ring forgings in 42CrMo4 Q+T (Rm \u2265900 MPa, OD up to 8,000mm \u2014 for 6-metre diameter rotary kilns at 1,450\u00b0C clinker temperature), ball mill shell and head forgings in 42CrMo4, trunnion bearing housing forgings in 4340 Q+T, clinker cooler grate plate drive shaft forgings in 34CrNiMo6 Q+T, vertical roller mill (VRM) table journal forgings in 42CrMo4 Q+T (for Pfeiffer, Polysius, Loesche mills), ATOX raw mill roller shaft forgings in 42CrMo4, and roller press tyre ring forgings in 42CrMo4 Q+T \u2014 serving FLSmidth (world's #1 cement plant OEM, Copenhagen), Holcim/LafargeHolcim (world's #1 cement producer, 280 MTPA), HeidelbergCement (world's #2), Ambuja Cement (Holcim India), ACC Cement, UltraTech Cement (Aditya Birla \u2014 India's #1 cement company, 138 MTPA capacity), and Dangote Cement (Africa's #1, 50 MTPA). ISO 9001:2015, EN 10204 3.1, DIN EN 10083-3. Rajkot, India. +91 7600066117.",
         "components": [
             {
                 "title": "Factory Address",
@@ -32397,7 +32397,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content TBM Forgings \u2014 Cutterhead Components, Drive Shaft & Thrust Ram Forgings for Underground Infrastructure Excavation",
-        "description2": "JK Forge manufactures forged components for tunnel boring machines (TBMs) used in metro system, road tunnel, and other underground infrastructure construction \u2014 cutterhead components, drive shafts, and thrust ram components engineered for extreme abrasive wear resistance and the sustained high thrust and torque loading continuous-duty tunnel excavation demands. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for tunnel boring machines (TBMs) used in metro system, road tunnel, and other underground infrastructure construction \u2014 cutterhead components, drive shafts, and thrust ram components engineered for extreme abrasive wear resistance and the sustained high thrust and torque loading continuous-duty tunnel excavation demands. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Drive Shaft and Main Bearing Housing Forgings",
@@ -32521,7 +32521,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content TBM Forgings \u2014 Cutterhead Components, Drive Shaft & Thrust Ram Forgings for Underground Infrastructure Excavation",
-        "description2": "JK Forge manufactures forged components for tunnel boring machines (TBMs) used in metro system, road tunnel, and other underground infrastructure construction \u2014 cutterhead components, drive shafts, and thrust ram components engineered for extreme abrasive wear resistance and the sustained high thrust and torque loading continuous-duty tunnel excavation demands. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for tunnel boring machines (TBMs) used in metro system, road tunnel, and other underground infrastructure construction \u2014 cutterhead components, drive shafts, and thrust ram components engineered for extreme abrasive wear resistance and the sustained high thrust and torque loading continuous-duty tunnel excavation demands. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Drive Shaft and Main Bearing Housing Forgings",
@@ -32645,7 +32645,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Biogas & Anaerobic Digestion Forgings \u2014 Digester Mixer Shaft, Feed Pump & Biogas Handling Component Forgings",
-        "description2": "JK Forge manufactures forged components for biogas and anaerobic digestion plants \u2014 digester mixer shaft forgings, feedstock pump and valve components, and biogas compression and handling equipment forgings \u2014 engineered for corrosive hydrogen sulfide exposure and sustained mechanical duty processing organic feedstock through a biological rather than combustion-based energy conversion process. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for biogas and anaerobic digestion plants \u2014 digester mixer shaft forgings, feedstock pump and valve components, and biogas compression and handling equipment forgings \u2014 engineered for corrosive hydrogen sulfide exposure and sustained mechanical duty processing organic feedstock through a biological rather than combustion-based energy conversion process. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Feedstock Pump and Valve Body Forgings",
@@ -32761,7 +32761,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Biogas & Anaerobic Digestion Forgings \u2014 Digester Mixer Shaft, Feed Pump & Biogas Handling Component Forgings",
-        "description2": "JK Forge manufactures forged components for biogas and anaerobic digestion plants \u2014 digester mixer shaft forgings, feedstock pump and valve components, and biogas compression and handling equipment forgings \u2014 engineered for corrosive hydrogen sulfide exposure and sustained mechanical duty processing organic feedstock through a biological rather than combustion-based energy conversion process. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for biogas and anaerobic digestion plants \u2014 digester mixer shaft forgings, feedstock pump and valve components, and biogas compression and handling equipment forgings \u2014 engineered for corrosive hydrogen sulfide exposure and sustained mechanical duty processing organic feedstock through a biological rather than combustion-based energy conversion process. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Feedstock Pump and Valve Body Forgings",
@@ -33165,7 +33165,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Wellhead, BOP, Valve & Manifold Forgings to API 6A / NACE MR0175",
-        "description2": "JK Forge manufactures precision oil and gas equipment forgings \u2014 wellhead components, gate valve bodies, choke valve bodies, BOP segments, manifold blocks and tubing hanger forgings \u2014 in AISI 4130/4140, F22, SS316L and Inconel 625 at Shapar GIDC, Rajkot. PSL2/PSL3 documentation, NACE MR0175 sour service compliance, API 6A / API 6D. Call +91 92657 72827.",
+        "description2": "JK Forge manufactures precision oil and gas equipment forgings \u2014 wellhead components, gate valve bodies, choke valve bodies, BOP segments, manifold blocks and tubing hanger forgings \u2014 in AISI 4130/4140, F22, SS316L and Inconel 625 at Shapar GIDC, Rajkot. PSL2/PSL3 documentation, NACE MR0175 sour service compliance, API 6A / API 6D. Call +91 7600066117.",
         "components": [
             {
                 "title": "Gate Valve Body & Bonnet Forgings",
@@ -33275,7 +33275,7 @@ window.pageContent['industriesOtherData'] = {
             },
             {
                 "question": "How do I get a quotation for API oil and gas forgings from JK Forge?",
-                "answer": "Send your component drawing, material grade, API standard (6A, 6D or 16A), product specification level (PSL), NACE requirement (if sour service), inspection level (PR1/PR2) and quantity to sales@JK Forge.com or call +91 92657 72827. We will review the requirement and provide a detailed quotation including material, forging, heat treatment and inspection costs within 48 hours."
+                "answer": "Send your component drawing, material grade, API standard (6A, 6D or 16A), product specification level (PSL), NACE requirement (if sour service), inspection level (PR1/PR2) and quantity to sales@JK Forge.com or call +91 7600066117. We will review the requirement and provide a detailed quotation including material, forging, heat treatment and inspection costs within 48 hours."
             }
         ]
     },
@@ -33301,7 +33301,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Wellhead, BOP, Valve & Manifold Forgings to API 6A / NACE MR0175",
-        "description2": "JK Forge manufactures precision oil and gas equipment forgings \u2014 wellhead components, gate valve bodies, choke valve bodies, BOP segments, manifold blocks and tubing hanger forgings \u2014 in AISI 4130/4140, F22, SS316L and Inconel 625 at Shapar GIDC, Rajkot. PSL2/PSL3 documentation, NACE MR0175 sour service compliance, API 6A / API 6D. Call +91 92657 72827.",
+        "description2": "JK Forge manufactures precision oil and gas equipment forgings \u2014 wellhead components, gate valve bodies, choke valve bodies, BOP segments, manifold blocks and tubing hanger forgings \u2014 in AISI 4130/4140, F22, SS316L and Inconel 625 at Shapar GIDC, Rajkot. PSL2/PSL3 documentation, NACE MR0175 sour service compliance, API 6A / API 6D. Call +91 7600066117.",
         "components": [
             {
                 "title": "Gate Valve Body & Bonnet Forgings",
@@ -33411,7 +33411,7 @@ window.pageContent['industriesOtherData'] = {
             },
             {
                 "question": "How do I get a quotation for API oil and gas forgings from JK Forge?",
-                "answer": "Send your component drawing, material grade, API standard (6A, 6D or 16A), product specification level (PSL), NACE requirement (if sour service), inspection level (PR1/PR2) and quantity to sales@JK Forge.com or call +91 92657 72827. We will review the requirement and provide a detailed quotation including material, forging, heat treatment and inspection costs within 48 hours."
+                "answer": "Send your component drawing, material grade, API standard (6A, 6D or 16A), product specification level (PSL), NACE requirement (if sour service), inspection level (PR1/PR2) and quantity to sales@JK Forge.com or call +91 7600066117. We will review the requirement and provide a detailed quotation including material, forging, heat treatment and inspection costs within 48 hours."
             }
         ]
     },
@@ -33437,7 +33437,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Pressure Vessel Precision Forgings \u2014 ASME VIII, EN 13445, PED 2014/68/EU, API 660",
-        "description2": "JK Forge manufactures ASME Section VIII Division 1 & 2 and EN 13445-certified precision hot forgings for pressure vessel construction \u2014 nozzle neck forgings, manway flanges, hemispherical head forgings, heat exchanger channel head forgings, and shell course nozzle forgings \u2014 in ASTM A182 F11/F22/F91/F304/F316L, SA336 F1/F22, and ASTM A350 LF2/LF3 low-temperature grades. Serving Doosan Enerbility (world's #1 power plant pressure vessel OEM), Chart Industries (world's #1 cryogenic pressure vessel manufacturer), Linde Engineering, BHEL Trichy, L&T HED (Heavy Engineering Division), and API Fabricators worldwide. ASME U-stamp, PED 2014/68/EU Category IV, ISO 9001:2015, EN 10204 3.1/3.2 certified. Rajkot, Gujarat, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures ASME Section VIII Division 1 & 2 and EN 13445-certified precision hot forgings for pressure vessel construction \u2014 nozzle neck forgings, manway flanges, hemispherical head forgings, heat exchanger channel head forgings, and shell course nozzle forgings \u2014 in ASTM A182 F11/F22/F91/F304/F316L, SA336 F1/F22, and ASTM A350 LF2/LF3 low-temperature grades. Serving Doosan Enerbility (world's #1 power plant pressure vessel OEM), Chart Industries (world's #1 cryogenic pressure vessel manufacturer), Linde Engineering, BHEL Trichy, L&T HED (Heavy Engineering Division), and API Fabricators worldwide. ASME U-stamp, PED 2014/68/EU Category IV, ISO 9001:2015, EN 10204 3.1/3.2 certified. Rajkot, Gujarat, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Pressure Vessel Shell Nozzle Branch Forgings",
@@ -33561,7 +33561,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Pressure Vessel Precision Forgings \u2014 ASME VIII, EN 13445, PED 2014/68/EU, API 660",
-        "description2": "JK Forge manufactures ASME Section VIII Division 1 & 2 and EN 13445-certified precision hot forgings for pressure vessel construction \u2014 nozzle neck forgings, manway flanges, hemispherical head forgings, heat exchanger channel head forgings, and shell course nozzle forgings \u2014 in ASTM A182 F11/F22/F91/F304/F316L, SA336 F1/F22, and ASTM A350 LF2/LF3 low-temperature grades. Serving Doosan Enerbility (world's #1 power plant pressure vessel OEM), Chart Industries (world's #1 cryogenic pressure vessel manufacturer), Linde Engineering, BHEL Trichy, L&T HED (Heavy Engineering Division), and API Fabricators worldwide. ASME U-stamp, PED 2014/68/EU Category IV, ISO 9001:2015, EN 10204 3.1/3.2 certified. Rajkot, Gujarat, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures ASME Section VIII Division 1 & 2 and EN 13445-certified precision hot forgings for pressure vessel construction \u2014 nozzle neck forgings, manway flanges, hemispherical head forgings, heat exchanger channel head forgings, and shell course nozzle forgings \u2014 in ASTM A182 F11/F22/F91/F304/F316L, SA336 F1/F22, and ASTM A350 LF2/LF3 low-temperature grades. Serving Doosan Enerbility (world's #1 power plant pressure vessel OEM), Chart Industries (world's #1 cryogenic pressure vessel manufacturer), Linde Engineering, BHEL Trichy, L&T HED (Heavy Engineering Division), and API Fabricators worldwide. ASME U-stamp, PED 2014/68/EU Category IV, ISO 9001:2015, EN 10204 3.1/3.2 certified. Rajkot, Gujarat, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Pressure Vessel Shell Nozzle Branch Forgings",
@@ -33891,7 +33891,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Methanol Bunkering Vessel Forgings \u2014 Ambient-Temperature Transfer Arm, Manifold & Tank Coating-Compatible Component Forgings",
-        "description2": "JK Forge manufactures forged components for methanol bunkering vessels \u2014 the mobile ship-to-ship fuel supply fleet delivering methanol as an alternative marine fuel to methanol-fuelled ships \u2014 including transfer arm and manifold flange forgings, tank connection and valve body forgings in carbon steel and stainless steel, engineered for methanol's distinct ambient-temperature but toxicity- and material-compatibility-sensitive handling requirements, genuinely different from LNG bunkering. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for methanol bunkering vessels \u2014 the mobile ship-to-ship fuel supply fleet delivering methanol as an alternative marine fuel to methanol-fuelled ships \u2014 including transfer arm and manifold flange forgings, tank connection and valve body forgings in carbon steel and stainless steel, engineered for methanol's distinct ambient-temperature but toxicity- and material-compatibility-sensitive handling requirements, genuinely different from LNG bunkering. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Methanol Tank Connection and Valve Body Forgings",
@@ -34007,7 +34007,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Methanol Bunkering Vessel Forgings \u2014 Ambient-Temperature Transfer Arm, Manifold & Tank Coating-Compatible Component Forgings",
-        "description2": "JK Forge manufactures forged components for methanol bunkering vessels \u2014 the mobile ship-to-ship fuel supply fleet delivering methanol as an alternative marine fuel to methanol-fuelled ships \u2014 including transfer arm and manifold flange forgings, tank connection and valve body forgings in carbon steel and stainless steel, engineered for methanol's distinct ambient-temperature but toxicity- and material-compatibility-sensitive handling requirements, genuinely different from LNG bunkering. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for methanol bunkering vessels \u2014 the mobile ship-to-ship fuel supply fleet delivering methanol as an alternative marine fuel to methanol-fuelled ships \u2014 including transfer arm and manifold flange forgings, tank connection and valve body forgings in carbon steel and stainless steel, engineered for methanol's distinct ambient-temperature but toxicity- and material-compatibility-sensitive handling requirements, genuinely different from LNG bunkering. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Methanol Tank Connection and Valve Body Forgings",
@@ -34123,7 +34123,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Fertilizer Plant Precision Forgings \u2014 Urea Reactor, Ammonia Synthesis, PDH \u2014 ASME U-Stamp Certified",
-        "description2": "JK Forge manufactures ASME Section VIII, EN 13445, and PED 2014/68/EU-certified precision hot forgings for global fertilizer plants \u2014 urea reactor shell nozzle forgings in SA336 F22 Cl3 (CO2 + NH3 at 200\u00b0C, 150 bar \u2014 urea synthesis loop), urea stripper bottom head forgings in SA182 F316L UG (urea grade, low Fe content for CO2 + carbamate service), ammonia synthesis converter nozzle forgings in SA182 F22 (NH3 synthesis, 450\u00b0C, 150 bar), carbamate condenser nozzle forgings in SA182 F316L UG, and high-pressure scrubber nozzle forgings in SA182 F304L \u2014 serving IFFCO (Indian Farmers Fertiliser Cooperative \u2014 world's largest fertilizer cooperative, 15 MTPA), Tata Chemicals (Mithapur Gujarat, 530,000 t/year soda ash + urea), Coromandel International (EID Parry group \u2014 4 MTPA fertilizer), Yara International (Oslo \u2014 world's #1 fertilizer company, 36 MTPA, Porsgrunn Norway \u2014 CO2-free blue ammonia), CF Industries (Donaldsonville Louisiana \u2014 North America's largest ammonia producer, 9 MTPA), and OCI Global (Amsterdam \u2014 5 MTPA urea). ASME U-Stamp, PED 2014/68/EU, ISO 9001:2015, EN 10204 3.1/3.2. Rajkot, India. +91-9265772827.",
+        "description2": "JK Forge manufactures ASME Section VIII, EN 13445, and PED 2014/68/EU-certified precision hot forgings for global fertilizer plants \u2014 urea reactor shell nozzle forgings in SA336 F22 Cl3 (CO2 + NH3 at 200\u00b0C, 150 bar \u2014 urea synthesis loop), urea stripper bottom head forgings in SA182 F316L UG (urea grade, low Fe content for CO2 + carbamate service), ammonia synthesis converter nozzle forgings in SA182 F22 (NH3 synthesis, 450\u00b0C, 150 bar), carbamate condenser nozzle forgings in SA182 F316L UG, and high-pressure scrubber nozzle forgings in SA182 F304L \u2014 serving IFFCO (Indian Farmers Fertiliser Cooperative \u2014 world's largest fertilizer cooperative, 15 MTPA), Tata Chemicals (Mithapur Gujarat, 530,000 t/year soda ash + urea), Coromandel International (EID Parry group \u2014 4 MTPA fertilizer), Yara International (Oslo \u2014 world's #1 fertilizer company, 36 MTPA, Porsgrunn Norway \u2014 CO2-free blue ammonia), CF Industries (Donaldsonville Louisiana \u2014 North America's largest ammonia producer, 9 MTPA), and OCI Global (Amsterdam \u2014 5 MTPA urea). ASME U-Stamp, PED 2014/68/EU, ISO 9001:2015, EN 10204 3.1/3.2. Rajkot, India. +91 7600066117.",
         "components": [
             {
                 "title": "Factory Address",
@@ -34231,7 +34231,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Fertilizer Plant Precision Forgings \u2014 Urea Reactor, Ammonia Synthesis, PDH \u2014 ASME U-Stamp Certified",
-        "description2": "JK Forge manufactures ASME Section VIII, EN 13445, and PED 2014/68/EU-certified precision hot forgings for global fertilizer plants \u2014 urea reactor shell nozzle forgings in SA336 F22 Cl3 (CO2 + NH3 at 200\u00b0C, 150 bar \u2014 urea synthesis loop), urea stripper bottom head forgings in SA182 F316L UG (urea grade, low Fe content for CO2 + carbamate service), ammonia synthesis converter nozzle forgings in SA182 F22 (NH3 synthesis, 450\u00b0C, 150 bar), carbamate condenser nozzle forgings in SA182 F316L UG, and high-pressure scrubber nozzle forgings in SA182 F304L \u2014 serving IFFCO (Indian Farmers Fertiliser Cooperative \u2014 world's largest fertilizer cooperative, 15 MTPA), Tata Chemicals (Mithapur Gujarat, 530,000 t/year soda ash + urea), Coromandel International (EID Parry group \u2014 4 MTPA fertilizer), Yara International (Oslo \u2014 world's #1 fertilizer company, 36 MTPA, Porsgrunn Norway \u2014 CO2-free blue ammonia), CF Industries (Donaldsonville Louisiana \u2014 North America's largest ammonia producer, 9 MTPA), and OCI Global (Amsterdam \u2014 5 MTPA urea). ASME U-Stamp, PED 2014/68/EU, ISO 9001:2015, EN 10204 3.1/3.2. Rajkot, India. +91-9265772827.",
+        "description2": "JK Forge manufactures ASME Section VIII, EN 13445, and PED 2014/68/EU-certified precision hot forgings for global fertilizer plants \u2014 urea reactor shell nozzle forgings in SA336 F22 Cl3 (CO2 + NH3 at 200\u00b0C, 150 bar \u2014 urea synthesis loop), urea stripper bottom head forgings in SA182 F316L UG (urea grade, low Fe content for CO2 + carbamate service), ammonia synthesis converter nozzle forgings in SA182 F22 (NH3 synthesis, 450\u00b0C, 150 bar), carbamate condenser nozzle forgings in SA182 F316L UG, and high-pressure scrubber nozzle forgings in SA182 F304L \u2014 serving IFFCO (Indian Farmers Fertiliser Cooperative \u2014 world's largest fertilizer cooperative, 15 MTPA), Tata Chemicals (Mithapur Gujarat, 530,000 t/year soda ash + urea), Coromandel International (EID Parry group \u2014 4 MTPA fertilizer), Yara International (Oslo \u2014 world's #1 fertilizer company, 36 MTPA, Porsgrunn Norway \u2014 CO2-free blue ammonia), CF Industries (Donaldsonville Louisiana \u2014 North America's largest ammonia producer, 9 MTPA), and OCI Global (Amsterdam \u2014 5 MTPA urea). ASME U-Stamp, PED 2014/68/EU, ISO 9001:2015, EN 10204 3.1/3.2. Rajkot, India. +91 7600066117.",
         "components": [
             {
                 "title": "Factory Address",
@@ -34339,7 +34339,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Nuclear Fusion Forgings \u2014 Tokamak Vacuum Vessel Sectors, Magnet Support Structures, Blanket Components",
-        "description2": "JK Forge manufactures specialty forgings for nuclear fusion research and emerging commercial fusion energy programmes \u2014 vacuum vessel sector structural forgings, superconducting magnet support structure components, and blanket module structural forgings \u2014 in austenitic stainless steel and reduced-activation structural materials engineered for fusion's unique combination of ultra-high vacuum, cryogenic magnet proximity, and neutron exposure requirements. EN 10204 3.1/3.2 certification, full material traceability. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures specialty forgings for nuclear fusion research and emerging commercial fusion energy programmes \u2014 vacuum vessel sector structural forgings, superconducting magnet support structure components, and blanket module structural forgings \u2014 in austenitic stainless steel and reduced-activation structural materials engineered for fusion's unique combination of ultra-high vacuum, cryogenic magnet proximity, and neutron exposure requirements. EN 10204 3.1/3.2 certification, full material traceability. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Superconducting Magnet Support Structure Forgings",
@@ -34463,7 +34463,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Nuclear Fusion Forgings \u2014 Tokamak Vacuum Vessel Sectors, Magnet Support Structures, Blanket Components",
-        "description2": "JK Forge manufactures specialty forgings for nuclear fusion research and emerging commercial fusion energy programmes \u2014 vacuum vessel sector structural forgings, superconducting magnet support structure components, and blanket module structural forgings \u2014 in austenitic stainless steel and reduced-activation structural materials engineered for fusion's unique combination of ultra-high vacuum, cryogenic magnet proximity, and neutron exposure requirements. EN 10204 3.1/3.2 certification, full material traceability. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures specialty forgings for nuclear fusion research and emerging commercial fusion energy programmes \u2014 vacuum vessel sector structural forgings, superconducting magnet support structure components, and blanket module structural forgings \u2014 in austenitic stainless steel and reduced-activation structural materials engineered for fusion's unique combination of ultra-high vacuum, cryogenic magnet proximity, and neutron exposure requirements. EN 10204 3.1/3.2 certification, full material traceability. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Superconducting Magnet Support Structure Forgings",
@@ -34875,7 +34875,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content LNG Terminal Forgings \u2014 Cryogenic Valve Bodies, Flanges & Pipeline Fittings for \u2212162\u00b0C Service",
-        "description2": "JK Forge manufactures cryogenic-grade forgings for LNG (liquefied natural gas) liquefaction and regasification terminals \u2014 valve body and flange forgings in 9% nickel steel and 304L/316L stainless steel, rated for the \u2212162\u00b0C liquid natural gas storage and process temperature, alongside carbon steel forgings for ambient-temperature balance-of-plant piping. ISO 9001:2015 certified, EN 10204 3.1/3.2 documentation, ASME B16.5/B16.34 cryogenic service compliance. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures cryogenic-grade forgings for LNG (liquefied natural gas) liquefaction and regasification terminals \u2014 valve body and flange forgings in 9% nickel steel and 304L/316L stainless steel, rated for the \u2212162\u00b0C liquid natural gas storage and process temperature, alongside carbon steel forgings for ambient-temperature balance-of-plant piping. ISO 9001:2015 certified, EN 10204 3.1/3.2 documentation, ASME B16.5/B16.34 cryogenic service compliance. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "LNG Loading Arm and Jetty Piping Flanges",
@@ -34995,7 +34995,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content LNG Terminal Forgings \u2014 Cryogenic Valve Bodies, Flanges & Pipeline Fittings for \u2212162\u00b0C Service",
-        "description2": "JK Forge manufactures cryogenic-grade forgings for LNG (liquefied natural gas) liquefaction and regasification terminals \u2014 valve body and flange forgings in 9% nickel steel and 304L/316L stainless steel, rated for the \u2212162\u00b0C liquid natural gas storage and process temperature, alongside carbon steel forgings for ambient-temperature balance-of-plant piping. ISO 9001:2015 certified, EN 10204 3.1/3.2 documentation, ASME B16.5/B16.34 cryogenic service compliance. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures cryogenic-grade forgings for LNG (liquefied natural gas) liquefaction and regasification terminals \u2014 valve body and flange forgings in 9% nickel steel and 304L/316L stainless steel, rated for the \u2212162\u00b0C liquid natural gas storage and process temperature, alongside carbon steel forgings for ambient-temperature balance-of-plant piping. ISO 9001:2015 certified, EN 10204 3.1/3.2 documentation, ASME B16.5/B16.34 cryogenic service compliance. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "LNG Loading Arm and Jetty Piping Flanges",
@@ -35635,7 +35635,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content EV Battery Recycling Forgings \u2014 Shredding Line, Disassembly & Material Handling Components for End-of-Life Battery Processing",
-        "description2": "JK Forge manufactures forged components for EV battery recycling equipment \u2014 shredding and disassembly line components and material handling components \u2014 serving the emerging downstream recycling and material-recovery industry as electric vehicle batteries reach end-of-life at increasing scale. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for EV battery recycling equipment \u2014 shredding and disassembly line components and material handling components \u2014 serving the emerging downstream recycling and material-recovery industry as electric vehicle batteries reach end-of-life at increasing scale. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Full Dimensional and Material Certification",
@@ -35743,7 +35743,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content EV Battery Recycling Forgings \u2014 Shredding Line, Disassembly & Material Handling Components for End-of-Life Battery Processing",
-        "description2": "JK Forge manufactures forged components for EV battery recycling equipment \u2014 shredding and disassembly line components and material handling components \u2014 serving the emerging downstream recycling and material-recovery industry as electric vehicle batteries reach end-of-life at increasing scale. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for EV battery recycling equipment \u2014 shredding and disassembly line components and material handling components \u2014 serving the emerging downstream recycling and material-recovery industry as electric vehicle batteries reach end-of-life at increasing scale. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Full Dimensional and Material Certification",
@@ -35851,7 +35851,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Geothermal Heat Pump Forgings \u2014 Ground Loop Header, Compressor Mount & Manifold Component Forgings for Building-Scale HVAC",
-        "description2": "JK Forge manufactures forged components for geothermal (ground-source) heat pump equipment \u2014 ground loop header and manifold forgings, compressor mount and refrigerant fitting forgings, and distribution piping flanges for the building-scale heating and cooling technology genuinely distinct from utility-scale geothermal power generation. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for geothermal (ground-source) heat pump equipment \u2014 ground loop header and manifold forgings, compressor mount and refrigerant fitting forgings, and distribution piping flanges for the building-scale heating and cooling technology genuinely distinct from utility-scale geothermal power generation. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Compressor Mount and Structural Bracket Forgings",
@@ -35975,7 +35975,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Geothermal Heat Pump Forgings \u2014 Ground Loop Header, Compressor Mount & Manifold Component Forgings for Building-Scale HVAC",
-        "description2": "JK Forge manufactures forged components for geothermal (ground-source) heat pump equipment \u2014 ground loop header and manifold forgings, compressor mount and refrigerant fitting forgings, and distribution piping flanges for the building-scale heating and cooling technology genuinely distinct from utility-scale geothermal power generation. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for geothermal (ground-source) heat pump equipment \u2014 ground loop header and manifold forgings, compressor mount and refrigerant fitting forgings, and distribution piping flanges for the building-scale heating and cooling technology genuinely distinct from utility-scale geothermal power generation. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Compressor Mount and Structural Bracket Forgings",
@@ -36099,7 +36099,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Aggregate Quarrying Forgings \u2014 Jaw Crusher Toggle, Cone Crusher Mainshaft & Vibrating Screen Component Forgings",
-        "description2": "JK Forge manufactures forged components for aggregate quarrying, crushing, and screening equipment \u2014 jaw crusher toggle plate and pitman shaft forgings, cone and gyratory crusher mainshaft components, and vibrating screen shaft and eccentric forgings \u2014 engineered for the continuous impact and abrasive wear crushing and screening quarried stone and aggregate produces. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for aggregate quarrying, crushing, and screening equipment \u2014 jaw crusher toggle plate and pitman shaft forgings, cone and gyratory crusher mainshaft components, and vibrating screen shaft and eccentric forgings \u2014 engineered for the continuous impact and abrasive wear crushing and screening quarried stone and aggregate produces. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Cone and Gyratory Crusher Mainshaft Forgings",
@@ -36219,7 +36219,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Aggregate Quarrying Forgings \u2014 Jaw Crusher Toggle, Cone Crusher Mainshaft & Vibrating Screen Component Forgings",
-        "description2": "JK Forge manufactures forged components for aggregate quarrying, crushing, and screening equipment \u2014 jaw crusher toggle plate and pitman shaft forgings, cone and gyratory crusher mainshaft components, and vibrating screen shaft and eccentric forgings \u2014 engineered for the continuous impact and abrasive wear crushing and screening quarried stone and aggregate produces. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for aggregate quarrying, crushing, and screening equipment \u2014 jaw crusher toggle plate and pitman shaft forgings, cone and gyratory crusher mainshaft components, and vibrating screen shaft and eccentric forgings \u2014 engineered for the continuous impact and abrasive wear crushing and screening quarried stone and aggregate produces. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Cone and Gyratory Crusher Mainshaft Forgings",
@@ -36339,7 +36339,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Aluminum Smelter Forgings \u2014 Anode Assembly, Busbar & Pot Line Structural Component Forgings",
-        "description2": "JK Forge manufactures forged components for aluminum smelting equipment \u2014 anode yoke and stub assembly forgings, busbar connector forgings, and pot line structural and handling equipment components \u2014 engineered for the high electrical current, high operating temperature, and corrosive molten cryolite bath environment the Hall-Heroult electrolysis process presents. Copper alloy, steel, and aluminum options by application. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for aluminum smelting equipment \u2014 anode yoke and stub assembly forgings, busbar connector forgings, and pot line structural and handling equipment components \u2014 engineered for the high electrical current, high operating temperature, and corrosive molten cryolite bath environment the Hall-Heroult electrolysis process presents. Copper alloy, steel, and aluminum options by application. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Busbar Connector Forgings",
@@ -36463,7 +36463,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Aluminum Smelter Forgings \u2014 Anode Assembly, Busbar & Pot Line Structural Component Forgings",
-        "description2": "JK Forge manufactures forged components for aluminum smelting equipment \u2014 anode yoke and stub assembly forgings, busbar connector forgings, and pot line structural and handling equipment components \u2014 engineered for the high electrical current, high operating temperature, and corrosive molten cryolite bath environment the Hall-Heroult electrolysis process presents. Copper alloy, steel, and aluminum options by application. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for aluminum smelting equipment \u2014 anode yoke and stub assembly forgings, busbar connector forgings, and pot line structural and handling equipment components \u2014 engineered for the high electrical current, high operating temperature, and corrosive molten cryolite bath environment the Hall-Heroult electrolysis process presents. Copper alloy, steel, and aluminum options by application. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Busbar Connector Forgings",
@@ -36587,7 +36587,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Copper Mining Forgings \u2014 Concentrator, Flotation & SX-EW Processing Equipment Components for a Growing Electrification Demand",
-        "description2": "JK Forge manufactures forged components for copper mining and processing equipment \u2014 crushing, grinding, and flotation concentrator components, and solvent extraction-electrowinning (SX-EW) processing equipment forgings \u2014 supporting a copper supply chain under sustained demand growth from electrification and EV manufacturing. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for copper mining and processing equipment \u2014 crushing, grinding, and flotation concentrator components, and solvent extraction-electrowinning (SX-EW) processing equipment forgings \u2014 supporting a copper supply chain under sustained demand growth from electrification and EV manufacturing. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Flotation Circuit Component Forgings",
@@ -36707,7 +36707,7 @@ window.pageContent['industriesOtherData'] = {
             }
         ],
         "description1": "Skip to main content Copper Mining Forgings \u2014 Concentrator, Flotation & SX-EW Processing Equipment Components for a Growing Electrification Demand",
-        "description2": "JK Forge manufactures forged components for copper mining and processing equipment \u2014 crushing, grinding, and flotation concentrator components, and solvent extraction-electrowinning (SX-EW) processing equipment forgings \u2014 supporting a copper supply chain under sustained demand growth from electrification and EV manufacturing. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for copper mining and processing equipment \u2014 crushing, grinding, and flotation concentrator components, and solvent extraction-electrowinning (SX-EW) processing equipment forgings \u2014 supporting a copper supply chain under sustained demand growth from electrification and EV manufacturing. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Flotation Circuit Component Forgings",

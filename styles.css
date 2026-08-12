@@ -1,5 +1,49 @@
 
 /* ==========================================================================
+   Refined JK Forge Site Theme Color Palette & Component Styling
+   ========================================================================== */
+
+/* Hide WhatsApp Floating Icon */
+.whatsapp-float, a.whatsapp-float, a[href*="wa.me"], a[aria-label*="WhatsApp"] {
+    display: none !important;
+    visibility: hidden !important;
+    opacity: 0 !important;
+    pointer-events: none !important;
+}
+
+/* Rich Navy Section Backgrounds & Gradients */
+.bg-navy, .section-pad.bg-navy, hero, .hero-section {
+    background: linear-gradient(135deg, #050914 0%, #0c2b5e 55%, #081d3d 100%) !important;
+    color: #ffffff !important;
+}
+
+/* Button Color Combination */
+.btn--ember, .btn-primary, button.bg-secondary, a.bg-secondary {
+    background: linear-gradient(135deg, #1363a6 0%, #0f4f85 100%) !important;
+    border: 1px solid #1363a6 !important;
+    color: #ffffff !important;
+    box-shadow: 0 4px 14px rgba(19, 99, 166, 0.35) !important;
+}
+
+.btn--ember:hover, .btn-primary:hover, button.bg-secondary:hover, a.bg-secondary:hover {
+    background: linear-gradient(135deg, #0c2b5e 0%, #050914 100%) !important;
+    border-color: #0c2b5e !important;
+    box-shadow: 0 6px 20px rgba(12, 43, 94, 0.5) !important;
+}
+
+/* Card Styling & Theme Borders */
+.info-card, .card-dark {
+    background: rgba(5, 9, 20, 0.95) !important;
+    border: 1px solid rgba(19, 99, 166, 0.3) !important;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25) !important;
+}
+
+.eyebrow, .eyebrow--light {
+    color: #1363a6 !important;
+}
+
+
+/* ==========================================================================
    JK Forge Official Website Theme - Typography, Buttons & Card Styles
    ========================================================================== */
 

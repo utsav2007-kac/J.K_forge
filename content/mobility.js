@@ -295,7 +295,7 @@ window.pageContent['mobilityData'] = {
             }
         ],
         "description1": "Skip to main content Hydrogen Fuel Cell Vehicle Forgings \u2014 Fuel Cell Stack Compression Frame, H2 Storage Tank Mounting & Drivetrain Component Forgings",
-        "description2": "JK Forge manufactures forged components for hydrogen fuel cell electric vehicles (FCEVs) \u2014 fuel cell stack compression frame forgings, high-pressure hydrogen storage tank mounting bracket forgings, and e-motor and reduction gearbox drivetrain forgings, distinct from both battery-electric vehicle components and hydrogen production/electrolyzer equipment forgings. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for hydrogen fuel cell electric vehicles (FCEVs) \u2014 fuel cell stack compression frame forgings, high-pressure hydrogen storage tank mounting bracket forgings, and e-motor and reduction gearbox drivetrain forgings, distinct from both battery-electric vehicle components and hydrogen production/electrolyzer equipment forgings. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Full Dimensional and Material Certification",
@@ -403,7 +403,7 @@ window.pageContent['mobilityData'] = {
             }
         ],
         "description1": "Skip to main content Hydrogen Fuel Cell Vehicle Forgings \u2014 Fuel Cell Stack Compression Frame, H2 Storage Tank Mounting & Drivetrain Component Forgings",
-        "description2": "JK Forge manufactures forged components for hydrogen fuel cell electric vehicles (FCEVs) \u2014 fuel cell stack compression frame forgings, high-pressure hydrogen storage tank mounting bracket forgings, and e-motor and reduction gearbox drivetrain forgings, distinct from both battery-electric vehicle components and hydrogen production/electrolyzer equipment forgings. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for hydrogen fuel cell electric vehicles (FCEVs) \u2014 fuel cell stack compression frame forgings, high-pressure hydrogen storage tank mounting bracket forgings, and e-motor and reduction gearbox drivetrain forgings, distinct from both battery-electric vehicle components and hydrogen production/electrolyzer equipment forgings. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Full Dimensional and Material Certification",
@@ -893,7 +893,7 @@ window.pageContent['mobilityData'] = {
             },
             {
                 "question": "How do I enquire about truck parts forging for my fleet or OEM program?",
-                "answer": "Send your part drawings, material specifications, required quantity, and delivery requirements to sales@JK Forge.com. For aftermarket parts, a physical sample or OEM part number with make/model details is sufficient to start the reverse engineering and quotation process. Call +91 92657 72827 for immediate assistance."
+                "answer": "Send your part drawings, material specifications, required quantity, and delivery requirements to sales@JK Forge.com. For aftermarket parts, a physical sample or OEM part number with make/model details is sufficient to start the reverse engineering and quotation process. Call +91 7600066117 for immediate assistance."
             }
         ]
     },
@@ -1029,7 +1029,7 @@ window.pageContent['mobilityData'] = {
             },
             {
                 "question": "How do I enquire about truck parts forging for my fleet or OEM program?",
-                "answer": "Send your part drawings, material specifications, required quantity, and delivery requirements to sales@JK Forge.com. For aftermarket parts, a physical sample or OEM part number with make/model details is sufficient to start the reverse engineering and quotation process. Call +91 92657 72827 for immediate assistance."
+                "answer": "Send your part drawings, material specifications, required quantity, and delivery requirements to sales@JK Forge.com. For aftermarket parts, a physical sample or OEM part number with make/model details is sufficient to start the reverse engineering and quotation process. Call +91 7600066117 for immediate assistance."
             }
         ]
     },
@@ -1655,7 +1655,7 @@ window.pageContent['mobilityData'] = {
             }
         ],
         "description1": "Skip to main content Tier 1 Automotive Forging Supplier \u2014 IATF 16949 Certified, PPAP-Compliant Component Manufacturing from India",
-        "description2": "JK Forge supplies forged components directly to Tier 1 automotive manufacturers \u2014 IATF 16949 quality management certification, full PPAP (Production Part Approval Process) documentation, and India-based manufacturing cost advantage for OEM-programme-volume component supply. Steering, suspension, drivetrain and braking system forgings. Rajkot, Gujarat, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies forged components directly to Tier 1 automotive manufacturers \u2014 IATF 16949 quality management certification, full PPAP (Production Part Approval Process) documentation, and India-based manufacturing cost advantage for OEM-programme-volume component supply. Steering, suspension, drivetrain and braking system forgings. Rajkot, Gujarat, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Drivetrain Component Forgings",
@@ -1775,7 +1775,7 @@ window.pageContent['mobilityData'] = {
             }
         ],
         "description1": "Skip to main content Tier 1 Automotive Forging Supplier \u2014 IATF 16949 Certified, PPAP-Compliant Component Manufacturing from India",
-        "description2": "JK Forge supplies forged components directly to Tier 1 automotive manufacturers \u2014 IATF 16949 quality management certification, full PPAP (Production Part Approval Process) documentation, and India-based manufacturing cost advantage for OEM-programme-volume component supply. Steering, suspension, drivetrain and braking system forgings. Rajkot, Gujarat, India. Call +91-9265772827.",
+        "description2": "JK Forge supplies forged components directly to Tier 1 automotive manufacturers \u2014 IATF 16949 quality management certification, full PPAP (Production Part Approval Process) documentation, and India-based manufacturing cost advantage for OEM-programme-volume component supply. Steering, suspension, drivetrain and braking system forgings. Rajkot, Gujarat, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Drivetrain Component Forgings",
@@ -1895,7 +1895,7 @@ window.pageContent['mobilityData'] = {
             }
         ],
         "description1": "Skip to main content Railway Precision Forgings \u2014 AAR, EN 13261, IS Standards \u2014 Indian Railways, Wabtec, Alstom",
-        "description2": "JK Forge manufactures EN 13261/AAR M-102 certified railway axle forgings (34CrNiMo6, EA1N, EA4T), AAR Class C/D wheel forgings (Rm \u2265900 MPa, hardness 255\u2013321 HB), bogie bolster and side frame forgings in B+ grade cast steel equivalent wrought, draw hook coupler body forgings in AAR M-211 alloy steel, and traction motor shaft forgings in 34CrNiMo6 \u2014 serving Indian Railways (world's 4th largest railway by route km, 100,000+ km, 13,000+ daily trains), Wabtec Corporation (world's #1 freight locomotive OEM, 1,000+ locomotives/year), Alstom (ONIX/Pendolino), Knorr-Bremse (world's #1 railway brake OEM), Bharat Forge (joint forging supply), and CRRC. ISO 9001:2015, EN 10204 3.1, AAR M-1003 qualified. Rajkot, Gujarat, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures EN 13261/AAR M-102 certified railway axle forgings (34CrNiMo6, EA1N, EA4T), AAR Class C/D wheel forgings (Rm \u2265900 MPa, hardness 255\u2013321 HB), bogie bolster and side frame forgings in B+ grade cast steel equivalent wrought, draw hook coupler body forgings in AAR M-211 alloy steel, and traction motor shaft forgings in 34CrNiMo6 \u2014 serving Indian Railways (world's 4th largest railway by route km, 100,000+ km, 13,000+ daily trains), Wabtec Corporation (world's #1 freight locomotive OEM, 1,000+ locomotives/year), Alstom (ONIX/Pendolino), Knorr-Bremse (world's #1 railway brake OEM), Bharat Forge (joint forging supply), and CRRC. ISO 9001:2015, EN 10204 3.1, AAR M-1003 qualified. Rajkot, Gujarat, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Railway Wheel Forgings \u2014 AAR Class C/D, UIC 812-3",
@@ -2027,7 +2027,7 @@ window.pageContent['mobilityData'] = {
             }
         ],
         "description1": "Skip to main content Railway Precision Forgings \u2014 AAR, EN 13261, IS Standards \u2014 Indian Railways, Wabtec, Alstom",
-        "description2": "JK Forge manufactures EN 13261/AAR M-102 certified railway axle forgings (34CrNiMo6, EA1N, EA4T), AAR Class C/D wheel forgings (Rm \u2265900 MPa, hardness 255\u2013321 HB), bogie bolster and side frame forgings in B+ grade cast steel equivalent wrought, draw hook coupler body forgings in AAR M-211 alloy steel, and traction motor shaft forgings in 34CrNiMo6 \u2014 serving Indian Railways (world's 4th largest railway by route km, 100,000+ km, 13,000+ daily trains), Wabtec Corporation (world's #1 freight locomotive OEM, 1,000+ locomotives/year), Alstom (ONIX/Pendolino), Knorr-Bremse (world's #1 railway brake OEM), Bharat Forge (joint forging supply), and CRRC. ISO 9001:2015, EN 10204 3.1, AAR M-1003 qualified. Rajkot, Gujarat, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures EN 13261/AAR M-102 certified railway axle forgings (34CrNiMo6, EA1N, EA4T), AAR Class C/D wheel forgings (Rm \u2265900 MPa, hardness 255\u2013321 HB), bogie bolster and side frame forgings in B+ grade cast steel equivalent wrought, draw hook coupler body forgings in AAR M-211 alloy steel, and traction motor shaft forgings in 34CrNiMo6 \u2014 serving Indian Railways (world's 4th largest railway by route km, 100,000+ km, 13,000+ daily trains), Wabtec Corporation (world's #1 freight locomotive OEM, 1,000+ locomotives/year), Alstom (ONIX/Pendolino), Knorr-Bremse (world's #1 railway brake OEM), Bharat Forge (joint forging supply), and CRRC. ISO 9001:2015, EN 10204 3.1, AAR M-1003 qualified. Rajkot, Gujarat, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Railway Wheel Forgings \u2014 AAR Class C/D, UIC 812-3",
@@ -2397,7 +2397,7 @@ window.pageContent['mobilityData'] = {
         "faqs": [
             {
                 "question": "Who manufactures forged automotive parts in Rajkot?",
-                "answer": "JK Forge at Shapar, Rajkot, Gujarat manufactures precision forged automotive components including wheel hubs, axle shafts, stub axles, king pins, and steering knuckles. Contact +91-9265772827 for a quote."
+                "answer": "JK Forge at Shapar, Rajkot, Gujarat manufactures precision forged automotive components including wheel hubs, axle shafts, stub axles, king pins, and steering knuckles. Contact +91 7600066117 for a quote."
             },
             {
                 "question": "What automotive forging components does JK Forge make?",
@@ -2405,11 +2405,11 @@ window.pageContent['mobilityData'] = {
             },
             {
                 "question": "Does JK Forge supply automotive OEM forging?",
-                "answer": "Yes. JK Forge specializes in OEM automotive forging from customer drawings and specifications. We serve both passenger car and commercial vehicle OEM suppliers across India. Email sales@JK Forge.com or call +91-9265772827."
+                "answer": "Yes. JK Forge specializes in OEM automotive forging from customer drawings and specifications. We serve both passenger car and commercial vehicle OEM suppliers across India. Email sales@JK Forge.com or call +91 7600066117."
             },
             {
                 "question": "What is the price of automotive forged parts in Rajkot?",
-                "answer": "Automotive forging prices depend on component type, material grade, quantity, and machining requirements. Contact JK Forge at +91-9265772827 or sales@JK Forge.com with your drawing for a competitive price from our Rajkot facility."
+                "answer": "Automotive forging prices depend on component type, material grade, quantity, and machining requirements. Contact JK Forge at +91 7600066117 or sales@JK Forge.com with your drawing for a competitive price from our Rajkot facility."
             }
         ]
     },
@@ -2435,7 +2435,7 @@ window.pageContent['mobilityData'] = {
             }
         ],
         "description1": "Skip to main content Composite Curing Autoclave Forgings \u2014 Pressure Vessel Door, Flange & Door-Locking Ring Component Forgings for Carbon Fiber Cure Cycles",
-        "description2": "JK Forge manufactures forged components for carbon fiber composite curing autoclaves \u2014 pressure vessel door forgings, main shell flange forgings, and door-locking ring component forgings for the high-pressure, high-temperature pressure vessels aerospace and industrial composite manufacturers use to cure carbon fiber parts, engineered for repeated pressure cycling and reliable door-sealing integrity. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for carbon fiber composite curing autoclaves \u2014 pressure vessel door forgings, main shell flange forgings, and door-locking ring component forgings for the high-pressure, high-temperature pressure vessels aerospace and industrial composite manufacturers use to cure carbon fiber parts, engineered for repeated pressure cycling and reliable door-sealing integrity. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Main Shell Flange Forgings",
@@ -2559,7 +2559,7 @@ window.pageContent['mobilityData'] = {
             }
         ],
         "description1": "Skip to main content Composite Curing Autoclave Forgings \u2014 Pressure Vessel Door, Flange & Door-Locking Ring Component Forgings for Carbon Fiber Cure Cycles",
-        "description2": "JK Forge manufactures forged components for carbon fiber composite curing autoclaves \u2014 pressure vessel door forgings, main shell flange forgings, and door-locking ring component forgings for the high-pressure, high-temperature pressure vessels aerospace and industrial composite manufacturers use to cure carbon fiber parts, engineered for repeated pressure cycling and reliable door-sealing integrity. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for carbon fiber composite curing autoclaves \u2014 pressure vessel door forgings, main shell flange forgings, and door-locking ring component forgings for the high-pressure, high-temperature pressure vessels aerospace and industrial composite manufacturers use to cure carbon fiber parts, engineered for repeated pressure cycling and reliable door-sealing integrity. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Main Shell Flange Forgings",
@@ -2765,7 +2765,7 @@ window.pageContent['mobilityData'] = {
         "faqs": [
             {
                 "question": "Who manufactures forged tractor parts in Rajkot?",
-                "answer": "JK Forge in Shapar, Rajkot, Gujarat manufactures precision forged tractor parts including tractor hubs, spindles, PTO shafts, front axles, and implement components. Contact +91-9265772827 or sales@JK Forge.com for a quote."
+                "answer": "JK Forge in Shapar, Rajkot, Gujarat manufactures precision forged tractor parts including tractor hubs, spindles, PTO shafts, front axles, and implement components. Contact +91 7600066117 or sales@JK Forge.com for a quote."
             },
             {
                 "question": "What tractor parts does JK Forge manufacture?",
@@ -2773,7 +2773,7 @@ window.pageContent['mobilityData'] = {
             },
             {
                 "question": "Can JK Forge make custom forged tractor parts?",
-                "answer": "Yes. JK Forge specializes in custom OEM tractor parts forging. We produce components from customer drawings and specifications in our Shapar, Rajkot facility. Send your drawing to sales@JK Forge.com or call +91-9265772827."
+                "answer": "Yes. JK Forge specializes in custom OEM tractor parts forging. We produce components from customer drawings and specifications in our Shapar, Rajkot facility. Send your drawing to sales@JK Forge.com or call +91 7600066117."
             }
         ]
     },
@@ -2881,7 +2881,7 @@ window.pageContent['mobilityData'] = {
         "faqs": [
             {
                 "question": "Who manufactures forged tractor parts in Rajkot?",
-                "answer": "JK Forge in Shapar, Rajkot, Gujarat manufactures precision forged tractor parts including tractor hubs, spindles, PTO shafts, front axles, and implement components. Contact +91-9265772827 or sales@JK Forge.com for a quote."
+                "answer": "JK Forge in Shapar, Rajkot, Gujarat manufactures precision forged tractor parts including tractor hubs, spindles, PTO shafts, front axles, and implement components. Contact +91 7600066117 or sales@JK Forge.com for a quote."
             },
             {
                 "question": "What tractor parts does JK Forge manufacture?",
@@ -2889,7 +2889,7 @@ window.pageContent['mobilityData'] = {
             },
             {
                 "question": "Can JK Forge make custom forged tractor parts?",
-                "answer": "Yes. JK Forge specializes in custom OEM tractor parts forging. We produce components from customer drawings and specifications in our Shapar, Rajkot facility. Send your drawing to sales@JK Forge.com or call +91-9265772827."
+                "answer": "Yes. JK Forge specializes in custom OEM tractor parts forging. We produce components from customer drawings and specifications in our Shapar, Rajkot facility. Send your drawing to sales@JK Forge.com or call +91 7600066117."
             }
         ]
     },

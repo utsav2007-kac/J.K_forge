@@ -23,7 +23,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Slack Adjuster Forgings \u2014 Converts Chamber Pushrod Force Into S-Cam Rotation While Compensating for Lining Wear Automatically",
-        "description2": "JK Forge manufactures forged air brake slack adjuster body and arm components \u2014 the lever mechanism connecting the brake chamber pushrod to the S-camshaft, converting linear actuation force into brake shoe engagement torque while internally compensating for brake lining wear as it accumulates. Automatic and manual slack adjuster body forgings for heavy truck and trailer applications. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged air brake slack adjuster body and arm components \u2014 the lever mechanism connecting the brake chamber pushrod to the S-camshaft, converting linear actuation force into brake shoe engagement torque while internally compensating for brake lining wear as it accumulates. Automatic and manual slack adjuster body forgings for heavy truck and trailer applications. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Manual Slack Adjuster Body Forgings",
@@ -147,7 +147,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Slack Adjuster Forgings \u2014 Converts Chamber Pushrod Force Into S-Cam Rotation While Compensating for Lining Wear Automatically",
-        "description2": "JK Forge manufactures forged air brake slack adjuster body and arm components \u2014 the lever mechanism connecting the brake chamber pushrod to the S-camshaft, converting linear actuation force into brake shoe engagement torque while internally compensating for brake lining wear as it accumulates. Automatic and manual slack adjuster body forgings for heavy truck and trailer applications. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged air brake slack adjuster body and arm components \u2014 the lever mechanism connecting the brake chamber pushrod to the S-camshaft, converting linear actuation force into brake shoe engagement torque while internally compensating for brake lining wear as it accumulates. Automatic and manual slack adjuster body forgings for heavy truck and trailer applications. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Manual Slack Adjuster Body Forgings",
@@ -271,7 +271,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Rocker Shaft Forgings \u2014 Pedestal-Mounted Pivot Shafts for Overhead Valve Rocker Arm Assemblies",
-        "description2": "JK Forge manufactures forged rocker shaft blanks \u2014 the pedestal-mounted pivot shaft that individual rocker arms oscillate on in overhead-valve pushrod engines, carrying simultaneous bending load from every valve event along its length while sustaining oscillating, non-rotating bearing contact at each rocker arm station. Distinct from the rocker arm itself. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged rocker shaft blanks \u2014 the pedestal-mounted pivot shaft that individual rocker arms oscillate on in overhead-valve pushrod engines, carrying simultaneous bending load from every valve event along its length while sustaining oscillating, non-rotating bearing contact at each rocker arm station. Distinct from the rocker arm itself. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Segmented Pedestal-Mount Shaft Forgings",
@@ -395,7 +395,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Rocker Shaft Forgings \u2014 Pedestal-Mounted Pivot Shafts for Overhead Valve Rocker Arm Assemblies",
-        "description2": "JK Forge manufactures forged rocker shaft blanks \u2014 the pedestal-mounted pivot shaft that individual rocker arms oscillate on in overhead-valve pushrod engines, carrying simultaneous bending load from every valve event along its length while sustaining oscillating, non-rotating bearing contact at each rocker arm station. Distinct from the rocker arm itself. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged rocker shaft blanks \u2014 the pedestal-mounted pivot shaft that individual rocker arms oscillate on in overhead-valve pushrod engines, carrying simultaneous bending load from every valve event along its length while sustaining oscillating, non-rotating bearing contact at each rocker arm station. Distinct from the rocker arm itself. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Segmented Pedestal-Mount Shaft Forgings",
@@ -519,7 +519,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Leaf Spring Shackle Forgings \u2014 Shackle Plates & Pins for Commercial Vehicle & Trailer Suspension Systems",
-        "description2": "JK Forge manufactures forged leaf spring shackle components \u2014 shackle plates and shackle pins \u2014 accommodating the effective length change of a leaf spring as it flexes under load in commercial truck, trailer, and off-highway suspension systems. Distinct from rigging shackle hardware \u2014 precision bushing bore geometry, EN24 and SAE 4140 grades. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged leaf spring shackle components \u2014 shackle plates and shackle pins \u2014 accommodating the effective length change of a leaf spring as it flexes under load in commercial truck, trailer, and off-highway suspension systems. Distinct from rigging shackle hardware \u2014 precision bushing bore geometry, EN24 and SAE 4140 grades. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Shackle Pin Forgings",
@@ -643,7 +643,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Leaf Spring Shackle Forgings \u2014 Shackle Plates & Pins for Commercial Vehicle & Trailer Suspension Systems",
-        "description2": "JK Forge manufactures forged leaf spring shackle components \u2014 shackle plates and shackle pins \u2014 accommodating the effective length change of a leaf spring as it flexes under load in commercial truck, trailer, and off-highway suspension systems. Distinct from rigging shackle hardware \u2014 precision bushing bore geometry, EN24 and SAE 4140 grades. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged leaf spring shackle components \u2014 shackle plates and shackle pins \u2014 accommodating the effective length change of a leaf spring as it flexes under load in commercial truck, trailer, and off-highway suspension systems. Distinct from rigging shackle hardware \u2014 precision bushing bore geometry, EN24 and SAE 4140 grades. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Shackle Pin Forgings",
@@ -767,7 +767,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Excavator Arm Pin Forgings \u2014 Boom, Stick & Bucket Linkage Pins for Force-Multiplied Digging Duty",
-        "description2": "JK Forge manufactures forged articulation pins for excavator boom, arm (stick), and bucket linkages \u2014 the pivot pins carrying force-multiplied breakout loading and repeated shock impact every time the bucket engages hard ground, buried rock, or dense material during active digging. Alloy steel through-hardened for combined impact and wear resistance. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged articulation pins for excavator boom, arm (stick), and bucket linkages \u2014 the pivot pins carrying force-multiplied breakout loading and repeated shock impact every time the bucket engages hard ground, buried rock, or dense material during active digging. Alloy steel through-hardened for combined impact and wear resistance. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Boom-to-Arm (Stick) Pin Forgings",
@@ -887,7 +887,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Excavator Arm Pin Forgings \u2014 Boom, Stick & Bucket Linkage Pins for Force-Multiplied Digging Duty",
-        "description2": "JK Forge manufactures forged articulation pins for excavator boom, arm (stick), and bucket linkages \u2014 the pivot pins carrying force-multiplied breakout loading and repeated shock impact every time the bucket engages hard ground, buried rock, or dense material during active digging. Alloy steel through-hardened for combined impact and wear resistance. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged articulation pins for excavator boom, arm (stick), and bucket linkages \u2014 the pivot pins carrying force-multiplied breakout loading and repeated shock impact every time the bucket engages hard ground, buried rock, or dense material during active digging. Alloy steel through-hardened for combined impact and wear resistance. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Boom-to-Arm (Stick) Pin Forgings",
@@ -1007,7 +1007,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Coil Spring Seat Forgings \u2014 Locating and Loading the Full Spring Force Into the Suspension Structure",
-        "description2": "JK Forge manufactures forged coil spring seat components \u2014 the component providing a stable, correctly located mounting surface for a suspension coil spring's end coil, transmitting the full spring load into the suspension structure while controlling spring alignment under compression. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged coil spring seat components \u2014 the component providing a stable, correctly located mounting surface for a suspension coil spring's end coil, transmitting the full spring load into the suspension structure while controlling spring alignment under compression. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Lower Control Arm Spring Seat Forgings",
@@ -1131,7 +1131,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Coil Spring Seat Forgings \u2014 Locating and Loading the Full Spring Force Into the Suspension Structure",
-        "description2": "JK Forge manufactures forged coil spring seat components \u2014 the component providing a stable, correctly located mounting surface for a suspension coil spring's end coil, transmitting the full spring load into the suspension structure while controlling spring alignment under compression. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged coil spring seat components \u2014 the component providing a stable, correctly located mounting surface for a suspension coil spring's end coil, transmitting the full spring load into the suspension structure while controlling spring alignment under compression. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Lower Control Arm Spring Seat Forgings",
@@ -1255,7 +1255,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Crawler Crane Counterweight Pin Forgings \u2014 Retaining Multi-Ton Counterweight Stacks Through Every Lift Cycle",
-        "description2": "JK Forge manufactures forged crawler crane counterweight retention pins \u2014 the large-diameter pins that locate and retain stacked steel counterweight slabs against the crane's superstructure or counterweight tray, reacting the dynamic shear loading generated as the crane lifts, slews, and boists throughout a lift cycle. Forged construction delivers the consistent through-section properties this large-diameter, safety-critical pin genuinely requires. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged crawler crane counterweight retention pins \u2014 the large-diameter pins that locate and retain stacked steel counterweight slabs against the crane's superstructure or counterweight tray, reacting the dynamic shear loading generated as the crane lifts, slews, and boists throughout a lift cycle. Forged construction delivers the consistent through-section properties this large-diameter, safety-critical pin genuinely requires. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Counterweight Tray-to-Superstructure Pin Forgings",
@@ -1379,7 +1379,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Crawler Crane Counterweight Pin Forgings \u2014 Retaining Multi-Ton Counterweight Stacks Through Every Lift Cycle",
-        "description2": "JK Forge manufactures forged crawler crane counterweight retention pins \u2014 the large-diameter pins that locate and retain stacked steel counterweight slabs against the crane's superstructure or counterweight tray, reacting the dynamic shear loading generated as the crane lifts, slews, and boists throughout a lift cycle. Forged construction delivers the consistent through-section properties this large-diameter, safety-critical pin genuinely requires. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged crawler crane counterweight retention pins \u2014 the large-diameter pins that locate and retain stacked steel counterweight slabs against the crane's superstructure or counterweight tray, reacting the dynamic shear loading generated as the crane lifts, slews, and boists throughout a lift cycle. Forged construction delivers the consistent through-section properties this large-diameter, safety-critical pin genuinely requires. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Counterweight Tray-to-Superstructure Pin Forgings",
@@ -1613,7 +1613,7 @@ window.pageContent['componentsData'] = {
             },
             {
                 "question": "How do I get a quote for front axle component forgings?",
-                "answer": "Email your drawing (PDF or DXF), material specification, required quantity, and delivery location to sales@JK Forge.com. We'll confirm receipt within 2 hours and return a quotation within 24 hours. For urgent requirements, call +91-9265772827 directly."
+                "answer": "Email your drawing (PDF or DXF), material specification, required quantity, and delivery location to sales@JK Forge.com. We'll confirm receipt within 2 hours and return a quotation within 24 hours. For urgent requirements, call +91 7600066117 directly."
             }
         ]
     },
@@ -1749,7 +1749,7 @@ window.pageContent['componentsData'] = {
             },
             {
                 "question": "How do I get a quote for front axle component forgings?",
-                "answer": "Email your drawing (PDF or DXF), material specification, required quantity, and delivery location to sales@JK Forge.com. We'll confirm receipt within 2 hours and return a quotation within 24 hours. For urgent requirements, call +91-9265772827 directly."
+                "answer": "Email your drawing (PDF or DXF), material specification, required quantity, and delivery location to sales@JK Forge.com. We'll confirm receipt within 2 hours and return a quotation within 24 hours. For urgent requirements, call +91 7600066117 directly."
             }
         ]
     },
@@ -1775,7 +1775,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Bell Crank Forgings \u2014 Multi-Arm Pivoting Levers Redirecting Force Direction and Changing Motion Ratio at a Single Pivot Bore",
-        "description2": "JK Forge manufactures forged bell cranks \u2014 multi-arm pivoting levers that change the direction and mechanical ratio of an input force, used in pushrod-actuated suspension systems to convert wheel motion into inboard spring/damper travel and in steering linkages to redirect linkage motion across a chassis. Engineered for combined, non-collinear multi-arm loading concentrated at a single pivot bore. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged bell cranks \u2014 multi-arm pivoting levers that change the direction and mechanical ratio of an input force, used in pushrod-actuated suspension systems to convert wheel motion into inboard spring/damper travel and in steering linkages to redirect linkage motion across a chassis. Engineered for combined, non-collinear multi-arm loading concentrated at a single pivot bore. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Three-Arm and Multi-Arm Rocker Forgings",
@@ -1899,7 +1899,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Bell Crank Forgings \u2014 Multi-Arm Pivoting Levers Redirecting Force Direction and Changing Motion Ratio at a Single Pivot Bore",
-        "description2": "JK Forge manufactures forged bell cranks \u2014 multi-arm pivoting levers that change the direction and mechanical ratio of an input force, used in pushrod-actuated suspension systems to convert wheel motion into inboard spring/damper travel and in steering linkages to redirect linkage motion across a chassis. Engineered for combined, non-collinear multi-arm loading concentrated at a single pivot bore. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged bell cranks \u2014 multi-arm pivoting levers that change the direction and mechanical ratio of an input force, used in pushrod-actuated suspension systems to convert wheel motion into inboard spring/damper travel and in steering linkages to redirect linkage motion across a chassis. Engineered for combined, non-collinear multi-arm loading concentrated at a single pivot bore. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Three-Arm and Multi-Arm Rocker Forgings",
@@ -2023,7 +2023,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Worm Gear Shaft Forgings \u2014 High-Reduction, Self-Locking Drive Shafts for Gearbox and Actuator Duty",
-        "description2": "JK Forge manufactures forged worm gear shaft blanks \u2014 the helical-threaded input shaft that meshes with a worm wheel to deliver high single-stage reduction ratios and, in many designs, inherent self-locking behavior that prevents back-drive from the output side. Alloy steel forgings sized for the concentrated sliding contact load a worm thread carries. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged worm gear shaft blanks \u2014 the helical-threaded input shaft that meshes with a worm wheel to deliver high single-stage reduction ratios and, in many designs, inherent self-locking behavior that prevents back-drive from the output side. Alloy steel forgings sized for the concentrated sliding contact load a worm thread carries. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Multi-Start Worm Shaft Forgings",
@@ -2143,7 +2143,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Worm Gear Shaft Forgings \u2014 High-Reduction, Self-Locking Drive Shafts for Gearbox and Actuator Duty",
-        "description2": "JK Forge manufactures forged worm gear shaft blanks \u2014 the helical-threaded input shaft that meshes with a worm wheel to deliver high single-stage reduction ratios and, in many designs, inherent self-locking behavior that prevents back-drive from the output side. Alloy steel forgings sized for the concentrated sliding contact load a worm thread carries. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged worm gear shaft blanks \u2014 the helical-threaded input shaft that meshes with a worm wheel to deliver high single-stage reduction ratios and, in many designs, inherent self-locking behavior that prevents back-drive from the output side. Alloy steel forgings sized for the concentrated sliding contact load a worm thread carries. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Multi-Start Worm Shaft Forgings",
@@ -2263,7 +2263,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Trailer Suspension Hanger Bracket Forgings \u2014 The Frame-Mounted Pivot Point Every Suspension Load Transfers Through",
-        "description2": "JK Forge manufactures forged trailer suspension hanger bracket components \u2014 the structural bracket welded or bolted to the trailer frame rail that carries the pivot bushing for the trailing arm or equalizer beam, transferring every vertical, longitudinal, and braking load between the suspension and the frame. High-strength steel construction addressing the concentrated, cyclic pivot loading this frame-mounted interface carries. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged trailer suspension hanger bracket components \u2014 the structural bracket welded or bolted to the trailer frame rail that carries the pivot bushing for the trailing arm or equalizer beam, transferring every vertical, longitudinal, and braking load between the suspension and the frame. High-strength steel construction addressing the concentrated, cyclic pivot loading this frame-mounted interface carries. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Equalizer Beam Hanger Bracket Forgings",
@@ -2387,7 +2387,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Trailer Suspension Hanger Bracket Forgings \u2014 The Frame-Mounted Pivot Point Every Suspension Load Transfers Through",
-        "description2": "JK Forge manufactures forged trailer suspension hanger bracket components \u2014 the structural bracket welded or bolted to the trailer frame rail that carries the pivot bushing for the trailing arm or equalizer beam, transferring every vertical, longitudinal, and braking load between the suspension and the frame. High-strength steel construction addressing the concentrated, cyclic pivot loading this frame-mounted interface carries. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged trailer suspension hanger bracket components \u2014 the structural bracket welded or bolted to the trailer frame rail that carries the pivot bushing for the trailing arm or equalizer beam, transferring every vertical, longitudinal, and braking load between the suspension and the frame. High-strength steel construction addressing the concentrated, cyclic pivot loading this frame-mounted interface carries. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Equalizer Beam Hanger Bracket Forgings",
@@ -2799,7 +2799,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Rollers \u2014 Support Rollers, Guide Rollers, Conveyor Idler & Mill Support Roller Forgings",
-        "description2": "JK Forge manufactures forged roller blanks for industrial rolling mill support, conveyor, and material guide applications \u2014 support roller shafts, guide roller bodies, and conveyor idler roller forgings \u2014 in alloy steel engineered for continuous rotational load-bearing service and surface wear resistance. EN 10204 3.1 documentation. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged roller blanks for industrial rolling mill support, conveyor, and material guide applications \u2014 support roller shafts, guide roller bodies, and conveyor idler roller forgings \u2014 in alloy steel engineered for continuous rotational load-bearing service and surface wear resistance. EN 10204 3.1 documentation. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Guide Roller Forgings",
@@ -2923,7 +2923,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Rollers \u2014 Support Rollers, Guide Rollers, Conveyor Idler & Mill Support Roller Forgings",
-        "description2": "JK Forge manufactures forged roller blanks for industrial rolling mill support, conveyor, and material guide applications \u2014 support roller shafts, guide roller bodies, and conveyor idler roller forgings \u2014 in alloy steel engineered for continuous rotational load-bearing service and surface wear resistance. EN 10204 3.1 documentation. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged roller blanks for industrial rolling mill support, conveyor, and material guide applications \u2014 support roller shafts, guide roller bodies, and conveyor idler roller forgings \u2014 in alloy steel engineered for continuous rotational load-bearing service and surface wear resistance. EN 10204 3.1 documentation. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Guide Roller Forgings",
@@ -3047,7 +3047,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Crane Boom Pin Forgings \u2014 Lattice Section, Telescoping & Boom Foot Articulation Pins for Mobile & Tower Cranes",
-        "description2": "JK Forge manufactures forged crane boom pin components \u2014 lattice boom section connecting pins, telescoping boom pinning hardware, and boom foot pivot pins \u2014 engineered against a dynamic suspended-load duty cycle where a pin failure risks a dropped load or crane overturn, not merely component damage. NDT-capable alloy steel forgings matched to ASME B30.5 and EN 13001 requirements. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged crane boom pin components \u2014 lattice boom section connecting pins, telescoping boom pinning hardware, and boom foot pivot pins \u2014 engineered against a dynamic suspended-load duty cycle where a pin failure risks a dropped load or crane overturn, not merely component damage. NDT-capable alloy steel forgings matched to ASME B30.5 and EN 13001 requirements. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Telescoping Boom Pinning System Forgings",
@@ -3167,7 +3167,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Crane Boom Pin Forgings \u2014 Lattice Section, Telescoping & Boom Foot Articulation Pins for Mobile & Tower Cranes",
-        "description2": "JK Forge manufactures forged crane boom pin components \u2014 lattice boom section connecting pins, telescoping boom pinning hardware, and boom foot pivot pins \u2014 engineered against a dynamic suspended-load duty cycle where a pin failure risks a dropped load or crane overturn, not merely component damage. NDT-capable alloy steel forgings matched to ASME B30.5 and EN 13001 requirements. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged crane boom pin components \u2014 lattice boom section connecting pins, telescoping boom pinning hardware, and boom foot pivot pins \u2014 engineered against a dynamic suspended-load duty cycle where a pin failure risks a dropped load or crane overturn, not merely component damage. NDT-capable alloy steel forgings matched to ASME B30.5 and EN 13001 requirements. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Telescoping Boom Pinning System Forgings",
@@ -3287,7 +3287,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Helicopter Main Rotor Hub Forgings \u2014 Titanium & High-Strength Steel Components Carrying Multi-Axis, Life-Limited Fatigue Loading",
-        "description2": "JK Forge manufactures forged helicopter main rotor hub components \u2014 titanium 6Al-4V and high-strength steel hub bodies, blade retention, and pitch-change fitting forgings that connect each rotor blade to the mast and transmit lift, flapping, lead-lag, and feathering loads simultaneously \u2014 with manufacturing process control aligned to AS9100 quality management principles. Distinct from the fixed-wing turbine blade, landing gear strut, and wing spar forgings covered elsewhere on this site. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged helicopter main rotor hub components \u2014 titanium 6Al-4V and high-strength steel hub bodies, blade retention, and pitch-change fitting forgings that connect each rotor blade to the mast and transmit lift, flapping, lead-lag, and feathering loads simultaneously \u2014 with manufacturing process control aligned to AS9100 quality management principles. Distinct from the fixed-wing turbine blade, landing gear strut, and wing spar forgings covered elsewhere on this site. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Blade Retention Strap/Fitting Forgings",
@@ -3411,7 +3411,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Helicopter Main Rotor Hub Forgings \u2014 Titanium & High-Strength Steel Components Carrying Multi-Axis, Life-Limited Fatigue Loading",
-        "description2": "JK Forge manufactures forged helicopter main rotor hub components \u2014 titanium 6Al-4V and high-strength steel hub bodies, blade retention, and pitch-change fitting forgings that connect each rotor blade to the mast and transmit lift, flapping, lead-lag, and feathering loads simultaneously \u2014 with manufacturing process control aligned to AS9100 quality management principles. Distinct from the fixed-wing turbine blade, landing gear strut, and wing spar forgings covered elsewhere on this site. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged helicopter main rotor hub components \u2014 titanium 6Al-4V and high-strength steel hub bodies, blade retention, and pitch-change fitting forgings that connect each rotor blade to the mast and transmit lift, flapping, lead-lag, and feathering loads simultaneously \u2014 with manufacturing process control aligned to AS9100 quality management principles. Distinct from the fixed-wing turbine blade, landing gear strut, and wing spar forgings covered elsewhere on this site. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Blade Retention Strap/Fitting Forgings",
@@ -3535,7 +3535,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Railway Axle Forgings \u2014 Connecting a Wheel Pair Under Rotating Bending Load, the Component That Founded Modern Fatigue Engineering",
-        "description2": "JK Forge manufactures forged railway axle components \u2014 the shaft connecting a pair of wheels beneath a rail car or locomotive, carrying the car's weight in continuous rotating bending as the axle turns \u2014 for freight, passenger, and locomotive rolling stock. Complementary to the railway wheel forgings also covered on this site, engineered around the specific wheel-seat stress concentration this application is historically known for. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged railway axle components \u2014 the shaft connecting a pair of wheels beneath a rail car or locomotive, carrying the car's weight in continuous rotating bending as the axle turns \u2014 for freight, passenger, and locomotive rolling stock. Complementary to the railway wheel forgings also covered on this site, engineered around the specific wheel-seat stress concentration this application is historically known for. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Hollow-Bore Axle Forgings",
@@ -3659,7 +3659,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Railway Axle Forgings \u2014 Connecting a Wheel Pair Under Rotating Bending Load, the Component That Founded Modern Fatigue Engineering",
-        "description2": "JK Forge manufactures forged railway axle components \u2014 the shaft connecting a pair of wheels beneath a rail car or locomotive, carrying the car's weight in continuous rotating bending as the axle turns \u2014 for freight, passenger, and locomotive rolling stock. Complementary to the railway wheel forgings also covered on this site, engineered around the specific wheel-seat stress concentration this application is historically known for. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged railway axle components \u2014 the shaft connecting a pair of wheels beneath a rail car or locomotive, carrying the car's weight in continuous rotating bending as the axle turns \u2014 for freight, passenger, and locomotive rolling stock. Complementary to the railway wheel forgings also covered on this site, engineered around the specific wheel-seat stress concentration this application is historically known for. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Hollow-Bore Axle Forgings",
@@ -3893,7 +3893,7 @@ window.pageContent['componentsData'] = {
             },
             {
                 "question": "What is the typical lead time for forged steel shafts?",
-                "answer": "For new parts requiring tooling, first-sample lead time is 4\u20136 weeks from drawing approval to sample delivery. Repeat production orders on existing tooling are typically 3\u20134 weeks for rough forgings and 5\u20137 weeks for fully machined and ground shafts. Rush deliveries are accommodated where press capacity allows \u2014 discuss your schedule with our team at +91 92657 72827."
+                "answer": "For new parts requiring tooling, first-sample lead time is 4\u20136 weeks from drawing approval to sample delivery. Repeat production orders on existing tooling are typically 3\u20134 weeks for rough forgings and 5\u20137 weeks for fully machined and ground shafts. Rush deliveries are accommodated where press capacity allows \u2014 discuss your schedule with our team at +91 7600066117."
             }
         ]
     },
@@ -4029,7 +4029,7 @@ window.pageContent['componentsData'] = {
             },
             {
                 "question": "What is the typical lead time for forged steel shafts?",
-                "answer": "For new parts requiring tooling, first-sample lead time is 4\u20136 weeks from drawing approval to sample delivery. Repeat production orders on existing tooling are typically 3\u20134 weeks for rough forgings and 5\u20137 weeks for fully machined and ground shafts. Rush deliveries are accommodated where press capacity allows \u2014 discuss your schedule with our team at +91 92657 72827."
+                "answer": "For new parts requiring tooling, first-sample lead time is 4\u20136 weeks from drawing approval to sample delivery. Repeat production orders on existing tooling are typically 3\u20134 weeks for rough forgings and 5\u20137 weeks for fully machined and ground shafts. Rush deliveries are accommodated where press capacity allows \u2014 discuss your schedule with our team at +91 7600066117."
             }
         ]
     },
@@ -4055,7 +4055,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Turnbuckle Bodies \u2014 Jaw-Jaw, Jaw-Eye, Eye-Eye & Hook-Eye End Fitting Forgings",
-        "description2": "JK Forge manufactures forged turnbuckle bodies and end fittings \u2014 jaw, eye, and hook end fittings in jaw-jaw, jaw-eye, eye-eye, and hook-eye configurations \u2014 in alloy steel, for guy wire tensioning, structural cable rigging, and marine standing rigging applications requiring reliable, adjustable tension control. Proof-load tested, WLL marked, EN 10204 3.1 certified. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged turnbuckle bodies and end fittings \u2014 jaw, eye, and hook end fittings in jaw-jaw, jaw-eye, eye-eye, and hook-eye configurations \u2014 in alloy steel, for guy wire tensioning, structural cable rigging, and marine standing rigging applications requiring reliable, adjustable tension control. Proof-load tested, WLL marked, EN 10204 3.1 certified. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Jaw-Eye Turnbuckle Forgings",
@@ -4179,7 +4179,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Turnbuckle Bodies \u2014 Jaw-Jaw, Jaw-Eye, Eye-Eye & Hook-Eye End Fitting Forgings",
-        "description2": "JK Forge manufactures forged turnbuckle bodies and end fittings \u2014 jaw, eye, and hook end fittings in jaw-jaw, jaw-eye, eye-eye, and hook-eye configurations \u2014 in alloy steel, for guy wire tensioning, structural cable rigging, and marine standing rigging applications requiring reliable, adjustable tension control. Proof-load tested, WLL marked, EN 10204 3.1 certified. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged turnbuckle bodies and end fittings \u2014 jaw, eye, and hook end fittings in jaw-jaw, jaw-eye, eye-eye, and hook-eye configurations \u2014 in alloy steel, for guy wire tensioning, structural cable rigging, and marine standing rigging applications requiring reliable, adjustable tension control. Proof-load tested, WLL marked, EN 10204 3.1 certified. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Jaw-Eye Turnbuckle Forgings",
@@ -4303,7 +4303,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Generator Shaft Forgings \u2014 Large-Diameter Shaft Carrying a Turbine's Full Mechanical Power Output into the Generator Rotor",
-        "description2": "JK Forge manufactures forged generator shaft components for power generation equipment \u2014 the large-diameter shaft connecting a steam, gas, or hydro turbine to its electrical generator rotor, transmitting the full mechanical power output through continuous high-torque rotation while meeting the bending stiffness and critical-speed requirements large rotating machinery demands. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged generator shaft components for power generation equipment \u2014 the large-diameter shaft connecting a steam, gas, or hydro turbine to its electrical generator rotor, transmitting the full mechanical power output through continuous high-torque rotation while meeting the bending stiffness and critical-speed requirements large rotating machinery demands. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Generator Rotor Shaft Body Forgings",
@@ -4427,7 +4427,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Generator Shaft Forgings \u2014 Large-Diameter Shaft Carrying a Turbine's Full Mechanical Power Output into the Generator Rotor",
-        "description2": "JK Forge manufactures forged generator shaft components for power generation equipment \u2014 the large-diameter shaft connecting a steam, gas, or hydro turbine to its electrical generator rotor, transmitting the full mechanical power output through continuous high-torque rotation while meeting the bending stiffness and critical-speed requirements large rotating machinery demands. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged generator shaft components for power generation equipment \u2014 the large-diameter shaft connecting a steam, gas, or hydro turbine to its electrical generator rotor, transmitting the full mechanical power output through continuous high-torque rotation while meeting the bending stiffness and critical-speed requirements large rotating machinery demands. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Generator Rotor Shaft Body Forgings",
@@ -4551,7 +4551,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Spectacle Blind Flanges \u2014 Figure-8 Isolation Blinds per ASME B16.48 for Positive Line Blocking During Maintenance",
-        "description2": "JK Forge manufactures forged spectacle blind flanges \u2014 the figure-8 shaped isolation device combining a solid blind disc and an open spacer ring joined by a connecting web \u2014 to ASME B16.48 for positive, visually verifiable line isolation during maintenance, testing, and lockout-tagout procedures in refinery, chemical, and process piping. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged spectacle blind flanges \u2014 the figure-8 shaped isolation device combining a solid blind disc and an open spacer ring joined by a connecting web \u2014 to ASME B16.48 for positive, visually verifiable line isolation during maintenance, testing, and lockout-tagout procedures in refinery, chemical, and process piping. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Individual Paddle Blinds and Blanks",
@@ -4675,7 +4675,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Spectacle Blind Flanges \u2014 Figure-8 Isolation Blinds per ASME B16.48 for Positive Line Blocking During Maintenance",
-        "description2": "JK Forge manufactures forged spectacle blind flanges \u2014 the figure-8 shaped isolation device combining a solid blind disc and an open spacer ring joined by a connecting web \u2014 to ASME B16.48 for positive, visually verifiable line isolation during maintenance, testing, and lockout-tagout procedures in refinery, chemical, and process piping. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged spectacle blind flanges \u2014 the figure-8 shaped isolation device combining a solid blind disc and an open spacer ring joined by a connecting web \u2014 to ASME B16.48 for positive, visually verifiable line isolation during maintenance, testing, and lockout-tagout procedures in refinery, chemical, and process piping. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Individual Paddle Blinds and Blanks",
@@ -4905,11 +4905,11 @@ window.pageContent['componentsData'] = {
             },
             {
                 "question": "What is the price of forged valve bodies in India?",
-                "answer": "Forged valve body pricing depends on material grade (A105 vs F316 vs Duplex), valve size (NPS), pressure class, machining scope, NDT requirements, and quantity. ASTM A105 Class 600 NPS 2 ball valve bodies and NPS 4 gate valve bodies are among our most competitively priced items. Email your specification to sales@JK Forge.com for a quotation within 24 hours. Call +91 92657 72827."
+                "answer": "Forged valve body pricing depends on material grade (A105 vs F316 vs Duplex), valve size (NPS), pressure class, machining scope, NDT requirements, and quantity. ASTM A105 Class 600 NPS 2 ball valve bodies and NPS 4 gate valve bodies are among our most competitively priced items. Email your specification to sales@JK Forge.com for a quotation within 24 hours. Call +91 7600066117."
             },
             {
                 "question": "How do I order forged valve bodies from JK Forge in Rajkot?",
-                "answer": "Send your valve body drawing (or reference the applicable standard: ASME B16.34, API 600, API 602), ASTM material specification, pressure class, valve size (NPS), machining requirement (rough forging or fully machined), quantity, and documentation requirements to sales@JK Forge.com. We review and quote within 24 hours. Call +91 92657 72827 for assistance."
+                "answer": "Send your valve body drawing (or reference the applicable standard: ASME B16.34, API 600, API 602), ASTM material specification, pressure class, valve size (NPS), machining requirement (rough forging or fully machined), quantity, and documentation requirements to sales@JK Forge.com. We review and quote within 24 hours. Call +91 7600066117 for assistance."
             }
         ]
     },
@@ -5041,11 +5041,11 @@ window.pageContent['componentsData'] = {
             },
             {
                 "question": "What is the price of forged valve bodies in India?",
-                "answer": "Forged valve body pricing depends on material grade (A105 vs F316 vs Duplex), valve size (NPS), pressure class, machining scope, NDT requirements, and quantity. ASTM A105 Class 600 NPS 2 ball valve bodies and NPS 4 gate valve bodies are among our most competitively priced items. Email your specification to sales@JK Forge.com for a quotation within 24 hours. Call +91 92657 72827."
+                "answer": "Forged valve body pricing depends on material grade (A105 vs F316 vs Duplex), valve size (NPS), pressure class, machining scope, NDT requirements, and quantity. ASTM A105 Class 600 NPS 2 ball valve bodies and NPS 4 gate valve bodies are among our most competitively priced items. Email your specification to sales@JK Forge.com for a quotation within 24 hours. Call +91 7600066117."
             },
             {
                 "question": "How do I order forged valve bodies from JK Forge in Rajkot?",
-                "answer": "Send your valve body drawing (or reference the applicable standard: ASME B16.34, API 600, API 602), ASTM material specification, pressure class, valve size (NPS), machining requirement (rough forging or fully machined), quantity, and documentation requirements to sales@JK Forge.com. We review and quote within 24 hours. Call +91 92657 72827 for assistance."
+                "answer": "Send your valve body drawing (or reference the applicable standard: ASME B16.34, API 600, API 602), ASTM material specification, pressure class, valve size (NPS), machining requirement (rough forging or fully machined), quantity, and documentation requirements to sales@JK Forge.com. We review and quote within 24 hours. Call +91 7600066117 for assistance."
             }
         ]
     },
@@ -5071,7 +5071,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Parking Pawl Forgings \u2014 The Pivoting Lock Lever Holding a Vehicle's Full Parked Weight Through the Output Gear",
-        "description2": "JK Forge manufactures forged transmission parking pawl components \u2014 the small pivoting lever that engages a toothed park gear on the transmission output shaft to mechanically lock the driveline when a vehicle is shifted into Park \u2014 engineered for the shock-loaded engagement and sustained holding load this safety-critical part experiences every time a vehicle is parked. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged transmission parking pawl components \u2014 the small pivoting lever that engages a toothed park gear on the transmission output shaft to mechanically lock the driveline when a vehicle is shifted into Park \u2014 engineered for the shock-loaded engagement and sustained holding load this safety-critical part experiences every time a vehicle is parked. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Park Gear Forgings",
@@ -5195,7 +5195,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Parking Pawl Forgings \u2014 The Pivoting Lock Lever Holding a Vehicle's Full Parked Weight Through the Output Gear",
-        "description2": "JK Forge manufactures forged transmission parking pawl components \u2014 the small pivoting lever that engages a toothed park gear on the transmission output shaft to mechanically lock the driveline when a vehicle is shifted into Park \u2014 engineered for the shock-loaded engagement and sustained holding load this safety-critical part experiences every time a vehicle is parked. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged transmission parking pawl components \u2014 the small pivoting lever that engages a toothed park gear on the transmission output shaft to mechanically lock the driveline when a vehicle is shifted into Park \u2014 engineered for the shock-loaded engagement and sustained holding load this safety-critical part experiences every time a vehicle is parked. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Park Gear Forgings",
@@ -5319,7 +5319,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Wheel Rims \u2014 Aluminium 6061-T6 Passenger Car & Steel Commercial Vehicle Wheel Blanks",
-        "description2": "JK Forge manufactures forged wheel rim blanks for passenger car, performance, and commercial vehicle applications \u2014 forged aluminium (6061-T6) wheel blanks for weight-critical passenger and performance applications, and forged steel wheel rim blanks for heavy-duty commercial vehicle service. Superior strength-to-weight and fatigue performance versus cast wheels. IATF 16949 aligned quality. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged wheel rim blanks for passenger car, performance, and commercial vehicle applications \u2014 forged aluminium (6061-T6) wheel blanks for weight-critical passenger and performance applications, and forged steel wheel rim blanks for heavy-duty commercial vehicle service. Superior strength-to-weight and fatigue performance versus cast wheels. IATF 16949 aligned quality. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Performance and Motorsport Wheel Blanks",
@@ -5443,7 +5443,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Wheel Rims \u2014 Aluminium 6061-T6 Passenger Car & Steel Commercial Vehicle Wheel Blanks",
-        "description2": "JK Forge manufactures forged wheel rim blanks for passenger car, performance, and commercial vehicle applications \u2014 forged aluminium (6061-T6) wheel blanks for weight-critical passenger and performance applications, and forged steel wheel rim blanks for heavy-duty commercial vehicle service. Superior strength-to-weight and fatigue performance versus cast wheels. IATF 16949 aligned quality. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged wheel rim blanks for passenger car, performance, and commercial vehicle applications \u2014 forged aluminium (6061-T6) wheel blanks for weight-critical passenger and performance applications, and forged steel wheel rim blanks for heavy-duty commercial vehicle service. Superior strength-to-weight and fatigue performance versus cast wheels. IATF 16949 aligned quality. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Performance and Motorsport Wheel Blanks",
@@ -5567,7 +5567,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Drivetrain Output Flange Forgings \u2014 Bolted Interface Between Gearbox/Axle Output and Driveshaft U-Joint or CV Joint",
-        "description2": "JK Forge manufactures forged output flange components \u2014 the flanged shaft-end used at gearbox, transfer case, and axle output points to provide a bolted connection to a driveshaft's universal joint or CV joint \u2014 a general-purpose but structurally critical torque-transmission interface manufactured across passenger, commercial, agricultural, and off-highway drivetrain architectures. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged output flange components \u2014 the flanged shaft-end used at gearbox, transfer case, and axle output points to provide a bolted connection to a driveshaft's universal joint or CV joint \u2014 a general-purpose but structurally critical torque-transmission interface manufactured across passenger, commercial, agricultural, and off-highway drivetrain architectures. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Transfer Case Output Flange Forgings",
@@ -5691,7 +5691,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Drivetrain Output Flange Forgings \u2014 Bolted Interface Between Gearbox/Axle Output and Driveshaft U-Joint or CV Joint",
-        "description2": "JK Forge manufactures forged output flange components \u2014 the flanged shaft-end used at gearbox, transfer case, and axle output points to provide a bolted connection to a driveshaft's universal joint or CV joint \u2014 a general-purpose but structurally critical torque-transmission interface manufactured across passenger, commercial, agricultural, and off-highway drivetrain architectures. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged output flange components \u2014 the flanged shaft-end used at gearbox, transfer case, and axle output points to provide a bolted connection to a driveshaft's universal joint or CV joint \u2014 a general-purpose but structurally critical torque-transmission interface manufactured across passenger, commercial, agricultural, and off-highway drivetrain architectures. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Transfer Case Output Flange Forgings",
@@ -5815,7 +5815,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Fifth Wheel Coupling Forgings \u2014 The Single Connection Carrying a Semi-Trailer's Entire Pulling and Braking Load",
-        "description2": "JK Forge manufactures forged fifth-wheel coupling components \u2014 the horizontal coupling plate mounted on a semi-tractor's frame that mechanically locks the kingpin of a semi-trailer \u2014 engineered to transmit the entire trailer's pulling, braking, and jackknife-resisting loads through this single, safety-critical connection. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged fifth-wheel coupling components \u2014 the horizontal coupling plate mounted on a semi-tractor's frame that mechanically locks the kingpin of a semi-trailer \u2014 engineered to transmit the entire trailer's pulling, braking, and jackknife-resisting loads through this single, safety-critical connection. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Coupling Plate Structural Forgings",
@@ -5939,7 +5939,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Fifth Wheel Coupling Forgings \u2014 The Single Connection Carrying a Semi-Trailer's Entire Pulling and Braking Load",
-        "description2": "JK Forge manufactures forged fifth-wheel coupling components \u2014 the horizontal coupling plate mounted on a semi-tractor's frame that mechanically locks the kingpin of a semi-trailer \u2014 engineered to transmit the entire trailer's pulling, braking, and jackknife-resisting loads through this single, safety-critical connection. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged fifth-wheel coupling components \u2014 the horizontal coupling plate mounted on a semi-tractor's frame that mechanically locks the kingpin of a semi-trailer \u2014 engineered to transmit the entire trailer's pulling, braking, and jackknife-resisting loads through this single, safety-critical connection. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Coupling Plate Structural Forgings",
@@ -6063,7 +6063,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Aircraft Engine Mount Forgings \u2014 Pylon Attachment Fittings Carrying Thrust, Weight & Gyroscopic Loads Into the Airframe",
-        "description2": "JK Forge manufactures forged aircraft engine mount and pylon attachment fitting components \u2014 the structural forgings connecting an engine (or its pylon) to the wing or fuselage, carrying thrust, engine weight, and gyroscopic loading into the primary airframe structure. High-strength aluminum, titanium, and steel alloy options for this fatigue-critical, fail-safe structural application. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged aircraft engine mount and pylon attachment fitting components \u2014 the structural forgings connecting an engine (or its pylon) to the wing or fuselage, carrying thrust, engine weight, and gyroscopic loading into the primary airframe structure. High-strength aluminum, titanium, and steel alloy options for this fatigue-critical, fail-safe structural application. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Pylon-to-Wing Attachment Fitting Forgings",
@@ -6183,7 +6183,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Aircraft Engine Mount Forgings \u2014 Pylon Attachment Fittings Carrying Thrust, Weight & Gyroscopic Loads Into the Airframe",
-        "description2": "JK Forge manufactures forged aircraft engine mount and pylon attachment fitting components \u2014 the structural forgings connecting an engine (or its pylon) to the wing or fuselage, carrying thrust, engine weight, and gyroscopic loading into the primary airframe structure. High-strength aluminum, titanium, and steel alloy options for this fatigue-critical, fail-safe structural application. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged aircraft engine mount and pylon attachment fitting components \u2014 the structural forgings connecting an engine (or its pylon) to the wing or fuselage, carrying thrust, engine weight, and gyroscopic loading into the primary airframe structure. High-strength aluminum, titanium, and steel alloy options for this fatigue-critical, fail-safe structural application. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Pylon-to-Wing Attachment Fitting Forgings",
@@ -6303,7 +6303,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Pile Driving Hammer Anvil Forgings \u2014 Millions of Impact Cycles, the Most Impact-Intensive Forged Duty on This Site",
-        "description2": "JK Forge manufactures forged pile driving hammer anvils \u2014 the impact-transfer component sitting atop a pile or pile helmet that receives the direct blow from the hammer's falling or driven ram, protecting the pile head while transmitting driving energy into it. Impact-toughness-optimized forged construction addresses a duty cycle of millions of repeated shock loadings over a rig's operating life. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged pile driving hammer anvils \u2014 the impact-transfer component sitting atop a pile or pile helmet that receives the direct blow from the hammer's falling or driven ram, protecting the pile head while transmitting driving energy into it. Impact-toughness-optimized forged construction addresses a duty cycle of millions of repeated shock loadings over a rig's operating life. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Pile Helmet / Cap Interface Anvil Forgings",
@@ -6427,7 +6427,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Pile Driving Hammer Anvil Forgings \u2014 Millions of Impact Cycles, the Most Impact-Intensive Forged Duty on This Site",
-        "description2": "JK Forge manufactures forged pile driving hammer anvils \u2014 the impact-transfer component sitting atop a pile or pile helmet that receives the direct blow from the hammer's falling or driven ram, protecting the pile head while transmitting driving energy into it. Impact-toughness-optimized forged construction addresses a duty cycle of millions of repeated shock loadings over a rig's operating life. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged pile driving hammer anvils \u2014 the impact-transfer component sitting atop a pile or pile helmet that receives the direct blow from the hammer's falling or driven ram, protecting the pile head while transmitting driving energy into it. Impact-toughness-optimized forged construction addresses a duty cycle of millions of repeated shock loadings over a rig's operating life. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Pile Helmet / Cap Interface Anvil Forgings",
@@ -6551,7 +6551,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Generator Retaining Ring Forgings \u2014 Containing End-Winding Centrifugal Force Where Rotor Iron No Longer Backs the Copper",
-        "description2": "JK Forge manufactures forged generator retaining ring blanks \u2014 the high-strength ring shrink-fitted over the ends of a large generator rotor to contain the centrifugal force of the field winding's end turns, distinct in function from the generator shaft that carries torque and sets rotor-dynamic critical speeds, which we cover separately. High-strength, often non-magnetic alloy steel construction addresses both the mechanical containment and the magnetic environment this component sits in. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged generator retaining ring blanks \u2014 the high-strength ring shrink-fitted over the ends of a large generator rotor to contain the centrifugal force of the field winding's end turns, distinct in function from the generator shaft that carries torque and sets rotor-dynamic critical speeds, which we cover separately. High-strength, often non-magnetic alloy steel construction addresses both the mechanical containment and the magnetic environment this component sits in. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "High-Strength Alloy Steel Retaining Ring Forgings",
@@ -6675,7 +6675,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Generator Retaining Ring Forgings \u2014 Containing End-Winding Centrifugal Force Where Rotor Iron No Longer Backs the Copper",
-        "description2": "JK Forge manufactures forged generator retaining ring blanks \u2014 the high-strength ring shrink-fitted over the ends of a large generator rotor to contain the centrifugal force of the field winding's end turns, distinct in function from the generator shaft that carries torque and sets rotor-dynamic critical speeds, which we cover separately. High-strength, often non-magnetic alloy steel construction addresses both the mechanical containment and the magnetic environment this component sits in. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged generator retaining ring blanks \u2014 the high-strength ring shrink-fitted over the ends of a large generator rotor to contain the centrifugal force of the field winding's end turns, distinct in function from the generator shaft that carries torque and sets rotor-dynamic critical speeds, which we cover separately. High-strength, often non-magnetic alloy steel construction addresses both the mechanical containment and the magnetic environment this component sits in. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "High-Strength Alloy Steel Retaining Ring Forgings",
@@ -6799,7 +6799,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Container Corner Fitting Forgings \u2014 The ISO 1161 Interface the Global Container Shipping System Depends On",
-        "description2": "JK Forge manufactures forged shipping container corner fitting components \u2014 an alternative to standard cast corner castings, produced to ISO 1161 standard geometry, for the fitting at each of a container's eight corners that provides the universal lifting, stacking, and twistlock securing interface. Forged construction for applications demanding superior toughness and freedom from casting porosity. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged shipping container corner fitting components \u2014 an alternative to standard cast corner castings, produced to ISO 1161 standard geometry, for the fitting at each of a container's eight corners that provides the universal lifting, stacking, and twistlock securing interface. Forged construction for applications demanding superior toughness and freedom from casting porosity. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Bottom Corner Fitting Forgings",
@@ -6923,7 +6923,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Container Corner Fitting Forgings \u2014 The ISO 1161 Interface the Global Container Shipping System Depends On",
-        "description2": "JK Forge manufactures forged shipping container corner fitting components \u2014 an alternative to standard cast corner castings, produced to ISO 1161 standard geometry, for the fitting at each of a container's eight corners that provides the universal lifting, stacking, and twistlock securing interface. Forged construction for applications demanding superior toughness and freedom from casting porosity. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged shipping container corner fitting components \u2014 an alternative to standard cast corner castings, produced to ISO 1161 standard geometry, for the fitting at each of a container's eight corners that provides the universal lifting, stacking, and twistlock securing interface. Forged construction for applications demanding superior toughness and freedom from casting porosity. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Bottom Corner Fitting Forgings",
@@ -7047,7 +7047,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Bulldozer Cutting Edge Forgings \u2014 Bolt-On Blade Wear Strips & Corner End Bits for Continuous Abrasive Dozing Duty",
-        "description2": "JK Forge manufactures forged bulldozer blade cutting edge and end bit components \u2014 the bolt-on wear strips along a dozer moldboard blade's bottom edge that directly contact the ground during every pushing pass, engineered for continuous abrasive sliding wear rather than the impact and bending loading a ripper shank absorbs. High-abrasion alloy steel with self-sharpening chamfer geometry. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged bulldozer blade cutting edge and end bit components \u2014 the bolt-on wear strips along a dozer moldboard blade's bottom edge that directly contact the ground during every pushing pass, engineered for continuous abrasive sliding wear rather than the impact and bending loading a ripper shank absorbs. High-abrasion alloy steel with self-sharpening chamfer geometry. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Corner End Bit Forgings",
@@ -7171,7 +7171,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Bulldozer Cutting Edge Forgings \u2014 Bolt-On Blade Wear Strips & Corner End Bits for Continuous Abrasive Dozing Duty",
-        "description2": "JK Forge manufactures forged bulldozer blade cutting edge and end bit components \u2014 the bolt-on wear strips along a dozer moldboard blade's bottom edge that directly contact the ground during every pushing pass, engineered for continuous abrasive sliding wear rather than the impact and bending loading a ripper shank absorbs. High-abrasion alloy steel with self-sharpening chamfer geometry. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged bulldozer blade cutting edge and end bit components \u2014 the bolt-on wear strips along a dozer moldboard blade's bottom edge that directly contact the ground during every pushing pass, engineered for continuous abrasive sliding wear rather than the impact and bending loading a ripper shank absorbs. High-abrasion alloy steel with self-sharpening chamfer geometry. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Corner End Bit Forgings",
@@ -7295,7 +7295,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Marine Hatch Cover Hinge Forgings \u2014 Cargo Hold Weathertight Closure Hardware for Bulk Carriers & General Cargo Vessels",
-        "description2": "JK Forge manufactures forged hatch cover hinge components \u2014 hinge pins, hinge butts, and hinge strap forgings for the pivoting connections that support cargo hold hatch cover panels and maintain the weathertight seal integrity these covers depend on. Corrosion-resistant alloy steel forgings for continuous cyclic loading and marine exposure. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged hatch cover hinge components \u2014 hinge pins, hinge butts, and hinge strap forgings for the pivoting connections that support cargo hold hatch cover panels and maintain the weathertight seal integrity these covers depend on. Corrosion-resistant alloy steel forgings for continuous cyclic loading and marine exposure. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Hinge Butt and Bracket Forgings",
@@ -7419,7 +7419,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Marine Hatch Cover Hinge Forgings \u2014 Cargo Hold Weathertight Closure Hardware for Bulk Carriers & General Cargo Vessels",
-        "description2": "JK Forge manufactures forged hatch cover hinge components \u2014 hinge pins, hinge butts, and hinge strap forgings for the pivoting connections that support cargo hold hatch cover panels and maintain the weathertight seal integrity these covers depend on. Corrosion-resistant alloy steel forgings for continuous cyclic loading and marine exposure. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged hatch cover hinge components \u2014 hinge pins, hinge butts, and hinge strap forgings for the pivoting connections that support cargo hold hatch cover panels and maintain the weathertight seal integrity these covers depend on. Corrosion-resistant alloy steel forgings for continuous cyclic loading and marine exposure. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Hinge Butt and Bracket Forgings",
@@ -7543,7 +7543,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Wheel Loader Pivot Pin Forgings \u2014 Center Articulation Joint Pins Carrying the Entire Machine's Steering Load",
-        "description2": "JK Forge manufactures forged center articulation pivot pins for wheel loaders \u2014 the single large-diameter pin joining the front and rear chassis halves, carrying the full steering moment, frame torsion, and load-transfer force every time the machine articulates to turn. Through-hardened alloy steel sized for continuous bending and rotational bearing duty. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged center articulation pivot pins for wheel loaders \u2014 the single large-diameter pin joining the front and rear chassis halves, carrying the full steering moment, frame torsion, and load-transfer force every time the machine articulates to turn. Through-hardened alloy steel sized for continuous bending and rotational bearing duty. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Lower Center Articulation Pin Forgings",
@@ -7663,7 +7663,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Wheel Loader Pivot Pin Forgings \u2014 Center Articulation Joint Pins Carrying the Entire Machine's Steering Load",
-        "description2": "JK Forge manufactures forged center articulation pivot pins for wheel loaders \u2014 the single large-diameter pin joining the front and rear chassis halves, carrying the full steering moment, frame torsion, and load-transfer force every time the machine articulates to turn. Through-hardened alloy steel sized for continuous bending and rotational bearing duty. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged center articulation pivot pins for wheel loaders \u2014 the single large-diameter pin joining the front and rear chassis halves, carrying the full steering moment, frame torsion, and load-transfer force every time the machine articulates to turn. Through-hardened alloy steel sized for continuous bending and rotational bearing duty. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Lower Center Articulation Pin Forgings",
@@ -8071,7 +8071,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Landing Gear Strut Forgings \u2014 Oleo-Pneumatic Shock Strut Piston and Cylinder Structural Forgings Absorbing Touchdown Impact Energy",
-        "description2": "JK Forge manufactures forged landing gear strut structural components \u2014 oleo-pneumatic shock strut piston and cylinder forgings absorbing touchdown impact energy and carrying ground-maneuvering loads \u2014 in high-strength alloy steel and titanium, engineered with manufacturing process control aligned to AS9100 quality management principles and supporting AMS material documentation requirements. Distinct from the general aerospace forging capability covered elsewhere on this site. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged landing gear strut structural components \u2014 oleo-pneumatic shock strut piston and cylinder forgings absorbing touchdown impact energy and carrying ground-maneuvering loads \u2014 in high-strength alloy steel and titanium, engineered with manufacturing process control aligned to AS9100 quality management principles and supporting AMS material documentation requirements. Distinct from the general aerospace forging capability covered elsewhere on this site. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Shock Strut Cylinder (Outer Barrel) Forgings",
@@ -8195,7 +8195,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Landing Gear Strut Forgings \u2014 Oleo-Pneumatic Shock Strut Piston and Cylinder Structural Forgings Absorbing Touchdown Impact Energy",
-        "description2": "JK Forge manufactures forged landing gear strut structural components \u2014 oleo-pneumatic shock strut piston and cylinder forgings absorbing touchdown impact energy and carrying ground-maneuvering loads \u2014 in high-strength alloy steel and titanium, engineered with manufacturing process control aligned to AS9100 quality management principles and supporting AMS material documentation requirements. Distinct from the general aerospace forging capability covered elsewhere on this site. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged landing gear strut structural components \u2014 oleo-pneumatic shock strut piston and cylinder forgings absorbing touchdown impact energy and carrying ground-maneuvering loads \u2014 in high-strength alloy steel and titanium, engineered with manufacturing process control aligned to AS9100 quality management principles and supporting AMS material documentation requirements. Distinct from the general aerospace forging capability covered elsewhere on this site. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Shock Strut Cylinder (Outer Barrel) Forgings",
@@ -8319,7 +8319,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Draft Gear Forgings \u2014 Yoke, Follower & Housing Components for Railway Coupling Shock Absorption Systems",
-        "description2": "JK Forge manufactures forged draft gear components \u2014 yokes, followers, and housing structural components \u2014 for the shock-absorbing assembly positioned behind a railway coupler, cushioning the impact and tension loads a train's coupling system experiences during coupling, braking, and normal operation. High-strength steel construction for this structurally critical rolling stock subsystem. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged draft gear components \u2014 yokes, followers, and housing structural components \u2014 for the shock-absorbing assembly positioned behind a railway coupler, cushioning the impact and tension loads a train's coupling system experiences during coupling, braking, and normal operation. High-strength steel construction for this structurally critical rolling stock subsystem. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Follower Plate Forgings",
@@ -8443,7 +8443,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Draft Gear Forgings \u2014 Yoke, Follower & Housing Components for Railway Coupling Shock Absorption Systems",
-        "description2": "JK Forge manufactures forged draft gear components \u2014 yokes, followers, and housing structural components \u2014 for the shock-absorbing assembly positioned behind a railway coupler, cushioning the impact and tension loads a train's coupling system experiences during coupling, braking, and normal operation. High-strength steel construction for this structurally critical rolling stock subsystem. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged draft gear components \u2014 yokes, followers, and housing structural components \u2014 for the shock-absorbing assembly positioned behind a railway coupler, cushioning the impact and tension loads a train's coupling system experiences during coupling, braking, and normal operation. High-strength steel construction for this structurally critical rolling stock subsystem. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Follower Plate Forgings",
@@ -8677,7 +8677,7 @@ window.pageContent['componentsData'] = {
             },
             {
                 "question": "How do I get a piston rod forging or finished rod quotation?",
-                "answer": "Send your drawing specifying diameter, length, material grade, surface finish, chrome plating thickness and end machining details to sales@JK Forge.com or call +91 92657 72827. We respond within 24 hours."
+                "answer": "Send your drawing specifying diameter, length, material grade, surface finish, chrome plating thickness and end machining details to sales@JK Forge.com or call +91 7600066117. We respond within 24 hours."
             }
         ]
     },
@@ -8813,7 +8813,7 @@ window.pageContent['componentsData'] = {
             },
             {
                 "question": "How do I get a piston rod forging or finished rod quotation?",
-                "answer": "Send your drawing specifying diameter, length, material grade, surface finish, chrome plating thickness and end machining details to sales@JK Forge.com or call +91 92657 72827. We respond within 24 hours."
+                "answer": "Send your drawing specifying diameter, length, material grade, surface finish, chrome plating thickness and end machining details to sales@JK Forge.com or call +91 7600066117. We respond within 24 hours."
             }
         ]
     },
@@ -8839,7 +8839,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Lug Bolt Forgings \u2014 Wheel Retention Fasteners Threading Directly Into the Hub Rather Than Onto a Pressed Stud",
-        "description2": "JK Forge manufactures forged lug bolts \u2014 wheel retention fasteners that thread directly into a tapped hole in the hub or brake rotor, rather than clamping onto a separately pressed wheel stud \u2014 for wheel retention systems that locate the wheel purely through the bolt's conical seat and thread engagement into the hub. Grade 10.9/12.9 forged fastener construction for reliable clamping preload retention. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged lug bolts \u2014 wheel retention fasteners that thread directly into a tapped hole in the hub or brake rotor, rather than clamping onto a separately pressed wheel stud \u2014 for wheel retention systems that locate the wheel purely through the bolt's conical seat and thread engagement into the hub. Grade 10.9/12.9 forged fastener construction for reliable clamping preload retention. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Ball Seat and Radius Seat Lug Bolt Forgings",
@@ -8963,7 +8963,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Lug Bolt Forgings \u2014 Wheel Retention Fasteners Threading Directly Into the Hub Rather Than Onto a Pressed Stud",
-        "description2": "JK Forge manufactures forged lug bolts \u2014 wheel retention fasteners that thread directly into a tapped hole in the hub or brake rotor, rather than clamping onto a separately pressed wheel stud \u2014 for wheel retention systems that locate the wheel purely through the bolt's conical seat and thread engagement into the hub. Grade 10.9/12.9 forged fastener construction for reliable clamping preload retention. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged lug bolts \u2014 wheel retention fasteners that thread directly into a tapped hole in the hub or brake rotor, rather than clamping onto a separately pressed wheel stud \u2014 for wheel retention systems that locate the wheel purely through the bolt's conical seat and thread engagement into the hub. Grade 10.9/12.9 forged fastener construction for reliable clamping preload retention. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Ball Seat and Radius Seat Lug Bolt Forgings",
@@ -9087,7 +9087,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Wheel Nut Forgings \u2014 Conical Seat, Flange & Two-Piece Wheel Nuts for Passenger, Commercial & Off-Highway Wheels",
-        "description2": "JK Forge manufactures forged wheel nuts and wheel stud nuts \u2014 conical seat, flange seat, and two-piece designs \u2014 for passenger vehicle, commercial truck, and off-highway wheel retention applications. Grade 8/10.9 and higher-strength grade options for the correct clamping preload and fatigue performance this safety-critical fastener demands. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged wheel nuts and wheel stud nuts \u2014 conical seat, flange seat, and two-piece designs \u2014 for passenger vehicle, commercial truck, and off-highway wheel retention applications. Grade 8/10.9 and higher-strength grade options for the correct clamping preload and fatigue performance this safety-critical fastener demands. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Flange Seat Wheel Nut Forgings",
@@ -9211,7 +9211,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Wheel Nut Forgings \u2014 Conical Seat, Flange & Two-Piece Wheel Nuts for Passenger, Commercial & Off-Highway Wheels",
-        "description2": "JK Forge manufactures forged wheel nuts and wheel stud nuts \u2014 conical seat, flange seat, and two-piece designs \u2014 for passenger vehicle, commercial truck, and off-highway wheel retention applications. Grade 8/10.9 and higher-strength grade options for the correct clamping preload and fatigue performance this safety-critical fastener demands. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged wheel nuts and wheel stud nuts \u2014 conical seat, flange seat, and two-piece designs \u2014 for passenger vehicle, commercial truck, and off-highway wheel retention applications. Grade 8/10.9 and higher-strength grade options for the correct clamping preload and fatigue performance this safety-critical fastener demands. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Flange Seat Wheel Nut Forgings",
@@ -9335,7 +9335,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Wheel Loader Bucket Cutting Edge Forgings \u2014 Penetration and Impact Duty, Distinct From Dozer Blade Cutting Edges",
-        "description2": "JK Forge manufactures forged wheel loader bucket cutting edges \u2014 the bolt-on replaceable edge across a loader bucket's lip \u2014 engineered for the scoop-and-penetrate loading cycle a loader performs against stockpiles and blasted material, a materially different duty than the continuous sliding abrasion a bulldozer blade cutting edge experiences. Forged construction balances abrasion resistance with the impact toughness digging into piled aggregate and rock demands. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged wheel loader bucket cutting edges \u2014 the bolt-on replaceable edge across a loader bucket's lip \u2014 engineered for the scoop-and-penetrate loading cycle a loader performs against stockpiles and blasted material, a materially different duty than the continuous sliding abrasion a bulldozer blade cutting edge experiences. Forged construction balances abrasion resistance with the impact toughness digging into piled aggregate and rock demands. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Segmented Bolt-On Edge Sections",
@@ -9459,7 +9459,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Wheel Loader Bucket Cutting Edge Forgings \u2014 Penetration and Impact Duty, Distinct From Dozer Blade Cutting Edges",
-        "description2": "JK Forge manufactures forged wheel loader bucket cutting edges \u2014 the bolt-on replaceable edge across a loader bucket's lip \u2014 engineered for the scoop-and-penetrate loading cycle a loader performs against stockpiles and blasted material, a materially different duty than the continuous sliding abrasion a bulldozer blade cutting edge experiences. Forged construction balances abrasion resistance with the impact toughness digging into piled aggregate and rock demands. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged wheel loader bucket cutting edges \u2014 the bolt-on replaceable edge across a loader bucket's lip \u2014 engineered for the scoop-and-penetrate loading cycle a loader performs against stockpiles and blasted material, a materially different duty than the continuous sliding abrasion a bulldozer blade cutting edge experiences. Forged construction balances abrasion resistance with the impact toughness digging into piled aggregate and rock demands. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Segmented Bolt-On Edge Sections",
@@ -9583,7 +9583,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Ball Mill Trunnion Forgings \u2014 The Rotating Shaft Supporting a Mineral Grinding Mill's Full Charge Weight on Its Bearing System",
-        "description2": "JK Forge manufactures forged trunnion shaft components for ball mills and rod mills \u2014 the large-diameter rotating shaft, integral or bolted to the mill shell head, that supports the mill's entire rotating mass (shell, grinding media, and mineral charge) on its trunnion bearings while also serving as the feed or discharge passage for material flow. Mineral processing and cement industry applications. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged trunnion shaft components for ball mills and rod mills \u2014 the large-diameter rotating shaft, integral or bolted to the mill shell head, that supports the mill's entire rotating mass (shell, grinding media, and mineral charge) on its trunnion bearings while also serving as the feed or discharge passage for material flow. Mineral processing and cement industry applications. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Discharge-End Trunnion Shaft Forgings",
@@ -9707,7 +9707,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Ball Mill Trunnion Forgings \u2014 The Rotating Shaft Supporting a Mineral Grinding Mill's Full Charge Weight on Its Bearing System",
-        "description2": "JK Forge manufactures forged trunnion shaft components for ball mills and rod mills \u2014 the large-diameter rotating shaft, integral or bolted to the mill shell head, that supports the mill's entire rotating mass (shell, grinding media, and mineral charge) on its trunnion bearings while also serving as the feed or discharge passage for material flow. Mineral processing and cement industry applications. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged trunnion shaft components for ball mills and rod mills \u2014 the large-diameter rotating shaft, integral or bolted to the mill shell head, that supports the mill's entire rotating mass (shell, grinding media, and mineral charge) on its trunnion bearings while also serving as the feed or discharge passage for material flow. Mineral processing and cement industry applications. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Discharge-End Trunnion Shaft Forgings",
@@ -9831,7 +9831,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Choke Valve Body Forgings \u2014 Oilfield Flow-Control Valve Bodies Regulating Wellhead Pressure & Production Flow Rate",
-        "description2": "JK Forge manufactures forged choke valve body blanks \u2014 the pressure-retaining housing for oilfield choke valves that regulate wellhead production flow rate and downstream pressure by controllably restricting flow. High-strength alloy steel forgings addressing sustained high-pressure-drop erosive flow across the valve's internal flow path. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged choke valve body blanks \u2014 the pressure-retaining housing for oilfield choke valves that regulate wellhead production flow rate and downstream pressure by controllably restricting flow. High-strength alloy steel forgings addressing sustained high-pressure-drop erosive flow across the valve's internal flow path. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Adjustable Choke Valve Body Forgings",
@@ -9955,7 +9955,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Choke Valve Body Forgings \u2014 Oilfield Flow-Control Valve Bodies Regulating Wellhead Pressure & Production Flow Rate",
-        "description2": "JK Forge manufactures forged choke valve body blanks \u2014 the pressure-retaining housing for oilfield choke valves that regulate wellhead production flow rate and downstream pressure by controllably restricting flow. High-strength alloy steel forgings addressing sustained high-pressure-drop erosive flow across the valve's internal flow path. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged choke valve body blanks \u2014 the pressure-retaining housing for oilfield choke valves that regulate wellhead production flow rate and downstream pressure by controllably restricting flow. High-strength alloy steel forgings addressing sustained high-pressure-drop erosive flow across the valve's internal flow path. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Adjustable Choke Valve Body Forgings",
@@ -10079,7 +10079,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Camshaft Sprocket & Gear Forgings \u2014 Precision Tooth Geometry Driving Correct Valve Timing Under Cyclic Torque Reversal",
-        "description2": "JK Forge manufactures forged camshaft sprocket and gear blanks \u2014 the toothed component mounted on a camshaft's end that the timing chain, belt, or gear train drives \u2014 machined to precise tooth geometry for correct valve timing and case-hardened for fatigue resistance at the tooth roots under the camshaft's cyclic torque reversals from valve spring loading. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged camshaft sprocket and gear blanks \u2014 the toothed component mounted on a camshaft's end that the timing chain, belt, or gear train drives \u2014 machined to precise tooth geometry for correct valve timing and case-hardened for fatigue resistance at the tooth roots under the camshaft's cyclic torque reversals from valve spring loading. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Timing Belt Pulley/Sprocket Forgings",
@@ -10203,7 +10203,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Camshaft Sprocket & Gear Forgings \u2014 Precision Tooth Geometry Driving Correct Valve Timing Under Cyclic Torque Reversal",
-        "description2": "JK Forge manufactures forged camshaft sprocket and gear blanks \u2014 the toothed component mounted on a camshaft's end that the timing chain, belt, or gear train drives \u2014 machined to precise tooth geometry for correct valve timing and case-hardened for fatigue resistance at the tooth roots under the camshaft's cyclic torque reversals from valve spring loading. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged camshaft sprocket and gear blanks \u2014 the toothed component mounted on a camshaft's end that the timing chain, belt, or gear train drives \u2014 machined to precise tooth geometry for correct valve timing and case-hardened for fatigue resistance at the tooth roots under the camshaft's cyclic torque reversals from valve spring loading. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Timing Belt Pulley/Sprocket Forgings",
@@ -10327,7 +10327,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Differential Case & Carrier Forgings \u2014 Passenger Car, Commercial Vehicle, Tractor Differentials",
-        "description2": "JK Forge manufactures forged differential case and carrier blanks for passenger car, commercial vehicle, tractor, and off-highway equipment axle assemblies \u2014 in EN24, 20MnCr5, and SAE 4340 alloy steel, engineered for the combined torsional and bearing-load requirements differential housings experience. IATF 16949 aligned quality, PPAP Level 3 documentation, EN 10204 3.1 certification. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged differential case and carrier blanks for passenger car, commercial vehicle, tractor, and off-highway equipment axle assemblies \u2014 in EN24, 20MnCr5, and SAE 4340 alloy steel, engineered for the combined torsional and bearing-load requirements differential housings experience. IATF 16949 aligned quality, PPAP Level 3 documentation, EN 10204 3.1 certification. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Case-Hardening for Bearing Bore Wear Resistance",
@@ -10443,7 +10443,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Differential Case & Carrier Forgings \u2014 Passenger Car, Commercial Vehicle, Tractor Differentials",
-        "description2": "JK Forge manufactures forged differential case and carrier blanks for passenger car, commercial vehicle, tractor, and off-highway equipment axle assemblies \u2014 in EN24, 20MnCr5, and SAE 4340 alloy steel, engineered for the combined torsional and bearing-load requirements differential housings experience. IATF 16949 aligned quality, PPAP Level 3 documentation, EN 10204 3.1 certification. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged differential case and carrier blanks for passenger car, commercial vehicle, tractor, and off-highway equipment axle assemblies \u2014 in EN24, 20MnCr5, and SAE 4340 alloy steel, engineered for the combined torsional and bearing-load requirements differential housings experience. IATF 16949 aligned quality, PPAP Level 3 documentation, EN 10204 3.1 certification. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Case-Hardening for Bearing Bore Wear Resistance",
@@ -10559,7 +10559,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Orifice Flanges \u2014 Pressure-Tap Flange Pairs per ASME B16.36 for Orifice Plate Differential-Pressure Flow Metering",
-        "description2": "JK Forge manufactures forged orifice flanges \u2014 matched flange pairs machined with radial pressure-tap connections either side of an orifice plate to measure differential pressure for custody-transfer and process flow metering \u2014 to ASME B16.36 for oil and gas, chemical, and power plant applications. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged orifice flanges \u2014 matched flange pairs machined with radial pressure-tap connections either side of an orifice plate to measure differential pressure for custody-transfer and process flow metering \u2014 to ASME B16.36 for oil and gas, chemical, and power plant applications. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Jack Screw Assemblies for Plate Removal",
@@ -10683,7 +10683,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Orifice Flanges \u2014 Pressure-Tap Flange Pairs per ASME B16.36 for Orifice Plate Differential-Pressure Flow Metering",
-        "description2": "JK Forge manufactures forged orifice flanges \u2014 matched flange pairs machined with radial pressure-tap connections either side of an orifice plate to measure differential pressure for custody-transfer and process flow metering \u2014 to ASME B16.36 for oil and gas, chemical, and power plant applications. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged orifice flanges \u2014 matched flange pairs machined with radial pressure-tap connections either side of an orifice plate to measure differential pressure for custody-transfer and process flow metering \u2014 to ASME B16.36 for oil and gas, chemical, and power plant applications. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Jack Screw Assemblies for Plate Removal",
@@ -10807,7 +10807,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Ship Anchor Forgings \u2014 Shank, Crown & Fluke Body Components for Stockless and Stocked Anchor Types",
-        "description2": "JK Forge manufactures forged ship anchor components \u2014 the shank, crown, and fluke body forgings that make up the anchor itself, engineered for the substantial seabed impact loading of anchor setting and the sustained holding-power loading of vessel mooring, distinct from anchor chain hardware. Classification society material compliance support. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged ship anchor components \u2014 the shank, crown, and fluke body forgings that make up the anchor itself, engineered for the substantial seabed impact loading of anchor setting and the sustained holding-power loading of vessel mooring, distinct from anchor chain hardware. Classification society material compliance support. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Stocked Anchor Shank and Stock Forgings",
@@ -10931,7 +10931,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Ship Anchor Forgings \u2014 Shank, Crown & Fluke Body Components for Stockless and Stocked Anchor Types",
-        "description2": "JK Forge manufactures forged ship anchor components \u2014 the shank, crown, and fluke body forgings that make up the anchor itself, engineered for the substantial seabed impact loading of anchor setting and the sustained holding-power loading of vessel mooring, distinct from anchor chain hardware. Classification society material compliance support. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged ship anchor components \u2014 the shank, crown, and fluke body forgings that make up the anchor itself, engineered for the substantial seabed impact loading of anchor setting and the sustained holding-power loading of vessel mooring, distinct from anchor chain hardware. Classification society material compliance support. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Stocked Anchor Shank and Stock Forgings",
@@ -11055,7 +11055,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Anti-Roll Bar (Sway Bar) Forgings \u2014 The Vehicle-Spanning Torsion Spring Resisting Body Roll in Cornering",
-        "description2": "JK Forge manufactures forged anti-roll bar (sway bar) components \u2014 the torsion bar spanning across the vehicle connecting left and right suspension, resisting body roll during cornering through its own torsional spring rate and mounted to the chassis via bushings. Distinct from the stabilizer link connecting the bar to the suspension. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged anti-roll bar (sway bar) components \u2014 the torsion bar spanning across the vehicle connecting left and right suspension, resisting body roll during cornering through its own torsional spring rate and mounted to the chassis via bushings. Distinct from the stabilizer link connecting the bar to the suspension. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Rear Axle Anti-Roll Bar Forgings",
@@ -11179,7 +11179,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Anti-Roll Bar (Sway Bar) Forgings \u2014 The Vehicle-Spanning Torsion Spring Resisting Body Roll in Cornering",
-        "description2": "JK Forge manufactures forged anti-roll bar (sway bar) components \u2014 the torsion bar spanning across the vehicle connecting left and right suspension, resisting body roll during cornering through its own torsional spring rate and mounted to the chassis via bushings. Distinct from the stabilizer link connecting the bar to the suspension. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged anti-roll bar (sway bar) components \u2014 the torsion bar spanning across the vehicle connecting left and right suspension, resisting body roll during cornering through its own torsional spring rate and mounted to the chassis via bushings. Distinct from the stabilizer link connecting the bar to the suspension. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Rear Axle Anti-Roll Bar Forgings",
@@ -11303,7 +11303,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Pantograph Contact Shoe Holder Forgings \u2014 Holding Current Collection Steady Against a Moving Overhead Line at Speed",
-        "description2": "JK Forge manufactures forged pantograph contact shoe holders \u2014 the railway electrification component that holds the current-collecting contact strip against the overhead catenary wire, maintaining consistent contact pressure and electrical continuity as the pantograph rides the wire's natural sway and height variation at speed. Forged construction survives continuous vibration and cyclic contact-pressure loading without developing the play that causes arcing and contact loss. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged pantograph contact shoe holders \u2014 the railway electrification component that holds the current-collecting contact strip against the overhead catenary wire, maintaining consistent contact pressure and electrical continuity as the pantograph rides the wire's natural sway and height variation at speed. Forged construction survives continuous vibration and cyclic contact-pressure loading without developing the play that causes arcing and contact loss. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Metro and Suburban Rail Holder Forgings",
@@ -11427,7 +11427,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Pantograph Contact Shoe Holder Forgings \u2014 Holding Current Collection Steady Against a Moving Overhead Line at Speed",
-        "description2": "JK Forge manufactures forged pantograph contact shoe holders \u2014 the railway electrification component that holds the current-collecting contact strip against the overhead catenary wire, maintaining consistent contact pressure and electrical continuity as the pantograph rides the wire's natural sway and height variation at speed. Forged construction survives continuous vibration and cyclic contact-pressure loading without developing the play that causes arcing and contact loss. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged pantograph contact shoe holders \u2014 the railway electrification component that holds the current-collecting contact strip against the overhead catenary wire, maintaining consistent contact pressure and electrical continuity as the pantograph rides the wire's natural sway and height variation at speed. Forged construction survives continuous vibration and cyclic contact-pressure loading without developing the play that causes arcing and contact loss. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Metro and Suburban Rail Holder Forgings",
@@ -11551,7 +11551,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Trailer Hitch Ball Forgings \u2014 Standard & Heavy-Duty Ball Coupling Blanks for Towing Applications",
-        "description2": "JK Forge manufactures forged trailer hitch ball blanks \u2014 the spherical coupling component a trailer coupler socket engages, carrying the full tongue weight of a towed trailer plus dynamic shock, sway, and braking loads through a single small-diameter contact point. Distinct from the receiver hitch hardware itself. Alloy steel construction rated to standard gross trailer weight classes. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged trailer hitch ball blanks \u2014 the spherical coupling component a trailer coupler socket engages, carrying the full tongue weight of a towed trailer plus dynamic shock, sway, and braking loads through a single small-diameter contact point. Distinct from the receiver hitch hardware itself. Alloy steel construction rated to standard gross trailer weight classes. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Integral Shank and Ball Forgings",
@@ -11675,7 +11675,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Trailer Hitch Ball Forgings \u2014 Standard & Heavy-Duty Ball Coupling Blanks for Towing Applications",
-        "description2": "JK Forge manufactures forged trailer hitch ball blanks \u2014 the spherical coupling component a trailer coupler socket engages, carrying the full tongue weight of a towed trailer plus dynamic shock, sway, and braking loads through a single small-diameter contact point. Distinct from the receiver hitch hardware itself. Alloy steel construction rated to standard gross trailer weight classes. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged trailer hitch ball blanks \u2014 the spherical coupling component a trailer coupler socket engages, carrying the full tongue weight of a towed trailer plus dynamic shock, sway, and braking loads through a single small-diameter contact point. Distinct from the receiver hitch hardware itself. Alloy steel construction rated to standard gross trailer weight classes. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Integral Shank and Ball Forgings",
@@ -11799,7 +11799,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Aircraft Flap Track Forgings \u2014 The Curved Structural Rail Guiding Fowler Flap Deployment on Every Takeoff and Landing",
-        "description2": "JK Forge manufactures forged aircraft flap track components \u2014 the curved structural rail and carriage assembly that guides a wing's trailing-edge flap through its extend-and-retract motion during every takeoff and landing cycle. High-strength steel and titanium alloy forgings engineered for the combined bending, torsion, and wear-surface demands of a high-lift device mechanism. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged aircraft flap track components \u2014 the curved structural rail and carriage assembly that guides a wing's trailing-edge flap through its extend-and-retract motion during every takeoff and landing cycle. High-strength steel and titanium alloy forgings engineered for the combined bending, torsion, and wear-surface demands of a high-lift device mechanism. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Track Carriage and Roller Housing Forgings",
@@ -11923,7 +11923,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Aircraft Flap Track Forgings \u2014 The Curved Structural Rail Guiding Fowler Flap Deployment on Every Takeoff and Landing",
-        "description2": "JK Forge manufactures forged aircraft flap track components \u2014 the curved structural rail and carriage assembly that guides a wing's trailing-edge flap through its extend-and-retract motion during every takeoff and landing cycle. High-strength steel and titanium alloy forgings engineered for the combined bending, torsion, and wear-surface demands of a high-lift device mechanism. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged aircraft flap track components \u2014 the curved structural rail and carriage assembly that guides a wing's trailing-edge flap through its extend-and-retract motion during every takeoff and landing cycle. High-strength steel and titanium alloy forgings engineered for the combined bending, torsion, and wear-surface demands of a high-lift device mechanism. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Track Carriage and Roller Housing Forgings",
@@ -12047,7 +12047,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Axle Flange Forgings \u2014 Wheel-Mounting Bolt Circle Carrying Both Driving Torque and Wheel Reaction Loads",
-        "description2": "JK Forge manufactures forged axle flange components \u2014 the flanged end of a drive axle shaft providing the wheel-mounting bolt circle \u2014 engineered for precision bolt-circle geometry and fatigue-resistant grain flow at the flange-to-shaft transition, where both driving torque and wheel radial and thrust loads concentrate. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged axle flange components \u2014 the flanged end of a drive axle shaft providing the wheel-mounting bolt circle \u2014 engineered for precision bolt-circle geometry and fatigue-resistant grain flow at the flange-to-shaft transition, where both driving torque and wheel radial and thrust loads concentrate. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Full-Floating Axle Flange Forgings",
@@ -12171,7 +12171,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Axle Flange Forgings \u2014 Wheel-Mounting Bolt Circle Carrying Both Driving Torque and Wheel Reaction Loads",
-        "description2": "JK Forge manufactures forged axle flange components \u2014 the flanged end of a drive axle shaft providing the wheel-mounting bolt circle \u2014 engineered for precision bolt-circle geometry and fatigue-resistant grain flow at the flange-to-shaft transition, where both driving torque and wheel radial and thrust loads concentrate. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged axle flange components \u2014 the flanged end of a drive axle shaft providing the wheel-mounting bolt circle \u2014 engineered for precision bolt-circle geometry and fatigue-resistant grain flow at the flange-to-shaft transition, where both driving torque and wheel radial and thrust loads concentrate. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Full-Floating Axle Flange Forgings",
@@ -12295,7 +12295,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Winch Drum Shafts \u2014 Crane, Marine Windlass, Off-Highway & Recovery Winch Components",
-        "description2": "JK Forge manufactures forged winch drum shaft and hub blanks for crane hoisting winches, marine windlass and mooring winches, and off-highway/recovery vehicle winch applications \u2014 in alloy steel engineered for the combined torsional load and bending stress winch drum shafts experience under sustained cable or wire rope tension. EN 10204 3.1 documentation. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged winch drum shaft and hub blanks for crane hoisting winches, marine windlass and mooring winches, and off-highway/recovery vehicle winch applications \u2014 in alloy steel engineered for the combined torsional load and bending stress winch drum shafts experience under sustained cable or wire rope tension. EN 10204 3.1 documentation. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Marine Windlass and Mooring Winch Forgings",
@@ -12415,7 +12415,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Winch Drum Shafts \u2014 Crane, Marine Windlass, Off-Highway & Recovery Winch Components",
-        "description2": "JK Forge manufactures forged winch drum shaft and hub blanks for crane hoisting winches, marine windlass and mooring winches, and off-highway/recovery vehicle winch applications \u2014 in alloy steel engineered for the combined torsional load and bending stress winch drum shafts experience under sustained cable or wire rope tension. EN 10204 3.1 documentation. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged winch drum shaft and hub blanks for crane hoisting winches, marine windlass and mooring winches, and off-highway/recovery vehicle winch applications \u2014 in alloy steel engineered for the combined torsional load and bending stress winch drum shafts experience under sustained cable or wire rope tension. EN 10204 3.1 documentation. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Marine Windlass and Mooring Winch Forgings",
@@ -12823,7 +12823,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Eyebolts & Eye Nuts \u2014 Lifting, Rigging & Structural Anchor Point Hardware",
-        "description2": "JK Forge manufactures forged eyebolts, eye nuts, and lifting point hardware \u2014 shoulder and non-shoulder eyebolt forgings, collared eye nuts, and swivel eyebolt components \u2014 in Grade S and Grade 8 alloy steel, for crane lifting, rigging, and structural anchor point applications. Proof-load tested, WLL (working load limit) marked, EN 10204 3.1 certified with full traceability. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged eyebolts, eye nuts, and lifting point hardware \u2014 shoulder and non-shoulder eyebolt forgings, collared eye nuts, and swivel eyebolt components \u2014 in Grade S and Grade 8 alloy steel, for crane lifting, rigging, and structural anchor point applications. Proof-load tested, WLL (working load limit) marked, EN 10204 3.1 certified with full traceability. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Non-Shoulder (Plain) Eyebolt Forgings",
@@ -12947,7 +12947,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Eyebolts & Eye Nuts \u2014 Lifting, Rigging & Structural Anchor Point Hardware",
-        "description2": "JK Forge manufactures forged eyebolts, eye nuts, and lifting point hardware \u2014 shoulder and non-shoulder eyebolt forgings, collared eye nuts, and swivel eyebolt components \u2014 in Grade S and Grade 8 alloy steel, for crane lifting, rigging, and structural anchor point applications. Proof-load tested, WLL (working load limit) marked, EN 10204 3.1 certified with full traceability. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged eyebolts, eye nuts, and lifting point hardware \u2014 shoulder and non-shoulder eyebolt forgings, collared eye nuts, and swivel eyebolt components \u2014 in Grade S and Grade 8 alloy steel, for crane lifting, rigging, and structural anchor point applications. Proof-load tested, WLL (working load limit) marked, EN 10204 3.1 certified with full traceability. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Non-Shoulder (Plain) Eyebolt Forgings",
@@ -13071,7 +13071,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Swage Fittings \u2014 Compression-Swaged Hydraulic Hose & Tube End Fittings for Permanent High-Pressure Connections",
-        "description2": "JK Forge manufactures forged swage fitting blanks \u2014 the collar, ferrule, and end-fitting bodies that are radially compressed (swaged) onto hydraulic hose and tube ends to create a permanent, non-reusable, high-pressure-rated connection \u2014 in carbon steel, alloy steel, and stainless steel for hydraulic hose assembly manufacturers and tube fitting fabricators. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged swage fitting blanks \u2014 the collar, ferrule, and end-fitting bodies that are radially compressed (swaged) onto hydraulic hose and tube ends to create a permanent, non-reusable, high-pressure-rated connection \u2014 in carbon steel, alloy steel, and stainless steel for hydraulic hose assembly manufacturers and tube fitting fabricators. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Two-Piece Ferrule and Nipple Sets",
@@ -13195,7 +13195,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Swage Fittings \u2014 Compression-Swaged Hydraulic Hose & Tube End Fittings for Permanent High-Pressure Connections",
-        "description2": "JK Forge manufactures forged swage fitting blanks \u2014 the collar, ferrule, and end-fitting bodies that are radially compressed (swaged) onto hydraulic hose and tube ends to create a permanent, non-reusable, high-pressure-rated connection \u2014 in carbon steel, alloy steel, and stainless steel for hydraulic hose assembly manufacturers and tube fitting fabricators. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged swage fitting blanks \u2014 the collar, ferrule, and end-fitting bodies that are radially compressed (swaged) onto hydraulic hose and tube ends to create a permanent, non-reusable, high-pressure-rated connection \u2014 in carbon steel, alloy steel, and stainless steel for hydraulic hose assembly manufacturers and tube fitting fabricators. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Two-Piece Ferrule and Nipple Sets",
@@ -13319,7 +13319,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Synchronizer Hub Forgings \u2014 Splined Hubs Carrying the Sliding Sleeve That Matches Gear Speed Before Engagement",
-        "description2": "JK Forge manufactures forged synchronizer hub components \u2014 the splined hubs fixed to the transmission mainshaft that carry the sliding synchronizer sleeve and transmit full engine torque through their external spline teeth once a gear is engaged. Precision spline forming for shift-quality sleeve engagement and torque-transfer fatigue life. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged synchronizer hub components \u2014 the splined hubs fixed to the transmission mainshaft that carry the sliding synchronizer sleeve and transmit full engine torque through their external spline teeth once a gear is engaged. Precision spline forming for shift-quality sleeve engagement and torque-transfer fatigue life. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Three-Slot Key/Strut Retention Hub Forgings",
@@ -13443,7 +13443,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Synchronizer Hub Forgings \u2014 Splined Hubs Carrying the Sliding Sleeve That Matches Gear Speed Before Engagement",
-        "description2": "JK Forge manufactures forged synchronizer hub components \u2014 the splined hubs fixed to the transmission mainshaft that carry the sliding synchronizer sleeve and transmit full engine torque through their external spline teeth once a gear is engaged. Precision spline forming for shift-quality sleeve engagement and torque-transfer fatigue life. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged synchronizer hub components \u2014 the splined hubs fixed to the transmission mainshaft that carry the sliding synchronizer sleeve and transmit full engine torque through their external spline teeth once a gear is engaged. Precision spline forming for shift-quality sleeve engagement and torque-transfer fatigue life. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Three-Slot Key/Strut Retention Hub Forgings",
@@ -13653,7 +13653,7 @@ window.pageContent['componentsData'] = {
             },
             {
                 "question": "What is the price of forged clevis fittings in India?",
-                "answer": "Clevis forging prices depend on material grade (EN8, EN24, stainless), pin size (M12\u2013M80), quantity, WLL certification requirements, and surface finish (plain, galvanized, zinc-plated). JK Forge offers competitive pricing from Rajkot. Email your drawing or specification to sales@JK Forge.com for a quotation within 24 hours. Call +91 92657 72827 for immediate assistance."
+                "answer": "Clevis forging prices depend on material grade (EN8, EN24, stainless), pin size (M12\u2013M80), quantity, WLL certification requirements, and surface finish (plain, galvanized, zinc-plated). JK Forge offers competitive pricing from Rajkot. Email your drawing or specification to sales@JK Forge.com for a quotation within 24 hours. Call +91 7600066117 for immediate assistance."
             },
             {
                 "question": "Which materials do you use for clevis forgings?",
@@ -13677,7 +13677,7 @@ window.pageContent['componentsData'] = {
             },
             {
                 "question": "How do I order clevis forgings from JK Forge in Rajkot?",
-                "answer": "Email your drawing (PDF, DXF, STEP), material grade, required WLL or tensile specification, quantity, and any certification requirements to sales@JK Forge.com. We confirm receipt within the same business day and provide a full quotation within 24 hours. You can also call +91 92657 72827 to discuss your requirements directly."
+                "answer": "Email your drawing (PDF, DXF, STEP), material grade, required WLL or tensile specification, quantity, and any certification requirements to sales@JK Forge.com. We confirm receipt within the same business day and provide a full quotation within 24 hours. You can also call +91 7600066117 to discuss your requirements directly."
             }
         ]
     },
@@ -13789,7 +13789,7 @@ window.pageContent['componentsData'] = {
             },
             {
                 "question": "What is the price of forged clevis fittings in India?",
-                "answer": "Clevis forging prices depend on material grade (EN8, EN24, stainless), pin size (M12\u2013M80), quantity, WLL certification requirements, and surface finish (plain, galvanized, zinc-plated). JK Forge offers competitive pricing from Rajkot. Email your drawing or specification to sales@JK Forge.com for a quotation within 24 hours. Call +91 92657 72827 for immediate assistance."
+                "answer": "Clevis forging prices depend on material grade (EN8, EN24, stainless), pin size (M12\u2013M80), quantity, WLL certification requirements, and surface finish (plain, galvanized, zinc-plated). JK Forge offers competitive pricing from Rajkot. Email your drawing or specification to sales@JK Forge.com for a quotation within 24 hours. Call +91 7600066117 for immediate assistance."
             },
             {
                 "question": "Which materials do you use for clevis forgings?",
@@ -13813,7 +13813,7 @@ window.pageContent['componentsData'] = {
             },
             {
                 "question": "How do I order clevis forgings from JK Forge in Rajkot?",
-                "answer": "Email your drawing (PDF, DXF, STEP), material grade, required WLL or tensile specification, quantity, and any certification requirements to sales@JK Forge.com. We confirm receipt within the same business day and provide a full quotation within 24 hours. You can also call +91 92657 72827 to discuss your requirements directly."
+                "answer": "Email your drawing (PDF, DXF, STEP), material grade, required WLL or tensile specification, quantity, and any certification requirements to sales@JK Forge.com. We confirm receipt within the same business day and provide a full quotation within 24 hours. You can also call +91 7600066117 to discuss your requirements directly."
             }
         ]
     },
@@ -13839,7 +13839,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Circuit Breaker Contact Arm Forgings \u2014 Balancing Electrical Conductivity Against the Mechanical Strength a Fault Interruption Demands",
-        "description2": "JK Forge manufactures forged contact arm components for high-voltage circuit breakers \u2014 the switchgear component that carries load current in the closed position and executes the high-speed opening stroke that interrupts fault current, engineered around a genuine material tradeoff between electrical conductivity and the mechanical strength and fatigue life repeated switching operations demand. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged contact arm components for high-voltage circuit breakers \u2014 the switchgear component that carries load current in the closed position and executes the high-speed opening stroke that interrupts fault current, engineered around a genuine material tradeoff between electrical conductivity and the mechanical strength and fatigue life repeated switching operations demand. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Arcing Contact Arm Forgings",
@@ -13963,7 +13963,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Circuit Breaker Contact Arm Forgings \u2014 Balancing Electrical Conductivity Against the Mechanical Strength a Fault Interruption Demands",
-        "description2": "JK Forge manufactures forged contact arm components for high-voltage circuit breakers \u2014 the switchgear component that carries load current in the closed position and executes the high-speed opening stroke that interrupts fault current, engineered around a genuine material tradeoff between electrical conductivity and the mechanical strength and fatigue life repeated switching operations demand. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged contact arm components for high-voltage circuit breakers \u2014 the switchgear component that carries load current in the closed position and executes the high-speed opening stroke that interrupts fault current, engineered around a genuine material tradeoff between electrical conductivity and the mechanical strength and fatigue life repeated switching operations demand. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Arcing Contact Arm Forgings",
@@ -14375,7 +14375,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Turbocharger Shaft Forgings \u2014 Automotive, Commercial Vehicle & Industrial Turbo Rotor Components",
-        "description2": "JK Forge manufactures forged turbocharger shaft blanks and compressor wheel hub forgings for automotive, commercial vehicle, and industrial/marine diesel engine turbocharger applications \u2014 in precision alloy steel grades engineered for the combination of extreme rotational speed (up to 200,000+ RPM for small automotive turbos), high-temperature turbine-end exposure, and fatigue durability turbocharger rotors require. IATF 16949 aligned quality, EN 10204 3.1 certification. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged turbocharger shaft blanks and compressor wheel hub forgings for automotive, commercial vehicle, and industrial/marine diesel engine turbocharger applications \u2014 in precision alloy steel grades engineered for the combination of extreme rotational speed (up to 200,000+ RPM for small automotive turbos), high-temperature turbine-end exposure, and fatigue durability turbocharger rotors require. IATF 16949 aligned quality, EN 10204 3.1 certification. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Marine and Industrial Diesel Turbo Shaft Forgings",
@@ -14491,7 +14491,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Turbocharger Shaft Forgings \u2014 Automotive, Commercial Vehicle & Industrial Turbo Rotor Components",
-        "description2": "JK Forge manufactures forged turbocharger shaft blanks and compressor wheel hub forgings for automotive, commercial vehicle, and industrial/marine diesel engine turbocharger applications \u2014 in precision alloy steel grades engineered for the combination of extreme rotational speed (up to 200,000+ RPM for small automotive turbos), high-temperature turbine-end exposure, and fatigue durability turbocharger rotors require. IATF 16949 aligned quality, EN 10204 3.1 certification. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged turbocharger shaft blanks and compressor wheel hub forgings for automotive, commercial vehicle, and industrial/marine diesel engine turbocharger applications \u2014 in precision alloy steel grades engineered for the combination of extreme rotational speed (up to 200,000+ RPM for small automotive turbos), high-temperature turbine-end exposure, and fatigue durability turbocharger rotors require. IATF 16949 aligned quality, EN 10204 3.1 certification. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Marine and Industrial Diesel Turbo Shaft Forgings",
@@ -14607,7 +14607,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Air Brake Chamber Bracket Forgings \u2014 Positions the Chamber's Pushrod Precisely Against the Slack Adjuster on Every Brake Application",
-        "description2": "JK Forge manufactures forged air brake chamber mounting bracket components \u2014 the structural bracket fixing a heavy truck or trailer's spring brake chamber to the axle or frame at the precise position and angle its pushrod needs to engage the slack adjuster correctly through its full stroke. Reacts the chamber's full actuation thrust on every single brake application. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged air brake chamber mounting bracket components \u2014 the structural bracket fixing a heavy truck or trailer's spring brake chamber to the axle or frame at the precise position and angle its pushrod needs to engage the slack adjuster correctly through its full stroke. Reacts the chamber's full actuation thrust on every single brake application. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Frame-Mounted Chamber Bracket Forgings",
@@ -14731,7 +14731,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Air Brake Chamber Bracket Forgings \u2014 Positions the Chamber's Pushrod Precisely Against the Slack Adjuster on Every Brake Application",
-        "description2": "JK Forge manufactures forged air brake chamber mounting bracket components \u2014 the structural bracket fixing a heavy truck or trailer's spring brake chamber to the axle or frame at the precise position and angle its pushrod needs to engage the slack adjuster correctly through its full stroke. Reacts the chamber's full actuation thrust on every single brake application. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged air brake chamber mounting bracket components \u2014 the structural bracket fixing a heavy truck or trailer's spring brake chamber to the axle or frame at the precise position and angle its pushrod needs to engage the slack adjuster correctly through its full stroke. Reacts the chamber's full actuation thrust on every single brake application. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Frame-Mounted Chamber Bracket Forgings",
@@ -14855,7 +14855,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Swivels \u2014 Lifting Swivel Hoist Rings, Rigging Swivels, Anti-Rotation Load Hardware",
-        "description2": "JK Forge manufactures forged swivel hoist rings, rigging swivels, and anti-two-block swivel components \u2014 bearing-mounted swivel bodies and load pin forgings \u2014 in alloy steel, engineered for reliable rotation under sustained load in crane rigging, marine mooring, and cable/chain assemblies where load orientation changes during operation. Proof-load tested, WLL marked, EN 10204 3.1 certified. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged swivel hoist rings, rigging swivels, and anti-two-block swivel components \u2014 bearing-mounted swivel bodies and load pin forgings \u2014 in alloy steel, engineered for reliable rotation under sustained load in crane rigging, marine mooring, and cable/chain assemblies where load orientation changes during operation. Proof-load tested, WLL marked, EN 10204 3.1 certified. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Rigging Swivel Body and Load Pin Forgings",
@@ -14979,7 +14979,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Swivels \u2014 Lifting Swivel Hoist Rings, Rigging Swivels, Anti-Rotation Load Hardware",
-        "description2": "JK Forge manufactures forged swivel hoist rings, rigging swivels, and anti-two-block swivel components \u2014 bearing-mounted swivel bodies and load pin forgings \u2014 in alloy steel, engineered for reliable rotation under sustained load in crane rigging, marine mooring, and cable/chain assemblies where load orientation changes during operation. Proof-load tested, WLL marked, EN 10204 3.1 certified. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged swivel hoist rings, rigging swivels, and anti-two-block swivel components \u2014 bearing-mounted swivel bodies and load pin forgings \u2014 in alloy steel, engineered for reliable rotation under sustained load in crane rigging, marine mooring, and cable/chain assemblies where load orientation changes during operation. Proof-load tested, WLL marked, EN 10204 3.1 certified. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Rigging Swivel Body and Load Pin Forgings",
@@ -15213,7 +15213,7 @@ window.pageContent['componentsData'] = {
             },
             {
                 "question": "How do I get an axle shaft forging quotation?",
-                "answer": "Send your drawing with material grade, heat treatment specification, spline details and required quantity to sales@JK Forge.com or call +91 92657 72827. We will respond within 24 hours."
+                "answer": "Send your drawing with material grade, heat treatment specification, spline details and required quantity to sales@JK Forge.com or call +91 7600066117. We will respond within 24 hours."
             }
         ]
     },
@@ -15349,7 +15349,7 @@ window.pageContent['componentsData'] = {
             },
             {
                 "question": "How do I get an axle shaft forging quotation?",
-                "answer": "Send your drawing with material grade, heat treatment specification, spline details and required quantity to sales@JK Forge.com or call +91 92657 72827. We will respond within 24 hours."
+                "answer": "Send your drawing with material grade, heat treatment specification, spline details and required quantity to sales@JK Forge.com or call +91 7600066117. We will respond within 24 hours."
             }
         ]
     },
@@ -15375,7 +15375,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Brake Anchor Pin Forgings \u2014 The Fixed Pivot Reacting the Full Braking Torque a Drum Brake Shoe Generates Against the Drum",
-        "description2": "JK Forge manufactures forged drum brake anchor pin components \u2014 the fixed pivot pin, mounted to the backing plate, that a brake shoe pivots against and reacts its full braking torque through every time the brake is applied \u2014 for heavy truck, trailer, and off-highway drum brake foundation assemblies. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged drum brake anchor pin components \u2014 the fixed pivot pin, mounted to the backing plate, that a brake shoe pivots against and reacts its full braking torque through every time the brake is applied \u2014 for heavy truck, trailer, and off-highway drum brake foundation assemblies. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Anchor Bracket and Pin Assembly Forgings",
@@ -15495,7 +15495,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Brake Anchor Pin Forgings \u2014 The Fixed Pivot Reacting the Full Braking Torque a Drum Brake Shoe Generates Against the Drum",
-        "description2": "JK Forge manufactures forged drum brake anchor pin components \u2014 the fixed pivot pin, mounted to the backing plate, that a brake shoe pivots against and reacts its full braking torque through every time the brake is applied \u2014 for heavy truck, trailer, and off-highway drum brake foundation assemblies. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged drum brake anchor pin components \u2014 the fixed pivot pin, mounted to the backing plate, that a brake shoe pivots against and reacts its full braking torque through every time the brake is applied \u2014 for heavy truck, trailer, and off-highway drum brake foundation assemblies. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Anchor Bracket and Pin Assembly Forgings",
@@ -15615,7 +15615,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Roll Cage Node Forgings \u2014 Multi-Tube Joint Connectors for Motorsport and Rally Safety Cage Construction",
-        "description2": "JK Forge manufactures forged roll cage nodes \u2014 the multi-tube joint connectors used at roll bar and roll cage intersections in racing, rally, and off-road safety cage construction, engineered to carry crash impact loads through the joint itself rather than relying on weld strength alone at a multi-tube cluster. Forged nodes deliver a purpose-built load path at exactly the point where a notched-and-welded tube junction is otherwise weakest. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged roll cage nodes \u2014 the multi-tube joint connectors used at roll bar and roll cage intersections in racing, rally, and off-road safety cage construction, engineered to carry crash impact loads through the joint itself rather than relying on weld strength alone at a multi-tube cluster. Forged nodes deliver a purpose-built load path at exactly the point where a notched-and-welded tube junction is otherwise weakest. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Five and Six-Way Complex Node Forgings",
@@ -15739,7 +15739,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Roll Cage Node Forgings \u2014 Multi-Tube Joint Connectors for Motorsport and Rally Safety Cage Construction",
-        "description2": "JK Forge manufactures forged roll cage nodes \u2014 the multi-tube joint connectors used at roll bar and roll cage intersections in racing, rally, and off-road safety cage construction, engineered to carry crash impact loads through the joint itself rather than relying on weld strength alone at a multi-tube cluster. Forged nodes deliver a purpose-built load path at exactly the point where a notched-and-welded tube junction is otherwise weakest. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged roll cage nodes \u2014 the multi-tube joint connectors used at roll bar and roll cage intersections in racing, rally, and off-road safety cage construction, engineered to carry crash impact loads through the joint itself rather than relying on weld strength alone at a multi-tube cluster. Forged nodes deliver a purpose-built load path at exactly the point where a notched-and-welded tube junction is otherwise weakest. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Five and Six-Way Complex Node Forgings",
@@ -15863,7 +15863,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Wheel Stud Forgings \u2014 Press-Fit Serrated-Shank Studs Providing the Fixed Thread Interface Between Hub and Wheel Nut",
-        "description2": "JK Forge manufactures forged wheel studs \u2014 serrated-shank fasteners press-fit permanently into the hub flange, providing a fixed threaded interface that projects through the wheel for clamping with a wheel nut. Distinct from lug bolts, which thread directly into the hub, and from wheel nuts, already covered on this site. Interference-fit knurl geometry and thread fatigue engineered together. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged wheel studs \u2014 serrated-shank fasteners press-fit permanently into the hub flange, providing a fixed threaded interface that projects through the wheel for clamping with a wheel nut. Distinct from lug bolts, which thread directly into the hub, and from wheel nuts, already covered on this site. Interference-fit knurl geometry and thread fatigue engineered together. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Broached / Splined Retention Wheel Stud Forgings",
@@ -15987,7 +15987,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Wheel Stud Forgings \u2014 Press-Fit Serrated-Shank Studs Providing the Fixed Thread Interface Between Hub and Wheel Nut",
-        "description2": "JK Forge manufactures forged wheel studs \u2014 serrated-shank fasteners press-fit permanently into the hub flange, providing a fixed threaded interface that projects through the wheel for clamping with a wheel nut. Distinct from lug bolts, which thread directly into the hub, and from wheel nuts, already covered on this site. Interference-fit knurl geometry and thread fatigue engineered together. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged wheel studs \u2014 serrated-shank fasteners press-fit permanently into the hub flange, providing a fixed threaded interface that projects through the wheel for clamping with a wheel nut. Distinct from lug bolts, which thread directly into the hub, and from wheel nuts, already covered on this site. Interference-fit knurl geometry and thread fatigue engineered together. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Broached / Splined Retention Wheel Stud Forgings",
@@ -16111,7 +16111,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Wheel Spacer Forgings \u2014 Hub-Centric Offset Spacers Bridging Hub and Wheel Under Full Clamping and Bearing Load",
-        "description2": "JK Forge manufactures forged wheel spacers \u2014 hub-centric bolt-on and slip-on offset spacers that relocate the wheel mounting plane outward from the hub face while carrying the vehicle's full clamping and bearing load through the added interface. Precision-bored centering register and re-engineered stud/bolt clamping stack for aftermarket and OEM wheel-fitment programs. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged wheel spacers \u2014 hub-centric bolt-on and slip-on offset spacers that relocate the wheel mounting plane outward from the hub face while carrying the vehicle's full clamping and bearing load through the added interface. Precision-bored centering register and re-engineered stud/bolt clamping stack for aftermarket and OEM wheel-fitment programs. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Slip-On Spacer Forgings",
@@ -16235,7 +16235,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Wheel Spacer Forgings \u2014 Hub-Centric Offset Spacers Bridging Hub and Wheel Under Full Clamping and Bearing Load",
-        "description2": "JK Forge manufactures forged wheel spacers \u2014 hub-centric bolt-on and slip-on offset spacers that relocate the wheel mounting plane outward from the hub face while carrying the vehicle's full clamping and bearing load through the added interface. Precision-bored centering register and re-engineered stud/bolt clamping stack for aftermarket and OEM wheel-fitment programs. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged wheel spacers \u2014 hub-centric bolt-on and slip-on offset spacers that relocate the wheel mounting plane outward from the hub face while carrying the vehicle's full clamping and bearing load through the added interface. Precision-bored centering register and re-engineered stud/bolt clamping stack for aftermarket and OEM wheel-fitment programs. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Slip-On Spacer Forgings",
@@ -16359,7 +16359,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Drill Collar Forgings \u2014 Heavy-Wall Drill String Components Providing Weight-on-Bit & Bottom-Hole Assembly Stiffness",
-        "description2": "JK Forge manufactures forged drill collar blanks \u2014 the thick-walled, high-mass drill string components positioned above the drill bit to provide weight-on-bit and stiffen the bottom-hole assembly against buckling. High-strength, high-hardenability steel grades addressing the combined compressive, torsional, and bending duty cycle drill collars experience. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged drill collar blanks \u2014 the thick-walled, high-mass drill string components positioned above the drill bit to provide weight-on-bit and stiffen the bottom-hole assembly against buckling. High-strength, high-hardenability steel grades addressing the combined compressive, torsional, and bending duty cycle drill collars experience. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Spiral Groove Drill Collar Forgings",
@@ -16483,7 +16483,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Drill Collar Forgings \u2014 Heavy-Wall Drill String Components Providing Weight-on-Bit & Bottom-Hole Assembly Stiffness",
-        "description2": "JK Forge manufactures forged drill collar blanks \u2014 the thick-walled, high-mass drill string components positioned above the drill bit to provide weight-on-bit and stiffen the bottom-hole assembly against buckling. High-strength, high-hardenability steel grades addressing the combined compressive, torsional, and bending duty cycle drill collars experience. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged drill collar blanks \u2014 the thick-walled, high-mass drill string components positioned above the drill bit to provide weight-on-bit and stiffen the bottom-hole assembly against buckling. High-strength, high-hardenability steel grades addressing the combined compressive, torsional, and bending duty cycle drill collars experience. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Spiral Groove Drill Collar Forgings",
@@ -16895,7 +16895,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Dragline Bucket Pin Forgings \u2014 Structural Pin Components Connecting Dragline Bucket, Rigging and Dump Mechanism Under Suspended-Load Cyclic Duty",
-        "description2": "JK Forge manufactures forged structural pins for dragline excavator buckets \u2014 the bucket hitch, dump, and rigging attachment pins connecting a dragline's bucket to its drag chain, hoist chain, and dump linkage, sized for the massive suspended-load cyclic duty cycle unique to dragline excavation on large surface mining and overburden removal operations. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged structural pins for dragline excavator buckets \u2014 the bucket hitch, dump, and rigging attachment pins connecting a dragline's bucket to its drag chain, hoist chain, and dump linkage, sized for the massive suspended-load cyclic duty cycle unique to dragline excavation on large surface mining and overburden removal operations. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Dump Pin and Latch Mechanism Forgings",
@@ -17019,7 +17019,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Dragline Bucket Pin Forgings \u2014 Structural Pin Components Connecting Dragline Bucket, Rigging and Dump Mechanism Under Suspended-Load Cyclic Duty",
-        "description2": "JK Forge manufactures forged structural pins for dragline excavator buckets \u2014 the bucket hitch, dump, and rigging attachment pins connecting a dragline's bucket to its drag chain, hoist chain, and dump linkage, sized for the massive suspended-load cyclic duty cycle unique to dragline excavation on large surface mining and overburden removal operations. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged structural pins for dragline excavator buckets \u2014 the bucket hitch, dump, and rigging attachment pins connecting a dragline's bucket to its drag chain, hoist chain, and dump linkage, sized for the massive suspended-load cyclic duty cycle unique to dragline excavation on large surface mining and overburden removal operations. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Dump Pin and Latch Mechanism Forgings",
@@ -17143,7 +17143,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Stabilizer Link Forgings \u2014 Sway Bar End Link Bodies Connecting the Anti-Roll Bar to the Suspension",
-        "description2": "JK Forge manufactures forged stabilizer link (sway bar end link) bodies \u2014 the component connecting a vehicle's anti-roll bar to the suspension control arm or strut, transmitting the roll-resisting force that keeps body lean under control during cornering. EN24 and SAE 4140 grade options, precision ball stud and bushing bore geometry. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged stabilizer link (sway bar end link) bodies \u2014 the component connecting a vehicle's anti-roll bar to the suspension control arm or strut, transmitting the roll-resisting force that keeps body lean under control during cornering. EN24 and SAE 4140 grade options, precision ball stud and bushing bore geometry. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Bushing-Type Stabilizer Link Forgings",
@@ -17267,7 +17267,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Stabilizer Link Forgings \u2014 Sway Bar End Link Bodies Connecting the Anti-Roll Bar to the Suspension",
-        "description2": "JK Forge manufactures forged stabilizer link (sway bar end link) bodies \u2014 the component connecting a vehicle's anti-roll bar to the suspension control arm or strut, transmitting the roll-resisting force that keeps body lean under control during cornering. EN24 and SAE 4140 grade options, precision ball stud and bushing bore geometry. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged stabilizer link (sway bar end link) bodies \u2014 the component connecting a vehicle's anti-roll bar to the suspension control arm or strut, transmitting the roll-resisting force that keeps body lean under control during cornering. EN24 and SAE 4140 grade options, precision ball stud and bushing bore geometry. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Bushing-Type Stabilizer Link Forgings",
@@ -17391,7 +17391,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Splined Shaft Forgings \u2014 Precision Blank Forgings for PTO Shafts, Gearbox Input/Output Shafts & Coupling Shafts",
-        "description2": "JK Forge manufactures forged splined shaft blanks \u2014 the near-net-shape starting forging for shafts requiring external or internal splines \u2014 for PTO shafts, gearbox input/output shafts, and coupling shafts across automotive, agricultural, and industrial drivetrain applications. EN24, SAE 4140, and case-hardening grade options. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged splined shaft blanks \u2014 the near-net-shape starting forging for shafts requiring external or internal splines \u2014 for PTO shafts, gearbox input/output shafts, and coupling shafts across automotive, agricultural, and industrial drivetrain applications. EN24, SAE 4140, and case-hardening grade options. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Gearbox Input/Output Shaft Blank Forgings",
@@ -17515,7 +17515,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Splined Shaft Forgings \u2014 Precision Blank Forgings for PTO Shafts, Gearbox Input/Output Shafts & Coupling Shafts",
-        "description2": "JK Forge manufactures forged splined shaft blanks \u2014 the near-net-shape starting forging for shafts requiring external or internal splines \u2014 for PTO shafts, gearbox input/output shafts, and coupling shafts across automotive, agricultural, and industrial drivetrain applications. EN24, SAE 4140, and case-hardening grade options. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged splined shaft blanks \u2014 the near-net-shape starting forging for shafts requiring external or internal splines \u2014 for PTO shafts, gearbox input/output shafts, and coupling shafts across automotive, agricultural, and industrial drivetrain applications. EN24, SAE 4140, and case-hardening grade options. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Gearbox Input/Output Shaft Blank Forgings",
@@ -17639,7 +17639,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Marine Anchor Chain Forgings \u2014 Anchor Shackles, Chain Swivels, Kenter Links, End Fittings",
-        "description2": "JK Forge manufactures forged marine anchor chain hardware \u2014 anchor shackles, chain swivels, Kenter joining shackles, and anchor end fitting forgings \u2014 in high-strength alloy steel, for vessel anchoring systems and offshore mooring applications requiring reliable performance in continuous seawater immersion and cyclic loading from vessel motion. Classification society material compliance support, EN 10204 3.1/3.2 certification. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged marine anchor chain hardware \u2014 anchor shackles, chain swivels, Kenter joining shackles, and anchor end fitting forgings \u2014 in high-strength alloy steel, for vessel anchoring systems and offshore mooring applications requiring reliable performance in continuous seawater immersion and cyclic loading from vessel motion. Classification society material compliance support, EN 10204 3.1/3.2 certification. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Chain Swivel Forgings",
@@ -17759,7 +17759,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Marine Anchor Chain Forgings \u2014 Anchor Shackles, Chain Swivels, Kenter Links, End Fittings",
-        "description2": "JK Forge manufactures forged marine anchor chain hardware \u2014 anchor shackles, chain swivels, Kenter joining shackles, and anchor end fitting forgings \u2014 in high-strength alloy steel, for vessel anchoring systems and offshore mooring applications requiring reliable performance in continuous seawater immersion and cyclic loading from vessel motion. Classification society material compliance support, EN 10204 3.1/3.2 certification. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged marine anchor chain hardware \u2014 anchor shackles, chain swivels, Kenter joining shackles, and anchor end fitting forgings \u2014 in high-strength alloy steel, for vessel anchoring systems and offshore mooring applications requiring reliable performance in continuous seawater immersion and cyclic loading from vessel motion. Classification society material compliance support, EN 10204 3.1/3.2 certification. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Chain Swivel Forgings",
@@ -17879,7 +17879,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Piston Pin (Wrist Pin) Forgings \u2014 Full Combustion Force Through a Thin-Walled Tubular Section",
-        "description2": "JK Forge manufactures forged piston pin (wrist pin) components \u2014 the hollow pin connecting the piston to the connecting rod small end \u2014 transmitting the full combustion force through a relatively thin-walled tubular cross-section every power stroke. Case-hardening grade steel forgings deliver the surface hardness and core toughness this demanding duty cycle requires. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged piston pin (wrist pin) components \u2014 the hollow pin connecting the piston to the connecting rod small end \u2014 transmitting the full combustion force through a relatively thin-walled tubular cross-section every power stroke. Case-hardening grade steel forgings deliver the surface hardness and core toughness this demanding duty cycle requires. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Semi-Floating Pin Forgings",
@@ -18003,7 +18003,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Piston Pin (Wrist Pin) Forgings \u2014 Full Combustion Force Through a Thin-Walled Tubular Section",
-        "description2": "JK Forge manufactures forged piston pin (wrist pin) components \u2014 the hollow pin connecting the piston to the connecting rod small end \u2014 transmitting the full combustion force through a relatively thin-walled tubular cross-section every power stroke. Case-hardening grade steel forgings deliver the surface hardness and core toughness this demanding duty cycle requires. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged piston pin (wrist pin) components \u2014 the hollow pin connecting the piston to the connecting rod small end \u2014 transmitting the full combustion force through a relatively thin-walled tubular cross-section every power stroke. Case-hardening grade steel forgings deliver the surface hardness and core toughness this demanding duty cycle requires. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Semi-Floating Pin Forgings",
@@ -18127,7 +18127,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Bucket Teeth & Adapter Forgings \u2014 Ground Engaging Tools for Excavator, Loader & Backhoe Bucket Systems",
-        "description2": "JK Forge manufactures forged bucket teeth and adapter components \u2014 the ground engaging tools (GET) taking the direct abrasive impact of digging, loading, and excavation work \u2014 for excavator, wheel loader, and backhoe bucket systems. High-carbon and alloy steel options addressing the extreme abrasive wear and impact loading this consumable wear-component category experiences. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged bucket teeth and adapter components \u2014 the ground engaging tools (GET) taking the direct abrasive impact of digging, loading, and excavation work \u2014 for excavator, wheel loader, and backhoe bucket systems. High-carbon and alloy steel options addressing the extreme abrasive wear and impact loading this consumable wear-component category experiences. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Adapter and Tooth Retention System Forgings",
@@ -18251,7 +18251,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Bucket Teeth & Adapter Forgings \u2014 Ground Engaging Tools for Excavator, Loader & Backhoe Bucket Systems",
-        "description2": "JK Forge manufactures forged bucket teeth and adapter components \u2014 the ground engaging tools (GET) taking the direct abrasive impact of digging, loading, and excavation work \u2014 for excavator, wheel loader, and backhoe bucket systems. High-carbon and alloy steel options addressing the extreme abrasive wear and impact loading this consumable wear-component category experiences. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged bucket teeth and adapter components \u2014 the ground engaging tools (GET) taking the direct abrasive impact of digging, loading, and excavation work \u2014 for excavator, wheel loader, and backhoe bucket systems. High-carbon and alloy steel options addressing the extreme abrasive wear and impact loading this consumable wear-component category experiences. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Adapter and Tooth Retention System Forgings",
@@ -18375,7 +18375,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Sun Gear Forgings \u2014 The Central Gear Meshing With Every Planet Pinion in a Planetary Gearset, Every Revolution",
-        "description2": "JK Forge manufactures forged sun gear components \u2014 the central, smallest-diameter gear in a planetary gearset, meshing simultaneously with three or four orbiting planet pinions \u2014 for automatic transmission and planetary final-drive applications. Distinct from the planetary carrier that holds those pinions, also covered on this site. Case-hardened tooth surfaces engineered for the sun gear's disproportionately high mesh-cycle count. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged sun gear components \u2014 the central, smallest-diameter gear in a planetary gearset, meshing simultaneously with three or four orbiting planet pinions \u2014 for automatic transmission and planetary final-drive applications. Distinct from the planetary carrier that holds those pinions, also covered on this site. Case-hardened tooth surfaces engineered for the sun gear's disproportionately high mesh-cycle count. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Fixed (Reaction) Sun Gear Forgings",
@@ -18499,7 +18499,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Sun Gear Forgings \u2014 The Central Gear Meshing With Every Planet Pinion in a Planetary Gearset, Every Revolution",
-        "description2": "JK Forge manufactures forged sun gear components \u2014 the central, smallest-diameter gear in a planetary gearset, meshing simultaneously with three or four orbiting planet pinions \u2014 for automatic transmission and planetary final-drive applications. Distinct from the planetary carrier that holds those pinions, also covered on this site. Case-hardened tooth surfaces engineered for the sun gear's disproportionately high mesh-cycle count. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged sun gear components \u2014 the central, smallest-diameter gear in a planetary gearset, meshing simultaneously with three or four orbiting planet pinions \u2014 for automatic transmission and planetary final-drive applications. Distinct from the planetary carrier that holds those pinions, also covered on this site. Case-hardened tooth surfaces engineered for the sun gear's disproportionately high mesh-cycle count. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Fixed (Reaction) Sun Gear Forgings",
@@ -18713,7 +18713,7 @@ window.pageContent['componentsData'] = {
             },
             {
                 "question": "What is the price of forged bevel gear blanks in India?",
-                "answer": "Price depends on gear blank OD, weight, steel grade and whether machining of hub bore and back face is required. As a guide, differential side gear blanks in SAE 8620 (normalised) start from \u20b9300\u2013600 per piece at production volumes. Ring gear blanks for truck differentials are priced per kg of forging weight. Call +91 92657 72827 for a specific quotation."
+                "answer": "Price depends on gear blank OD, weight, steel grade and whether machining of hub bore and back face is required. As a guide, differential side gear blanks in SAE 8620 (normalised) start from \u20b9300\u2013600 per piece at production volumes. Ring gear blanks for truck differentials are priced per kg of forging weight. Call +91 7600066117 for a specific quotation."
             },
             {
                 "question": "Who manufactures bevel gear forgings in India?",
@@ -18733,7 +18733,7 @@ window.pageContent['componentsData'] = {
             },
             {
                 "question": "How do I order bevel gear forgings from JK Forge?",
-                "answer": "Send your gear blank drawing (showing pitch cone, back cone, hub bore, module and tooth count) along with material grade, heat treatment specification and required quantity to sales@JK Forge.com or call +91 92657 72827. We will respond with a quotation and lead time within 24 hours."
+                "answer": "Send your gear blank drawing (showing pitch cone, back cone, hub bore, module and tooth count) along with material grade, heat treatment specification and required quantity to sales@JK Forge.com or call +91 7600066117. We will respond with a quotation and lead time within 24 hours."
             }
         ]
     },
@@ -18849,7 +18849,7 @@ window.pageContent['componentsData'] = {
             },
             {
                 "question": "What is the price of forged bevel gear blanks in India?",
-                "answer": "Price depends on gear blank OD, weight, steel grade and whether machining of hub bore and back face is required. As a guide, differential side gear blanks in SAE 8620 (normalised) start from \u20b9300\u2013600 per piece at production volumes. Ring gear blanks for truck differentials are priced per kg of forging weight. Call +91 92657 72827 for a specific quotation."
+                "answer": "Price depends on gear blank OD, weight, steel grade and whether machining of hub bore and back face is required. As a guide, differential side gear blanks in SAE 8620 (normalised) start from \u20b9300\u2013600 per piece at production volumes. Ring gear blanks for truck differentials are priced per kg of forging weight. Call +91 7600066117 for a specific quotation."
             },
             {
                 "question": "Who manufactures bevel gear forgings in India?",
@@ -18869,7 +18869,7 @@ window.pageContent['componentsData'] = {
             },
             {
                 "question": "How do I order bevel gear forgings from JK Forge?",
-                "answer": "Send your gear blank drawing (showing pitch cone, back cone, hub bore, module and tooth count) along with material grade, heat treatment specification and required quantity to sales@JK Forge.com or call +91 92657 72827. We will respond with a quotation and lead time within 24 hours."
+                "answer": "Send your gear blank drawing (showing pitch cone, back cone, hub bore, module and tooth count) along with material grade, heat treatment specification and required quantity to sales@JK Forge.com or call +91 7600066117. We will respond with a quotation and lead time within 24 hours."
             }
         ]
     },
@@ -18895,7 +18895,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Brake Caliper Bracket & Mounting Forgings \u2014 Passenger Car, Commercial Vehicle, Motorsport",
-        "description2": "JK Forge manufactures forged brake caliper mounting bracket blanks, brake drum forgings, and anchor plate forgings for passenger car, commercial vehicle, and motorsport braking systems \u2014 in C45, 42CrMo4, and ductile forging steel, engineered for the safety-critical fatigue and dimensional consistency braking components require. IATF 16949 aligned quality, PPAP Level 3 documentation, EN 10204 3.1 certification. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged brake caliper mounting bracket blanks, brake drum forgings, and anchor plate forgings for passenger car, commercial vehicle, and motorsport braking systems \u2014 in C45, 42CrMo4, and ductile forging steel, engineered for the safety-critical fatigue and dimensional consistency braking components require. IATF 16949 aligned quality, PPAP Level 3 documentation, EN 10204 3.1 certification. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Brake Drum Forgings",
@@ -19015,7 +19015,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Brake Caliper Bracket & Mounting Forgings \u2014 Passenger Car, Commercial Vehicle, Motorsport",
-        "description2": "JK Forge manufactures forged brake caliper mounting bracket blanks, brake drum forgings, and anchor plate forgings for passenger car, commercial vehicle, and motorsport braking systems \u2014 in C45, 42CrMo4, and ductile forging steel, engineered for the safety-critical fatigue and dimensional consistency braking components require. IATF 16949 aligned quality, PPAP Level 3 documentation, EN 10204 3.1 certification. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged brake caliper mounting bracket blanks, brake drum forgings, and anchor plate forgings for passenger car, commercial vehicle, and motorsport braking systems \u2014 in C45, 42CrMo4, and ductile forging steel, engineered for the safety-critical fatigue and dimensional consistency braking components require. IATF 16949 aligned quality, PPAP Level 3 documentation, EN 10204 3.1 certification. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Brake Drum Forgings",
@@ -19533,7 +19533,7 @@ window.pageContent['componentsData'] = {
             },
             {
                 "question": "How do I get a wheel hub forging quotation?",
-                "answer": "Send your wheel hub drawing, material specification, quantity and required lead time to sales@JK Forge.com or call +91 92657 72827. We will respond with a detailed quotation within 24 hours."
+                "answer": "Send your wheel hub drawing, material specification, quantity and required lead time to sales@JK Forge.com or call +91 7600066117. We will respond with a detailed quotation within 24 hours."
             }
         ]
     },
@@ -19669,7 +19669,7 @@ window.pageContent['componentsData'] = {
             },
             {
                 "question": "How do I get a wheel hub forging quotation?",
-                "answer": "Send your wheel hub drawing, material specification, quantity and required lead time to sales@JK Forge.com or call +91 92657 72827. We will respond with a detailed quotation within 24 hours."
+                "answer": "Send your wheel hub drawing, material specification, quantity and required lead time to sales@JK Forge.com or call +91 7600066117. We will respond with a detailed quotation within 24 hours."
             }
         ]
     },
@@ -19695,7 +19695,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Idler Arm Forgings \u2014 Pivot-Mounted Steering Linkage Support Arms for Parallelogram Steering Systems",
-        "description2": "JK Forge manufactures forged idler arms \u2014 the pivot-mounted support component that stabilizes the passenger side of a parallelogram steering linkage, working opposite the pitman arm to keep the center link level and properly supported. EN24 and SAE 4140 grade options, precision pivot bushing bore and ball stud geometry. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged idler arms \u2014 the pivot-mounted support component that stabilizes the passenger side of a parallelogram steering linkage, working opposite the pitman arm to keep the center link level and properly supported. EN24 and SAE 4140 grade options, precision pivot bushing bore and ball stud geometry. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Ball Stud Idler Arm Assemblies",
@@ -19819,7 +19819,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Idler Arm Forgings \u2014 Pivot-Mounted Steering Linkage Support Arms for Parallelogram Steering Systems",
-        "description2": "JK Forge manufactures forged idler arms \u2014 the pivot-mounted support component that stabilizes the passenger side of a parallelogram steering linkage, working opposite the pitman arm to keep the center link level and properly supported. EN24 and SAE 4140 grade options, precision pivot bushing bore and ball stud geometry. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged idler arms \u2014 the pivot-mounted support component that stabilizes the passenger side of a parallelogram steering linkage, working opposite the pitman arm to keep the center link level and properly supported. EN24 and SAE 4140 grade options, precision pivot bushing bore and ball stud geometry. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Ball Stud Idler Arm Assemblies",
@@ -19943,7 +19943,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Subsea Connector Forgings \u2014 Pipeline & Wellhead Connection Components for Deepwater Oil & Gas Production Systems",
-        "description2": "JK Forge manufactures forged subsea connector components \u2014 pipeline and wellhead connection hardware for deepwater oil and gas production systems \u2014 addressing the combination of sustained external hydrostatic pressure, internal produced-fluid pressure, and multi-decade maintenance-free service life these components must reliably deliver. High-strength, corrosion-resistant alloy options. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged subsea connector components \u2014 pipeline and wellhead connection hardware for deepwater oil and gas production systems \u2014 addressing the combination of sustained external hydrostatic pressure, internal produced-fluid pressure, and multi-decade maintenance-free service life these components must reliably deliver. High-strength, corrosion-resistant alloy options. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Subsea Wellhead Connector Forgings",
@@ -20067,7 +20067,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Subsea Connector Forgings \u2014 Pipeline & Wellhead Connection Components for Deepwater Oil & Gas Production Systems",
-        "description2": "JK Forge manufactures forged subsea connector components \u2014 pipeline and wellhead connection hardware for deepwater oil and gas production systems \u2014 addressing the combination of sustained external hydrostatic pressure, internal produced-fluid pressure, and multi-decade maintenance-free service life these components must reliably deliver. High-strength, corrosion-resistant alloy options. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged subsea connector components \u2014 pipeline and wellhead connection hardware for deepwater oil and gas production systems \u2014 addressing the combination of sustained external hydrostatic pressure, internal produced-fluid pressure, and multi-decade maintenance-free service life these components must reliably deliver. High-strength, corrosion-resistant alloy options. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Subsea Wellhead Connector Forgings",
@@ -20301,7 +20301,7 @@ window.pageContent['componentsData'] = {
             },
             {
                 "question": "How do I request a quote for disc forgings?",
-                "answer": "Send your drawing (PDF or DXF) with material specification, required OD/thickness, heat treatment requirement, UT requirement and quantity to sales@JK Forge.com or call +91-9265772827. We respond within 24 hours."
+                "answer": "Send your drawing (PDF or DXF) with material specification, required OD/thickness, heat treatment requirement, UT requirement and quantity to sales@JK Forge.com or call +91 7600066117. We respond within 24 hours."
             }
         ]
     },
@@ -20437,7 +20437,7 @@ window.pageContent['componentsData'] = {
             },
             {
                 "question": "How do I request a quote for disc forgings?",
-                "answer": "Send your drawing (PDF or DXF) with material specification, required OD/thickness, heat treatment requirement, UT requirement and quantity to sales@JK Forge.com or call +91-9265772827. We respond within 24 hours."
+                "answer": "Send your drawing (PDF or DXF) with material specification, required OD/thickness, heat treatment requirement, UT requirement and quantity to sales@JK Forge.com or call +91 7600066117. We respond within 24 hours."
             }
         ]
     },
@@ -20463,7 +20463,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Railway Buffer Forgings \u2014 Compression-Only Impact Absorption at the Car End Beam, the European/UIC Counterpart to AAR Draft Gear",
-        "description2": "JK Forge manufactures forged railway buffer components \u2014 buffer heads and shanks positioned at the corners of a rail car's end beam, absorbing compressive impact and running loads independently of the coupling system \u2014 standard equipment on European and UIC-standard rolling stock. Distinct from the draft gear coupling shock-absorption system already covered on this site. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged railway buffer components \u2014 buffer heads and shanks positioned at the corners of a rail car's end beam, absorbing compressive impact and running loads independently of the coupling system \u2014 standard equipment on European and UIC-standard rolling stock. Distinct from the draft gear coupling shock-absorption system already covered on this site. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Buffer Shank Forgings",
@@ -20587,7 +20587,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Railway Buffer Forgings \u2014 Compression-Only Impact Absorption at the Car End Beam, the European/UIC Counterpart to AAR Draft Gear",
-        "description2": "JK Forge manufactures forged railway buffer components \u2014 buffer heads and shanks positioned at the corners of a rail car's end beam, absorbing compressive impact and running loads independently of the coupling system \u2014 standard equipment on European and UIC-standard rolling stock. Distinct from the draft gear coupling shock-absorption system already covered on this site. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged railway buffer components \u2014 buffer heads and shanks positioned at the corners of a rail car's end beam, absorbing compressive impact and running loads independently of the coupling system \u2014 standard equipment on European and UIC-standard rolling stock. Distinct from the draft gear coupling shock-absorption system already covered on this site. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Buffer Shank Forgings",
@@ -20711,7 +20711,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Trailer Landing Gear Forgings \u2014 Leg Tubes, Foot Pads and Crank Gears Supporting the Trailer When Uncoupled",
-        "description2": "JK Forge manufactures forged trailer landing gear components \u2014 leg tubes, foot pads, and crank mechanism gears for the retractable support legs that hold a semi-trailer's front end level when uncoupled from the tractor \u2014 engineered to reliably support the trailer's full static load through repeated deployment and retraction cycles. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged trailer landing gear components \u2014 leg tubes, foot pads, and crank mechanism gears for the retractable support legs that hold a semi-trailer's front end level when uncoupled from the tractor \u2014 engineered to reliably support the trailer's full static load through repeated deployment and retraction cycles. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Foot Pad Forgings",
@@ -20835,7 +20835,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Trailer Landing Gear Forgings \u2014 Leg Tubes, Foot Pads and Crank Gears Supporting the Trailer When Uncoupled",
-        "description2": "JK Forge manufactures forged trailer landing gear components \u2014 leg tubes, foot pads, and crank mechanism gears for the retractable support legs that hold a semi-trailer's front end level when uncoupled from the tractor \u2014 engineered to reliably support the trailer's full static load through repeated deployment and retraction cycles. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged trailer landing gear components \u2014 leg tubes, foot pads, and crank mechanism gears for the retractable support legs that hold a semi-trailer's front end level when uncoupled from the tractor \u2014 engineered to reliably support the trailer's full static load through repeated deployment and retraction cycles. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Foot Pad Forgings",
@@ -20959,7 +20959,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Wind Turbine Yaw Bearing Ring Forgings \u2014 The Large-Diameter Slewing Ring Letting the Nacelle Turn to Face the Wind",
-        "description2": "JK Forge manufactures forged large-diameter ring blanks for wind turbine yaw bearings \u2014 the slewing ring assembly mounted between the nacelle and tower top that allows the entire nacelle and rotor assembly to rotate horizontally, tracking wind direction for maximum energy capture. Seamless rolled ring forgings in 42CrMo4 and similar alloy steel, sized for onshore and offshore turbine platforms. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged large-diameter ring blanks for wind turbine yaw bearings \u2014 the slewing ring assembly mounted between the nacelle and tower top that allows the entire nacelle and rotor assembly to rotate horizontally, tracking wind direction for maximum energy capture. Seamless rolled ring forgings in 42CrMo4 and similar alloy steel, sized for onshore and offshore turbine platforms. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Gear-Toothed Ring Forgings",
@@ -21079,7 +21079,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Wind Turbine Yaw Bearing Ring Forgings \u2014 The Large-Diameter Slewing Ring Letting the Nacelle Turn to Face the Wind",
-        "description2": "JK Forge manufactures forged large-diameter ring blanks for wind turbine yaw bearings \u2014 the slewing ring assembly mounted between the nacelle and tower top that allows the entire nacelle and rotor assembly to rotate horizontally, tracking wind direction for maximum energy capture. Seamless rolled ring forgings in 42CrMo4 and similar alloy steel, sized for onshore and offshore turbine platforms. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged large-diameter ring blanks for wind turbine yaw bearings \u2014 the slewing ring assembly mounted between the nacelle and tower top that allows the entire nacelle and rotor assembly to rotate horizontally, tracking wind direction for maximum energy capture. Seamless rolled ring forgings in 42CrMo4 and similar alloy steel, sized for onshore and offshore turbine platforms. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Gear-Toothed Ring Forgings",
@@ -21199,7 +21199,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Rock Drill Bit Body Forgings \u2014 Shank & Body Forgings for Mining, Quarrying & Blast-Hole Drilling Bits",
-        "description2": "JK Forge manufactures forged rock drill bit body and shank blanks \u2014 for percussive and rotary drilling bits used in mining, quarrying, and blast-hole drilling applications \u2014 distinct from the site's existing bucket-teeth-adapter and ripper-shank ground engaging tool pages, which cover excavation rather than rock drilling. High-toughness alloy steel addressing severe repeated percussive impact loading. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged rock drill bit body and shank blanks \u2014 for percussive and rotary drilling bits used in mining, quarrying, and blast-hole drilling applications \u2014 distinct from the site's existing bucket-teeth-adapter and ripper-shank ground engaging tool pages, which cover excavation rather than rock drilling. High-toughness alloy steel addressing severe repeated percussive impact loading. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Drill Bit Shank Forgings",
@@ -21323,7 +21323,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Rock Drill Bit Body Forgings \u2014 Shank & Body Forgings for Mining, Quarrying & Blast-Hole Drilling Bits",
-        "description2": "JK Forge manufactures forged rock drill bit body and shank blanks \u2014 for percussive and rotary drilling bits used in mining, quarrying, and blast-hole drilling applications \u2014 distinct from the site's existing bucket-teeth-adapter and ripper-shank ground engaging tool pages, which cover excavation rather than rock drilling. High-toughness alloy steel addressing severe repeated percussive impact loading. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged rock drill bit body and shank blanks \u2014 for percussive and rotary drilling bits used in mining, quarrying, and blast-hole drilling applications \u2014 distinct from the site's existing bucket-teeth-adapter and ripper-shank ground engaging tool pages, which cover excavation rather than rock drilling. High-toughness alloy steel addressing severe repeated percussive impact loading. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Drill Bit Shank Forgings",
@@ -21447,7 +21447,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Panhard Rod (Track Bar) Forgings \u2014 The Single Diagonal Link Preventing Side-to-Side Axle Movement Under Cornering Load",
-        "description2": "JK Forge manufactures forged Panhard rods (track bars) \u2014 the single diagonal link running between a solid axle and the vehicle frame that resists lateral (side-to-side) axle movement under cornering load, engineered around the inherent geometric compromise a single-link lateral locating system introduces as the suspension travels through its arc. Asymmetric bushing eye sizing for frame-side and axle-side mounts. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged Panhard rods (track bars) \u2014 the single diagonal link running between a solid axle and the vehicle frame that resists lateral (side-to-side) axle movement under cornering load, engineered around the inherent geometric compromise a single-link lateral locating system introduces as the suspension travels through its arc. Asymmetric bushing eye sizing for frame-side and axle-side mounts. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Adjustable-Length Panhard Rod End Forgings",
@@ -21571,7 +21571,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Panhard Rod (Track Bar) Forgings \u2014 The Single Diagonal Link Preventing Side-to-Side Axle Movement Under Cornering Load",
-        "description2": "JK Forge manufactures forged Panhard rods (track bars) \u2014 the single diagonal link running between a solid axle and the vehicle frame that resists lateral (side-to-side) axle movement under cornering load, engineered around the inherent geometric compromise a single-link lateral locating system introduces as the suspension travels through its arc. Asymmetric bushing eye sizing for frame-side and axle-side mounts. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged Panhard rods (track bars) \u2014 the single diagonal link running between a solid axle and the vehicle frame that resists lateral (side-to-side) axle movement under cornering load, engineered around the inherent geometric compromise a single-link lateral locating system introduces as the suspension travels through its arc. Asymmetric bushing eye sizing for frame-side and axle-side mounts. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Adjustable-Length Panhard Rod End Forgings",
@@ -21695,7 +21695,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Rudder Stock Forgings \u2014 Large-Diameter Steering Shaft Transmitting the Full Torque Load from Steering Gear to Rudder Blade",
-        "description2": "JK Forge manufactures forged rudder stock shafts \u2014 the large-diameter steering shaft that transmits the ship's steering gear torque down through the rudder trunk to the rudder blade \u2014 machined with precision tiller or quadrant coupling at the upper end and blade coupling at the lower end, among the largest single forged components on many vessels. Classification society material grade approval and full-length ultrasonic testing available. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged rudder stock shafts \u2014 the large-diameter steering shaft that transmits the ship's steering gear torque down through the rudder trunk to the rudder blade \u2014 machined with precision tiller or quadrant coupling at the upper end and blade coupling at the lower end, among the largest single forged components on many vessels. Classification society material grade approval and full-length ultrasonic testing available. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Rudder Stock Coupling Flange Forgings",
@@ -21819,7 +21819,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Rudder Stock Forgings \u2014 Large-Diameter Steering Shaft Transmitting the Full Torque Load from Steering Gear to Rudder Blade",
-        "description2": "JK Forge manufactures forged rudder stock shafts \u2014 the large-diameter steering shaft that transmits the ship's steering gear torque down through the rudder trunk to the rudder blade \u2014 machined with precision tiller or quadrant coupling at the upper end and blade coupling at the lower end, among the largest single forged components on many vessels. Classification society material grade approval and full-length ultrasonic testing available. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged rudder stock shafts \u2014 the large-diameter steering shaft that transmits the ship's steering gear torque down through the rudder trunk to the rudder blade \u2014 machined with precision tiller or quadrant coupling at the upper end and blade coupling at the lower end, among the largest single forged components on many vessels. Classification society material grade approval and full-length ultrasonic testing available. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Rudder Stock Coupling Flange Forgings",
@@ -21943,7 +21943,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Track Chain Link Forgings \u2014 Master Links & Standard Links for Excavator, Bulldozer & Crawler Crane Track Chains",
-        "description2": "JK Forge manufactures forged track chain link components \u2014 standard links and master links \u2014 for crawler excavator, bulldozer, and crawler crane undercarriage track chains, the structural backbone every roller, idler, and sprocket in the undercarriage system depends on. Alloy and case-hardening grade options addressing the extreme combined tension, impact, and abrasion this component experiences. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged track chain link components \u2014 standard links and master links \u2014 for crawler excavator, bulldozer, and crawler crane undercarriage track chains, the structural backbone every roller, idler, and sprocket in the undercarriage system depends on. Alloy and case-hardening grade options addressing the extreme combined tension, impact, and abrasion this component experiences. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Master Link Forgings",
@@ -22067,7 +22067,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Track Chain Link Forgings \u2014 Master Links & Standard Links for Excavator, Bulldozer & Crawler Crane Track Chains",
-        "description2": "JK Forge manufactures forged track chain link components \u2014 standard links and master links \u2014 for crawler excavator, bulldozer, and crawler crane undercarriage track chains, the structural backbone every roller, idler, and sprocket in the undercarriage system depends on. Alloy and case-hardening grade options addressing the extreme combined tension, impact, and abrasion this component experiences. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged track chain link components \u2014 standard links and master links \u2014 for crawler excavator, bulldozer, and crawler crane undercarriage track chains, the structural backbone every roller, idler, and sprocket in the undercarriage system depends on. Alloy and case-hardening grade options addressing the extreme combined tension, impact, and abrasion this component experiences. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Master Link Forgings",
@@ -22191,7 +22191,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Structural Anchor Bolts \u2014 L-Bolts, J-Bolts & Headed Foundation Bolts for Building, Tower & Bridge Foundations",
-        "description2": "JK Forge manufactures forged structural anchor bolts \u2014 L-bolts, J-bolts, and headed straight anchor bolts \u2014 that are cast into concrete foundations to anchor structural steel columns, wind turbine towers, bridge bearings, and heavy machinery bases, distinct from automotive wheel and hub bolting. Supplied to ASTM F1554 and equivalent structural specification. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged structural anchor bolts \u2014 L-bolts, J-bolts, and headed straight anchor bolts \u2014 that are cast into concrete foundations to anchor structural steel columns, wind turbine towers, bridge bearings, and heavy machinery bases, distinct from automotive wheel and hub bolting. Supplied to ASTM F1554 and equivalent structural specification. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "L-Bolt (Hook) Anchor Bolts",
@@ -22315,7 +22315,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Structural Anchor Bolts \u2014 L-Bolts, J-Bolts & Headed Foundation Bolts for Building, Tower & Bridge Foundations",
-        "description2": "JK Forge manufactures forged structural anchor bolts \u2014 L-bolts, J-bolts, and headed straight anchor bolts \u2014 that are cast into concrete foundations to anchor structural steel columns, wind turbine towers, bridge bearings, and heavy machinery bases, distinct from automotive wheel and hub bolting. Supplied to ASTM F1554 and equivalent structural specification. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged structural anchor bolts \u2014 L-bolts, J-bolts, and headed straight anchor bolts \u2014 that are cast into concrete foundations to anchor structural steel columns, wind turbine towers, bridge bearings, and heavy machinery bases, distinct from automotive wheel and hub bolting. Supplied to ASTM F1554 and equivalent structural specification. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "L-Bolt (Hook) Anchor Bolts",
@@ -22549,7 +22549,7 @@ window.pageContent['componentsData'] = {
             },
             {
                 "question": "How do I get a camshaft forging quotation?",
-                "answer": "Send your engine drawing or camshaft drawing (PDF or STEP), material specification, lobe profile data if separate, required quantity, and delivery requirements to sales@JK Forge.com. We confirm receipt within 2 hours and return a quotation within 24 hours. Call +91-9265772827 for urgent requirements."
+                "answer": "Send your engine drawing or camshaft drawing (PDF or STEP), material specification, lobe profile data if separate, required quantity, and delivery requirements to sales@JK Forge.com. We confirm receipt within 2 hours and return a quotation within 24 hours. Call +91 7600066117 for urgent requirements."
             }
         ]
     },
@@ -22685,7 +22685,7 @@ window.pageContent['componentsData'] = {
             },
             {
                 "question": "How do I get a camshaft forging quotation?",
-                "answer": "Send your engine drawing or camshaft drawing (PDF or STEP), material specification, lobe profile data if separate, required quantity, and delivery requirements to sales@JK Forge.com. We confirm receipt within 2 hours and return a quotation within 24 hours. Call +91-9265772827 for urgent requirements."
+                "answer": "Send your engine drawing or camshaft drawing (PDF or STEP), material specification, lobe profile data if separate, required quantity, and delivery requirements to sales@JK Forge.com. We confirm receipt within 2 hours and return a quotation within 24 hours. Call +91 7600066117 for urgent requirements."
             }
         ]
     },
@@ -22711,7 +22711,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Hydraulic Hose Ferrules \u2014 The Crimped Outer Sleeve Securing a Hose to Its Fitting Stem Under Crimp-Machine Compression",
-        "description2": "JK Forge manufactures forged hydraulic hose fitting ferrules \u2014 the outer sleeve crimped radially over a hose's cover and reinforcement layers to lock it onto its fitting stem \u2014 sized to standard crimp specification charts for hose assembly manufacturers producing SAE 100R-series and equivalent hydraulic hose assemblies. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged hydraulic hose fitting ferrules \u2014 the outer sleeve crimped radially over a hose's cover and reinforcement layers to lock it onto its fitting stem \u2014 sized to standard crimp specification charts for hose assembly manufacturers producing SAE 100R-series and equivalent hydraulic hose assemblies. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Two-Piece Stem-and-Ferrule Set Components",
@@ -22831,7 +22831,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Hydraulic Hose Ferrules \u2014 The Crimped Outer Sleeve Securing a Hose to Its Fitting Stem Under Crimp-Machine Compression",
-        "description2": "JK Forge manufactures forged hydraulic hose fitting ferrules \u2014 the outer sleeve crimped radially over a hose's cover and reinforcement layers to lock it onto its fitting stem \u2014 sized to standard crimp specification charts for hose assembly manufacturers producing SAE 100R-series and equivalent hydraulic hose assemblies. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged hydraulic hose fitting ferrules \u2014 the outer sleeve crimped radially over a hose's cover and reinforcement layers to lock it onto its fitting stem \u2014 sized to standard crimp specification charts for hose assembly manufacturers producing SAE 100R-series and equivalent hydraulic hose assemblies. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Two-Piece Stem-and-Ferrule Set Components",
@@ -22951,7 +22951,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Wheel Bearing Race Forgings \u2014 Ring-Rolled Inner & Outer Race Blanks for Wheel Hub Bearing Units",
-        "description2": "JK Forge manufactures forged and ring-rolled wheel bearing race blanks \u2014 the inner cone and outer cup raceway components a vehicle's wheel-end rolling elements run against, carrying combined radial, axial, and impact loading through millions of wheel revolutions. Circumferential grain flow and bearing-steel cleanliness matched to rolling contact fatigue demands. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged and ring-rolled wheel bearing race blanks \u2014 the inner cone and outer cup raceway components a vehicle's wheel-end rolling elements run against, carrying combined radial, axial, and impact loading through millions of wheel revolutions. Circumferential grain flow and bearing-steel cleanliness matched to rolling contact fatigue demands. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Tapered Roller Bearing Cup (Outer Race) Forgings",
@@ -23075,7 +23075,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Wheel Bearing Race Forgings \u2014 Ring-Rolled Inner & Outer Race Blanks for Wheel Hub Bearing Units",
-        "description2": "JK Forge manufactures forged and ring-rolled wheel bearing race blanks \u2014 the inner cone and outer cup raceway components a vehicle's wheel-end rolling elements run against, carrying combined radial, axial, and impact loading through millions of wheel revolutions. Circumferential grain flow and bearing-steel cleanliness matched to rolling contact fatigue demands. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged and ring-rolled wheel bearing race blanks \u2014 the inner cone and outer cup raceway components a vehicle's wheel-end rolling elements run against, carrying combined radial, axial, and impact loading through millions of wheel revolutions. Circumferential grain flow and bearing-steel cleanliness matched to rolling contact fatigue demands. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Tapered Roller Bearing Cup (Outer Race) Forgings",
@@ -23199,7 +23199,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Expansion Joint Flanges \u2014 Piping Flanges Engineered to Mate with Bellows & Fabric Expansion Joints for Thermal Movement",
-        "description2": "JK Forge manufactures forged expansion joint flanges \u2014 the mating flange pairs that bolt onto metallic bellows and fabric expansion joints to accommodate thermal growth, vibration, and misalignment in piping and ducting systems \u2014 for power plant, refinery, and process piping applications, distinct from our standard piping flange range. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged expansion joint flanges \u2014 the mating flange pairs that bolt onto metallic bellows and fabric expansion joints to accommodate thermal growth, vibration, and misalignment in piping and ducting systems \u2014 for power plant, refinery, and process piping applications, distinct from our standard piping flange range. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Fabric (Non-Metallic) Expansion Joint Flanges",
@@ -23315,7 +23315,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Expansion Joint Flanges \u2014 Piping Flanges Engineered to Mate with Bellows & Fabric Expansion Joints for Thermal Movement",
-        "description2": "JK Forge manufactures forged expansion joint flanges \u2014 the mating flange pairs that bolt onto metallic bellows and fabric expansion joints to accommodate thermal growth, vibration, and misalignment in piping and ducting systems \u2014 for power plant, refinery, and process piping applications, distinct from our standard piping flange range. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged expansion joint flanges \u2014 the mating flange pairs that bolt onto metallic bellows and fabric expansion joints to accommodate thermal growth, vibration, and misalignment in piping and ducting systems \u2014 for power plant, refinery, and process piping applications, distinct from our standard piping flange range. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Fabric (Non-Metallic) Expansion Joint Flanges",
@@ -23431,7 +23431,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Transmission Mainshaft Forgings \u2014 Multi-Gear-Station Input & Output Shaft Blanks for Manual & Automatic Transmissions",
-        "description2": "JK Forge manufactures forged transmission mainshaft blanks \u2014 the primary stepped-diameter shaft running the length of a manual or automatic transmission, carrying multiple gears, synchronizer hubs, and bearing journals simultaneously while absorbing torsional shock loading at every gear-shift event. Distinct from a simple spline shaft or output flange component. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged transmission mainshaft blanks \u2014 the primary stepped-diameter shaft running the length of a manual or automatic transmission, carrying multiple gears, synchronizer hubs, and bearing journals simultaneously while absorbing torsional shock loading at every gear-shift event. Distinct from a simple spline shaft or output flange component. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Multi-Journal Stepped-Diameter Shaft Forgings",
@@ -23555,7 +23555,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Transmission Mainshaft Forgings \u2014 Multi-Gear-Station Input & Output Shaft Blanks for Manual & Automatic Transmissions",
-        "description2": "JK Forge manufactures forged transmission mainshaft blanks \u2014 the primary stepped-diameter shaft running the length of a manual or automatic transmission, carrying multiple gears, synchronizer hubs, and bearing journals simultaneously while absorbing torsional shock loading at every gear-shift event. Distinct from a simple spline shaft or output flange component. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged transmission mainshaft blanks \u2014 the primary stepped-diameter shaft running the length of a manual or automatic transmission, carrying multiple gears, synchronizer hubs, and bearing journals simultaneously while absorbing torsional shock loading at every gear-shift event. Distinct from a simple spline shaft or output flange component. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Multi-Journal Stepped-Diameter Shaft Forgings",
@@ -23679,7 +23679,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Trailer Axle Beam Forgings \u2014 The Structural Cross-Member Carrying Full Trailer Load Between Wheel Ends, Unpowered but Never Unloaded",
-        "description2": "JK Forge manufactures forged heavy trailer axle beam components \u2014 the structural, non-driven axle beam spanning between wheel ends on a semi-trailer suspension, carrying the trailer's full static and dynamic vertical load without transmitting any drive torque. Engineered for continuous bending fatigue across a full trailer service life measured in decades. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged heavy trailer axle beam components \u2014 the structural, non-driven axle beam spanning between wheel ends on a semi-trailer suspension, carrying the trailer's full static and dynamic vertical load without transmitting any drive torque. Engineered for continuous bending fatigue across a full trailer service life measured in decades. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Wheel-End Spindle Forgings",
@@ -23803,7 +23803,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Trailer Axle Beam Forgings \u2014 The Structural Cross-Member Carrying Full Trailer Load Between Wheel Ends, Unpowered but Never Unloaded",
-        "description2": "JK Forge manufactures forged heavy trailer axle beam components \u2014 the structural, non-driven axle beam spanning between wheel ends on a semi-trailer suspension, carrying the trailer's full static and dynamic vertical load without transmitting any drive torque. Engineered for continuous bending fatigue across a full trailer service life measured in decades. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged heavy trailer axle beam components \u2014 the structural, non-driven axle beam spanning between wheel ends on a semi-trailer suspension, carrying the trailer's full static and dynamic vertical load without transmitting any drive torque. Engineered for continuous bending fatigue across a full trailer service life measured in decades. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Wheel-End Spindle Forgings",
@@ -23927,7 +23927,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Turbine Rotor Disc Forgings \u2014 High-Cleanliness Rotating Discs Carrying Turbine Blades Under Combined Centrifugal, Thermal & Blade-Root Stress",
-        "description2": "JK Forge manufactures forged turbine rotor disc blanks for steam and gas turbine power generation equipment \u2014 the large rotating discs turbine blades mount to via fir-tree or dovetail root slots, spinning at high RPM under combined centrifugal, thermal, and blade-root stress-concentration loading. High-cleanliness melting practice and full volumetric ultrasonic testing available given the catastrophic consequence of disc failure. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged turbine rotor disc blanks for steam and gas turbine power generation equipment \u2014 the large rotating discs turbine blades mount to via fir-tree or dovetail root slots, spinning at high RPM under combined centrifugal, thermal, and blade-root stress-concentration loading. High-cleanliness melting practice and full volumetric ultrasonic testing available given the catastrophic consequence of disc failure. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Gas Turbine Rotor Disc Forgings",
@@ -24051,7 +24051,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Turbine Rotor Disc Forgings \u2014 High-Cleanliness Rotating Discs Carrying Turbine Blades Under Combined Centrifugal, Thermal & Blade-Root Stress",
-        "description2": "JK Forge manufactures forged turbine rotor disc blanks for steam and gas turbine power generation equipment \u2014 the large rotating discs turbine blades mount to via fir-tree or dovetail root slots, spinning at high RPM under combined centrifugal, thermal, and blade-root stress-concentration loading. High-cleanliness melting practice and full volumetric ultrasonic testing available given the catastrophic consequence of disc failure. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged turbine rotor disc blanks for steam and gas turbine power generation equipment \u2014 the large rotating discs turbine blades mount to via fir-tree or dovetail root slots, spinning at high RPM under combined centrifugal, thermal, and blade-root stress-concentration loading. High-cleanliness melting practice and full volumetric ultrasonic testing available given the catastrophic consequence of disc failure. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Gas Turbine Rotor Disc Forgings",
@@ -24175,7 +24175,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Differential Pinion Yoke Forgings \u2014 The Flange Yoke Coupling Driveshaft Torque Into the Differential's Pinion Gear Shaft",
-        "description2": "JK Forge manufactures forged differential pinion yoke components \u2014 the splined flange yoke mounted on the pinion gear shaft that receives driveshaft torque through a U-joint and carries it into the differential pinion, upstream of both the ring gear and the cross-spider U-joint forgings \u2014 engineered for combined torsional, bending, and axial preload duty. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged differential pinion yoke components \u2014 the splined flange yoke mounted on the pinion gear shaft that receives driveshaft torque through a U-joint and carries it into the differential pinion, upstream of both the ring gear and the cross-spider U-joint forgings \u2014 engineered for combined torsional, bending, and axial preload duty. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Slip Yoke Pinion-Side Forgings",
@@ -24299,7 +24299,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Differential Pinion Yoke Forgings \u2014 The Flange Yoke Coupling Driveshaft Torque Into the Differential's Pinion Gear Shaft",
-        "description2": "JK Forge manufactures forged differential pinion yoke components \u2014 the splined flange yoke mounted on the pinion gear shaft that receives driveshaft torque through a U-joint and carries it into the differential pinion, upstream of both the ring gear and the cross-spider U-joint forgings \u2014 engineered for combined torsional, bending, and axial preload duty. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged differential pinion yoke components \u2014 the splined flange yoke mounted on the pinion gear shaft that receives driveshaft torque through a U-joint and carries it into the differential pinion, upstream of both the ring gear and the cross-spider U-joint forgings \u2014 engineered for combined torsional, bending, and axial preload duty. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Slip Yoke Pinion-Side Forgings",
@@ -24423,7 +24423,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Exhaust Manifold Flange Forgings \u2014 High-Temperature Bolted Connection Between Manifold and Downpipe/Turbocharger",
-        "description2": "JK Forge manufactures forged exhaust manifold flange components \u2014 the flanged connection joining an engine's exhaust manifold to the downpipe or turbocharger \u2014 in heat-resistant material grade selected to withstand sustained high exhaust gas temperature and the thermal cycling stress every engine start-stop and load-change cycle applies. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged exhaust manifold flange components \u2014 the flanged connection joining an engine's exhaust manifold to the downpipe or turbocharger \u2014 in heat-resistant material grade selected to withstand sustained high exhaust gas temperature and the thermal cycling stress every engine start-stop and load-change cycle applies. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Turbocharger Inlet Flange Forgings",
@@ -24547,7 +24547,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Exhaust Manifold Flange Forgings \u2014 High-Temperature Bolted Connection Between Manifold and Downpipe/Turbocharger",
-        "description2": "JK Forge manufactures forged exhaust manifold flange components \u2014 the flanged connection joining an engine's exhaust manifold to the downpipe or turbocharger \u2014 in heat-resistant material grade selected to withstand sustained high exhaust gas temperature and the thermal cycling stress every engine start-stop and load-change cycle applies. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged exhaust manifold flange components \u2014 the flanged connection joining an engine's exhaust manifold to the downpipe or turbocharger \u2014 in heat-resistant material grade selected to withstand sustained high exhaust gas temperature and the thermal cycling stress every engine start-stop and load-change cycle applies. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Turbocharger Inlet Flange Forgings",
@@ -24671,7 +24671,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Brake Drum Forgings \u2014 Thermal Fatigue Resistance Under Repeated Heat Cycling from Braking Friction",
-        "description2": "JK Forge manufactures forged steel brake drum components \u2014 the cylindrical rotating component that brake shoes press outward against in drum-brake systems common on light truck and trailer rear axles \u2014 engineered for thermal fatigue resistance under repeated heat cycling without cracking or losing round. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged steel brake drum components \u2014 the cylindrical rotating component that brake shoes press outward against in drum-brake systems common on light truck and trailer rear axles \u2014 engineered for thermal fatigue resistance under repeated heat cycling without cracking or losing round. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Trailer Axle Drum Forgings",
@@ -24795,7 +24795,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Brake Drum Forgings \u2014 Thermal Fatigue Resistance Under Repeated Heat Cycling from Braking Friction",
-        "description2": "JK Forge manufactures forged steel brake drum components \u2014 the cylindrical rotating component that brake shoes press outward against in drum-brake systems common on light truck and trailer rear axles \u2014 engineered for thermal fatigue resistance under repeated heat cycling without cracking or losing round. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged steel brake drum components \u2014 the cylindrical rotating component that brake shoes press outward against in drum-brake systems common on light truck and trailer rear axles \u2014 engineered for thermal fatigue resistance under repeated heat cycling without cracking or losing round. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Trailer Axle Drum Forgings",
@@ -24919,7 +24919,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Propeller Hub Forgings \u2014 Central Boss Connecting Propeller Blades to the Propeller Shaft, Including Controllable-Pitch Hub Bodies",
-        "description2": "JK Forge manufactures forged propeller hub components \u2014 the central boss a ship's propeller blades mount to and which connects to the propeller shaft, including controllable-pitch propeller (CPP) hub bodies housing the internal blade-pitch-change mechanism \u2014 combining structural strength with the precision bore, taper, and keyway geometry the shaft connection demands. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged propeller hub components \u2014 the central boss a ship's propeller blades mount to and which connects to the propeller shaft, including controllable-pitch propeller (CPP) hub bodies housing the internal blade-pitch-change mechanism \u2014 combining structural strength with the precision bore, taper, and keyway geometry the shaft connection demands. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Blade Carrier and Palm Forgings",
@@ -25043,7 +25043,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Propeller Hub Forgings \u2014 Central Boss Connecting Propeller Blades to the Propeller Shaft, Including Controllable-Pitch Hub Bodies",
-        "description2": "JK Forge manufactures forged propeller hub components \u2014 the central boss a ship's propeller blades mount to and which connects to the propeller shaft, including controllable-pitch propeller (CPP) hub bodies housing the internal blade-pitch-change mechanism \u2014 combining structural strength with the precision bore, taper, and keyway geometry the shaft connection demands. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged propeller hub components \u2014 the central boss a ship's propeller blades mount to and which connects to the propeller shaft, including controllable-pitch propeller (CPP) hub bodies housing the internal blade-pitch-change mechanism \u2014 combining structural strength with the precision bore, taper, and keyway geometry the shaft connection demands. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Blade Carrier and Palm Forgings",
@@ -25167,7 +25167,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Aircraft Wing Spar Forgings \u2014 Root-End Attachment Fittings Transferring the Wing's Full Bending Moment Into the Fuselage",
-        "description2": "JK Forge manufactures forged aircraft wing spar root-end fittings \u2014 the primary structural forgings that transfer the wing's full bending moment and shear load into the fuselage carry-through structure at the single most heavily loaded joint on the airframe. High-strength aluminum and steel alloy forgings engineered for fatigue-critical, integral load-path design. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged aircraft wing spar root-end fittings \u2014 the primary structural forgings that transfer the wing's full bending moment and shear load into the fuselage carry-through structure at the single most heavily loaded joint on the airframe. High-strength aluminum and steel alloy forgings engineered for fatigue-critical, integral load-path design. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Spar Cap and Chord Forgings",
@@ -25291,7 +25291,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Aircraft Wing Spar Forgings \u2014 Root-End Attachment Fittings Transferring the Wing's Full Bending Moment Into the Fuselage",
-        "description2": "JK Forge manufactures forged aircraft wing spar root-end fittings \u2014 the primary structural forgings that transfer the wing's full bending moment and shear load into the fuselage carry-through structure at the single most heavily loaded joint on the airframe. High-strength aluminum and steel alloy forgings engineered for fatigue-critical, integral load-path design. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged aircraft wing spar root-end fittings \u2014 the primary structural forgings that transfer the wing's full bending moment and shear load into the fuselage carry-through structure at the single most heavily loaded joint on the airframe. High-strength aluminum and steel alloy forgings engineered for fatigue-critical, integral load-path design. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Spar Cap and Chord Forgings",
@@ -25415,7 +25415,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Master Valve Body Forgings \u2014 Full-Bore Well Isolation, Distinct From the Flow-Restricting Choke Valve Body",
-        "description2": "JK Forge manufactures forged Christmas tree master valve bodies \u2014 the primary well isolation valve mounted directly on the wellhead, engineered for bubble-tight full-open/full-closed shutoff rather than the sustained restrictive throttling duty our choke valve body page addresses. Full-bore, minimal-restriction body geometry supports the master valve's role as the last line of defense in well control. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged Christmas tree master valve bodies \u2014 the primary well isolation valve mounted directly on the wellhead, engineered for bubble-tight full-open/full-closed shutoff rather than the sustained restrictive throttling duty our choke valve body page addresses. Full-bore, minimal-restriction body geometry supports the master valve's role as the last line of defense in well control. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Upper Master Valve Body Forgings",
@@ -25539,7 +25539,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Master Valve Body Forgings \u2014 Full-Bore Well Isolation, Distinct From the Flow-Restricting Choke Valve Body",
-        "description2": "JK Forge manufactures forged Christmas tree master valve bodies \u2014 the primary well isolation valve mounted directly on the wellhead, engineered for bubble-tight full-open/full-closed shutoff rather than the sustained restrictive throttling duty our choke valve body page addresses. Full-bore, minimal-restriction body geometry supports the master valve's role as the last line of defense in well control. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged Christmas tree master valve bodies \u2014 the primary well isolation valve mounted directly on the wellhead, engineered for bubble-tight full-open/full-closed shutoff rather than the sustained restrictive throttling duty our choke valve body page addresses. Full-bore, minimal-restriction body geometry supports the master valve's role as the last line of defense in well control. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Upper Master Valve Body Forgings",
@@ -25663,7 +25663,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Harrow Disc Forgings \u2014 Notched & Smooth Edge Disc Blades for Secondary Tillage & Residue Management",
-        "description2": "JK Forge manufactures forged harrow disc blade components \u2014 notched and smooth edge configurations \u2014 for disc harrow secondary tillage applications, breaking up soil clods and managing crop residue after primary tillage. Boron steel construction addressing the continuous rotating abrasive wear and edge sharpness retention this application demands. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged harrow disc blade components \u2014 notched and smooth edge configurations \u2014 for disc harrow secondary tillage applications, breaking up soil clods and managing crop residue after primary tillage. Boron steel construction addressing the continuous rotating abrasive wear and edge sharpness retention this application demands. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Smooth Edge Disc Blade Forgings",
@@ -25787,7 +25787,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Harrow Disc Forgings \u2014 Notched & Smooth Edge Disc Blades for Secondary Tillage & Residue Management",
-        "description2": "JK Forge manufactures forged harrow disc blade components \u2014 notched and smooth edge configurations \u2014 for disc harrow secondary tillage applications, breaking up soil clods and managing crop residue after primary tillage. Boron steel construction addressing the continuous rotating abrasive wear and edge sharpness retention this application demands. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged harrow disc blade components \u2014 notched and smooth edge configurations \u2014 for disc harrow secondary tillage applications, breaking up soil clods and managing crop residue after primary tillage. Boron steel construction addressing the continuous rotating abrasive wear and edge sharpness retention this application demands. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Smooth Edge Disc Blade Forgings",
@@ -26199,7 +26199,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Windlass Gypsy Forgings \u2014 The Pocketed Wheel Gripping Anchor Chain Link by Link, Holding the Vessel's Entire Ground Tackle Load",
-        "description2": "JK Forge manufactures forged anchor windlass gypsy (wildcat) components \u2014 the pocketed wheel mounted on the windlass shaft whose chain-link-shaped recesses engage the anchor chain link by link, paying it out and hauling it in without slipping \u2014 for merchant, naval, and offshore vessel anchoring systems. Precision pocket geometry matched to specific chain size and grade. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged anchor windlass gypsy (wildcat) components \u2014 the pocketed wheel mounted on the windlass shaft whose chain-link-shaped recesses engage the anchor chain link by link, paying it out and hauling it in without slipping \u2014 for merchant, naval, and offshore vessel anchoring systems. Precision pocket geometry matched to specific chain size and grade. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Combined Gypsy and Warping Drum Forgings",
@@ -26323,7 +26323,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Windlass Gypsy Forgings \u2014 The Pocketed Wheel Gripping Anchor Chain Link by Link, Holding the Vessel's Entire Ground Tackle Load",
-        "description2": "JK Forge manufactures forged anchor windlass gypsy (wildcat) components \u2014 the pocketed wheel mounted on the windlass shaft whose chain-link-shaped recesses engage the anchor chain link by link, paying it out and hauling it in without slipping \u2014 for merchant, naval, and offshore vessel anchoring systems. Precision pocket geometry matched to specific chain size and grade. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged anchor windlass gypsy (wildcat) components \u2014 the pocketed wheel mounted on the windlass shaft whose chain-link-shaped recesses engage the anchor chain link by link, paying it out and hauling it in without slipping \u2014 for merchant, naval, and offshore vessel anchoring systems. Precision pocket geometry matched to specific chain size and grade. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Combined Gypsy and Warping Drum Forgings",
@@ -26447,7 +26447,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Railway Wheel Forgings \u2014 The Rolling Contact Interface Carrying Every Rail Car's Weight, Guidance, and Braking Load",
-        "description2": "JK Forge manufactures forged railway wheel blanks \u2014 the wheels carrying a rail car's full weight through continuous rolling contact with the rail while simultaneously providing directional guidance through the flange and absorbing tread braking heat \u2014 for freight and passenger rolling stock. Complementary to the coupler knuckle and draft gear coupling components already covered on this site, this is the running gear itself. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged railway wheel blanks \u2014 the wheels carrying a rail car's full weight through continuous rolling contact with the rail while simultaneously providing directional guidance through the flange and absorbing tread braking heat \u2014 for freight and passenger rolling stock. Complementary to the coupler knuckle and draft gear coupling components already covered on this site, this is the running gear itself. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Passenger Rolling Stock Wheel Forgings",
@@ -26571,7 +26571,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Railway Wheel Forgings \u2014 The Rolling Contact Interface Carrying Every Rail Car's Weight, Guidance, and Braking Load",
-        "description2": "JK Forge manufactures forged railway wheel blanks \u2014 the wheels carrying a rail car's full weight through continuous rolling contact with the rail while simultaneously providing directional guidance through the flange and absorbing tread braking heat \u2014 for freight and passenger rolling stock. Complementary to the coupler knuckle and draft gear coupling components already covered on this site, this is the running gear itself. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged railway wheel blanks \u2014 the wheels carrying a rail car's full weight through continuous rolling contact with the rail while simultaneously providing directional guidance through the flange and absorbing tread braking heat \u2014 for freight and passenger rolling stock. Complementary to the coupler knuckle and draft gear coupling components already covered on this site, this is the running gear itself. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Passenger Rolling Stock Wheel Forgings",
@@ -26983,7 +26983,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Control Arm Forgings \u2014 Upper & Lower A-Arms, Wishbones for Independent Front & Rear Suspension",
-        "description2": "JK Forge manufactures forged control arm components \u2014 upper and lower control arm bodies, ball joint bosses, and bushing mount points \u2014 for independent front and rear suspension systems across passenger vehicle, commercial vehicle, and performance applications. EN24 and SAE 4140 grade options, precision ball joint and bushing bore geometry. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged control arm components \u2014 upper and lower control arm bodies, ball joint bosses, and bushing mount points \u2014 for independent front and rear suspension systems across passenger vehicle, commercial vehicle, and performance applications. EN24 and SAE 4140 grade options, precision ball joint and bushing bore geometry. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Upper Control Arm Forgings",
@@ -27107,7 +27107,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Control Arm Forgings \u2014 Upper & Lower A-Arms, Wishbones for Independent Front & Rear Suspension",
-        "description2": "JK Forge manufactures forged control arm components \u2014 upper and lower control arm bodies, ball joint bosses, and bushing mount points \u2014 for independent front and rear suspension systems across passenger vehicle, commercial vehicle, and performance applications. EN24 and SAE 4140 grade options, precision ball joint and bushing bore geometry. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged control arm components \u2014 upper and lower control arm bodies, ball joint bosses, and bushing mount points \u2014 for independent front and rear suspension systems across passenger vehicle, commercial vehicle, and performance applications. EN24 and SAE 4140 grade options, precision ball joint and bushing bore geometry. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Upper Control Arm Forgings",
@@ -27231,7 +27231,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Wire Rope Socket Forgings \u2014 Developing a Wire Rope's Full Rated Breaking Strength Without Slippage",
-        "description2": "JK Forge manufactures forged wire rope socket components \u2014 the end-termination fitting attaching a wire rope or cable to a structural connection point on cranes, elevators, guy wires, and mooring lines \u2014 using a poured-metal or swaged mechanical grip inside the socket body to develop the rope's full rated breaking strength without slippage. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged wire rope socket components \u2014 the end-termination fitting attaching a wire rope or cable to a structural connection point on cranes, elevators, guy wires, and mooring lines \u2014 using a poured-metal or swaged mechanical grip inside the socket body to develop the rope's full rated breaking strength without slippage. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Closed Spelter Socket Forgings",
@@ -27355,7 +27355,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Wire Rope Socket Forgings \u2014 Developing a Wire Rope's Full Rated Breaking Strength Without Slippage",
-        "description2": "JK Forge manufactures forged wire rope socket components \u2014 the end-termination fitting attaching a wire rope or cable to a structural connection point on cranes, elevators, guy wires, and mooring lines \u2014 using a poured-metal or swaged mechanical grip inside the socket body to develop the rope's full rated breaking strength without slippage. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged wire rope socket components \u2014 the end-termination fitting attaching a wire rope or cable to a structural connection point on cranes, elevators, guy wires, and mooring lines \u2014 using a poured-metal or swaged mechanical grip inside the socket body to develop the rope's full rated breaking strength without slippage. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Closed Spelter Socket Forgings",
@@ -27767,7 +27767,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Wind Turbine Main Shaft Forgings \u2014 Low-Speed Rotor Shaft, Direct-Drive & Geared Turbine Architectures",
-        "description2": "JK Forge manufactures forged main shaft (low-speed shaft) blanks for wind turbine drivetrains \u2014 the primary rotating component connecting the rotor hub to the gearbox or, in direct-drive designs, directly to the generator \u2014 in 34CrNiMo6 and 42CrMo4 alloy steel, sized for onshore and offshore wind turbine platforms from sub-2MW through modern 6MW+ capacity. Ultrasonic testing, EN 10204 3.1/3.2 certification, DNV/GL and IEC 61400 design compliance support. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged main shaft (low-speed shaft) blanks for wind turbine drivetrains \u2014 the primary rotating component connecting the rotor hub to the gearbox or, in direct-drive designs, directly to the generator \u2014 in 34CrNiMo6 and 42CrMo4 alloy steel, sized for onshore and offshore wind turbine platforms from sub-2MW through modern 6MW+ capacity. Ultrasonic testing, EN 10204 3.1/3.2 certification, DNV/GL and IEC 61400 design compliance support. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Direct-Drive Turbine Main Shaft Forgings",
@@ -27891,7 +27891,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Wind Turbine Main Shaft Forgings \u2014 Low-Speed Rotor Shaft, Direct-Drive & Geared Turbine Architectures",
-        "description2": "JK Forge manufactures forged main shaft (low-speed shaft) blanks for wind turbine drivetrains \u2014 the primary rotating component connecting the rotor hub to the gearbox or, in direct-drive designs, directly to the generator \u2014 in 34CrNiMo6 and 42CrMo4 alloy steel, sized for onshore and offshore wind turbine platforms from sub-2MW through modern 6MW+ capacity. Ultrasonic testing, EN 10204 3.1/3.2 certification, DNV/GL and IEC 61400 design compliance support. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged main shaft (low-speed shaft) blanks for wind turbine drivetrains \u2014 the primary rotating component connecting the rotor hub to the gearbox or, in direct-drive designs, directly to the generator \u2014 in 34CrNiMo6 and 42CrMo4 alloy steel, sized for onshore and offshore wind turbine platforms from sub-2MW through modern 6MW+ capacity. Ultrasonic testing, EN 10204 3.1/3.2 certification, DNV/GL and IEC 61400 design compliance support. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Direct-Drive Turbine Main Shaft Forgings",
@@ -28015,7 +28015,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Propeller Shaft Forgings \u2014 Marine Vessel Shafting & Automotive Driveshaft Forgings",
-        "description2": "JK Forge manufactures forged propeller shaft blanks for marine vessel propulsion systems \u2014 in Aquamet 17/22 (marine bronze-nickel alloy) and 431 stainless steel for corrosion-resistant marine shafting \u2014 and automotive/commercial vehicle propeller (drive) shaft forgings in EN24 and SAE 4340. Marine classification society material compliance (DNV, ABS, Lloyd's Register), EN 10204 3.1/3.2 certification. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged propeller shaft blanks for marine vessel propulsion systems \u2014 in Aquamet 17/22 (marine bronze-nickel alloy) and 431 stainless steel for corrosion-resistant marine shafting \u2014 and automotive/commercial vehicle propeller (drive) shaft forgings in EN24 and SAE 4340. Marine classification society material compliance (DNV, ABS, Lloyd's Register), EN 10204 3.1/3.2 certification. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Naval and Patrol Vessel Shaft Forgings",
@@ -28139,7 +28139,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Propeller Shaft Forgings \u2014 Marine Vessel Shafting & Automotive Driveshaft Forgings",
-        "description2": "JK Forge manufactures forged propeller shaft blanks for marine vessel propulsion systems \u2014 in Aquamet 17/22 (marine bronze-nickel alloy) and 431 stainless steel for corrosion-resistant marine shafting \u2014 and automotive/commercial vehicle propeller (drive) shaft forgings in EN24 and SAE 4340. Marine classification society material compliance (DNV, ABS, Lloyd's Register), EN 10204 3.1/3.2 certification. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged propeller shaft blanks for marine vessel propulsion systems \u2014 in Aquamet 17/22 (marine bronze-nickel alloy) and 431 stainless steel for corrosion-resistant marine shafting \u2014 and automotive/commercial vehicle propeller (drive) shaft forgings in EN24 and SAE 4340. Marine classification society material compliance (DNV, ABS, Lloyd's Register), EN 10204 3.1/3.2 certification. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Naval and Patrol Vessel Shaft Forgings",
@@ -28551,7 +28551,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Torque Rod Bushing Bracket Forgings \u2014 Anchoring the Torque/Trailing Rod Against Axle Wind-Up on Heavy Trucks",
-        "description2": "JK Forge manufactures forged torque rod bushing brackets \u2014 the bracket that anchors a heavy truck's torque rod (trailing arm) to the axle housing or frame, reacting the axle's driving and braking torque reaction rather than controlling vehicle roll the way an anti-roll bar does or absorbing spring windup the way a torsion bar does. Forged construction resists the weld-induced stress risers that shorten fabricated bracket life under this application's high-cycle dynamic loading. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged torque rod bushing brackets \u2014 the bracket that anchors a heavy truck's torque rod (trailing arm) to the axle housing or frame, reacting the axle's driving and braking torque reaction rather than controlling vehicle roll the way an anti-roll bar does or absorbing spring windup the way a torsion bar does. Forged construction resists the weld-induced stress risers that shorten fabricated bracket life under this application's high-cycle dynamic loading. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Frame-End Torque Rod Bracket Forgings",
@@ -28675,7 +28675,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Torque Rod Bushing Bracket Forgings \u2014 Anchoring the Torque/Trailing Rod Against Axle Wind-Up on Heavy Trucks",
-        "description2": "JK Forge manufactures forged torque rod bushing brackets \u2014 the bracket that anchors a heavy truck's torque rod (trailing arm) to the axle housing or frame, reacting the axle's driving and braking torque reaction rather than controlling vehicle roll the way an anti-roll bar does or absorbing spring windup the way a torsion bar does. Forged construction resists the weld-induced stress risers that shorten fabricated bracket life under this application's high-cycle dynamic loading. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged torque rod bushing brackets \u2014 the bracket that anchors a heavy truck's torque rod (trailing arm) to the axle housing or frame, reacting the axle's driving and braking torque reaction rather than controlling vehicle roll the way an anti-roll bar does or absorbing spring windup the way a torsion bar does. Forged construction resists the weld-induced stress risers that shorten fabricated bracket life under this application's high-cycle dynamic loading. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Frame-End Torque Rod Bracket Forgings",
@@ -28799,7 +28799,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Pitman Arm Forgings \u2014 Steering Gear Output Linkage for Passenger Vehicle, Commercial Truck & Off-Highway",
-        "description2": "JK Forge manufactures forged pitman arms \u2014 the steering linkage component connecting the steering gearbox output shaft to the drag link or center link \u2014 for passenger vehicle, commercial truck, and off-highway steering systems. Splined bore and tapered ball stud geometry to OEM specification, EN24 and SAE 4140 grade options. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged pitman arms \u2014 the steering linkage component connecting the steering gearbox output shaft to the drag link or center link \u2014 for passenger vehicle, commercial truck, and off-highway steering systems. Splined bore and tapered ball stud geometry to OEM specification, EN24 and SAE 4140 grade options. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Commercial Truck Pitman Arm Forgings",
@@ -28923,7 +28923,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Pitman Arm Forgings \u2014 Steering Gear Output Linkage for Passenger Vehicle, Commercial Truck & Off-Highway",
-        "description2": "JK Forge manufactures forged pitman arms \u2014 the steering linkage component connecting the steering gearbox output shaft to the drag link or center link \u2014 for passenger vehicle, commercial truck, and off-highway steering systems. Splined bore and tapered ball stud geometry to OEM specification, EN24 and SAE 4140 grade options. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged pitman arms \u2014 the steering linkage component connecting the steering gearbox output shaft to the drag link or center link \u2014 for passenger vehicle, commercial truck, and off-highway steering systems. Splined bore and tapered ball stud geometry to OEM specification, EN24 and SAE 4140 grade options. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Commercial Truck Pitman Arm Forgings",
@@ -29047,7 +29047,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Steering Column & Intermediate Shaft Forgings \u2014 Transmitting Driver Steering Input from Wheel to Steering Gear",
-        "description2": "JK Forge manufactures forged steering column and intermediate shaft components \u2014 the shaft, often connected through one or two universal joints, transmitting the driver's steering wheel input torque to the steering gear \u2014 machined with precision splined or serrated ends for zero-lash torque transmission and matched to collapsible or telescoping column safety designs where specified. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged steering column and intermediate shaft components \u2014 the shaft, often connected through one or two universal joints, transmitting the driver's steering wheel input torque to the steering gear \u2014 machined with precision splined or serrated ends for zero-lash torque transmission and matched to collapsible or telescoping column safety designs where specified. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Upper and Lower Column Shaft Forgings",
@@ -29171,7 +29171,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Steering Column & Intermediate Shaft Forgings \u2014 Transmitting Driver Steering Input from Wheel to Steering Gear",
-        "description2": "JK Forge manufactures forged steering column and intermediate shaft components \u2014 the shaft, often connected through one or two universal joints, transmitting the driver's steering wheel input torque to the steering gear \u2014 machined with precision splined or serrated ends for zero-lash torque transmission and matched to collapsible or telescoping column safety designs where specified. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged steering column and intermediate shaft components \u2014 the shaft, often connected through one or two universal joints, transmitting the driver's steering wheel input torque to the steering gear \u2014 machined with precision splined or serrated ends for zero-lash torque transmission and matched to collapsible or telescoping column safety designs where specified. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Upper and Lower Column Shaft Forgings",
@@ -29295,7 +29295,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Backhoe Stabilizer Pad Forgings \u2014 The Ground-Contact Foot That Turns a Point Load Into a Stable Footprint",
-        "description2": "JK Forge manufactures forged backhoe and excavator stabilizer pads \u2014 the ground-contact foot mounted at the end of a hydraulic stabilizer or outrigger leg \u2014 engineered to spread the machine's stabilizing point load across a larger footprint while pivoting freely enough to conform to uneven ground without transferring bending load back up the leg. Forged construction survives the combined compressive and impact loading this component sees on every setup. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged backhoe and excavator stabilizer pads \u2014 the ground-contact foot mounted at the end of a hydraulic stabilizer or outrigger leg \u2014 engineered to spread the machine's stabilizing point load across a larger footprint while pivoting freely enough to conform to uneven ground without transferring bending load back up the leg. Forged construction survives the combined compressive and impact loading this component sees on every setup. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Excavator Outrigger Pad Forgings",
@@ -29419,7 +29419,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Backhoe Stabilizer Pad Forgings \u2014 The Ground-Contact Foot That Turns a Point Load Into a Stable Footprint",
-        "description2": "JK Forge manufactures forged backhoe and excavator stabilizer pads \u2014 the ground-contact foot mounted at the end of a hydraulic stabilizer or outrigger leg \u2014 engineered to spread the machine's stabilizing point load across a larger footprint while pivoting freely enough to conform to uneven ground without transferring bending load back up the leg. Forged construction survives the combined compressive and impact loading this component sees on every setup. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged backhoe and excavator stabilizer pads \u2014 the ground-contact foot mounted at the end of a hydraulic stabilizer or outrigger leg \u2014 engineered to spread the machine's stabilizing point load across a larger footprint while pivoting freely enough to conform to uneven ground without transferring bending load back up the leg. Forged construction survives the combined compressive and impact loading this component sees on every setup. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Excavator Outrigger Pad Forgings",
@@ -29543,7 +29543,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Diaphragm Ring Forgings \u2014 The Stationary Nozzle-Carrying Ring Between Stages, Distinct From the Rotating Turbine Disc",
-        "description2": "JK Forge manufactures forged steam turbine diaphragm ring blanks \u2014 the stationary ring, mounted between turbine stages, that carries the nozzle guide vanes directing steam onto the rotating blades below, distinct from the rotating turbine rotor disc covered elsewhere on this site. Diaphragm ring design is governed by differential pressure deflection and radial clearance control rather than the centrifugal loading a rotating disc carries. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged steam turbine diaphragm ring blanks \u2014 the stationary ring, mounted between turbine stages, that carries the nozzle guide vanes directing steam onto the rotating blades below, distinct from the rotating turbine rotor disc covered elsewhere on this site. Diaphragm ring design is governed by differential pressure deflection and radial clearance control rather than the centrifugal loading a rotating disc carries. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Split / Half-Ring Diaphragm Forgings",
@@ -29663,7 +29663,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Diaphragm Ring Forgings \u2014 The Stationary Nozzle-Carrying Ring Between Stages, Distinct From the Rotating Turbine Disc",
-        "description2": "JK Forge manufactures forged steam turbine diaphragm ring blanks \u2014 the stationary ring, mounted between turbine stages, that carries the nozzle guide vanes directing steam onto the rotating blades below, distinct from the rotating turbine rotor disc covered elsewhere on this site. Diaphragm ring design is governed by differential pressure deflection and radial clearance control rather than the centrifugal loading a rotating disc carries. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged steam turbine diaphragm ring blanks \u2014 the stationary ring, mounted between turbine stages, that carries the nozzle guide vanes directing steam onto the rotating blades below, distinct from the rotating turbine rotor disc covered elsewhere on this site. Diaphragm ring design is governed by differential pressure deflection and radial clearance control rather than the centrifugal loading a rotating disc carries. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Split / Half-Ring Diaphragm Forgings",
@@ -29783,7 +29783,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Clutch Hubs \u2014 Automotive Friction Clutch, Industrial Power Transmission Clutch Hub Forgings",
-        "description2": "JK Forge manufactures forged clutch hub blanks for automotive friction clutch assemblies and industrial power transmission clutch systems \u2014 splined hub forgings engineered for the combined torque transmission and spline engagement precision reliable clutch operation requires \u2014 in 20MnCr5 and EN24 alloy steel. IATF 16949 aligned quality, PPAP documentation support. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged clutch hub blanks for automotive friction clutch assemblies and industrial power transmission clutch systems \u2014 splined hub forgings engineered for the combined torque transmission and spline engagement precision reliable clutch operation requires \u2014 in 20MnCr5 and EN24 alloy steel. IATF 16949 aligned quality, PPAP documentation support. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Commercial Vehicle Clutch Hub Forgings",
@@ -29907,7 +29907,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Clutch Hubs \u2014 Automotive Friction Clutch, Industrial Power Transmission Clutch Hub Forgings",
-        "description2": "JK Forge manufactures forged clutch hub blanks for automotive friction clutch assemblies and industrial power transmission clutch systems \u2014 splined hub forgings engineered for the combined torque transmission and spline engagement precision reliable clutch operation requires \u2014 in 20MnCr5 and EN24 alloy steel. IATF 16949 aligned quality, PPAP documentation support. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged clutch hub blanks for automotive friction clutch assemblies and industrial power transmission clutch systems \u2014 splined hub forgings engineered for the combined torque transmission and spline engagement precision reliable clutch operation requires \u2014 in 20MnCr5 and EN24 alloy steel. IATF 16949 aligned quality, PPAP documentation support. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Commercial Vehicle Clutch Hub Forgings",
@@ -30031,7 +30031,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Mining Shovel Dipper Tooth Forgings \u2014 Massive-Scale Wear Points for Electric Rope and Hydraulic Mining Shovel Dipper Buckets",
-        "description2": "JK Forge manufactures forged dipper teeth for large electric rope and hydraulic mining shovels \u2014 the ground engaging wear points mounted on the dipper (bucket) lip of surface mining shovels that can weigh 50-plus tonnes and dig with bucket capacities far beyond excavator scale, where a single tooth may weigh well over 100 kg. High-alloy wear-resistant steel grades. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged dipper teeth for large electric rope and hydraulic mining shovels \u2014 the ground engaging wear points mounted on the dipper (bucket) lip of surface mining shovels that can weigh 50-plus tonnes and dig with bucket capacities far beyond excavator scale, where a single tooth may weigh well over 100 kg. High-alloy wear-resistant steel grades. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Dipper Lip Shroud and Corner Tooth Forgings",
@@ -30155,7 +30155,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Mining Shovel Dipper Tooth Forgings \u2014 Massive-Scale Wear Points for Electric Rope and Hydraulic Mining Shovel Dipper Buckets",
-        "description2": "JK Forge manufactures forged dipper teeth for large electric rope and hydraulic mining shovels \u2014 the ground engaging wear points mounted on the dipper (bucket) lip of surface mining shovels that can weigh 50-plus tonnes and dig with bucket capacities far beyond excavator scale, where a single tooth may weigh well over 100 kg. High-alloy wear-resistant steel grades. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged dipper teeth for large electric rope and hydraulic mining shovels \u2014 the ground engaging wear points mounted on the dipper (bucket) lip of surface mining shovels that can weigh 50-plus tonnes and dig with bucket capacities far beyond excavator scale, where a single tooth may weigh well over 100 kg. High-alloy wear-resistant steel grades. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Dipper Lip Shroud and Corner Tooth Forgings",
@@ -30279,7 +30279,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Ship Rudder Pintle Forgings \u2014 The Hinge Hardware Carrying the Rudder Blade's Weight, Distinct From the Torque-Carrying Rudder Stock",
-        "description2": "JK Forge manufactures forged ship rudder pintle components \u2014 the hinge pin hardware seating into the hull's gudgeon fittings that supports the rudder blade's weight and reacts lateral hydrodynamic load, carrying no steering torque itself. A mechanically distinct component from the rudder stock (the main steering shaft), also covered on this site. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged ship rudder pintle components \u2014 the hinge pin hardware seating into the hull's gudgeon fittings that supports the rudder blade's weight and reacts lateral hydrodynamic load, carrying no steering torque itself. A mechanically distinct component from the rudder stock (the main steering shaft), also covered on this site. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Gudgeon Fitting Forgings",
@@ -30403,7 +30403,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Ship Rudder Pintle Forgings \u2014 The Hinge Hardware Carrying the Rudder Blade's Weight, Distinct From the Torque-Carrying Rudder Stock",
-        "description2": "JK Forge manufactures forged ship rudder pintle components \u2014 the hinge pin hardware seating into the hull's gudgeon fittings that supports the rudder blade's weight and reacts lateral hydrodynamic load, carrying no steering torque itself. A mechanically distinct component from the rudder stock (the main steering shaft), also covered on this site. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged ship rudder pintle components \u2014 the hinge pin hardware seating into the hull's gudgeon fittings that supports the rudder blade's weight and reacts lateral hydrodynamic load, carrying no steering torque itself. A mechanically distinct component from the rudder stock (the main steering shaft), also covered on this site. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Gudgeon Fitting Forgings",
@@ -30815,7 +30815,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Wheel Chock Forgings \u2014 Drop-Forged Wedge Blocks for Trucking, Trailer and Rail Yard Rollaway Prevention",
-        "description2": "JK Forge manufactures drop-forged wheel chocks \u2014 the wedge-shaped safety blocks placed against a parked vehicle, trailer, or railcar wheel to prevent rollaway \u2014 engineered for the sudden impact loading and sustained compressive holding force this safety-critical equipment has to survive without cracking. Forged carbon steel construction with integrally forged handle and chain-eye avoids the weld joints that fail first on fabricated or cast chocks. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures drop-forged wheel chocks \u2014 the wedge-shaped safety blocks placed against a parked vehicle, trailer, or railcar wheel to prevent rollaway \u2014 engineered for the sudden impact loading and sustained compressive holding force this safety-critical equipment has to survive without cracking. Forged carbon steel construction with integrally forged handle and chain-eye avoids the weld joints that fail first on fabricated or cast chocks. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Rail Yard & Rolling Stock Chocks",
@@ -30939,7 +30939,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Wheel Chock Forgings \u2014 Drop-Forged Wedge Blocks for Trucking, Trailer and Rail Yard Rollaway Prevention",
-        "description2": "JK Forge manufactures drop-forged wheel chocks \u2014 the wedge-shaped safety blocks placed against a parked vehicle, trailer, or railcar wheel to prevent rollaway \u2014 engineered for the sudden impact loading and sustained compressive holding force this safety-critical equipment has to survive without cracking. Forged carbon steel construction with integrally forged handle and chain-eye avoids the weld joints that fail first on fabricated or cast chocks. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures drop-forged wheel chocks \u2014 the wedge-shaped safety blocks placed against a parked vehicle, trailer, or railcar wheel to prevent rollaway \u2014 engineered for the sudden impact loading and sustained compressive holding force this safety-critical equipment has to survive without cracking. Forged carbon steel construction with integrally forged handle and chain-eye avoids the weld joints that fail first on fabricated or cast chocks. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Rail Yard & Rolling Stock Chocks",
@@ -31433,7 +31433,7 @@ window.pageContent['componentsData'] = {
         "faqs": [
             {
                 "question": "Does JK Forge manufacture tie rod end forgings in India?",
-                "answer": "Yes. We manufacture hot-forged tie rod ends, drag links, centre rod bodies and steering rod forgings from our Shapar, Rajkot factory. Applications include passenger cars, LCVs, buses, tractors and heavy trucks. Both rough forgings and finish-machined tie rod ends with threaded shanks and ball socket pockets are supplied. Call +91-9265772827 or email sales@JK Forge.com with your drawing."
+                "answer": "Yes. We manufacture hot-forged tie rod ends, drag links, centre rod bodies and steering rod forgings from our Shapar, Rajkot factory. Applications include passenger cars, LCVs, buses, tractors and heavy trucks. Both rough forgings and finish-machined tie rod ends with threaded shanks and ball socket pockets are supplied. Call +91 7600066117 or email sales@JK Forge.com with your drawing."
             },
             {
                 "question": "What is the difference between inner and outer tie rod ends?",
@@ -31461,7 +31461,7 @@ window.pageContent['componentsData'] = {
             },
             {
                 "question": "How do I request a quotation for tie rod forging supply?",
-                "answer": "Email your part drawing (PDF, DXF or STEP) with material grade, heat treatment specification, thread form, surface treatment requirement and annual volume to sales@JK Forge.com. We assess forgeability, confirm the machining operations required, and return a detailed quotation covering forging, heat treatment, machining and surface treatment within 48\u201372 working hours. Call +91-9265772827 for urgent enquiries."
+                "answer": "Email your part drawing (PDF, DXF or STEP) with material grade, heat treatment specification, thread form, surface treatment requirement and annual volume to sales@JK Forge.com. We assess forgeability, confirm the machining operations required, and return a detailed quotation covering forging, heat treatment, machining and surface treatment within 48\u201372 working hours. Call +91 7600066117 for urgent enquiries."
             }
         ]
     },
@@ -31569,7 +31569,7 @@ window.pageContent['componentsData'] = {
         "faqs": [
             {
                 "question": "Does JK Forge manufacture tie rod end forgings in India?",
-                "answer": "Yes. We manufacture hot-forged tie rod ends, drag links, centre rod bodies and steering rod forgings from our Shapar, Rajkot factory. Applications include passenger cars, LCVs, buses, tractors and heavy trucks. Both rough forgings and finish-machined tie rod ends with threaded shanks and ball socket pockets are supplied. Call +91-9265772827 or email sales@JK Forge.com with your drawing."
+                "answer": "Yes. We manufacture hot-forged tie rod ends, drag links, centre rod bodies and steering rod forgings from our Shapar, Rajkot factory. Applications include passenger cars, LCVs, buses, tractors and heavy trucks. Both rough forgings and finish-machined tie rod ends with threaded shanks and ball socket pockets are supplied. Call +91 7600066117 or email sales@JK Forge.com with your drawing."
             },
             {
                 "question": "What is the difference between inner and outer tie rod ends?",
@@ -31597,7 +31597,7 @@ window.pageContent['componentsData'] = {
             },
             {
                 "question": "How do I request a quotation for tie rod forging supply?",
-                "answer": "Email your part drawing (PDF, DXF or STEP) with material grade, heat treatment specification, thread form, surface treatment requirement and annual volume to sales@JK Forge.com. We assess forgeability, confirm the machining operations required, and return a detailed quotation covering forging, heat treatment, machining and surface treatment within 48\u201372 working hours. Call +91-9265772827 for urgent enquiries."
+                "answer": "Email your part drawing (PDF, DXF or STEP) with material grade, heat treatment specification, thread form, surface treatment requirement and annual volume to sales@JK Forge.com. We assess forgeability, confirm the machining operations required, and return a detailed quotation covering forging, heat treatment, machining and surface treatment within 48\u201372 working hours. Call +91 7600066117 for urgent enquiries."
             }
         ]
     },
@@ -31623,7 +31623,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Clutch Release Bearing Carrier Forgings \u2014 Throw-Out Bearing Sleeves for Concentric Sliding Duty on the Guide Tube",
-        "description2": "JK Forge manufactures forged clutch release bearing carrier blanks \u2014 the sleeve, also known as a throw-out bearing carrier, that slides on the transmission's guide tube and transfers axial actuating force from the release fork or hydraulic slave cylinder into the release bearing to disengage the clutch. Forged construction supports the concentricity and bore wear resistance repeated sliding duty over hundreds of thousands of clutch cycles demands. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged clutch release bearing carrier blanks \u2014 the sleeve, also known as a throw-out bearing carrier, that slides on the transmission's guide tube and transfers axial actuating force from the release fork or hydraulic slave cylinder into the release bearing to disengage the clutch. Forged construction supports the concentricity and bore wear resistance repeated sliding duty over hundreds of thousands of clutch cycles demands. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Automated Manual and Dual-Clutch Carrier Forgings",
@@ -31747,7 +31747,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Clutch Release Bearing Carrier Forgings \u2014 Throw-Out Bearing Sleeves for Concentric Sliding Duty on the Guide Tube",
-        "description2": "JK Forge manufactures forged clutch release bearing carrier blanks \u2014 the sleeve, also known as a throw-out bearing carrier, that slides on the transmission's guide tube and transfers axial actuating force from the release fork or hydraulic slave cylinder into the release bearing to disengage the clutch. Forged construction supports the concentricity and bore wear resistance repeated sliding duty over hundreds of thousands of clutch cycles demands. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged clutch release bearing carrier blanks \u2014 the sleeve, also known as a throw-out bearing carrier, that slides on the transmission's guide tube and transfers axial actuating force from the release fork or hydraulic slave cylinder into the release bearing to disengage the clutch. Forged construction supports the concentricity and bore wear resistance repeated sliding duty over hundreds of thousands of clutch cycles demands. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Automated Manual and Dual-Clutch Carrier Forgings",
@@ -31871,7 +31871,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Forged U-Bolts \u2014 Leaf Spring Axle Clamps, Round & Square Bend Suspension U-Bolts",
-        "description2": "JK Forge manufactures forged U-bolt blanks for leaf spring suspension axle clamping applications \u2014 round bend and square bend U-bolts for passenger vehicle, commercial truck, trailer, and agricultural equipment suspension systems \u2014 in EN8 and EN19 alloy steel, engineered for the sustained clamping preload and cyclic suspension loading these safety-critical fasteners experience. IATF 16949 aligned quality, EN 10204 3.1 certification. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged U-bolt blanks for leaf spring suspension axle clamping applications \u2014 round bend and square bend U-bolts for passenger vehicle, commercial truck, trailer, and agricultural equipment suspension systems \u2014 in EN8 and EN19 alloy steel, engineered for the sustained clamping preload and cyclic suspension loading these safety-critical fasteners experience. IATF 16949 aligned quality, EN 10204 3.1 certification. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Square Bend U-Bolt Forgings",
@@ -31995,7 +31995,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Forged U-Bolts \u2014 Leaf Spring Axle Clamps, Round & Square Bend Suspension U-Bolts",
-        "description2": "JK Forge manufactures forged U-bolt blanks for leaf spring suspension axle clamping applications \u2014 round bend and square bend U-bolts for passenger vehicle, commercial truck, trailer, and agricultural equipment suspension systems \u2014 in EN8 and EN19 alloy steel, engineered for the sustained clamping preload and cyclic suspension loading these safety-critical fasteners experience. IATF 16949 aligned quality, EN 10204 3.1 certification. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged U-bolt blanks for leaf spring suspension axle clamping applications \u2014 round bend and square bend U-bolts for passenger vehicle, commercial truck, trailer, and agricultural equipment suspension systems \u2014 in EN8 and EN19 alloy steel, engineered for the sustained clamping preload and cyclic suspension loading these safety-critical fasteners experience. IATF 16949 aligned quality, EN 10204 3.1 certification. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Square Bend U-Bolt Forgings",
@@ -32119,7 +32119,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Casing Hanger Forgings \u2014 The Specific Component Suspending Casing String Weight Inside the Wellhead Housing",
-        "description2": "JK Forge manufactures forged casing hangers \u2014 the wellhead component that lands inside the casing head or spool bowl and suspends the full landed weight of a casing string, a distinct and specific component within the broader API 6A wellhead equipment system covered generally on our API 6A page, which addresses casing heads, tubing heads, and Christmas tree valve bodies but not the casing hanger's specific load-bearing function. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged casing hangers \u2014 the wellhead component that lands inside the casing head or spool bowl and suspends the full landed weight of a casing string, a distinct and specific component within the broader API 6A wellhead equipment system covered generally on our API 6A page, which addresses casing heads, tubing heads, and Christmas tree valve bodies but not the casing hanger's specific load-bearing function. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Mandrel-Type Casing Hanger Forgings",
@@ -32243,7 +32243,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Casing Hanger Forgings \u2014 The Specific Component Suspending Casing String Weight Inside the Wellhead Housing",
-        "description2": "JK Forge manufactures forged casing hangers \u2014 the wellhead component that lands inside the casing head or spool bowl and suspends the full landed weight of a casing string, a distinct and specific component within the broader API 6A wellhead equipment system covered generally on our API 6A page, which addresses casing heads, tubing heads, and Christmas tree valve bodies but not the casing hanger's specific load-bearing function. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged casing hangers \u2014 the wellhead component that lands inside the casing head or spool bowl and suspends the full landed weight of a casing string, a distinct and specific component within the broader API 6A wellhead equipment system covered generally on our API 6A page, which addresses casing heads, tubing heads, and Christmas tree valve bodies but not the casing hanger's specific load-bearing function. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Mandrel-Type Casing Hanger Forgings",
@@ -32367,7 +32367,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Pinion Shaft Forgings \u2014 Differential Drive Pinion & Final Drive Pinion Shafts for Automotive & Industrial Gearing",
-        "description2": "JK Forge manufactures forged pinion shaft blanks \u2014 for differential drive pinions, final drive pinions, and general gear pinion shaft applications \u2014 across automotive, agricultural, and industrial drivetrain systems. Case-hardening grade options supporting the gear tooth wear resistance and core fatigue strength this high-stress-concentration component requires. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged pinion shaft blanks \u2014 for differential drive pinions, final drive pinions, and general gear pinion shaft applications \u2014 across automotive, agricultural, and industrial drivetrain systems. Case-hardening grade options supporting the gear tooth wear resistance and core fatigue strength this high-stress-concentration component requires. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Final Drive Pinion Shaft Blanks",
@@ -32491,7 +32491,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Pinion Shaft Forgings \u2014 Differential Drive Pinion & Final Drive Pinion Shafts for Automotive & Industrial Gearing",
-        "description2": "JK Forge manufactures forged pinion shaft blanks \u2014 for differential drive pinions, final drive pinions, and general gear pinion shaft applications \u2014 across automotive, agricultural, and industrial drivetrain systems. Case-hardening grade options supporting the gear tooth wear resistance and core fatigue strength this high-stress-concentration component requires. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged pinion shaft blanks \u2014 for differential drive pinions, final drive pinions, and general gear pinion shaft applications \u2014 across automotive, agricultural, and industrial drivetrain systems. Case-hardening grade options supporting the gear tooth wear resistance and core fatigue strength this high-stress-concentration component requires. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Final Drive Pinion Shaft Blanks",
@@ -32615,7 +32615,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Forklift Mast Components \u2014 Roller Pins, Tilt Cylinder Trunnions & Cross-Head Forgings for the Vertical Lift Structure",
-        "description2": "JK Forge manufactures forged components for forklift mast assemblies \u2014 mast roller pins and shafts, tilt cylinder trunnion pins, cross-head forgings, and chain anchor brackets \u2014 the concentrated-load hardware within the mast's vertical rail structure that carries every lift and tilt cycle a lift truck performs. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for forklift mast assemblies \u2014 mast roller pins and shafts, tilt cylinder trunnion pins, cross-head forgings, and chain anchor brackets \u2014 the concentrated-load hardware within the mast's vertical rail structure that carries every lift and tilt cycle a lift truck performs. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Tilt Cylinder Trunnion Pin Forgings",
@@ -32739,7 +32739,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Forklift Mast Components \u2014 Roller Pins, Tilt Cylinder Trunnions & Cross-Head Forgings for the Vertical Lift Structure",
-        "description2": "JK Forge manufactures forged components for forklift mast assemblies \u2014 mast roller pins and shafts, tilt cylinder trunnion pins, cross-head forgings, and chain anchor brackets \u2014 the concentrated-load hardware within the mast's vertical rail structure that carries every lift and tilt cycle a lift truck performs. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for forklift mast assemblies \u2014 mast roller pins and shafts, tilt cylinder trunnion pins, cross-head forgings, and chain anchor brackets \u2014 the concentrated-load hardware within the mast's vertical rail structure that carries every lift and tilt cycle a lift truck performs. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Tilt Cylinder Trunnion Pin Forgings",
@@ -32863,7 +32863,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Track Roller Forgings \u2014 Top & Bottom Carrier Rollers for Excavator, Bulldozer & Crawler Crane Undercarriage",
-        "description2": "JK Forge manufactures forged track roller components \u2014 top carrier rollers and bottom track rollers \u2014 for excavator, bulldozer, and crawler crane undercarriage systems, supporting the machine's full operating weight while continuously rolling along the track chain under abrasive site conditions. Case-hardening grade options for wear-resistant tread surfaces. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged track roller components \u2014 top carrier rollers and bottom track rollers \u2014 for excavator, bulldozer, and crawler crane undercarriage systems, supporting the machine's full operating weight while continuously rolling along the track chain under abrasive site conditions. Case-hardening grade options for wear-resistant tread surfaces. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Top Carrier Roller Forgings",
@@ -32987,7 +32987,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Track Roller Forgings \u2014 Top & Bottom Carrier Rollers for Excavator, Bulldozer & Crawler Crane Undercarriage",
-        "description2": "JK Forge manufactures forged track roller components \u2014 top carrier rollers and bottom track rollers \u2014 for excavator, bulldozer, and crawler crane undercarriage systems, supporting the machine's full operating weight while continuously rolling along the track chain under abrasive site conditions. Case-hardening grade options for wear-resistant tread surfaces. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged track roller components \u2014 top carrier rollers and bottom track rollers \u2014 for excavator, bulldozer, and crawler crane undercarriage systems, supporting the machine's full operating weight while continuously rolling along the track chain under abrasive site conditions. Case-hardening grade options for wear-resistant tread surfaces. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Top Carrier Roller Forgings",
@@ -33111,7 +33111,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Jet Engine Compressor Disk Forgings \u2014 Titanium Front Stages to Nickel Superalloy Rear Stages, Driven by Compression Heating",
-        "description2": "JK Forge manufactures forged jet engine compressor disk blanks \u2014 the rotating disks of the fan and compressor section (LPC and HPC) of a turbofan or turbojet engine, distinct from the hot-section turbine disk and turbine blade forgings covered elsewhere on this site \u2014 in titanium 6Al-4V for front-stage compressor disks and nickel-base superalloys such as Inconel 718 for the rearmost high-pressure compressor stages where adiabatic compression heating pushes air temperature beyond titanium's practical service limit. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged jet engine compressor disk blanks \u2014 the rotating disks of the fan and compressor section (LPC and HPC) of a turbofan or turbojet engine, distinct from the hot-section turbine disk and turbine blade forgings covered elsewhere on this site \u2014 in titanium 6Al-4V for front-stage compressor disks and nickel-base superalloys such as Inconel 718 for the rearmost high-pressure compressor stages where adiabatic compression heating pushes air temperature beyond titanium's practical service limit. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "HPC Disk Forgings \u2014 Nickel Superalloy Rear Stages",
@@ -33235,7 +33235,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Jet Engine Compressor Disk Forgings \u2014 Titanium Front Stages to Nickel Superalloy Rear Stages, Driven by Compression Heating",
-        "description2": "JK Forge manufactures forged jet engine compressor disk blanks \u2014 the rotating disks of the fan and compressor section (LPC and HPC) of a turbofan or turbojet engine, distinct from the hot-section turbine disk and turbine blade forgings covered elsewhere on this site \u2014 in titanium 6Al-4V for front-stage compressor disks and nickel-base superalloys such as Inconel 718 for the rearmost high-pressure compressor stages where adiabatic compression heating pushes air temperature beyond titanium's practical service limit. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged jet engine compressor disk blanks \u2014 the rotating disks of the fan and compressor section (LPC and HPC) of a turbofan or turbojet engine, distinct from the hot-section turbine disk and turbine blade forgings covered elsewhere on this site \u2014 in titanium 6Al-4V for front-stage compressor disks and nickel-base superalloys such as Inconel 718 for the rearmost high-pressure compressor stages where adiabatic compression heating pushes air temperature beyond titanium's practical service limit. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "HPC Disk Forgings \u2014 Nickel Superalloy Rear Stages",
@@ -33359,7 +33359,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Railway Coupler Knuckle Forgings \u2014 AAR-Type & Standard Coupling Components for Freight & Passenger Rolling Stock",
-        "description2": "JK Forge manufactures forged coupler knuckle components \u2014 the pivoting hook-shaped element that engages between adjoining rail cars to form a train's mechanical coupling \u2014 for freight and passenger railway rolling stock. High-strength steel construction addressing the massive tensile and shock loading a coupler knuckle transmits throughout a train's entire operating life. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged coupler knuckle components \u2014 the pivoting hook-shaped element that engages between adjoining rail cars to form a train's mechanical coupling \u2014 for freight and passenger railway rolling stock. High-strength steel construction addressing the massive tensile and shock loading a coupler knuckle transmits throughout a train's entire operating life. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Passenger Rolling Stock Knuckle Forgings",
@@ -33483,7 +33483,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Railway Coupler Knuckle Forgings \u2014 AAR-Type & Standard Coupling Components for Freight & Passenger Rolling Stock",
-        "description2": "JK Forge manufactures forged coupler knuckle components \u2014 the pivoting hook-shaped element that engages between adjoining rail cars to form a train's mechanical coupling \u2014 for freight and passenger railway rolling stock. High-strength steel construction addressing the massive tensile and shock loading a coupler knuckle transmits throughout a train's entire operating life. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged coupler knuckle components \u2014 the pivoting hook-shaped element that engages between adjoining rail cars to form a train's mechanical coupling \u2014 for freight and passenger railway rolling stock. High-strength steel construction addressing the massive tensile and shock loading a coupler knuckle transmits throughout a train's entire operating life. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Passenger Rolling Stock Knuckle Forgings",
@@ -33607,7 +33607,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Drill Pipe Tool Joint Forgings \u2014 Threaded Box & Pin Connector Forgings Welded to Drill Pipe Body Ends",
-        "description2": "JK Forge manufactures forged drill pipe tool joint blanks \u2014 the heavy-wall threaded box and pin connector forgings welded to each end of drill pipe body tubing, forming the makeup-and-breakout connection joining individual drill pipe joints into the drill string. High-strength alloy steel forgings addressing the torsional, tensile, and fatigue duty cycle every connection in the string repeatedly experiences. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged drill pipe tool joint blanks \u2014 the heavy-wall threaded box and pin connector forgings welded to each end of drill pipe body tubing, forming the makeup-and-breakout connection joining individual drill pipe joints into the drill string. High-strength alloy steel forgings addressing the torsional, tensile, and fatigue duty cycle every connection in the string repeatedly experiences. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Pin (Male) Connector Forgings",
@@ -33731,7 +33731,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Drill Pipe Tool Joint Forgings \u2014 Threaded Box & Pin Connector Forgings Welded to Drill Pipe Body Ends",
-        "description2": "JK Forge manufactures forged drill pipe tool joint blanks \u2014 the heavy-wall threaded box and pin connector forgings welded to each end of drill pipe body tubing, forming the makeup-and-breakout connection joining individual drill pipe joints into the drill string. High-strength alloy steel forgings addressing the torsional, tensile, and fatigue duty cycle every connection in the string repeatedly experiences. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged drill pipe tool joint blanks \u2014 the heavy-wall threaded box and pin connector forgings welded to each end of drill pipe body tubing, forming the makeup-and-breakout connection joining individual drill pipe joints into the drill string. High-strength alloy steel forgings addressing the torsional, tensile, and fatigue duty cycle every connection in the string repeatedly experiences. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Pin (Male) Connector Forgings",
@@ -33937,7 +33937,7 @@ window.pageContent['componentsData'] = {
         "faqs": [
             {
                 "question": "Does JK Forge manufacture drive shaft and propeller shaft forgings?",
-                "answer": "Yes. We manufacture propshaft yoke forgings (slip yokes, weld yokes, tube yokes), companion flange forgings, solid and hollow shaft blanks, U-joint cross forgings and coupling forgings from our Shapar, Rajkot factory. Both rough forgings and machined finished components with splines, keyways and flanged features are supplied. Call +91-9265772827 or email sales@JK Forge.com with your drawing."
+                "answer": "Yes. We manufacture propshaft yoke forgings (slip yokes, weld yokes, tube yokes), companion flange forgings, solid and hollow shaft blanks, U-joint cross forgings and coupling forgings from our Shapar, Rajkot factory. Both rough forgings and machined finished components with splines, keyways and flanged features are supplied. Call +91 7600066117 or email sales@JK Forge.com with your drawing."
             },
             {
                 "question": "What is the best material for propeller shaft yoke forgings?",
@@ -33945,7 +33945,7 @@ window.pageContent['componentsData'] = {
             },
             {
                 "question": "Can you supply companion flange forgings for differential assemblies?",
-                "answer": "Yes. Companion flange forgings for rear axle differentials are a standard product. We produce flanges in EN24T and EN19T to OEM or customer drawings, with machined face, pilot bore, bolt circle diameter and pinion spline bore. Face runout is machined to \u22640.05 mm on critical flanges. PPAP documentation is prepared for automotive supply programmes. Call +91-9265772827 to discuss your flange drawing."
+                "answer": "Yes. Companion flange forgings for rear axle differentials are a standard product. We produce flanges in EN24T and EN19T to OEM or customer drawings, with machined face, pilot bore, bolt circle diameter and pinion spline bore. Face runout is machined to \u22640.05 mm on critical flanges. PPAP documentation is prepared for automotive supply programmes. Call +91 7600066117 to discuss your flange drawing."
             },
             {
                 "question": "Do you forge propshaft yokes in EN24T as per SAE 4340 specification?",
@@ -33965,7 +33965,7 @@ window.pageContent['componentsData'] = {
             },
             {
                 "question": "How do I request a quotation for drive shaft forging supply?",
-                "answer": "Send your part drawing (PDF or STEP format) with material specification, heat treatment requirement, any spline or keyway dimensions, surface treatment needs and annual volume estimate to sales@JK Forge.com. We review the drawing for forgeability, confirm the appropriate material grade and machining operations, and return a detailed quotation within 48\u201372 working hours. For urgent requirements, call +91-9265772827 directly."
+                "answer": "Send your part drawing (PDF or STEP format) with material specification, heat treatment requirement, any spline or keyway dimensions, surface treatment needs and annual volume estimate to sales@JK Forge.com. We review the drawing for forgeability, confirm the appropriate material grade and machining operations, and return a detailed quotation within 48\u201372 working hours. For urgent requirements, call +91 7600066117 directly."
             }
         ]
     },
@@ -34073,7 +34073,7 @@ window.pageContent['componentsData'] = {
         "faqs": [
             {
                 "question": "Does JK Forge manufacture drive shaft and propeller shaft forgings?",
-                "answer": "Yes. We manufacture propshaft yoke forgings (slip yokes, weld yokes, tube yokes), companion flange forgings, solid and hollow shaft blanks, U-joint cross forgings and coupling forgings from our Shapar, Rajkot factory. Both rough forgings and machined finished components with splines, keyways and flanged features are supplied. Call +91-9265772827 or email sales@JK Forge.com with your drawing."
+                "answer": "Yes. We manufacture propshaft yoke forgings (slip yokes, weld yokes, tube yokes), companion flange forgings, solid and hollow shaft blanks, U-joint cross forgings and coupling forgings from our Shapar, Rajkot factory. Both rough forgings and machined finished components with splines, keyways and flanged features are supplied. Call +91 7600066117 or email sales@JK Forge.com with your drawing."
             },
             {
                 "question": "What is the best material for propeller shaft yoke forgings?",
@@ -34081,7 +34081,7 @@ window.pageContent['componentsData'] = {
             },
             {
                 "question": "Can you supply companion flange forgings for differential assemblies?",
-                "answer": "Yes. Companion flange forgings for rear axle differentials are a standard product. We produce flanges in EN24T and EN19T to OEM or customer drawings, with machined face, pilot bore, bolt circle diameter and pinion spline bore. Face runout is machined to \u22640.05 mm on critical flanges. PPAP documentation is prepared for automotive supply programmes. Call +91-9265772827 to discuss your flange drawing."
+                "answer": "Yes. Companion flange forgings for rear axle differentials are a standard product. We produce flanges in EN24T and EN19T to OEM or customer drawings, with machined face, pilot bore, bolt circle diameter and pinion spline bore. Face runout is machined to \u22640.05 mm on critical flanges. PPAP documentation is prepared for automotive supply programmes. Call +91 7600066117 to discuss your flange drawing."
             },
             {
                 "question": "Do you forge propshaft yokes in EN24T as per SAE 4340 specification?",
@@ -34101,7 +34101,7 @@ window.pageContent['componentsData'] = {
             },
             {
                 "question": "How do I request a quotation for drive shaft forging supply?",
-                "answer": "Send your part drawing (PDF or STEP format) with material specification, heat treatment requirement, any spline or keyway dimensions, surface treatment needs and annual volume estimate to sales@JK Forge.com. We review the drawing for forgeability, confirm the appropriate material grade and machining operations, and return a detailed quotation within 48\u201372 working hours. For urgent requirements, call +91-9265772827 directly."
+                "answer": "Send your part drawing (PDF or STEP format) with material specification, heat treatment requirement, any spline or keyway dimensions, surface treatment needs and annual volume estimate to sales@JK Forge.com. We review the drawing for forgeability, confirm the appropriate material grade and machining operations, and return a detailed quotation within 48\u201372 working hours. For urgent requirements, call +91 7600066117 directly."
             }
         ]
     },
@@ -34127,7 +34127,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Clutch Pressure Plate Forgings \u2014 Flatness Stability Under Repeated Thermal Cycling",
-        "description2": "JK Forge manufactures forged clutch pressure plate components \u2014 the rotating component clamping the clutch disc against the flywheel via diaphragm spring force \u2014 engineered for flatness stability under the significant friction heat clutch engagement generates and fatigue resistance at the diaphragm spring contact fingers. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged clutch pressure plate components \u2014 the rotating component clamping the clutch disc against the flywheel via diaphragm spring force \u2014 engineered for flatness stability under the significant friction heat clutch engagement generates and fatigue resistance at the diaphragm spring contact fingers. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Heavy Commercial Vehicle Pressure Plate Forgings",
@@ -34251,7 +34251,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Clutch Pressure Plate Forgings \u2014 Flatness Stability Under Repeated Thermal Cycling",
-        "description2": "JK Forge manufactures forged clutch pressure plate components \u2014 the rotating component clamping the clutch disc against the flywheel via diaphragm spring force \u2014 engineered for flatness stability under the significant friction heat clutch engagement generates and fatigue resistance at the diaphragm spring contact fingers. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged clutch pressure plate components \u2014 the rotating component clamping the clutch disc against the flywheel via diaphragm spring force \u2014 engineered for flatness stability under the significant friction heat clutch engagement generates and fatigue resistance at the diaphragm spring contact fingers. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Heavy Commercial Vehicle Pressure Plate Forgings",
@@ -34375,7 +34375,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Pintle Hook Forgings \u2014 Heavy-Duty Jaw & Lunette Ring Towing Hardware for Military & Commercial Trailers",
-        "description2": "JK Forge manufactures forged pintle hook components \u2014 the hinged-jaw towing connector engaging a trailer's lunette ring, built for the multi-axis articulation and shock loading that ball hitches cannot handle, used across military, heavy commercial, and off-road trailer towing applications. Not to be confused with a ship rudder pintle, an unrelated marine hinge component. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged pintle hook components \u2014 the hinged-jaw towing connector engaging a trailer's lunette ring, built for the multi-axis articulation and shock loading that ball hitches cannot handle, used across military, heavy commercial, and off-road trailer towing applications. Not to be confused with a ship rudder pintle, an unrelated marine hinge component. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Lunette Ring and Drawbar Eye Forgings",
@@ -34499,7 +34499,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Pintle Hook Forgings \u2014 Heavy-Duty Jaw & Lunette Ring Towing Hardware for Military & Commercial Trailers",
-        "description2": "JK Forge manufactures forged pintle hook components \u2014 the hinged-jaw towing connector engaging a trailer's lunette ring, built for the multi-axis articulation and shock loading that ball hitches cannot handle, used across military, heavy commercial, and off-road trailer towing applications. Not to be confused with a ship rudder pintle, an unrelated marine hinge component. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged pintle hook components \u2014 the hinged-jaw towing connector engaging a trailer's lunette ring, built for the multi-axis articulation and shock loading that ball hitches cannot handle, used across military, heavy commercial, and off-road trailer towing applications. Not to be confused with a ship rudder pintle, an unrelated marine hinge component. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Lunette Ring and Drawbar Eye Forgings",
@@ -34623,7 +34623,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Flexible Coupling Hub Forgings \u2014 Elastomeric-Element Couplings Absorbing Misalignment and Shock",
-        "description2": "JK Forge manufactures forged flexible coupling hub blanks \u2014 the drive and driven hubs that clamp onto motor and driven-equipment shafts and transmit torque through an intermediate elastomeric or flexible element, absorbing shaft misalignment, installation error, and torsional shock rather than transmitting it rigidly between machines. Alloy and carbon steel forgings machined for precision bore and keyway fit. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged flexible coupling hub blanks \u2014 the drive and driven hubs that clamp onto motor and driven-equipment shafts and transmit torque through an intermediate elastomeric or flexible element, absorbing shaft misalignment, installation error, and torsional shock rather than transmitting it rigidly between machines. Alloy and carbon steel forgings machined for precision bore and keyway fit. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Tire and Sleeve-Type Coupling Hub Forgings",
@@ -34747,7 +34747,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Flexible Coupling Hub Forgings \u2014 Elastomeric-Element Couplings Absorbing Misalignment and Shock",
-        "description2": "JK Forge manufactures forged flexible coupling hub blanks \u2014 the drive and driven hubs that clamp onto motor and driven-equipment shafts and transmit torque through an intermediate elastomeric or flexible element, absorbing shaft misalignment, installation error, and torsional shock rather than transmitting it rigidly between machines. Alloy and carbon steel forgings machined for precision bore and keyway fit. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged flexible coupling hub blanks \u2014 the drive and driven hubs that clamp onto motor and driven-equipment shafts and transmit torque through an intermediate elastomeric or flexible element, absorbing shaft misalignment, installation error, and torsional shock rather than transmitting it rigidly between machines. Alloy and carbon steel forgings machined for precision bore and keyway fit. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Tire and Sleeve-Type Coupling Hub Forgings",
@@ -34871,7 +34871,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Wind Turbine Pitch Bearing Ring Forgings \u2014 The Blade-Root Slewing Ring Adjusting Each Blade's Angle of Attack",
-        "description2": "JK Forge manufactures forged large-diameter ring blanks for wind turbine pitch bearings \u2014 the slewing ring assembly mounted at each individual blade's root, between blade and hub, allowing that blade to rotate about its own long axis to adjust angle of attack for power regulation, load reduction, and emergency feathering. Seamless rolled ring forgings in alloy steel, three per turbine rotor. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged large-diameter ring blanks for wind turbine pitch bearings \u2014 the slewing ring assembly mounted at each individual blade's root, between blade and hub, allowing that blade to rotate about its own long axis to adjust angle of attack for power regulation, load reduction, and emergency feathering. Seamless rolled ring forgings in alloy steel, three per turbine rotor. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Gear-Toothed Pitch Ring Forgings",
@@ -34995,7 +34995,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Wind Turbine Pitch Bearing Ring Forgings \u2014 The Blade-Root Slewing Ring Adjusting Each Blade's Angle of Attack",
-        "description2": "JK Forge manufactures forged large-diameter ring blanks for wind turbine pitch bearings \u2014 the slewing ring assembly mounted at each individual blade's root, between blade and hub, allowing that blade to rotate about its own long axis to adjust angle of attack for power regulation, load reduction, and emergency feathering. Seamless rolled ring forgings in alloy steel, three per turbine rotor. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged large-diameter ring blanks for wind turbine pitch bearings \u2014 the slewing ring assembly mounted at each individual blade's root, between blade and hub, allowing that blade to rotate about its own long axis to adjust angle of attack for power regulation, load reduction, and emergency feathering. Seamless rolled ring forgings in alloy steel, three per turbine rotor. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Gear-Toothed Pitch Ring Forgings",
@@ -35119,7 +35119,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Mooring Bollard Forgings \u2014 Holding Vessel Line-Pull Loads That Peak Hardest During Storm Conditions",
-        "description2": "JK Forge manufactures forged mooring bollard components \u2014 the post-shaped fitting mounted on a dock, quay, or ship deck that mooring lines are secured around \u2014 engineered to reliably carry very high static and dynamic line-pull loads, particularly during storm conditions or large vessel mooring. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged mooring bollard components \u2014 the post-shaped fitting mounted on a dock, quay, or ship deck that mooring lines are secured around \u2014 engineered to reliably carry very high static and dynamic line-pull loads, particularly during storm conditions or large vessel mooring. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Ship Deck Bollard Forgings",
@@ -35243,7 +35243,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Mooring Bollard Forgings \u2014 Holding Vessel Line-Pull Loads That Peak Hardest During Storm Conditions",
-        "description2": "JK Forge manufactures forged mooring bollard components \u2014 the post-shaped fitting mounted on a dock, quay, or ship deck that mooring lines are secured around \u2014 engineered to reliably carry very high static and dynamic line-pull loads, particularly during storm conditions or large vessel mooring. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged mooring bollard components \u2014 the post-shaped fitting mounted on a dock, quay, or ship deck that mooring lines are secured around \u2014 engineered to reliably carry very high static and dynamic line-pull loads, particularly during storm conditions or large vessel mooring. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Ship Deck Bollard Forgings",
@@ -35477,7 +35477,7 @@ window.pageContent['componentsData'] = {
             },
             {
                 "question": "How do I place a king pin forging order?",
-                "answer": "Send your drawing with OD tolerance, case depth, surface HRC, length, grade specification, and quantity to info@JK Forge.com or call +91-9265772827. We respond with tooling cost (if new die required), piece price, and lead time within 48 hours."
+                "answer": "Send your drawing with OD tolerance, case depth, surface HRC, length, grade specification, and quantity to info@JK Forge.com or call +91 7600066117. We respond with tooling cost (if new die required), piece price, and lead time within 48 hours."
             }
         ]
     },
@@ -35613,7 +35613,7 @@ window.pageContent['componentsData'] = {
             },
             {
                 "question": "How do I place a king pin forging order?",
-                "answer": "Send your drawing with OD tolerance, case depth, surface HRC, length, grade specification, and quantity to info@JK Forge.com or call +91-9265772827. We respond with tooling cost (if new die required), piece price, and lead time within 48 hours."
+                "answer": "Send your drawing with OD tolerance, case depth, surface HRC, length, grade specification, and quantity to info@JK Forge.com or call +91 7600066117. We respond with tooling cost (if new die required), piece price, and lead time within 48 hours."
             }
         ]
     },
@@ -35639,7 +35639,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Pipe Support Clamps \u2014 Riser Clamps, U-Bolt Clamp Bodies & Heavy-Duty Piping Support Hardware to MSS SP-58",
-        "description2": "JK Forge manufactures forged pipe support clamp bodies \u2014 riser clamps, split-body pipe clamps, and heavy-duty U-bolt clamp forgings \u2014 for piping system support in power plant, refinery, petrochemical, and industrial piping applications, engineered to MSS SP-58 material and design requirements. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged pipe support clamp bodies \u2014 riser clamps, split-body pipe clamps, and heavy-duty U-bolt clamp forgings \u2014 for piping system support in power plant, refinery, petrochemical, and industrial piping applications, engineered to MSS SP-58 material and design requirements. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Split-Body Pipe Clamp Forgings",
@@ -35759,7 +35759,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Pipe Support Clamps \u2014 Riser Clamps, U-Bolt Clamp Bodies & Heavy-Duty Piping Support Hardware to MSS SP-58",
-        "description2": "JK Forge manufactures forged pipe support clamp bodies \u2014 riser clamps, split-body pipe clamps, and heavy-duty U-bolt clamp forgings \u2014 for piping system support in power plant, refinery, petrochemical, and industrial piping applications, engineered to MSS SP-58 material and design requirements. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged pipe support clamp bodies \u2014 riser clamps, split-body pipe clamps, and heavy-duty U-bolt clamp forgings \u2014 for piping system support in power plant, refinery, petrochemical, and industrial piping applications, engineered to MSS SP-58 material and design requirements. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Split-Body Pipe Clamp Forgings",
@@ -35989,7 +35989,7 @@ window.pageContent['componentsData'] = {
             },
             {
                 "question": "How do I get a rocker arm forging quotation?",
-                "answer": "Send your rocker arm drawing, material and heat treatment specification, engine application and quantity to sales@JK Forge.com or call +91 92657 72827. We respond within 24 hours."
+                "answer": "Send your rocker arm drawing, material and heat treatment specification, engine application and quantity to sales@JK Forge.com or call +91 7600066117. We respond within 24 hours."
             }
         ]
     },
@@ -36125,7 +36125,7 @@ window.pageContent['componentsData'] = {
             },
             {
                 "question": "How do I get a rocker arm forging quotation?",
-                "answer": "Send your rocker arm drawing, material and heat treatment specification, engine application and quantity to sales@JK Forge.com or call +91 92657 72827. We respond within 24 hours."
+                "answer": "Send your rocker arm drawing, material and heat treatment specification, engine application and quantity to sales@JK Forge.com or call +91 7600066117. We respond within 24 hours."
             }
         ]
     },
@@ -36151,7 +36151,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content PTO Output Shaft Forgings \u2014 Standardized-Spline Power Take-Off Shafts for Agricultural & Industrial Equipment",
-        "description2": "JK Forge manufactures forged power take-off (PTO) output shaft blanks \u2014 the standardized-spline rotating shaft transferring engine power from a tractor or industrial prime mover to an implement or driven machine, engineered to survive continuous rotation at rated speed plus the sudden torque spikes an implement jam or stall event can transmit back into the shaft. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged power take-off (PTO) output shaft blanks \u2014 the standardized-spline rotating shaft transferring engine power from a tractor or industrial prime mover to an implement or driven machine, engineered to survive continuous rotation at rated speed plus the sudden torque spikes an implement jam or stall event can transmit back into the shaft. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Implement PTO Input Shaft Forgings",
@@ -36275,7 +36275,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content PTO Output Shaft Forgings \u2014 Standardized-Spline Power Take-Off Shafts for Agricultural & Industrial Equipment",
-        "description2": "JK Forge manufactures forged power take-off (PTO) output shaft blanks \u2014 the standardized-spline rotating shaft transferring engine power from a tractor or industrial prime mover to an implement or driven machine, engineered to survive continuous rotation at rated speed plus the sudden torque spikes an implement jam or stall event can transmit back into the shaft. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged power take-off (PTO) output shaft blanks \u2014 the standardized-spline rotating shaft transferring engine power from a tractor or industrial prime mover to an implement or driven machine, engineered to survive continuous rotation at rated speed plus the sudden torque spikes an implement jam or stall event can transmit back into the shaft. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Implement PTO Input Shaft Forgings",
@@ -36399,7 +36399,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Marine Stern Tube Forgings \u2014 The Fixed Housing Carrying the Propeller Shaft's Bearings Through the Hull, Sealed Against the Sea",
-        "description2": "JK Forge manufactures forged marine stern tube components \u2014 the fixed structural housing through which a ship's propeller shaft passes as it exits the hull, carrying the shaft's aft bearing support and sealing arrangement against sea water ingress. Distinct from the rudder stock and propeller hub components already covered on this site. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged marine stern tube components \u2014 the fixed structural housing through which a ship's propeller shaft passes as it exits the hull, carrying the shaft's aft bearing support and sealing arrangement against sea water ingress. Distinct from the rudder stock and propeller hub components already covered on this site. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Bearing Seat and Bore Forgings",
@@ -36523,7 +36523,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Marine Stern Tube Forgings \u2014 The Fixed Housing Carrying the Propeller Shaft's Bearings Through the Hull, Sealed Against the Sea",
-        "description2": "JK Forge manufactures forged marine stern tube components \u2014 the fixed structural housing through which a ship's propeller shaft passes as it exits the hull, carrying the shaft's aft bearing support and sealing arrangement against sea water ingress. Distinct from the rudder stock and propeller hub components already covered on this site. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged marine stern tube components \u2014 the fixed structural housing through which a ship's propeller shaft passes as it exits the hull, carrying the shaft's aft bearing support and sealing arrangement against sea water ingress. Distinct from the rudder stock and propeller hub components already covered on this site. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Bearing Seat and Bore Forgings",
@@ -36647,7 +36647,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Fairlead Forgings \u2014 Guiding Rope, Cable and Chain While Preventing Chafing Against Structure Edges",
-        "description2": "JK Forge manufactures forged fairlead components \u2014 the roller or fixed-eye guide fitting that a rope, cable, or chain passes through to control its direction and prevent chafing or fouling against a structure's edge \u2014 for marine mooring and anchoring systems and industrial winch and rigging applications. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged fairlead components \u2014 the roller or fixed-eye guide fitting that a rope, cable, or chain passes through to control its direction and prevent chafing or fouling against a structure's edge \u2014 for marine mooring and anchoring systems and industrial winch and rigging applications. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Fixed-Eye Fairlead Forgings",
@@ -36771,7 +36771,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Fairlead Forgings \u2014 Guiding Rope, Cable and Chain While Preventing Chafing Against Structure Edges",
-        "description2": "JK Forge manufactures forged fairlead components \u2014 the roller or fixed-eye guide fitting that a rope, cable, or chain passes through to control its direction and prevent chafing or fouling against a structure's edge \u2014 for marine mooring and anchoring systems and industrial winch and rigging applications. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged fairlead components \u2014 the roller or fixed-eye guide fitting that a rope, cable, or chain passes through to control its direction and prevent chafing or fouling against a structure's edge \u2014 for marine mooring and anchoring systems and industrial winch and rigging applications. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Fixed-Eye Fairlead Forgings",
@@ -36895,7 +36895,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Drag Link Forgings \u2014 Tube End Forgings & Adjusting Sleeves for Steering Linkage Assemblies",
-        "description2": "JK Forge manufactures forged drag link components \u2014 threaded tube end forgings and adjusting sleeve forgings \u2014 connecting the pitman arm to the steering knuckle in solid-axle and commercial vehicle steering systems. Precision thread geometry, EN24 and SAE 4140 grade options. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged drag link components \u2014 threaded tube end forgings and adjusting sleeve forgings \u2014 connecting the pitman arm to the steering knuckle in solid-axle and commercial vehicle steering systems. Precision thread geometry, EN24 and SAE 4140 grade options. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Adjusting Sleeve Forgings",
@@ -37019,7 +37019,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Drag Link Forgings \u2014 Tube End Forgings & Adjusting Sleeves for Steering Linkage Assemblies",
-        "description2": "JK Forge manufactures forged drag link components \u2014 threaded tube end forgings and adjusting sleeve forgings \u2014 connecting the pitman arm to the steering knuckle in solid-axle and commercial vehicle steering systems. Precision thread geometry, EN24 and SAE 4140 grade options. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged drag link components \u2014 threaded tube end forgings and adjusting sleeve forgings \u2014 connecting the pitman arm to the steering knuckle in solid-axle and commercial vehicle steering systems. Precision thread geometry, EN24 and SAE 4140 grade options. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Adjusting Sleeve Forgings",
@@ -37143,7 +37143,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Marine Davit Forgings \u2014 Structural Pivot & Load-Bearing Components for Lifeboat and Rescue Boat Launch Systems",
-        "description2": "JK Forge manufactures forged marine davit components \u2014 pivot pins, trunnion bearings, and structural arm connection forgings for the crane-like devices that launch and recover a ship's lifeboats and rescue boats \u2014 engineered for reliable operation after years of inactivity and for the specific dynamic loading a launch under emergency, list, and adverse sea conditions can generate. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged marine davit components \u2014 pivot pins, trunnion bearings, and structural arm connection forgings for the crane-like devices that launch and recover a ship's lifeboats and rescue boats \u2014 engineered for reliable operation after years of inactivity and for the specific dynamic loading a launch under emergency, list, and adverse sea conditions can generate. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Davit Arm Structural Connection Forgings",
@@ -37267,7 +37267,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Marine Davit Forgings \u2014 Structural Pivot & Load-Bearing Components for Lifeboat and Rescue Boat Launch Systems",
-        "description2": "JK Forge manufactures forged marine davit components \u2014 pivot pins, trunnion bearings, and structural arm connection forgings for the crane-like devices that launch and recover a ship's lifeboats and rescue boats \u2014 engineered for reliable operation after years of inactivity and for the specific dynamic loading a launch under emergency, list, and adverse sea conditions can generate. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged marine davit components \u2014 pivot pins, trunnion bearings, and structural arm connection forgings for the crane-like devices that launch and recover a ship's lifeboats and rescue boats \u2014 engineered for reliable operation after years of inactivity and for the specific dynamic loading a launch under emergency, list, and adverse sea conditions can generate. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Davit Arm Structural Connection Forgings",
@@ -37391,7 +37391,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Concrete Pump Boom Pin Forgings \u2014 Heavy-Duty Articulation Pins for Multi-Section Placing Boom Joints",
-        "description2": "JK Forge manufactures forged articulation pins for concrete pump truck placing booms \u2014 the hardened structural pins connecting each boom section at its pivot joint, carrying the boom's full self-weight, concrete payload, and pumping vibration through repeated raise, extend, and swing cycles on every job site. Alloy steel forgings through-hardened for wear and fatigue resistance. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged articulation pins for concrete pump truck placing booms \u2014 the hardened structural pins connecting each boom section at its pivot joint, carrying the boom's full self-weight, concrete payload, and pumping vibration through repeated raise, extend, and swing cycles on every job site. Alloy steel forgings through-hardened for wear and fatigue resistance. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Boom Cylinder Clevis Pins",
@@ -37515,7 +37515,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Concrete Pump Boom Pin Forgings \u2014 Heavy-Duty Articulation Pins for Multi-Section Placing Boom Joints",
-        "description2": "JK Forge manufactures forged articulation pins for concrete pump truck placing booms \u2014 the hardened structural pins connecting each boom section at its pivot joint, carrying the boom's full self-weight, concrete payload, and pumping vibration through repeated raise, extend, and swing cycles on every job site. Alloy steel forgings through-hardened for wear and fatigue resistance. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged articulation pins for concrete pump truck placing booms \u2014 the hardened structural pins connecting each boom section at its pivot joint, carrying the boom's full self-weight, concrete payload, and pumping vibration through repeated raise, extend, and swing cycles on every job site. Alloy steel forgings through-hardened for wear and fatigue resistance. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Boom Cylinder Clevis Pins",
@@ -37639,7 +37639,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Engine Valve Forgings \u2014 Intake & Exhaust Poppet Valve Blanks for Combustion Engine Applications",
-        "description2": "JK Forge manufactures forged intake and exhaust poppet valve blanks \u2014 the head-to-stem valve body upset-forged from martensitic and austenitic valve steel grades to survive combustion chamber temperature, seat impact fatigue, and continuous high-speed reciprocating motion over an engine's full service life. Distinct from valve spring retainers, this is the valve itself. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged intake and exhaust poppet valve blanks \u2014 the head-to-stem valve body upset-forged from martensitic and austenitic valve steel grades to survive combustion chamber temperature, seat impact fatigue, and continuous high-speed reciprocating motion over an engine's full service life. Distinct from valve spring retainers, this is the valve itself. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Exhaust Valve Blank Forgings",
@@ -37763,7 +37763,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Engine Valve Forgings \u2014 Intake & Exhaust Poppet Valve Blanks for Combustion Engine Applications",
-        "description2": "JK Forge manufactures forged intake and exhaust poppet valve blanks \u2014 the head-to-stem valve body upset-forged from martensitic and austenitic valve steel grades to survive combustion chamber temperature, seat impact fatigue, and continuous high-speed reciprocating motion over an engine's full service life. Distinct from valve spring retainers, this is the valve itself. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged intake and exhaust poppet valve blanks \u2014 the head-to-stem valve body upset-forged from martensitic and austenitic valve steel grades to survive combustion chamber temperature, seat impact fatigue, and continuous high-speed reciprocating motion over an engine's full service life. Distinct from valve spring retainers, this is the valve itself. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Exhaust Valve Blank Forgings",
@@ -37887,7 +37887,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Turbine Blade Forgings \u2014 Blade Root & Dovetail Attachment Forgings for Gas and Steam Turbine Rotating Sections",
-        "description2": "JK Forge manufactures forged turbine blade blanks and blade root/dovetail attachment components \u2014 for gas and steam turbine rotating sections in power generation and industrial turbomachinery \u2014 distinct from the disc the blades mount into. Nickel superalloy and high-strength stainless options addressing the extreme centrifugal, thermal, and vibratory loading a rotating blade experiences. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged turbine blade blanks and blade root/dovetail attachment components \u2014 for gas and steam turbine rotating sections in power generation and industrial turbomachinery \u2014 distinct from the disc the blades mount into. Nickel superalloy and high-strength stainless options addressing the extreme centrifugal, thermal, and vibratory loading a rotating blade experiences. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Hot-Section Nickel Superalloy Blade Forgings",
@@ -38011,7 +38011,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Turbine Blade Forgings \u2014 Blade Root & Dovetail Attachment Forgings for Gas and Steam Turbine Rotating Sections",
-        "description2": "JK Forge manufactures forged turbine blade blanks and blade root/dovetail attachment components \u2014 for gas and steam turbine rotating sections in power generation and industrial turbomachinery \u2014 distinct from the disc the blades mount into. Nickel superalloy and high-strength stainless options addressing the extreme centrifugal, thermal, and vibratory loading a rotating blade experiences. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged turbine blade blanks and blade root/dovetail attachment components \u2014 for gas and steam turbine rotating sections in power generation and industrial turbomachinery \u2014 distinct from the disc the blades mount into. Nickel superalloy and high-strength stainless options addressing the extreme centrifugal, thermal, and vibratory loading a rotating blade experiences. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Hot-Section Nickel Superalloy Blade Forgings",
@@ -38135,7 +38135,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Cultivator Shovel & Sweep Forgings \u2014 Soil-Engaging Points for Row Crop Cultivation & Weed Control",
-        "description2": "JK Forge manufactures forged cultivator shovel and sweep components \u2014 the soil-engaging points mounted on cultivator shanks for row crop cultivation, weed control, and shallow soil working. High-carbon steel construction addressing the abrasive wear this high-usage, relatively shallow-working implement component experiences across extended field operation. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged cultivator shovel and sweep components \u2014 the soil-engaging points mounted on cultivator shanks for row crop cultivation, weed control, and shallow soil working. High-carbon steel construction addressing the abrasive wear this high-usage, relatively shallow-working implement component experiences across extended field operation. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Sweep Blade Forgings",
@@ -38259,7 +38259,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Cultivator Shovel & Sweep Forgings \u2014 Soil-Engaging Points for Row Crop Cultivation & Weed Control",
-        "description2": "JK Forge manufactures forged cultivator shovel and sweep components \u2014 the soil-engaging points mounted on cultivator shanks for row crop cultivation, weed control, and shallow soil working. High-carbon steel construction addressing the abrasive wear this high-usage, relatively shallow-working implement component experiences across extended field operation. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged cultivator shovel and sweep components \u2014 the soil-engaging points mounted on cultivator shanks for row crop cultivation, weed control, and shallow soil working. High-carbon steel construction addressing the abrasive wear this high-usage, relatively shallow-working implement component experiences across extended field operation. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Sweep Blade Forgings",
@@ -38383,7 +38383,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Suspension Strut Tube Forgings \u2014 The Structural Housing Combining Damper, Spring Seat and Steering Knuckle Mount in a Single Load Path",
-        "description2": "JK Forge manufactures forged suspension strut tube and strut housing components for MacPherson strut suspension systems \u2014 the structural tube carrying the damper cartridge while also transmitting road, braking, and steering loads through its spring seat and steering knuckle mounting features. Automotive and light commercial vehicle applications. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged suspension strut tube and strut housing components for MacPherson strut suspension systems \u2014 the structural tube carrying the damper cartridge while also transmitting road, braking, and steering loads through its spring seat and steering knuckle mounting features. Automotive and light commercial vehicle applications. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Spring Seat Forgings",
@@ -38507,7 +38507,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Suspension Strut Tube Forgings \u2014 The Structural Housing Combining Damper, Spring Seat and Steering Knuckle Mount in a Single Load Path",
-        "description2": "JK Forge manufactures forged suspension strut tube and strut housing components for MacPherson strut suspension systems \u2014 the structural tube carrying the damper cartridge while also transmitting road, braking, and steering loads through its spring seat and steering knuckle mounting features. Automotive and light commercial vehicle applications. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged suspension strut tube and strut housing components for MacPherson strut suspension systems \u2014 the structural tube carrying the damper cartridge while also transmitting road, braking, and steering loads through its spring seat and steering knuckle mounting features. Automotive and light commercial vehicle applications. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Spring Seat Forgings",
@@ -38631,7 +38631,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content V-Belt Pulley Forgings \u2014 Multi-Groove Drive Sheaves for Wedge-Action Belt Power Transmission",
-        "description2": "JK Forge manufactures forged V-belt drive pulley blanks \u2014 single and multi-groove sheaves carrying the wedge-action belt contact that transmits motor power to driven equipment through friction grip in an angled groove, distinct from flat pulleys, timing pulleys, or wire-rope sheaves. Alloy and carbon steel forgings machined to precise groove angle and pitch diameter. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged V-belt drive pulley blanks \u2014 single and multi-groove sheaves carrying the wedge-action belt contact that transmits motor power to driven equipment through friction grip in an angled groove, distinct from flat pulleys, timing pulleys, or wire-rope sheaves. Alloy and carbon steel forgings machined to precise groove angle and pitch diameter. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Multi-Groove V-Belt Pulley Forgings",
@@ -38755,7 +38755,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content V-Belt Pulley Forgings \u2014 Multi-Groove Drive Sheaves for Wedge-Action Belt Power Transmission",
-        "description2": "JK Forge manufactures forged V-belt drive pulley blanks \u2014 single and multi-groove sheaves carrying the wedge-action belt contact that transmits motor power to driven equipment through friction grip in an angled groove, distinct from flat pulleys, timing pulleys, or wire-rope sheaves. Alloy and carbon steel forgings machined to precise groove angle and pitch diameter. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged V-belt drive pulley blanks \u2014 single and multi-groove sheaves carrying the wedge-action belt contact that transmits motor power to driven equipment through friction grip in an angled groove, distinct from flat pulleys, timing pulleys, or wire-rope sheaves. Alloy and carbon steel forgings machined to precise groove angle and pitch diameter. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Multi-Groove V-Belt Pulley Forgings",
@@ -38879,7 +38879,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Shock Absorber Piston Rod Forgings \u2014 Precision-Ground Damper Rods for High-Cycle Suspension Fatigue Duty",
-        "description2": "JK Forge manufactures forged shock absorber piston rod blanks \u2014 the precision-ground rod running through a damper's rod seal that transmits suspension motion down to the piston and valving inside the damper tube \u2014 engineered around fatigue life under continuous, high-frequency reversing load rather than any single peak stress. Clean forged blanks free of internal defects that would undermine subsequent hard chrome plating and grinding. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged shock absorber piston rod blanks \u2014 the precision-ground rod running through a damper's rod seal that transmits suspension motion down to the piston and valving inside the damper tube \u2014 engineered around fatigue life under continuous, high-frequency reversing load rather than any single peak stress. Clean forged blanks free of internal defects that would undermine subsequent hard chrome plating and grinding. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Monotube / Gas-Charged Damper Rod Blanks",
@@ -39003,7 +39003,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Shock Absorber Piston Rod Forgings \u2014 Precision-Ground Damper Rods for High-Cycle Suspension Fatigue Duty",
-        "description2": "JK Forge manufactures forged shock absorber piston rod blanks \u2014 the precision-ground rod running through a damper's rod seal that transmits suspension motion down to the piston and valving inside the damper tube \u2014 engineered around fatigue life under continuous, high-frequency reversing load rather than any single peak stress. Clean forged blanks free of internal defects that would undermine subsequent hard chrome plating and grinding. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged shock absorber piston rod blanks \u2014 the precision-ground rod running through a damper's rod seal that transmits suspension motion down to the piston and valving inside the damper tube \u2014 engineered around fatigue life under continuous, high-frequency reversing load rather than any single peak stress. Clean forged blanks free of internal defects that would undermine subsequent hard chrome plating and grinding. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Monotube / Gas-Charged Damper Rod Blanks",
@@ -39127,7 +39127,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Brake Shoe Anchor Pin Forgings \u2014 The Fixed Pivot Point Drum Brake Shoes React Full Braking Torque Against",
-        "description2": "JK Forge manufactures forged brake shoe anchor pins \u2014 the fixed pin mounted to a drum brake's backing plate that the brake shoe bears against and pivots on when actuated, reacting the full braking torque the shoe generates against the drum. Wear-resistant forged construction maintains precise anchor position over the brake's service life, which self-adjusting duo-servo mechanisms depend on. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged brake shoe anchor pins \u2014 the fixed pin mounted to a drum brake's backing plate that the brake shoe bears against and pivots on when actuated, reacting the full braking torque the shoe generates against the drum. Wear-resistant forged construction maintains precise anchor position over the brake's service life, which self-adjusting duo-servo mechanisms depend on. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Leading-Trailing Shoe Anchor Pin Forgings",
@@ -39251,7 +39251,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Brake Shoe Anchor Pin Forgings \u2014 The Fixed Pivot Point Drum Brake Shoes React Full Braking Torque Against",
-        "description2": "JK Forge manufactures forged brake shoe anchor pins \u2014 the fixed pin mounted to a drum brake's backing plate that the brake shoe bears against and pivots on when actuated, reacting the full braking torque the shoe generates against the drum. Wear-resistant forged construction maintains precise anchor position over the brake's service life, which self-adjusting duo-servo mechanisms depend on. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged brake shoe anchor pins \u2014 the fixed pin mounted to a drum brake's backing plate that the brake shoe bears against and pivots on when actuated, reacting the full braking torque the shoe generates against the drum. Wear-resistant forged construction maintains precise anchor position over the brake's service life, which self-adjusting duo-servo mechanisms depend on. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Leading-Trailing Shoe Anchor Pin Forgings",
@@ -39375,7 +39375,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Helicopter Main Rotor Mast Forgings \u2014 The Structural Shaft Between Transmission and Hub, Distinct From the Hub Itself",
-        "description2": "JK Forge manufactures forged helicopter main rotor mast components \u2014 the structural shaft connecting the main transmission to the rotor hub, transmitting engine torque upward for lift generation while simultaneously reacting the mast bending moment that rotor disc tilting relative to the fuselage creates during every maneuver. High-strength steel forgings with manufacturing process control aligned to AS9100 quality management principles. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged helicopter main rotor mast components \u2014 the structural shaft connecting the main transmission to the rotor hub, transmitting engine torque upward for lift generation while simultaneously reacting the mast bending moment that rotor disc tilting relative to the fuselage creates during every maneuver. High-strength steel forgings with manufacturing process control aligned to AS9100 quality management principles. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Mast-to-Transmission Flange Forgings",
@@ -39499,7 +39499,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Helicopter Main Rotor Mast Forgings \u2014 The Structural Shaft Between Transmission and Hub, Distinct From the Hub Itself",
-        "description2": "JK Forge manufactures forged helicopter main rotor mast components \u2014 the structural shaft connecting the main transmission to the rotor hub, transmitting engine torque upward for lift generation while simultaneously reacting the mast bending moment that rotor disc tilting relative to the fuselage creates during every maneuver. High-strength steel forgings with manufacturing process control aligned to AS9100 quality management principles. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged helicopter main rotor mast components \u2014 the structural shaft connecting the main transmission to the rotor hub, transmitting engine torque upward for lift generation while simultaneously reacting the mast bending moment that rotor disc tilting relative to the fuselage creates during every maneuver. High-strength steel forgings with manufacturing process control aligned to AS9100 quality management principles. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Mast-to-Transmission Flange Forgings",
@@ -39623,7 +39623,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Transformer Bushing Flanges \u2014 Oil-Tight Mounting Flanges for HV Bushings on Power & Distribution Transformers",
-        "description2": "JK Forge manufactures forged transformer bushing flanges \u2014 the machined mounting rings that seal high-voltage bushings to a transformer's tank wall, cover, or turret against internal insulating oil \u2014 in carbon steel and non-magnetic stainless/high-manganese grades for power, distribution, generator step-up, and furnace transformer manufacturers. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged transformer bushing flanges \u2014 the machined mounting rings that seal high-voltage bushings to a transformer's tank wall, cover, or turret against internal insulating oil \u2014 in carbon steel and non-magnetic stainless/high-manganese grades for power, distribution, generator step-up, and furnace transformer manufacturers. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Non-Magnetic Stainless and High-Manganese Flanges",
@@ -39747,7 +39747,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Transformer Bushing Flanges \u2014 Oil-Tight Mounting Flanges for HV Bushings on Power & Distribution Transformers",
-        "description2": "JK Forge manufactures forged transformer bushing flanges \u2014 the machined mounting rings that seal high-voltage bushings to a transformer's tank wall, cover, or turret against internal insulating oil \u2014 in carbon steel and non-magnetic stainless/high-manganese grades for power, distribution, generator step-up, and furnace transformer manufacturers. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged transformer bushing flanges \u2014 the machined mounting rings that seal high-voltage bushings to a transformer's tank wall, cover, or turret against internal insulating oil \u2014 in carbon steel and non-magnetic stainless/high-manganese grades for power, distribution, generator step-up, and furnace transformer manufacturers. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Non-Magnetic Stainless and High-Manganese Flanges",
@@ -39871,7 +39871,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Sprockets \u2014 Chain Drive, Conveyor, Industrial & Automotive Timing Sprocket Blanks",
-        "description2": "JK Forge manufactures forged sprocket blanks for roller chain drive systems, conveyor and material handling equipment, agricultural machinery, and automotive timing applications \u2014 in EN8, EN24, and 20MnCr5 (case-hardened), engineered for the combined tooth-wear resistance and hub fatigue strength sprockets require under continuous chain-drive loading. ISO 9001:2015 certified, EN 10204 3.1 documentation. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged sprocket blanks for roller chain drive systems, conveyor and material handling equipment, agricultural machinery, and automotive timing applications \u2014 in EN8, EN24, and 20MnCr5 (case-hardened), engineered for the combined tooth-wear resistance and hub fatigue strength sprockets require under continuous chain-drive loading. ISO 9001:2015 certified, EN 10204 3.1 documentation. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Agricultural Machinery Sprocket Forgings",
@@ -39995,7 +39995,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Sprockets \u2014 Chain Drive, Conveyor, Industrial & Automotive Timing Sprocket Blanks",
-        "description2": "JK Forge manufactures forged sprocket blanks for roller chain drive systems, conveyor and material handling equipment, agricultural machinery, and automotive timing applications \u2014 in EN8, EN24, and 20MnCr5 (case-hardened), engineered for the combined tooth-wear resistance and hub fatigue strength sprockets require under continuous chain-drive loading. ISO 9001:2015 certified, EN 10204 3.1 documentation. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged sprocket blanks for roller chain drive systems, conveyor and material handling equipment, agricultural machinery, and automotive timing applications \u2014 in EN8, EN24, and 20MnCr5 (case-hardened), engineered for the combined tooth-wear resistance and hub fatigue strength sprockets require under continuous chain-drive loading. ISO 9001:2015 certified, EN 10204 3.1 documentation. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Agricultural Machinery Sprocket Forgings",
@@ -40119,7 +40119,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Flywheel Forgings \u2014 Rotating Inertial Mass and Ring-Gear-Mount Component at the Crankshaft Flange",
-        "description2": "JK Forge manufactures forged engine flywheel components \u2014 the rotating mass mounted directly to the crankshaft flange that stores rotational energy to smooth power delivery between combustion strokes and provides the ring-gear-mounting surface for starter engagement. Forged for the combined torsional and clamping-bolt-load duty cycle at the crankshaft interface. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged engine flywheel components \u2014 the rotating mass mounted directly to the crankshaft flange that stores rotational energy to smooth power delivery between combustion strokes and provides the ring-gear-mounting surface for starter engagement. Forged for the combined torsional and clamping-bolt-load duty cycle at the crankshaft interface. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Dual-Mass Flywheel Primary Disc Forgings",
@@ -40243,7 +40243,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Flywheel Forgings \u2014 Rotating Inertial Mass and Ring-Gear-Mount Component at the Crankshaft Flange",
-        "description2": "JK Forge manufactures forged engine flywheel components \u2014 the rotating mass mounted directly to the crankshaft flange that stores rotational energy to smooth power delivery between combustion strokes and provides the ring-gear-mounting surface for starter engagement. Forged for the combined torsional and clamping-bolt-load duty cycle at the crankshaft interface. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged engine flywheel components \u2014 the rotating mass mounted directly to the crankshaft flange that stores rotational energy to smooth power delivery between combustion strokes and provides the ring-gear-mounting surface for starter engagement. Forged for the combined torsional and clamping-bolt-load duty cycle at the crankshaft interface. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Dual-Mass Flywheel Primary Disc Forgings",
@@ -40366,7 +40366,7 @@ window.pageContent['componentsData'] = {
                 "sub": "Fast Quote Response"
             }
         ],
-        "description1": "Wheel spindles \u2014 the stub shaft that carries the hub, bearings, and brake drum on a non-driven axle \u2014 are precision-critical components where forging quality and machining accuracy determine bearing life. JK Forge produces hot-forged wheel spindles in EN19T, EN24T, and C45, CNC-machined to h6 bearing seat tolerance, from prototype to production. Call +91-9265772827 to discuss your requirement.",
+        "description1": "Wheel spindles \u2014 the stub shaft that carries the hub, bearings, and brake drum on a non-driven axle \u2014 are precision-critical components where forging quality and machining accuracy determine bearing life. JK Forge produces hot-forged wheel spindles in EN19T, EN24T, and C45, CNC-machined to h6 bearing seat tolerance, from prototype to production. Call +91 7600066117 to discuss your requirement.",
         "description2": "A wheel spindle does one job: give the hub and bearing assembly a precise, dimensionally stable mounting surface that stays round and true under bending loads for the life of the vehicle. It sounds simple. In practice it requires a forging grade with adequate tensile and fatigue strength for the applied axle load, a heat treatment that achieves uniform hardness through the shaft cross-section, and a machined bearing seat held to h6 tolerance \u2014 tight enough that the inner race press-fits correctly and does not creep under load. Our Shapar plant handles all three: closed-die hot forging, normalise and temper heat treatment, and CNC turning of bearing seats, thread ends, and ABS sensor ring recesses to drawing tolerance.",
         "components": [
             {
@@ -40449,7 +40449,7 @@ window.pageContent['componentsData'] = {
         "faqs": [
             {
                 "question": "Are you a wheel spindle forging manufacturer in India?",
-                "answer": "Yes. JK Forge in Shapar, Rajkot is a direct manufacturer of forged wheel spindles. We hot forge, heat treat, CNC machine to h6 bearing seat tolerance, and supply with full material and inspection certificates. Call +91-9265772827."
+                "answer": "Yes. JK Forge in Shapar, Rajkot is a direct manufacturer of forged wheel spindles. We hot forge, heat treat, CNC machine to h6 bearing seat tolerance, and supply with full material and inspection certificates. Call +91 7600066117."
             },
             {
                 "question": "What is the difference between a stub axle and a wheel spindle?",
@@ -40502,7 +40502,7 @@ window.pageContent['componentsData'] = {
                 "sub": "Fast Quote Response"
             }
         ],
-        "description1": "Wheel spindles \u2014 the stub shaft that carries the hub, bearings, and brake drum on a non-driven axle \u2014 are precision-critical components where forging quality and machining accuracy determine bearing life. JK Forge produces hot-forged wheel spindles in EN19T, EN24T, and C45, CNC-machined to h6 bearing seat tolerance, from prototype to production. Call +91-9265772827 to discuss your requirement.",
+        "description1": "Wheel spindles \u2014 the stub shaft that carries the hub, bearings, and brake drum on a non-driven axle \u2014 are precision-critical components where forging quality and machining accuracy determine bearing life. JK Forge produces hot-forged wheel spindles in EN19T, EN24T, and C45, CNC-machined to h6 bearing seat tolerance, from prototype to production. Call +91 7600066117 to discuss your requirement.",
         "description2": "A wheel spindle does one job: give the hub and bearing assembly a precise, dimensionally stable mounting surface that stays round and true under bending loads for the life of the vehicle. It sounds simple. In practice it requires a forging grade with adequate tensile and fatigue strength for the applied axle load, a heat treatment that achieves uniform hardness through the shaft cross-section, and a machined bearing seat held to h6 tolerance \u2014 tight enough that the inner race press-fits correctly and does not creep under load. Our Shapar plant handles all three: closed-die hot forging, normalise and temper heat treatment, and CNC turning of bearing seats, thread ends, and ABS sensor ring recesses to drawing tolerance.",
         "components": [
             {
@@ -40585,7 +40585,7 @@ window.pageContent['componentsData'] = {
         "faqs": [
             {
                 "question": "Are you a wheel spindle forging manufacturer in India?",
-                "answer": "Yes. JK Forge in Shapar, Rajkot is a direct manufacturer of forged wheel spindles. We hot forge, heat treat, CNC machine to h6 bearing seat tolerance, and supply with full material and inspection certificates. Call +91-9265772827."
+                "answer": "Yes. JK Forge in Shapar, Rajkot is a direct manufacturer of forged wheel spindles. We hot forge, heat treat, CNC machine to h6 bearing seat tolerance, and supply with full material and inspection certificates. Call +91 7600066117."
             },
             {
                 "question": "What is the difference between a stub axle and a wheel spindle?",
@@ -40639,7 +40639,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Pulleys & Sheaves \u2014 Crane Wire Rope Sheaves, Belt Pulleys, Elevator Sheave Forgings",
-        "description2": "JK Forge manufactures forged pulley and sheave blanks for crane wire rope systems, elevator installations, and industrial belt drive applications \u2014 grooved sheave forgings engineered for reliable wire rope or belt contact and the structural load-bearing function these components provide within their mechanical system. EN24 and 42CrMo4 alloy steel, EN 10204 3.1 certification. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged pulley and sheave blanks for crane wire rope systems, elevator installations, and industrial belt drive applications \u2014 grooved sheave forgings engineered for reliable wire rope or belt contact and the structural load-bearing function these components provide within their mechanical system. EN24 and 42CrMo4 alloy steel, EN 10204 3.1 certification. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Elevator Sheave Forgings",
@@ -40763,7 +40763,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Pulleys & Sheaves \u2014 Crane Wire Rope Sheaves, Belt Pulleys, Elevator Sheave Forgings",
-        "description2": "JK Forge manufactures forged pulley and sheave blanks for crane wire rope systems, elevator installations, and industrial belt drive applications \u2014 grooved sheave forgings engineered for reliable wire rope or belt contact and the structural load-bearing function these components provide within their mechanical system. EN24 and 42CrMo4 alloy steel, EN 10204 3.1 certification. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged pulley and sheave blanks for crane wire rope systems, elevator installations, and industrial belt drive applications \u2014 grooved sheave forgings engineered for reliable wire rope or belt contact and the structural load-bearing function these components provide within their mechanical system. EN24 and 42CrMo4 alloy steel, EN 10204 3.1 certification. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Elevator Sheave Forgings",
@@ -40887,7 +40887,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Engine Balance Shaft Forgings \u2014 Counter-Rotating Eccentric Shafts Cancelling Secondary Vibration Forces",
-        "description2": "JK Forge manufactures forged engine balance shaft components \u2014 the counter-rotating eccentric shafts used in inline-4 and other engine architectures to cancel inherent secondary vibration forces \u2014 machined with precise eccentric counterweight geometry and manufactured for the high-speed rotational fatigue resistance these shafts require, since many balance shaft designs run at twice crankshaft speed. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged engine balance shaft components \u2014 the counter-rotating eccentric shafts used in inline-4 and other engine architectures to cancel inherent secondary vibration forces \u2014 machined with precise eccentric counterweight geometry and manufactured for the high-speed rotational fatigue resistance these shafts require, since many balance shaft designs run at twice crankshaft speed. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Dual Counter-Rotating Balance Shaft Sets",
@@ -41011,7 +41011,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Engine Balance Shaft Forgings \u2014 Counter-Rotating Eccentric Shafts Cancelling Secondary Vibration Forces",
-        "description2": "JK Forge manufactures forged engine balance shaft components \u2014 the counter-rotating eccentric shafts used in inline-4 and other engine architectures to cancel inherent secondary vibration forces \u2014 machined with precise eccentric counterweight geometry and manufactured for the high-speed rotational fatigue resistance these shafts require, since many balance shaft designs run at twice crankshaft speed. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged engine balance shaft components \u2014 the counter-rotating eccentric shafts used in inline-4 and other engine architectures to cancel inherent secondary vibration forces \u2014 machined with precise eccentric counterweight geometry and manufactured for the high-speed rotational fatigue resistance these shafts require, since many balance shaft designs run at twice crankshaft speed. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Dual Counter-Rotating Balance Shaft Sets",
@@ -41135,7 +41135,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Leaf Spring Eye Forgings \u2014 Bushing Sleeves and Fixed-End Pins for the Rolled Loop Where Spring Bending Stress Peaks",
-        "description2": "JK Forge manufactures forged leaf spring eye hardware \u2014 bushing sleeves and fixed-end eye pins \u2014 for the rolled loop formed at a leaf spring's end that accepts either a shackle pin (articulating end) or a fixed bracket bolt (rigid end). Distinct from the leaf spring shackle plates and pins already covered on this site, which are the pivoting link, not the eye itself. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged leaf spring eye hardware \u2014 bushing sleeves and fixed-end eye pins \u2014 for the rolled loop formed at a leaf spring's end that accepts either a shackle pin (articulating end) or a fixed bracket bolt (rigid end). Distinct from the leaf spring shackle plates and pins already covered on this site, which are the pivoting link, not the eye itself. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Fixed-End Eye Pin and Bolt Forgings",
@@ -41259,7 +41259,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Leaf Spring Eye Forgings \u2014 Bushing Sleeves and Fixed-End Pins for the Rolled Loop Where Spring Bending Stress Peaks",
-        "description2": "JK Forge manufactures forged leaf spring eye hardware \u2014 bushing sleeves and fixed-end eye pins \u2014 for the rolled loop formed at a leaf spring's end that accepts either a shackle pin (articulating end) or a fixed bracket bolt (rigid end). Distinct from the leaf spring shackle plates and pins already covered on this site, which are the pivoting link, not the eye itself. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged leaf spring eye hardware \u2014 bushing sleeves and fixed-end eye pins \u2014 for the rolled loop formed at a leaf spring's end that accepts either a shackle pin (articulating end) or a fixed bracket bolt (rigid end). Distinct from the leaf spring shackle plates and pins already covered on this site, which are the pivoting link, not the eye itself. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Fixed-End Eye Pin and Bolt Forgings",
@@ -41383,7 +41383,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content CV Joint Forgings \u2014 Inner Tripod & Outer Rzeppa Housings for Constant Velocity Driveline Joints",
-        "description2": "JK Forge manufactures forged CV joint components \u2014 inner tripod joint housings and outer Rzeppa ball-type joint housings \u2014 for front-wheel-drive and independent-suspension halfshaft assemblies, engineered to accommodate simultaneous angular articulation and axial plunge through the full range of suspension and steering motion. Case-hardening grade steel forgings deliver fatigue-resistant ball-groove and tripod-track contact surfaces. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged CV joint components \u2014 inner tripod joint housings and outer Rzeppa ball-type joint housings \u2014 for front-wheel-drive and independent-suspension halfshaft assemblies, engineered to accommodate simultaneous angular articulation and axial plunge through the full range of suspension and steering motion. Case-hardening grade steel forgings deliver fatigue-resistant ball-groove and tripod-track contact surfaces. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Inner Tripod Joint Housing Forgings",
@@ -41507,7 +41507,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content CV Joint Forgings \u2014 Inner Tripod & Outer Rzeppa Housings for Constant Velocity Driveline Joints",
-        "description2": "JK Forge manufactures forged CV joint components \u2014 inner tripod joint housings and outer Rzeppa ball-type joint housings \u2014 for front-wheel-drive and independent-suspension halfshaft assemblies, engineered to accommodate simultaneous angular articulation and axial plunge through the full range of suspension and steering motion. Case-hardening grade steel forgings deliver fatigue-resistant ball-groove and tripod-track contact surfaces. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged CV joint components \u2014 inner tripod joint housings and outer Rzeppa ball-type joint housings \u2014 for front-wheel-drive and independent-suspension halfshaft assemblies, engineered to accommodate simultaneous angular articulation and axial plunge through the full range of suspension and steering motion. Case-hardening grade steel forgings deliver fatigue-resistant ball-groove and tripod-track contact surfaces. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Inner Tripod Joint Housing Forgings",
@@ -41631,7 +41631,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Near-Net-Shape Forged Gear Blanks \u2014 OD 50\u20131200 mm, All Gear Types",
-        "description2": "JK Forge manufactures closed-die forged gear blanks \u2014 spur, helical, bevel, ring, planetary and sun gears \u2014 in EN36, SAE 8620, EN19 (42CrMo4) and EN24 (4340) at Shapar GIDC, Rajkot. OD range 50\u20131200 mm. Grain flow aligned to tooth root for maximum bending fatigue life. Hobbing allowance 3\u20135 mm per side. Call +91 92657 72827.",
+        "description2": "JK Forge manufactures closed-die forged gear blanks \u2014 spur, helical, bevel, ring, planetary and sun gears \u2014 in EN36, SAE 8620, EN19 (42CrMo4) and EN24 (4340) at Shapar GIDC, Rajkot. OD range 50\u20131200 mm. Grain flow aligned to tooth root for maximum bending fatigue life. Hobbing allowance 3\u20135 mm per side. Call +91 7600066117.",
         "components": [
             {
                 "title": "Helical Gear Blanks",
@@ -41741,7 +41741,7 @@ window.pageContent['componentsData'] = {
             },
             {
                 "question": "How do I enquire about forged gear blanks from JK Forge?",
-                "answer": "Send your gear blank drawing or sketch, grade specification, OD/bore/face width, quantity and required condition to sales@JK Forge.com or call +91 92657 72827. We will review your drawings, confirm forging capability and provide a quotation with lead time within 48 hours."
+                "answer": "Send your gear blank drawing or sketch, grade specification, OD/bore/face width, quantity and required condition to sales@JK Forge.com or call +91 7600066117. We will review your drawings, confirm forging capability and provide a quotation with lead time within 48 hours."
             }
         ]
     },
@@ -41767,7 +41767,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Near-Net-Shape Forged Gear Blanks \u2014 OD 50\u20131200 mm, All Gear Types",
-        "description2": "JK Forge manufactures closed-die forged gear blanks \u2014 spur, helical, bevel, ring, planetary and sun gears \u2014 in EN36, SAE 8620, EN19 (42CrMo4) and EN24 (4340) at Shapar GIDC, Rajkot. OD range 50\u20131200 mm. Grain flow aligned to tooth root for maximum bending fatigue life. Hobbing allowance 3\u20135 mm per side. Call +91 92657 72827.",
+        "description2": "JK Forge manufactures closed-die forged gear blanks \u2014 spur, helical, bevel, ring, planetary and sun gears \u2014 in EN36, SAE 8620, EN19 (42CrMo4) and EN24 (4340) at Shapar GIDC, Rajkot. OD range 50\u20131200 mm. Grain flow aligned to tooth root for maximum bending fatigue life. Hobbing allowance 3\u20135 mm per side. Call +91 7600066117.",
         "components": [
             {
                 "title": "Helical Gear Blanks",
@@ -41877,7 +41877,7 @@ window.pageContent['componentsData'] = {
             },
             {
                 "question": "How do I enquire about forged gear blanks from JK Forge?",
-                "answer": "Send your gear blank drawing or sketch, grade specification, OD/bore/face width, quantity and required condition to sales@JK Forge.com or call +91 92657 72827. We will review your drawings, confirm forging capability and provide a quotation with lead time within 48 hours."
+                "answer": "Send your gear blank drawing or sketch, grade specification, OD/bore/face width, quantity and required condition to sales@JK Forge.com or call +91 7600066117. We will review your drawings, confirm forging capability and provide a quotation with lead time within 48 hours."
             }
         ]
     },
@@ -41903,7 +41903,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Frac Pump Fluid End Forgings \u2014 Where Pulsating High-Pressure Fatigue Meets Proppant-Laden Abrasive Erosion",
-        "description2": "JK Forge manufactures forged fluid end block blanks for hydraulic fracturing pumps \u2014 the high-pressure pumping component housing the suction valve, discharge valve, and plunger bores of a triplex or quintuplex frac pump, engineered around the combined pressure-cycling fatigue and proppant-laden abrasive erosion that makes the fluid end one of the highest-wear, most frequently replaced components on a frac fleet. Clean forged blanks addressing the inherent stress concentration where intersecting bores meet inside the block. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged fluid end block blanks for hydraulic fracturing pumps \u2014 the high-pressure pumping component housing the suction valve, discharge valve, and plunger bores of a triplex or quintuplex frac pump, engineered around the combined pressure-cycling fatigue and proppant-laden abrasive erosion that makes the fluid end one of the highest-wear, most frequently replaced components on a frac fleet. Clean forged blanks addressing the inherent stress concentration where intersecting bores meet inside the block. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Quintuplex Pump Fluid End Block Forgings",
@@ -42027,7 +42027,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Frac Pump Fluid End Forgings \u2014 Where Pulsating High-Pressure Fatigue Meets Proppant-Laden Abrasive Erosion",
-        "description2": "JK Forge manufactures forged fluid end block blanks for hydraulic fracturing pumps \u2014 the high-pressure pumping component housing the suction valve, discharge valve, and plunger bores of a triplex or quintuplex frac pump, engineered around the combined pressure-cycling fatigue and proppant-laden abrasive erosion that makes the fluid end one of the highest-wear, most frequently replaced components on a frac fleet. Clean forged blanks addressing the inherent stress concentration where intersecting bores meet inside the block. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged fluid end block blanks for hydraulic fracturing pumps \u2014 the high-pressure pumping component housing the suction valve, discharge valve, and plunger bores of a triplex or quintuplex frac pump, engineered around the combined pressure-cycling fatigue and proppant-laden abrasive erosion that makes the fluid end one of the highest-wear, most frequently replaced components on a frac fleet. Clean forged blanks addressing the inherent stress concentration where intersecting bores meet inside the block. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Quintuplex Pump Fluid End Block Forgings",
@@ -42151,7 +42151,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Planetary Gear Carrier Forgings \u2014 The Structural Cage Holding Planet Pinions in an Automatic Transmission or Differential Planetary Gearset",
-        "description2": "JK Forge manufactures forged planetary gear carrier components \u2014 the structural cage that holds the planet pinion gears in position, on their pins, orbiting around the sun gear inside a ring gear \u2014 for automatic transmission and axle planetary gearsets. Distinct from the differential side gear, ring gear, and sun gear components already covered on this site. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged planetary gear carrier components \u2014 the structural cage that holds the planet pinion gears in position, on their pins, orbiting around the sun gear inside a ring gear \u2014 for automatic transmission and axle planetary gearsets. Distinct from the differential side gear, ring gear, and sun gear components already covered on this site. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Axle and Differential Planetary Carrier Forgings",
@@ -42275,7 +42275,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Planetary Gear Carrier Forgings \u2014 The Structural Cage Holding Planet Pinions in an Automatic Transmission or Differential Planetary Gearset",
-        "description2": "JK Forge manufactures forged planetary gear carrier components \u2014 the structural cage that holds the planet pinion gears in position, on their pins, orbiting around the sun gear inside a ring gear \u2014 for automatic transmission and axle planetary gearsets. Distinct from the differential side gear, ring gear, and sun gear components already covered on this site. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged planetary gear carrier components \u2014 the structural cage that holds the planet pinion gears in position, on their pins, orbiting around the sun gear inside a ring gear \u2014 for automatic transmission and axle planetary gearsets. Distinct from the differential side gear, ring gear, and sun gear components already covered on this site. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Axle and Differential Planetary Carrier Forgings",
@@ -42671,7 +42671,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content IS 3815 / DIN 15401 Forged Crane & Lifting Hooks \u2014 0.5T to 50T WLL",
-        "description2": "JK Forge manufactures forged crane hooks, grab hooks, clevis hooks, swivel hooks and safety latch hooks at Shapar GIDC, Rajkot. Capacity 0.5T to 50T WLL. IS 3815 / DIN 15401 / BS EN 1677 compliance. 100% MPT inspection, proof load test at 2\u00d7 WLL. Material: C-Mn steel IS 2004, EN14 quenched. ISO 9001:2015. Call +91 92657 72827.",
+        "description2": "JK Forge manufactures forged crane hooks, grab hooks, clevis hooks, swivel hooks and safety latch hooks at Shapar GIDC, Rajkot. Capacity 0.5T to 50T WLL. IS 3815 / DIN 15401 / BS EN 1677 compliance. 100% MPT inspection, proof load test at 2\u00d7 WLL. Material: C-Mn steel IS 2004, EN14 quenched. ISO 9001:2015. Call +91 7600066117.",
         "components": [
             {
                 "title": "Ramshorn (Double) Hooks for Ladle Cranes",
@@ -42781,7 +42781,7 @@ window.pageContent['componentsData'] = {
             },
             {
                 "question": "How do I enquire about forged hooks from JK Forge?",
-                "answer": "Contact us at +91 92657 72827 or sales@JK Forge.com with your hook type, WLL or size designation, applicable standard (IS 3815, DIN 15401, EN 1677), required quantity and any special testing requirements. We will confirm our manufacturing capability and provide a quotation within 24\u201348 hours."
+                "answer": "Contact us at +91 7600066117 or sales@JK Forge.com with your hook type, WLL or size designation, applicable standard (IS 3815, DIN 15401, EN 1677), required quantity and any special testing requirements. We will confirm our manufacturing capability and provide a quotation within 24\u201348 hours."
             }
         ]
     },
@@ -42807,7 +42807,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content IS 3815 / DIN 15401 Forged Crane & Lifting Hooks \u2014 0.5T to 50T WLL",
-        "description2": "JK Forge manufactures forged crane hooks, grab hooks, clevis hooks, swivel hooks and safety latch hooks at Shapar GIDC, Rajkot. Capacity 0.5T to 50T WLL. IS 3815 / DIN 15401 / BS EN 1677 compliance. 100% MPT inspection, proof load test at 2\u00d7 WLL. Material: C-Mn steel IS 2004, EN14 quenched. ISO 9001:2015. Call +91 92657 72827.",
+        "description2": "JK Forge manufactures forged crane hooks, grab hooks, clevis hooks, swivel hooks and safety latch hooks at Shapar GIDC, Rajkot. Capacity 0.5T to 50T WLL. IS 3815 / DIN 15401 / BS EN 1677 compliance. 100% MPT inspection, proof load test at 2\u00d7 WLL. Material: C-Mn steel IS 2004, EN14 quenched. ISO 9001:2015. Call +91 7600066117.",
         "components": [
             {
                 "title": "Ramshorn (Double) Hooks for Ladle Cranes",
@@ -42917,7 +42917,7 @@ window.pageContent['componentsData'] = {
             },
             {
                 "question": "How do I enquire about forged hooks from JK Forge?",
-                "answer": "Contact us at +91 92657 72827 or sales@JK Forge.com with your hook type, WLL or size designation, applicable standard (IS 3815, DIN 15401, EN 1677), required quantity and any special testing requirements. We will confirm our manufacturing capability and provide a quotation within 24\u201348 hours."
+                "answer": "Contact us at +91 7600066117 or sales@JK Forge.com with your hook type, WLL or size designation, applicable standard (IS 3815, DIN 15401, EN 1677), required quantity and any special testing requirements. We will confirm our manufacturing capability and provide a quotation within 24\u201348 hours."
             }
         ]
     },
@@ -42943,7 +42943,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Axle Spindle Nut Forgings \u2014 Wheel Bearing Preload Retention, Distinct From Wheel-to-Hub Attachment Hardware",
-        "description2": "JK Forge manufactures forged axle spindle nuts \u2014 the threaded nut that seats on the spindle end and sets wheel bearing preload, a distinct function from the wheel nuts and wheel studs that attach the wheel to the hub. Forged construction with controlled thread and face geometry supports accurate, repeatable preload transfer over the bearing's service life. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged axle spindle nuts \u2014 the threaded nut that seats on the spindle end and sets wheel bearing preload, a distinct function from the wheel nuts and wheel studs that attach the wheel to the hub. Forged construction with controlled thread and face geometry supports accurate, repeatable preload transfer over the bearing's service life. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Heavy Truck and Trailer Axle Spindle Nuts",
@@ -43067,7 +43067,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Axle Spindle Nut Forgings \u2014 Wheel Bearing Preload Retention, Distinct From Wheel-to-Hub Attachment Hardware",
-        "description2": "JK Forge manufactures forged axle spindle nuts \u2014 the threaded nut that seats on the spindle end and sets wheel bearing preload, a distinct function from the wheel nuts and wheel studs that attach the wheel to the hub. Forged construction with controlled thread and face geometry supports accurate, repeatable preload transfer over the bearing's service life. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged axle spindle nuts \u2014 the threaded nut that seats on the spindle end and sets wheel bearing preload, a distinct function from the wheel nuts and wheel studs that attach the wheel to the hub. Forged construction with controlled thread and face geometry supports accurate, repeatable preload transfer over the bearing's service life. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Heavy Truck and Trailer Axle Spindle Nuts",
@@ -43191,7 +43191,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Tappet Forgings \u2014 Cylindrical Bucket & Adjustable-Clearance Valvetrain Components for Pushrod & Heavy-Duty Diesel Engines",
-        "description2": "JK Forge manufactures forged tappet components \u2014 cylindrical bucket and plunger-type valvetrain elements, including the adjustable-clearance tappet designs standard on heavy-duty diesel and industrial pushrod engines \u2014 engineered for the sliding guide-bore fit and manual clearance adjustment these designs require. Distinct from, and overlapping in terminology with, the cam follower components covered elsewhere on this site. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged tappet components \u2014 cylindrical bucket and plunger-type valvetrain elements, including the adjustable-clearance tappet designs standard on heavy-duty diesel and industrial pushrod engines \u2014 engineered for the sliding guide-bore fit and manual clearance adjustment these designs require. Distinct from, and overlapping in terminology with, the cam follower components covered elsewhere on this site. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Bucket Tappet Forgings",
@@ -43315,7 +43315,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Tappet Forgings \u2014 Cylindrical Bucket & Adjustable-Clearance Valvetrain Components for Pushrod & Heavy-Duty Diesel Engines",
-        "description2": "JK Forge manufactures forged tappet components \u2014 cylindrical bucket and plunger-type valvetrain elements, including the adjustable-clearance tappet designs standard on heavy-duty diesel and industrial pushrod engines \u2014 engineered for the sliding guide-bore fit and manual clearance adjustment these designs require. Distinct from, and overlapping in terminology with, the cam follower components covered elsewhere on this site. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged tappet components \u2014 cylindrical bucket and plunger-type valvetrain elements, including the adjustable-clearance tappet designs standard on heavy-duty diesel and industrial pushrod engines \u2014 engineered for the sliding guide-bore fit and manual clearance adjustment these designs require. Distinct from, and overlapping in terminology with, the cam follower components covered elsewhere on this site. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Bucket Tappet Forgings",
@@ -43439,7 +43439,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Cam Follower Forgings \u2014 The Valvetrain Component Riding Directly on the Camshaft Lobe, Millions of Contact Cycles Over Engine Life",
-        "description2": "JK Forge manufactures forged cam follower components \u2014 flat-faced, mushroom, and roller-type followers that ride directly on the camshaft lobe and convert its rotating profile into the linear motion that opens each engine valve \u2014 engineered for the sustained sliding or rolling contact stress this interface carries at every engine RPM, every valve event, for the engine's entire operating life. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged cam follower components \u2014 flat-faced, mushroom, and roller-type followers that ride directly on the camshaft lobe and convert its rotating profile into the linear motion that opens each engine valve \u2014 engineered for the sustained sliding or rolling contact stress this interface carries at every engine RPM, every valve event, for the engine's entire operating life. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Mushroom-Type Follower Forgings",
@@ -43563,7 +43563,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Cam Follower Forgings \u2014 The Valvetrain Component Riding Directly on the Camshaft Lobe, Millions of Contact Cycles Over Engine Life",
-        "description2": "JK Forge manufactures forged cam follower components \u2014 flat-faced, mushroom, and roller-type followers that ride directly on the camshaft lobe and convert its rotating profile into the linear motion that opens each engine valve \u2014 engineered for the sustained sliding or rolling contact stress this interface carries at every engine RPM, every valve event, for the engine's entire operating life. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged cam follower components \u2014 flat-faced, mushroom, and roller-type followers that ride directly on the camshaft lobe and convert its rotating profile into the linear motion that opens each engine valve \u2014 engineered for the sustained sliding or rolling contact stress this interface carries at every engine RPM, every valve event, for the engine's entire operating life. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Mushroom-Type Follower Forgings",
@@ -43687,7 +43687,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Plough Share Forgings \u2014 Mouldboard & Disc Plough Blades for Primary Tillage Applications",
-        "description2": "JK Forge manufactures forged plough share (plowshare) components \u2014 the cutting and inverting blade of mouldboard and disc ploughs \u2014 for primary tillage applications across agricultural equipment. Boron and high-carbon steel options addressing the abrasive wear and impact loading soil cutting generates across varying soil types. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged plough share (plowshare) components \u2014 the cutting and inverting blade of mouldboard and disc ploughs \u2014 for primary tillage applications across agricultural equipment. Boron and high-carbon steel options addressing the abrasive wear and impact loading soil cutting generates across varying soil types. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Disc Plough Blade Forgings",
@@ -43811,7 +43811,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Plough Share Forgings \u2014 Mouldboard & Disc Plough Blades for Primary Tillage Applications",
-        "description2": "JK Forge manufactures forged plough share (plowshare) components \u2014 the cutting and inverting blade of mouldboard and disc ploughs \u2014 for primary tillage applications across agricultural equipment. Boron and high-carbon steel options addressing the abrasive wear and impact loading soil cutting generates across varying soil types. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged plough share (plowshare) components \u2014 the cutting and inverting blade of mouldboard and disc ploughs \u2014 for primary tillage applications across agricultural equipment. Boron and high-carbon steel options addressing the abrasive wear and impact loading soil cutting generates across varying soil types. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Disc Plough Blade Forgings",
@@ -44223,7 +44223,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Gear Coupling Sleeve Forgings \u2014 Crowned Meshing Teeth Carrying High Torque Through Misalignment",
-        "description2": "JK Forge manufactures forged gear coupling sleeve blanks \u2014 the internally-toothed sleeve that meshes with a crowned-tooth hub to transmit high torque between rotating shafts while tolerating angular and parallel misalignment through gear tooth geometry rather than elastomeric flex. Case-hardened alloy steel forgings for the sleeve's internal tooth form and hub interface. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged gear coupling sleeve blanks \u2014 the internally-toothed sleeve that meshes with a crowned-tooth hub to transmit high torque between rotating shafts while tolerating angular and parallel misalignment through gear tooth geometry rather than elastomeric flex. Case-hardened alloy steel forgings for the sleeve's internal tooth form and hub interface. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Flanged Sleeve Coupling Forgings",
@@ -44347,7 +44347,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Gear Coupling Sleeve Forgings \u2014 Crowned Meshing Teeth Carrying High Torque Through Misalignment",
-        "description2": "JK Forge manufactures forged gear coupling sleeve blanks \u2014 the internally-toothed sleeve that meshes with a crowned-tooth hub to transmit high torque between rotating shafts while tolerating angular and parallel misalignment through gear tooth geometry rather than elastomeric flex. Case-hardened alloy steel forgings for the sleeve's internal tooth form and hub interface. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged gear coupling sleeve blanks \u2014 the internally-toothed sleeve that meshes with a crowned-tooth hub to transmit high torque between rotating shafts while tolerating angular and parallel misalignment through gear tooth geometry rather than elastomeric flex. Case-hardened alloy steel forgings for the sleeve's internal tooth form and hub interface. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Flanged Sleeve Coupling Forgings",
@@ -44759,7 +44759,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Radius Rod Forgings \u2014 Longitudinal Locating Links Resisting Fore-Aft Axle Movement in Solid-Axle and Off-Road Suspension Systems",
-        "description2": "JK Forge manufactures forged radius rods (radius arms) \u2014 longitudinal suspension locating links that resist fore-aft axle movement under acceleration and braking on solid-axle trucks, off-road, and coil-spring suspension platforms where the spring itself provides no locating function. Integral bushing eye ends and high-strength body sections for combined axial and bending duty. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged radius rods (radius arms) \u2014 longitudinal suspension locating links that resist fore-aft axle movement under acceleration and braking on solid-axle trucks, off-road, and coil-spring suspension platforms where the spring itself provides no locating function. Integral bushing eye ends and high-strength body sections for combined axial and bending duty. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Triangulated Radius Arm Forgings",
@@ -44883,7 +44883,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Radius Rod Forgings \u2014 Longitudinal Locating Links Resisting Fore-Aft Axle Movement in Solid-Axle and Off-Road Suspension Systems",
-        "description2": "JK Forge manufactures forged radius rods (radius arms) \u2014 longitudinal suspension locating links that resist fore-aft axle movement under acceleration and braking on solid-axle trucks, off-road, and coil-spring suspension platforms where the spring itself provides no locating function. Integral bushing eye ends and high-strength body sections for combined axial and bending duty. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged radius rods (radius arms) \u2014 longitudinal suspension locating links that resist fore-aft axle movement under acceleration and braking on solid-axle trucks, off-road, and coil-spring suspension platforms where the spring itself provides no locating function. Integral bushing eye ends and high-strength body sections for combined axial and bending duty. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Triangulated Radius Arm Forgings",
@@ -45007,7 +45007,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Motor Grader Blade Forgings \u2014 Long-Span Moldboard Cutting Edge Segments for Precision Finish Grading",
-        "description2": "JK Forge manufactures forged motor grader moldboard cutting edge blanks \u2014 the long, thin, precision-straight wear strip a grader's moldboard uses to finish and shape road surfaces to close grade tolerance, mounted through a blade circle that continuously angles the edge into lateral sliding contact. A finish-grading tool distinct from a bulldozer's bulk-material cutting edge. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged motor grader moldboard cutting edge blanks \u2014 the long, thin, precision-straight wear strip a grader's moldboard uses to finish and shape road surfaces to close grade tolerance, mounted through a blade circle that continuously angles the edge into lateral sliding contact. A finish-grading tool distinct from a bulldozer's bulk-material cutting edge. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Curved and Radius-Matched Cutting Edge Forgings",
@@ -45131,7 +45131,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Motor Grader Blade Forgings \u2014 Long-Span Moldboard Cutting Edge Segments for Precision Finish Grading",
-        "description2": "JK Forge manufactures forged motor grader moldboard cutting edge blanks \u2014 the long, thin, precision-straight wear strip a grader's moldboard uses to finish and shape road surfaces to close grade tolerance, mounted through a blade circle that continuously angles the edge into lateral sliding contact. A finish-grading tool distinct from a bulldozer's bulk-material cutting edge. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged motor grader moldboard cutting edge blanks \u2014 the long, thin, precision-straight wear strip a grader's moldboard uses to finish and shape road surfaces to close grade tolerance, mounted through a blade circle that continuously angles the edge into lateral sliding contact. A finish-grading tool distinct from a bulldozer's bulk-material cutting edge. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Curved and Radius-Matched Cutting Edge Forgings",
@@ -45255,7 +45255,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Valve Spring Retainer Forgings \u2014 Small Component, Genuinely Severe High-Cycle Fatigue Duty",
-        "description2": "JK Forge manufactures forged valve spring retainer components \u2014 the disc-shaped fitting locking the valve spring in compression against the valve stem via split collets \u2014 cycling through full compressive load thousands of times per minute at engine operating RPM. Forged construction for the high-cycle fatigue resistance this small but severely loaded component demands. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged valve spring retainer components \u2014 the disc-shaped fitting locking the valve spring in compression against the valve stem via split collets \u2014 cycling through full compressive load thousands of times per minute at engine operating RPM. Forged construction for the high-cycle fatigue resistance this small but severely loaded component demands. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Dual and Triple Spring Retainer Forgings",
@@ -45379,7 +45379,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Valve Spring Retainer Forgings \u2014 Small Component, Genuinely Severe High-Cycle Fatigue Duty",
-        "description2": "JK Forge manufactures forged valve spring retainer components \u2014 the disc-shaped fitting locking the valve spring in compression against the valve stem via split collets \u2014 cycling through full compressive load thousands of times per minute at engine operating RPM. Forged construction for the high-cycle fatigue resistance this small but severely loaded component demands. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged valve spring retainer components \u2014 the disc-shaped fitting locking the valve spring in compression against the valve stem via split collets \u2014 cycling through full compressive load thousands of times per minute at engine operating RPM. Forged construction for the high-cycle fatigue resistance this small but severely loaded component demands. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Dual and Triple Spring Retainer Forgings",
@@ -45503,7 +45503,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Container Twistlock Forgings \u2014 Holding Stacked Containers Together Through Ship Roll, Pitch and Crane Lift",
-        "description2": "JK Forge manufactures forged container twistlock components \u2014 the rotating locking fitting that engages a shipping container's corner casting to secure containers to a chassis, ship deck, or to each other when stacked \u2014 engineered to reliably hold under the dynamic loads of ocean transport and crane lifting. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged container twistlock components \u2014 the rotating locking fitting that engages a shipping container's corner casting to secure containers to a chassis, ship deck, or to each other when stacked \u2014 engineered to reliably hold under the dynamic loads of ocean transport and crane lifting. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Manual Twistlock Forgings",
@@ -45627,7 +45627,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Container Twistlock Forgings \u2014 Holding Stacked Containers Together Through Ship Roll, Pitch and Crane Lift",
-        "description2": "JK Forge manufactures forged container twistlock components \u2014 the rotating locking fitting that engages a shipping container's corner casting to secure containers to a chassis, ship deck, or to each other when stacked \u2014 engineered to reliably hold under the dynamic loads of ocean transport and crane lifting. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged container twistlock components \u2014 the rotating locking fitting that engages a shipping container's corner casting to secure containers to a chassis, ship deck, or to each other when stacked \u2014 engineered to reliably hold under the dynamic loads of ocean transport and crane lifting. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Manual Twistlock Forgings",
@@ -45751,7 +45751,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Leaf Spring Center Bolt Forgings \u2014 Clamps the Leaf Stack Together and Locates the Spring on the Axle Seat",
-        "description2": "JK Forge manufactures forged leaf spring center bolt components \u2014 the through-bolt clamping a multi-leaf spring stack together at its midpoint, whose protruding head or nib seats into the axle spring seat to laterally locate the axle beneath the vehicle. Distinct from the shackle and eye components already covered on this site. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged leaf spring center bolt components \u2014 the through-bolt clamping a multi-leaf spring stack together at its midpoint, whose protruding head or nib seats into the axle spring seat to laterally locate the axle beneath the vehicle. Distinct from the shackle and eye components already covered on this site. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Nibbed / Stepped Locating Center Bolt Forgings",
@@ -45875,7 +45875,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Leaf Spring Center Bolt Forgings \u2014 Clamps the Leaf Stack Together and Locates the Spring on the Axle Seat",
-        "description2": "JK Forge manufactures forged leaf spring center bolt components \u2014 the through-bolt clamping a multi-leaf spring stack together at its midpoint, whose protruding head or nib seats into the axle spring seat to laterally locate the axle beneath the vehicle. Distinct from the shackle and eye components already covered on this site. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged leaf spring center bolt components \u2014 the through-bolt clamping a multi-leaf spring stack together at its midpoint, whose protruding head or nib seats into the axle spring seat to laterally locate the axle beneath the vehicle. Distinct from the shackle and eye components already covered on this site. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Nibbed / Stepped Locating Center Bolt Forgings",
@@ -45999,7 +45999,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Ripper Shank Forgings \u2014 Single & Multi-Shank Ripper Attachment Components for Bulldozer Ground Breaking",
-        "description2": "JK Forge manufactures forged ripper shank components \u2014 the penetrating tine of bulldozer ripper attachments used to fracture hard-packed soil, rock, and pavement ahead of dozing operations. High-strength alloy steel construction addressing the extreme bending and impact loading ripping generates as the shank drives into and through resistant ground material. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged ripper shank components \u2014 the penetrating tine of bulldozer ripper attachments used to fracture hard-packed soil, rock, and pavement ahead of dozing operations. High-strength alloy steel construction addressing the extreme bending and impact loading ripping generates as the shank drives into and through resistant ground material. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Multi-Shank Ripper Forgings",
@@ -46123,7 +46123,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Ripper Shank Forgings \u2014 Single & Multi-Shank Ripper Attachment Components for Bulldozer Ground Breaking",
-        "description2": "JK Forge manufactures forged ripper shank components \u2014 the penetrating tine of bulldozer ripper attachments used to fracture hard-packed soil, rock, and pavement ahead of dozing operations. High-strength alloy steel construction addressing the extreme bending and impact loading ripping generates as the shank drives into and through resistant ground material. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged ripper shank components \u2014 the penetrating tine of bulldozer ripper attachments used to fracture hard-packed soil, rock, and pavement ahead of dozing operations. High-strength alloy steel construction addressing the extreme bending and impact loading ripping generates as the shank drives into and through resistant ground material. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Multi-Shank Ripper Forgings",
@@ -46247,7 +46247,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Scaffolding Coupler Forgings \u2014 Forged Steel Clamps Joining Scaffold Tubes Under Full Structural Load",
-        "description2": "JK Forge manufactures forged steel scaffolding couplers \u2014 the load-bearing clamps that join scaffold tubes at right-angle, swivel, and sleeve joints \u2014 engineered to grip tube securely under the full working load, wind load, and dynamic construction-site loading a scaffold structure carries. Drop-forged construction for consistent wall thickness and joint strength. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged steel scaffolding couplers \u2014 the load-bearing clamps that join scaffold tubes at right-angle, swivel, and sleeve joints \u2014 engineered to grip tube securely under the full working load, wind load, and dynamic construction-site loading a scaffold structure carries. Drop-forged construction for consistent wall thickness and joint strength. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Swivel Couplers",
@@ -46371,7 +46371,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Scaffolding Coupler Forgings \u2014 Forged Steel Clamps Joining Scaffold Tubes Under Full Structural Load",
-        "description2": "JK Forge manufactures forged steel scaffolding couplers \u2014 the load-bearing clamps that join scaffold tubes at right-angle, swivel, and sleeve joints \u2014 engineered to grip tube securely under the full working load, wind load, and dynamic construction-site loading a scaffold structure carries. Drop-forged construction for consistent wall thickness and joint strength. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged steel scaffolding couplers \u2014 the load-bearing clamps that join scaffold tubes at right-angle, swivel, and sleeve joints \u2014 engineered to grip tube securely under the full working load, wind load, and dynamic construction-site loading a scaffold structure carries. Drop-forged construction for consistent wall thickness and joint strength. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Swivel Couplers",
@@ -46495,7 +46495,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Clutch Fork (Release Fork) Forgings \u2014 Repeated Pivoting Under Moderate Impact Loading",
-        "description2": "JK Forge manufactures forged clutch fork (release fork) components \u2014 the pivoting lever translating clutch pedal or actuator motion into the linear force that disengages the clutch release bearing \u2014 engineered to withstand repeated pivoting and moderate impact loading across the vehicle's full service life. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged clutch fork (release fork) components \u2014 the pivoting lever translating clutch pedal or actuator motion into the linear force that disengages the clutch release bearing \u2014 engineered to withstand repeated pivoting and moderate impact loading across the vehicle's full service life. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Hydraulic Actuator Clutch Fork Forgings",
@@ -46619,7 +46619,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Clutch Fork (Release Fork) Forgings \u2014 Repeated Pivoting Under Moderate Impact Loading",
-        "description2": "JK Forge manufactures forged clutch fork (release fork) components \u2014 the pivoting lever translating clutch pedal or actuator motion into the linear force that disengages the clutch release bearing \u2014 engineered to withstand repeated pivoting and moderate impact loading across the vehicle's full service life. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged clutch fork (release fork) components \u2014 the pivoting lever translating clutch pedal or actuator motion into the linear force that disengages the clutch release bearing \u2014 engineered to withstand repeated pivoting and moderate impact loading across the vehicle's full service life. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Hydraulic Actuator Clutch Fork Forgings",
@@ -46743,7 +46743,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Differential Side Gear Forgings \u2014 The Bevel Gears Inside the Carrier Splitting Torque to Each Axle Shaft While Allowing Speed Differences in a Turn",
-        "description2": "JK Forge manufactures forged differential side gears and pinion (spider) gears \u2014 the small bevel gears meshing inside the differential carrier that split input torque between the two axle shafts while permitting them to rotate at different speeds through a turn. Distinct from the ring gear and differential case, already covered on this site. Case-hardened tooth and thrust-face wear resistance. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged differential side gears and pinion (spider) gears \u2014 the small bevel gears meshing inside the differential carrier that split input torque between the two axle shafts while permitting them to rotate at different speeds through a turn. Distinct from the ring gear and differential case, already covered on this site. Case-hardened tooth and thrust-face wear resistance. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Pinion (Spider) Gear Forgings",
@@ -46867,7 +46867,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Differential Side Gear Forgings \u2014 The Bevel Gears Inside the Carrier Splitting Torque to Each Axle Shaft While Allowing Speed Differences in a Turn",
-        "description2": "JK Forge manufactures forged differential side gears and pinion (spider) gears \u2014 the small bevel gears meshing inside the differential carrier that split input torque between the two axle shafts while permitting them to rotate at different speeds through a turn. Distinct from the ring gear and differential case, already covered on this site. Case-hardened tooth and thrust-face wear resistance. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged differential side gears and pinion (spider) gears \u2014 the small bevel gears meshing inside the differential carrier that split input torque between the two axle shafts while permitting them to rotate at different speeds through a turn. Distinct from the ring gear and differential case, already covered on this site. Case-hardened tooth and thrust-face wear resistance. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Pinion (Spider) Gear Forgings",
@@ -46991,7 +46991,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Idler Wheel Forgings \u2014 Front Idler & Rear Idler Components for Excavator, Bulldozer & Crawler Crane Undercarriage",
-        "description2": "JK Forge manufactures forged idler wheel components \u2014 front and rear idlers \u2014 for crawler undercarriage systems, guiding and tensioning the track chain at the opposite end from the drive sprocket. Case-hardening grade options for the same wear-and-fatigue duty cycle track rollers experience, with additional guidance-geometry precision requirements. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged idler wheel components \u2014 front and rear idlers \u2014 for crawler undercarriage systems, guiding and tensioning the track chain at the opposite end from the drive sprocket. Case-hardening grade options for the same wear-and-fatigue duty cycle track rollers experience, with additional guidance-geometry precision requirements. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Rear Idler Wheel Forgings",
@@ -47115,7 +47115,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Idler Wheel Forgings \u2014 Front Idler & Rear Idler Components for Excavator, Bulldozer & Crawler Crane Undercarriage",
-        "description2": "JK Forge manufactures forged idler wheel components \u2014 front and rear idlers \u2014 for crawler undercarriage systems, guiding and tensioning the track chain at the opposite end from the drive sprocket. Case-hardening grade options for the same wear-and-fatigue duty cycle track rollers experience, with additional guidance-geometry precision requirements. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged idler wheel components \u2014 front and rear idlers \u2014 for crawler undercarriage systems, guiding and tensioning the track chain at the opposite end from the drive sprocket. Case-hardening grade options for the same wear-and-fatigue duty cycle track rollers experience, with additional guidance-geometry precision requirements. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Rear Idler Wheel Forgings",
@@ -47239,7 +47239,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Gear Shift Fork Forgings \u2014 Sliding-Contact Levers Engaging and Disengaging Synchronizer Sleeves During Every Gear Change",
-        "description2": "JK Forge manufactures forged transmission shift fork components \u2014 the sliding-contact levers that engage and disengage synchronizer sleeves as the shift rail or shift drum moves them through each gear change \u2014 engineered for combined bending, sliding-wear, and side-load duty at the fork pad and hub bore. Manual and automated manual transmission applications. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged transmission shift fork components \u2014 the sliding-contact levers that engage and disengage synchronizer sleeves as the shift rail or shift drum moves them through each gear change \u2014 engineered for combined bending, sliding-wear, and side-load duty at the fork pad and hub bore. Manual and automated manual transmission applications. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Shift Drum / Barrel Cam Fork Forgings",
@@ -47363,7 +47363,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Gear Shift Fork Forgings \u2014 Sliding-Contact Levers Engaging and Disengaging Synchronizer Sleeves During Every Gear Change",
-        "description2": "JK Forge manufactures forged transmission shift fork components \u2014 the sliding-contact levers that engage and disengage synchronizer sleeves as the shift rail or shift drum moves them through each gear change \u2014 engineered for combined bending, sliding-wear, and side-load duty at the fork pad and hub bore. Manual and automated manual transmission applications. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged transmission shift fork components \u2014 the sliding-contact levers that engage and disengage synchronizer sleeves as the shift rail or shift drum moves them through each gear change \u2014 engineered for combined bending, sliding-wear, and side-load duty at the fork pad and hub bore. Manual and automated manual transmission applications. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Shift Drum / Barrel Cam Fork Forgings",
@@ -47487,7 +47487,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Differential Ring Gear Forgings \u2014 The Large-Diameter Gear Redirecting Driveshaft Torque to the Axle Shafts",
-        "description2": "JK Forge manufactures forged differential ring gear components \u2014 the large-diameter gear bolted to the differential carrier that meshes with the pinion gear to redirect driveshaft torque 90 degrees to the axle shafts \u2014 engineered for case-hardened tooth contact fatigue resistance under continuous meshing load. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged differential ring gear components \u2014 the large-diameter gear bolted to the differential carrier that meshes with the pinion gear to redirect driveshaft torque 90 degrees to the axle shafts \u2014 engineered for case-hardened tooth contact fatigue resistance under continuous meshing load. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Spiral Bevel Ring Gear Forgings",
@@ -47611,7 +47611,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Differential Ring Gear Forgings \u2014 The Large-Diameter Gear Redirecting Driveshaft Torque to the Axle Shafts",
-        "description2": "JK Forge manufactures forged differential ring gear components \u2014 the large-diameter gear bolted to the differential carrier that meshes with the pinion gear to redirect driveshaft torque 90 degrees to the axle shafts \u2014 engineered for case-hardened tooth contact fatigue resistance under continuous meshing load. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged differential ring gear components \u2014 the large-diameter gear bolted to the differential carrier that meshes with the pinion gear to redirect driveshaft torque 90 degrees to the axle shafts \u2014 engineered for case-hardened tooth contact fatigue resistance under continuous meshing load. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Spiral Bevel Ring Gear Forgings",
@@ -47817,7 +47817,7 @@ window.pageContent['componentsData'] = {
         "faqs": [
             {
                 "question": "Who is the best hydraulic fittings manufacturer in Rajkot?",
-                "answer": "JK Forge at Shapar, Rajkot, Gujarat is a leading manufacturer of forged hydraulic fittings: adapters, nipples, elbows, tees, unions, and couplings in carbon steel, alloy steel, and stainless steel. Call +91-9265772827."
+                "answer": "JK Forge at Shapar, Rajkot, Gujarat is a leading manufacturer of forged hydraulic fittings: adapters, nipples, elbows, tees, unions, and couplings in carbon steel, alloy steel, and stainless steel. Call +91 7600066117."
             },
             {
                 "question": "What hydraulic fittings does JK Forge manufacture?",
@@ -47825,7 +47825,7 @@ window.pageContent['componentsData'] = {
             },
             {
                 "question": "What is the price of hydraulic fittings in Rajkot?",
-                "answer": "Hydraulic fitting prices depend on type, size, material, thread standard, and quantity. Contact JK Forge at +91-9265772827 or sales@JK Forge.com for a competitive price list from our Rajkot manufacturing facility."
+                "answer": "Hydraulic fitting prices depend on type, size, material, thread standard, and quantity. Contact JK Forge at +91 7600066117 or sales@JK Forge.com for a competitive price list from our Rajkot manufacturing facility."
             }
         ]
     },
@@ -47933,7 +47933,7 @@ window.pageContent['componentsData'] = {
         "faqs": [
             {
                 "question": "Who is the best hydraulic fittings manufacturer in Rajkot?",
-                "answer": "JK Forge at Shapar, Rajkot, Gujarat is a leading manufacturer of forged hydraulic fittings: adapters, nipples, elbows, tees, unions, and couplings in carbon steel, alloy steel, and stainless steel. Call +91-9265772827."
+                "answer": "JK Forge at Shapar, Rajkot, Gujarat is a leading manufacturer of forged hydraulic fittings: adapters, nipples, elbows, tees, unions, and couplings in carbon steel, alloy steel, and stainless steel. Call +91 7600066117."
             },
             {
                 "question": "What hydraulic fittings does JK Forge manufacture?",
@@ -47941,7 +47941,7 @@ window.pageContent['componentsData'] = {
             },
             {
                 "question": "What is the price of hydraulic fittings in Rajkot?",
-                "answer": "Hydraulic fitting prices depend on type, size, material, thread standard, and quantity. Contact JK Forge at +91-9265772827 or sales@JK Forge.com for a competitive price list from our Rajkot manufacturing facility."
+                "answer": "Hydraulic fitting prices depend on type, size, material, thread standard, and quantity. Contact JK Forge at +91 7600066117 or sales@JK Forge.com for a competitive price list from our Rajkot manufacturing facility."
             }
         ]
     },
@@ -47967,7 +47967,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Fork Carriage Components \u2014 Hook Bars, Carriage Roller Pins & Backrest Mounting Brackets for ITA/FEM Class Carriages",
-        "description2": "JK Forge manufactures forged components for forklift fork carriages \u2014 the top and bottom hook bars the fork hangs from, carriage roller pins and shafts, and load backrest mounting brackets \u2014 the frame assembly that rides the mast rails and transfers every fork-carried load into the truck's lift chains. ITA/FEM Class II\u2013IV hook bar dimensions. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for forklift fork carriages \u2014 the top and bottom hook bars the fork hangs from, carriage roller pins and shafts, and load backrest mounting brackets \u2014 the frame assembly that rides the mast rails and transfers every fork-carried load into the truck's lift chains. ITA/FEM Class II\u2013IV hook bar dimensions. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Carriage Roller Pin and Shaft Forgings",
@@ -48091,7 +48091,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Fork Carriage Components \u2014 Hook Bars, Carriage Roller Pins & Backrest Mounting Brackets for ITA/FEM Class Carriages",
-        "description2": "JK Forge manufactures forged components for forklift fork carriages \u2014 the top and bottom hook bars the fork hangs from, carriage roller pins and shafts, and load backrest mounting brackets \u2014 the frame assembly that rides the mast rails and transfers every fork-carried load into the truck's lift chains. ITA/FEM Class II\u2013IV hook bar dimensions. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged components for forklift fork carriages \u2014 the top and bottom hook bars the fork hangs from, carriage roller pins and shafts, and load backrest mounting brackets \u2014 the frame assembly that rides the mast rails and transfers every fork-carried load into the truck's lift chains. ITA/FEM Class II\u2013IV hook bar dimensions. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Carriage Roller Pin and Shaft Forgings",
@@ -48215,7 +48215,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content U-Joint Forgings \u2014 Cross Spiders, Yoke Ends & Flange Yokes for Automotive, Off-Highway & Industrial Driveline",
-        "description2": "JK Forge manufactures forged universal joint (U-joint) components \u2014 cross spiders, yoke ends, and flange yokes \u2014 for automotive, off-highway, agricultural, and industrial driveline applications where angular misalignment between rotating shafts must be accommodated without sacrificing torque transmission capacity. EN24, SAE 4140, and case-hardening grade options. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged universal joint (U-joint) components \u2014 cross spiders, yoke ends, and flange yokes \u2014 for automotive, off-highway, agricultural, and industrial driveline applications where angular misalignment between rotating shafts must be accommodated without sacrificing torque transmission capacity. EN24, SAE 4140, and case-hardening grade options. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Yoke End Forgings",
@@ -48339,7 +48339,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content U-Joint Forgings \u2014 Cross Spiders, Yoke Ends & Flange Yokes for Automotive, Off-Highway & Industrial Driveline",
-        "description2": "JK Forge manufactures forged universal joint (U-joint) components \u2014 cross spiders, yoke ends, and flange yokes \u2014 for automotive, off-highway, agricultural, and industrial driveline applications where angular misalignment between rotating shafts must be accommodated without sacrificing torque transmission capacity. EN24, SAE 4140, and case-hardening grade options. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged universal joint (U-joint) components \u2014 cross spiders, yoke ends, and flange yokes \u2014 for automotive, off-highway, agricultural, and industrial driveline applications where angular misalignment between rotating shafts must be accommodated without sacrificing torque transmission capacity. EN24, SAE 4140, and case-hardening grade options. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Yoke End Forgings",
@@ -48463,7 +48463,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Shackles \u2014 Bow & D-Shackles, Rigging Hardware for Lifting, Marine & Offshore Applications",
-        "description2": "JK Forge manufactures forged bow shackles, D-shackles, and rigging hardware \u2014 pin, body, and swivel components \u2014 in Grade S (6:1 safety factor) and Grade 8 alloy steel, for crane lifting, marine mooring, offshore rigging, and general industrial hoisting applications. Proof-load tested, WLL (working load limit) marked, EN 10204 3.1 certified with full traceability. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged bow shackles, D-shackles, and rigging hardware \u2014 pin, body, and swivel components \u2014 in Grade S (6:1 safety factor) and Grade 8 alloy steel, for crane lifting, marine mooring, offshore rigging, and general industrial hoisting applications. Proof-load tested, WLL (working load limit) marked, EN 10204 3.1 certified with full traceability. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "D-Shackle (Chain Shackle) Forgings",
@@ -48587,7 +48587,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Shackles \u2014 Bow & D-Shackles, Rigging Hardware for Lifting, Marine & Offshore Applications",
-        "description2": "JK Forge manufactures forged bow shackles, D-shackles, and rigging hardware \u2014 pin, body, and swivel components \u2014 in Grade S (6:1 safety factor) and Grade 8 alloy steel, for crane lifting, marine mooring, offshore rigging, and general industrial hoisting applications. Proof-load tested, WLL (working load limit) marked, EN 10204 3.1 certified with full traceability. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged bow shackles, D-shackles, and rigging hardware \u2014 pin, body, and swivel components \u2014 in Grade S (6:1 safety factor) and Grade 8 alloy steel, for crane lifting, marine mooring, offshore rigging, and general industrial hoisting applications. Proof-load tested, WLL (working load limit) marked, EN 10204 3.1 certified with full traceability. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "D-Shackle (Chain Shackle) Forgings",
@@ -48711,7 +48711,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Ball Joint Housings \u2014 Upper & Lower Control Arm Ball Joint Components",
-        "description2": "JK Forge manufactures forged ball joint housing blanks for automotive and commercial vehicle suspension systems \u2014 upper and lower control arm ball joint housings \u2014 in EN8 and 42CrMo4 alloy steel, engineered for the combined articulation and structural load-bearing function ball joints provide at the steering knuckle connection. IATF 16949 aligned quality, PPAP documentation support. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged ball joint housing blanks for automotive and commercial vehicle suspension systems \u2014 upper and lower control arm ball joint housings \u2014 in EN8 and 42CrMo4 alloy steel, engineered for the combined articulation and structural load-bearing function ball joints provide at the steering knuckle connection. IATF 16949 aligned quality, PPAP documentation support. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Lower Control Arm Ball Joint Housing Forgings",
@@ -48835,7 +48835,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Ball Joint Housings \u2014 Upper & Lower Control Arm Ball Joint Components",
-        "description2": "JK Forge manufactures forged ball joint housing blanks for automotive and commercial vehicle suspension systems \u2014 upper and lower control arm ball joint housings \u2014 in EN8 and 42CrMo4 alloy steel, engineered for the combined articulation and structural load-bearing function ball joints provide at the steering knuckle connection. IATF 16949 aligned quality, PPAP documentation support. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged ball joint housing blanks for automotive and commercial vehicle suspension systems \u2014 upper and lower control arm ball joint housings \u2014 in EN8 and 42CrMo4 alloy steel, engineered for the combined articulation and structural load-bearing function ball joints provide at the steering knuckle connection. IATF 16949 aligned quality, PPAP documentation support. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Lower Control Arm Ball Joint Housing Forgings",
@@ -48959,7 +48959,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Railway Brake Block Holder Forgings \u2014 Brake Shoe Head Components Carrying Repeated Friction Braking Force",
-        "description2": "JK Forge manufactures forged railway brake block holders \u2014 the brake shoe head/key components that clamp the replaceable brake block or friction pad against the wheel tread or brake disc, carrying the full mechanical braking force transmitted from the brake rigging on every stop. Alloy steel forgings sized for repeated thermal and mechanical cycling. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged railway brake block holders \u2014 the brake shoe head/key components that clamp the replaceable brake block or friction pad against the wheel tread or brake disc, carrying the full mechanical braking force transmitted from the brake rigging on every stop. Alloy steel forgings sized for repeated thermal and mechanical cycling. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Brake Beam Holder Bracket Forgings",
@@ -49083,7 +49083,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Railway Brake Block Holder Forgings \u2014 Brake Shoe Head Components Carrying Repeated Friction Braking Force",
-        "description2": "JK Forge manufactures forged railway brake block holders \u2014 the brake shoe head/key components that clamp the replaceable brake block or friction pad against the wheel tread or brake disc, carrying the full mechanical braking force transmitted from the brake rigging on every stop. Alloy steel forgings sized for repeated thermal and mechanical cycling. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged railway brake block holders \u2014 the brake shoe head/key components that clamp the replaceable brake block or friction pad against the wheel tread or brake disc, carrying the full mechanical braking force transmitted from the brake rigging on every stop. Alloy steel forgings sized for repeated thermal and mechanical cycling. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Brake Beam Holder Bracket Forgings",
@@ -49207,7 +49207,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Steering Rack Housing Forgings \u2014 Precision Rack-and-Pinion Mesh Alignment Under Reaction Load",
-        "description2": "JK Forge manufactures forged steering rack housing components \u2014 the structural tube-like housing containing the steering rack gear and hydraulic or electric assist mechanism \u2014 engineered for the dimensional precision rack-and-pinion mesh alignment requires and the structural rigidity to resist steering reaction loads. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged steering rack housing components \u2014 the structural tube-like housing containing the steering rack gear and hydraulic or electric assist mechanism \u2014 engineered for the dimensional precision rack-and-pinion mesh alignment requires and the structural rigidity to resist steering reaction loads. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Electric Power Steering Housing Forgings",
@@ -49331,7 +49331,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Steering Rack Housing Forgings \u2014 Precision Rack-and-Pinion Mesh Alignment Under Reaction Load",
-        "description2": "JK Forge manufactures forged steering rack housing components \u2014 the structural tube-like housing containing the steering rack gear and hydraulic or electric assist mechanism \u2014 engineered for the dimensional precision rack-and-pinion mesh alignment requires and the structural rigidity to resist steering reaction loads. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged steering rack housing components \u2014 the structural tube-like housing containing the steering rack gear and hydraulic or electric assist mechanism \u2014 engineered for the dimensional precision rack-and-pinion mesh alignment requires and the structural rigidity to resist steering reaction loads. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Electric Power Steering Housing Forgings",
@@ -49455,7 +49455,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Trailer Hitch Components \u2014 Ball Mounts, Hitch Balls, Pintle Hooks, Coupler Forgings",
-        "description2": "JK Forge manufactures forged trailer hitch and towing hardware components \u2014 hitch balls, ball mounts, pintle hooks, and trailer coupler forgings \u2014 in EN8 and EN24 alloy steel, for automotive, commercial vehicle, and agricultural/industrial trailer towing applications requiring reliable connection under dynamic road and off-road towing loads. Proof-load rated, EN 10204 3.1 certified. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged trailer hitch and towing hardware components \u2014 hitch balls, ball mounts, pintle hooks, and trailer coupler forgings \u2014 in EN8 and EN24 alloy steel, for automotive, commercial vehicle, and agricultural/industrial trailer towing applications requiring reliable connection under dynamic road and off-road towing loads. Proof-load rated, EN 10204 3.1 certified. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Ball Mount Forgings",
@@ -49579,7 +49579,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Forged Trailer Hitch Components \u2014 Ball Mounts, Hitch Balls, Pintle Hooks, Coupler Forgings",
-        "description2": "JK Forge manufactures forged trailer hitch and towing hardware components \u2014 hitch balls, ball mounts, pintle hooks, and trailer coupler forgings \u2014 in EN8 and EN24 alloy steel, for automotive, commercial vehicle, and agricultural/industrial trailer towing applications requiring reliable connection under dynamic road and off-road towing loads. Proof-load rated, EN 10204 3.1 certified. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged trailer hitch and towing hardware components \u2014 hitch balls, ball mounts, pintle hooks, and trailer coupler forgings \u2014 in EN8 and EN24 alloy steel, for automotive, commercial vehicle, and agricultural/industrial trailer towing applications requiring reliable connection under dynamic road and off-road towing loads. Proof-load rated, EN 10204 3.1 certified. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Ball Mount Forgings",
@@ -49703,7 +49703,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Traction Motor Shaft Forgings \u2014 High-Torque Drive Shafts Transmitting Motor Power to the Locomotive Axle",
-        "description2": "JK Forge manufactures forged locomotive traction motor shafts \u2014 the drive shaft transmitting the traction motor's high-torque, low-speed output through gear reduction to the powered axle, engineered for continuous high-torque duty combined with the unsprung-mass vibration environment of the motor-axle assembly. Alloy steel forgings for armature-end and pinion-end shaft sections. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged locomotive traction motor shafts \u2014 the drive shaft transmitting the traction motor's high-torque, low-speed output through gear reduction to the powered axle, engineered for continuous high-torque duty combined with the unsprung-mass vibration environment of the motor-axle assembly. Alloy steel forgings for armature-end and pinion-end shaft sections. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Pinion-End Drive Shaft Forgings",
@@ -49827,7 +49827,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Traction Motor Shaft Forgings \u2014 High-Torque Drive Shafts Transmitting Motor Power to the Locomotive Axle",
-        "description2": "JK Forge manufactures forged locomotive traction motor shafts \u2014 the drive shaft transmitting the traction motor's high-torque, low-speed output through gear reduction to the powered axle, engineered for continuous high-torque duty combined with the unsprung-mass vibration environment of the motor-axle assembly. Alloy steel forgings for armature-end and pinion-end shaft sections. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged locomotive traction motor shafts \u2014 the drive shaft transmitting the traction motor's high-torque, low-speed output through gear reduction to the powered axle, engineered for continuous high-torque duty combined with the unsprung-mass vibration environment of the motor-axle assembly. Alloy steel forgings for armature-end and pinion-end shaft sections. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Pinion-End Drive Shaft Forgings",
@@ -49951,7 +49951,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Torsion Bar Forgings \u2014 Spring Rate Delivered Through Continuous Twisting Stress Along the Full Bar Length",
-        "description2": "JK Forge manufactures forged torsion bar components \u2014 the suspension spring element using resistance to twisting rather than a coil spring's bending to provide suspension spring rate \u2014 used in front suspension applications on trucks and SUVs. Forged and heat treated for exceptional fatigue resistance under continuous cyclic torsional stress across the bar's full length. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged torsion bar components \u2014 the suspension spring element using resistance to twisting rather than a coil spring's bending to provide suspension spring rate \u2014 used in front suspension applications on trucks and SUVs. Forged and heat treated for exceptional fatigue resistance under continuous cyclic torsional stress across the bar's full length. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Splined-End Torsion Bar Forgings",
@@ -50075,7 +50075,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Torsion Bar Forgings \u2014 Spring Rate Delivered Through Continuous Twisting Stress Along the Full Bar Length",
-        "description2": "JK Forge manufactures forged torsion bar components \u2014 the suspension spring element using resistance to twisting rather than a coil spring's bending to provide suspension spring rate \u2014 used in front suspension applications on trucks and SUVs. Forged and heat treated for exceptional fatigue resistance under continuous cyclic torsional stress across the bar's full length. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged torsion bar components \u2014 the suspension spring element using resistance to twisting rather than a coil spring's bending to provide suspension spring rate \u2014 used in front suspension applications on trucks and SUVs. Forged and heat treated for exceptional fatigue resistance under continuous cyclic torsional stress across the bar's full length. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Splined-End Torsion Bar Forgings",
@@ -50309,7 +50309,7 @@ window.pageContent['componentsData'] = {
             },
             {
                 "question": "How do I get a quote for stub axle forgings?",
-                "answer": "Send your drawing with material grade, heat treatment specification, required tolerances, and annual volume to info@JK Forge.com or call +91-9265772827. We will respond with a detailed quote including tooling cost, piece price, and PPAP documentation cost within 48 hours."
+                "answer": "Send your drawing with material grade, heat treatment specification, required tolerances, and annual volume to info@JK Forge.com or call +91 7600066117. We will respond with a detailed quote including tooling cost, piece price, and PPAP documentation cost within 48 hours."
             }
         ]
     },
@@ -50445,7 +50445,7 @@ window.pageContent['componentsData'] = {
             },
             {
                 "question": "How do I get a quote for stub axle forgings?",
-                "answer": "Send your drawing with material grade, heat treatment specification, required tolerances, and annual volume to info@JK Forge.com or call +91-9265772827. We will respond with a detailed quote including tooling cost, piece price, and PPAP documentation cost within 48 hours."
+                "answer": "Send your drawing with material grade, heat treatment specification, required tolerances, and annual volume to info@JK Forge.com or call +91 7600066117. We will respond with a detailed quote including tooling cost, piece price, and PPAP documentation cost within 48 hours."
             }
         ]
     },
@@ -50471,7 +50471,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Pump Impeller Shaft Forgings \u2014 Torque & Axial Thrust Transmission from Drive Motor to Impeller in Continuous-Duty Process Pumps",
-        "description2": "JK Forge manufactures forged pump impeller shaft components \u2014 the shaft connecting a pump's drive motor to its impeller, transmitting drive torque while carrying the axial thrust load the impeller generates \u2014 in corrosion-resistant material grades matched to the pumped fluid, for continuous-duty industrial and process pump service. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged pump impeller shaft components \u2014 the shaft connecting a pump's drive motor to its impeller, transmitting drive torque while carrying the axial thrust load the impeller generates \u2014 in corrosion-resistant material grades matched to the pumped fluid, for continuous-duty industrial and process pump service. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Corrosion-Resistant Process Pump Shaft Forgings",
@@ -50595,7 +50595,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Pump Impeller Shaft Forgings \u2014 Torque & Axial Thrust Transmission from Drive Motor to Impeller in Continuous-Duty Process Pumps",
-        "description2": "JK Forge manufactures forged pump impeller shaft components \u2014 the shaft connecting a pump's drive motor to its impeller, transmitting drive torque while carrying the axial thrust load the impeller generates \u2014 in corrosion-resistant material grades matched to the pumped fluid, for continuous-duty industrial and process pump service. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged pump impeller shaft components \u2014 the shaft connecting a pump's drive motor to its impeller, transmitting drive torque while carrying the axial thrust load the impeller generates \u2014 in corrosion-resistant material grades matched to the pumped fluid, for continuous-duty industrial and process pump service. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Corrosion-Resistant Process Pump Shaft Forgings",
@@ -50719,7 +50719,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Torque Converter Hub Forgings \u2014 Splined Drive Hub Connecting the Impeller to the Transmission Pump and Input Shaft",
-        "description2": "JK Forge manufactures forged torque converter hub components \u2014 the splined hub welded or fitted to the converter impeller shell that engages the transmission's front pump drive gear and carries engine torque into the automatic transmission \u2014 engineered for the weld-fit-up integrity, spline concentricity, and fatigue resistance this always-loaded connection demands. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged torque converter hub components \u2014 the splined hub welded or fitted to the converter impeller shell that engages the transmission's front pump drive gear and carries engine torque into the automatic transmission \u2014 engineered for the weld-fit-up integrity, spline concentricity, and fatigue resistance this always-loaded connection demands. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Stator Support Hub Forgings",
@@ -50843,7 +50843,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content Torque Converter Hub Forgings \u2014 Splined Drive Hub Connecting the Impeller to the Transmission Pump and Input Shaft",
-        "description2": "JK Forge manufactures forged torque converter hub components \u2014 the splined hub welded or fitted to the converter impeller shell that engages the transmission's front pump drive gear and carries engine torque into the automatic transmission \u2014 engineered for the weld-fit-up integrity, spline concentricity, and fatigue resistance this always-loaded connection demands. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged torque converter hub components \u2014 the splined hub welded or fitted to the converter impeller shell that engages the transmission's front pump drive gear and carries engine torque into the automatic transmission \u2014 engineered for the weld-fit-up integrity, spline concentricity, and fatigue resistance this always-loaded connection demands. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "Stator Support Hub Forgings",
@@ -50967,7 +50967,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content BOP Component Forgings \u2014 Ram Blocks & Body Forgings for Blowout Preventer Well-Control Equipment",
-        "description2": "JK Forge manufactures forged blowout preventer (BOP) component blanks \u2014 ram blocks and body forgings supplied as component-level forgings into BOP assembly and rebuild supply chains, not complete certified BOP stacks. High-strength alloy steel addressing the extreme pressure containment and rapid-actuation structural loading these well-control safety components must reliably deliver. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged blowout preventer (BOP) component blanks \u2014 ram blocks and body forgings supplied as component-level forgings into BOP assembly and rebuild supply chains, not complete certified BOP stacks. High-strength alloy steel addressing the extreme pressure containment and rapid-actuation structural loading these well-control safety components must reliably deliver. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "BOP Body and Bonnet Forgings",
@@ -51083,7 +51083,7 @@ window.pageContent['componentsData'] = {
             }
         ],
         "description1": "Skip to main content BOP Component Forgings \u2014 Ram Blocks & Body Forgings for Blowout Preventer Well-Control Equipment",
-        "description2": "JK Forge manufactures forged blowout preventer (BOP) component blanks \u2014 ram blocks and body forgings supplied as component-level forgings into BOP assembly and rebuild supply chains, not complete certified BOP stacks. High-strength alloy steel addressing the extreme pressure containment and rapid-actuation structural loading these well-control safety components must reliably deliver. Rajkot, India. Call +91-9265772827.",
+        "description2": "JK Forge manufactures forged blowout preventer (BOP) component blanks \u2014 ram blocks and body forgings supplied as component-level forgings into BOP assembly and rebuild supply chains, not complete certified BOP stacks. High-strength alloy steel addressing the extreme pressure containment and rapid-actuation structural loading these well-control safety components must reliably deliver. Rajkot, India. Call +91 7600066117.",
         "components": [
             {
                 "title": "BOP Body and Bonnet Forgings",
@@ -51285,7 +51285,7 @@ window.pageContent['componentsData'] = {
             },
             {
                 "question": "What is the price of a forged steering knuckle in India?",
-                "answer": "Price depends on part weight, complexity, steel grade and machining scope. As a guide, forged passenger car knuckle blanks in EN19 start from \u20b9500\u2013900 per piece for production volumes; machined knuckles with bearing seat and ball joint bore finished are priced per drawing. Call +91 92657 72827 for a specific quotation."
+                "answer": "Price depends on part weight, complexity, steel grade and machining scope. As a guide, forged passenger car knuckle blanks in EN19 start from \u20b9500\u2013900 per piece for production volumes; machined knuckles with bearing seat and ball joint bore finished are priced per drawing. Call +91 7600066117 for a specific quotation."
             },
             {
                 "question": "Who manufactures steering knuckle forgings in India?",
@@ -51305,11 +51305,11 @@ window.pageContent['componentsData'] = {
             },
             {
                 "question": "What is the minimum quantity for steering knuckle forgings?",
-                "answer": "For existing die profiles, the minimum order is 50 pieces. For new die development, we request a first-article run of 10\u201325 pieces with FAIR before moving to production. Prototype runs of 3\u201310 pieces are possible for development projects \u2014 call +91 92657 72827 to discuss."
+                "answer": "For existing die profiles, the minimum order is 50 pieces. For new die development, we request a first-article run of 10\u201325 pieces with FAIR before moving to production. Prototype runs of 3\u201310 pieces are possible for development projects \u2014 call +91 7600066117 to discuss."
             },
             {
                 "question": "How do I get a quotation for steering knuckle forgings?",
-                "answer": "Email your 2D drawing or 3D STEP file with material grade, heat treatment specification, machining scope and required quantity to sales@JK Forge.com or call +91 92657 72827. We will respond within 24 hours with pricing and lead time."
+                "answer": "Email your 2D drawing or 3D STEP file with material grade, heat treatment specification, machining scope and required quantity to sales@JK Forge.com or call +91 7600066117. We will respond within 24 hours with pricing and lead time."
             }
         ]
     },
@@ -51421,7 +51421,7 @@ window.pageContent['componentsData'] = {
             },
             {
                 "question": "What is the price of a forged steering knuckle in India?",
-                "answer": "Price depends on part weight, complexity, steel grade and machining scope. As a guide, forged passenger car knuckle blanks in EN19 start from \u20b9500\u2013900 per piece for production volumes; machined knuckles with bearing seat and ball joint bore finished are priced per drawing. Call +91 92657 72827 for a specific quotation."
+                "answer": "Price depends on part weight, complexity, steel grade and machining scope. As a guide, forged passenger car knuckle blanks in EN19 start from \u20b9500\u2013900 per piece for production volumes; machined knuckles with bearing seat and ball joint bore finished are priced per drawing. Call +91 7600066117 for a specific quotation."
             },
             {
                 "question": "Who manufactures steering knuckle forgings in India?",
@@ -51441,11 +51441,11 @@ window.pageContent['componentsData'] = {
             },
             {
                 "question": "What is the minimum quantity for steering knuckle forgings?",
-                "answer": "For existing die profiles, the minimum order is 50 pieces. For new die development, we request a first-article run of 10\u201325 pieces with FAIR before moving to production. Prototype runs of 3\u201310 pieces are possible for development projects \u2014 call +91 92657 72827 to discuss."
+                "answer": "For existing die profiles, the minimum order is 50 pieces. For new die development, we request a first-article run of 10\u201325 pieces with FAIR before moving to production. Prototype runs of 3\u201310 pieces are possible for development projects \u2014 call +91 7600066117 to discuss."
             },
             {
                 "question": "How do I get a quotation for steering knuckle forgings?",
-                "answer": "Email your 2D drawing or 3D STEP file with material grade, heat treatment specification, machining scope and required quantity to sales@JK Forge.com or call +91 92657 72827. We will respond within 24 hours with pricing and lead time."
+                "answer": "Email your 2D drawing or 3D STEP file with material grade, heat treatment specification, machining scope and required quantity to sales@JK Forge.com or call +91 7600066117. We will respond within 24 hours with pricing and lead time."
             }
         ]
     },

@@ -92,8 +92,8 @@ function renderProductDetail(title, slug) {
                             
                             <div class="mt-8 p-6 bg-gray-50 dark:bg-[#050914] border border-gray-200 dark:border-white/10 rounded-xl">
                                 <h4 class="text-gray-900 dark:text-white font-bold mb-4 font-mono tracking-wide">DIRECT COMMS</h4>
-                                <a href="tel:+919265772827" class="flex items-center text-gray-600 dark:text-gray-400 hover:text-secondary transition-colors mb-3">
-                                    <i class="fas fa-phone-alt fa-flip-horizontal w-6"></i> +91 92657 72827
+                                <a href="tel:+917600066117" class="flex items-center text-gray-600 dark:text-gray-400 hover:text-secondary transition-colors mb-3">
+                                    <i class="fas fa-phone-alt fa-flip-horizontal w-6"></i> +91 7600066117
                                 </a>
                                 <a href="mailto:info@jkforge.com" class="flex items-center text-gray-600 dark:text-gray-400 hover:text-secondary transition-colors">
                                     <i class="fas fa-envelope w-6"></i> info@jkforge.com
@@ -321,7 +321,7 @@ function renderCategoryDetail(title, slug) {
                         </ul>
                         
                         <div class="flex gap-4">
-                            <a href="tel:+919265772827" class="bg-[#d94f1c] hover:bg-[#c04314] text-white font-bold py-3 px-6 rounded-full transition-all shadow-[0_4px_14px_rgba(217,79,28,0.4)]">Call +91-9265772827</a>
+                            <a href="tel:+917600066117" class="bg-[#d94f1c] hover:bg-[#c04314] text-white font-bold py-3 px-6 rounded-full transition-all shadow-[0_4px_14px_rgba(217,79,28,0.4)]">Call +91 7600066117</a>
                             <a href="mailto:info@jkforge.com" class="bg-transparent border border-white/20 hover:bg-white/10 text-white font-medium py-3 px-6 rounded-full transition-all">Email Us</a>
                         </div>
                     </div>
