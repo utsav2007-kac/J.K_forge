@@ -53,7 +53,7 @@ function renderProductDetail(title, slug) {
     return `
         <!-- Dynamic Page Header -->
         <div class="bg-gray-50 dark:bg-[#050914] text-gray-900 dark:text-white pt-32 pb-16 relative overflow-hidden border-b border-gray-200 dark:border-white/10 transition-colors duration-300">
-            <div class="absolute inset-0 opacity-30 bg-cover bg-center mix-blend-overlay filter blur-sm transform scale-105" style="background-image: url('${data.image || './images/page-bg.jpg'}');"></div>
+            <div class="absolute inset-0 opacity-30 bg-cover bg-center mix-blend-overlay filter blur-sm transform scale-105" style="background-image: url('${data.image || './uploads/img_docx_33_7a15ebd5.png'}');"></div>
             <div class="absolute inset-0 bg-gradient-to-t from-gray-50 dark:from-[#050914] to-transparent"></div>
             
             <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10 gsap-3d-reveal">
@@ -74,11 +74,9 @@ function renderProductDetail(title, slug) {
                     <div class="lg:col-span-5 relative">
                         <div class="sticky top-24 gsap-heavy-drop">
                             <div class="bg-gray-50 dark:bg-[#050914] rounded-2xl border border-gray-200 dark:border-white/10 p-2 overflow-hidden group">
-                                <div class="aspect-w-1 aspect-h-1 relative rounded-xl overflow-hidden bg-gray-200 dark:bg-[#1b365d]">
-                                    <img src="${data.image || './images/hero-bg.jpg'}" alt="${displayTitle}" class="w-full h-full object-cover opacity-80 mix-blend-luminosity group-hover:mix-blend-normal group-hover:scale-105 transition-all duration-700">
+                                <div class="aspect-w-1 aspect-h-1 relative rounded-xl overflow-hidden bg-gray-100 dark:bg-[#1b365d] flex items-center justify-center p-4">
+                                    <img src="${data.image || './uploads/img_docx_9_06868e21.jpeg'}" alt="${displayTitle}" class="w-full h-full object-contain group-hover:scale-105 transition-all duration-700">
                                     <div class="absolute inset-0 border border-white/5 rounded-xl pointer-events-none"></div>
-                                    <!-- Scanning line animation overlay -->
-                                    <div class="absolute top-0 left-0 w-full h-1 bg-secondary/30 shadow-[0_0_15px_rgba(49,130,206,0.5)] animate-[scanLine_4s_linear_infinite]"></div>
                                 </div>
                             </div>
                             
@@ -161,10 +159,14 @@ async function loadProductDetailFromPHPBackend(slug) {
         if (response.ok) {
             const item = await response.json();
             if (item && item.title) {
+                let imgPath = item.image || item.image_path || item.img || '';
+                if (imgPath && !imgPath.startsWith('http') && !imgPath.startsWith('/') && !imgPath.startsWith('./')) {
+                    imgPath = 'uploads/' + imgPath;
+                }
                 const productObj = {
                     title: item.title,
-                    subtitle: item.subtitle,
-                    image: item.image,
+                    subtitle: item.subtitle || 'Specialized Component',
+                    image: imgPath,
                     description1: item.description1,
                     description2: item.description2,
                     category_slug: item.category_slug,
@@ -174,12 +176,9 @@ async function loadProductDetailFromPHPBackend(slug) {
                 window.pageContent['/' + cleanSlug] = productObj;
                 window.pageContent[cleanSlug] = productObj;
                 
-                const titleElem = document.querySelector('h1');
-                if (titleElem && titleElem.textContent !== item.title) {
-                    const appRoot = document.getElementById('app-root');
-                    if (appRoot) {
-                        appRoot.innerHTML = renderProductDetail(item.title, cleanSlug);
-                    }
+                const appRoot = document.getElementById('app-root');
+                if (appRoot) {
+                    appRoot.innerHTML = renderProductDetail(item.title, cleanSlug);
                 }
             }
         }
