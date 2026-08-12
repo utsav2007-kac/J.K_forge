@@ -1,0 +1,1025 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JK Forge - Administration Terminal</title>
+    
+    <!-- Google Fonts: Inter & Roboto Mono -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Roboto+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+    
+    <!-- Tailwind CSS (CDN) -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                        mono: ['Roboto Mono', 'monospace'],
+                    },
+                    colors: {
+                        primary: '#0c2b5e',
+                        secondary: '#1363a6',
+                        accent: '#c0c5ce',
+                        dark: '#050914',
+                        cardDark: '#0b1329',
+                        borderDark: 'rgba(255,255,255,0.08)'
+                    }
+                }
+            }
+        }
+    </script>
+    
+    <!-- FontAwesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <style>
+        body {
+            background-color: #050914;
+            color: #f8fafc;
+        }
+        /* Custom Scrollbar */
+        ::-webkit-scrollbar {
+            width: 6px;
+            height: 6px;
+        }
+        ::-webkit-scrollbar-track {
+            background: #050914; 
+        }
+        ::-webkit-scrollbar-thumb {
+            background: #1363a6; 
+            border-radius: 3px;
+        }
+        .modal-active {
+            overflow: hidden;
+        }
+        .glass-panel {
+            background: rgba(11, 19, 41, 0.7);
+            backdrop-filter: blur(12px);
+            border: 1px solid rgba(255,255,255,0.08);
+        }
+    </style>
+</head>
+<body class="font-sans antialiased min-h-screen">
+
+    <!-- Toast Notifications Container -->
+    <div id="toast-container" class="fixed top-6 right-6 z-50 flex flex-col gap-3 max-w-sm w-full"></div>
+
+    <!-- LOGIN SCREEN -->
+    <div id="login-screen" class="flex items-center justify-center min-h-screen px-4">
+        <!-- Grid pattern overlay -->
+        <div class="absolute inset-0 opacity-10 pointer-events-none" style="background-image: linear-gradient(#1b365d 1px, transparent 1px), linear-gradient(90deg, #1b365d 1px, transparent 1px); background-size: 40px 40px;"></div>
+        
+        <div class="glass-panel p-10 rounded-2xl w-full max-w-md shadow-2xl relative z-10">
+            <div class="text-center mb-8">
+                <i class="fas fa-microchip text-secondary text-5xl mb-4"></i>
+                <h1 class="text-3xl font-black tracking-tight uppercase bg-clip-text text-transparent bg-gradient-to-r from-white via-gray-300 to-accent">ADMIN TERMINAL</h1>
+                <p class="text-gray-400 font-mono text-xs mt-2">SECURE PORTAL ACCESS // ENTER AUTHENTICATION</p>
+            </div>
+            
+            <form id="login-form" class="space-y-6">
+                <div>
+                    <label class="block text-xs font-mono text-gray-400 uppercase tracking-widest mb-2">Username</label>
+                    <div class="relative">
+                        <span class="absolute inset-y-0 left-0 pl-3 flex items-center text-gray-500">
+                            <i class="fas fa-user-shield"></i>
+                        </span>
+                        <input type="text" id="login-username" required class="w-full bg-dark border border-borderDark focus:border-secondary outline-none rounded-lg pl-10 pr-4 py-3 text-sm font-mono placeholder-gray-600 transition-colors" placeholder="Operator Name">
+                    </div>
+                </div>
+                
+                <div>
+                    <label class="block text-xs font-mono text-gray-400 uppercase tracking-widest mb-2">Access Key</label>
+                    <div class="relative">
+                        <span class="absolute inset-y-0 left-0 pl-3 flex items-center text-gray-500">
+                            <i class="fas fa-key"></i>
+                        </span>
+                        <input type="password" id="login-password" required class="w-full bg-dark border border-borderDark focus:border-secondary outline-none rounded-lg pl-10 pr-4 py-3 text-sm font-mono placeholder-gray-600 transition-colors" placeholder="••••••••••••">
+                    </div>
+                </div>
+                
+                <button type="submit" class="w-full bg-secondary hover:bg-blue-700 text-white font-bold py-4 rounded-lg transition-all font-mono tracking-widest text-sm shadow-[0_0_15px_rgba(19,99,166,0.3)] hover:shadow-[0_0_25px_rgba(19,99,166,0.6)]">
+                    DECRYPT & CONNECT <i class="fas fa-satellite-dish ml-2"></i>
+                </button>
+            </form>
+        </div>
+    </div>
+
+    <!-- ADMIN DASHBOARD WORKSPACE (HIDDEN BY DEFAULT) -->
+    <div id="dashboard-screen" class="hidden min-h-screen flex flex-col">
+        <!-- Top Navigation -->
+        <header class="bg-cardDark border-b border-borderDark sticky top-0 z-30">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                <div class="flex justify-between items-center h-20">
+                    <div class="flex items-center gap-3">
+                        <i class="fas fa-network-wired text-secondary text-2xl"></i>
+                        <div>
+                            <span class="font-extrabold text-xl tracking-tight text-white">JK FORGE</span>
+                            <span class="ml-2 px-2 py-0.5 rounded text-[10px] font-mono bg-secondary/20 text-secondary border border-secondary/30">ADMIN TERMINAL v1.0</span>
+                        </div>
+                    </div>
+                    
+                    <div class="flex items-center gap-6">
+                        <div class="flex items-center gap-2 font-mono text-xs text-gray-400">
+                            <span class="w-2 h-2 rounded-full bg-green-500 animate-pulse"></span>
+                            <span>USER: <strong id="admin-user-display" class="text-white">admin</strong></span>
+                        </div>
+                        <button id="logout-btn" class="bg-red-950/40 border border-red-900/60 hover:bg-red-900/60 text-red-200 text-xs font-mono px-4 py-2.5 rounded-lg transition-all">
+                            LOGOUT <i class="fas fa-sign-out-alt ml-2"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <!-- Dashboard Body -->
+        <main class="flex-1 max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 py-8">
+            <!-- Tabs Menu -->
+            <div class="flex border-b border-borderDark mb-8 gap-4">
+                <button id="tab-products-btn" class="px-6 py-4 font-mono font-bold text-sm tracking-wider uppercase border-b-2 border-secondary text-white transition-all">
+                    <i class="fas fa-box-open mr-2 text-secondary"></i> Products catalog
+                </button>
+                <button id="tab-categories-btn" class="px-6 py-4 font-mono font-bold text-sm tracking-wider uppercase border-b-2 border-transparent text-gray-400 hover:text-white transition-all">
+                    <i class="fas fa-tags mr-2"></i> Product categories
+                </button>
+            </div>
+
+            <!-- Unified Stats Dashboard -->
+            <div class="grid grid-cols-1 sm:grid-cols-2 gap-6 mb-8">
+                <div class="glass-panel p-6 rounded-xl flex items-center justify-between shadow-lg">
+                    <div>
+                        <p class="text-xs font-mono text-gray-400 uppercase tracking-wider">Total Products</p>
+                        <h3 id="stat-products-count" class="text-3xl font-extrabold text-white mt-1">0</h3>
+                    </div>
+                    <i class="fas fa-boxes text-secondary text-3xl opacity-80"></i>
+                </div>
+                <div class="glass-panel p-6 rounded-xl flex items-center justify-between shadow-lg">
+                    <div>
+                        <p class="text-xs font-mono text-gray-400 uppercase tracking-wider">Active Categories</p>
+                        <h3 id="stat-categories-count" class="text-3xl font-extrabold text-white mt-1">0</h3>
+                    </div>
+                    <i class="fas fa-tags text-secondary text-3xl opacity-80"></i>
+                </div>
+            </div>
+
+            <!-- TAB 1: PRODUCTS LIST -->
+            <div id="tab-products" class="space-y-6">
+                <!-- Filters & Search Toolbar -->
+                <div class="glass-panel p-6 rounded-xl flex flex-col md:flex-row justify-between items-center gap-4">
+                    <div class="flex flex-col sm:flex-row items-center gap-4 w-full md:w-auto">
+                        <div class="relative w-full sm:w-80">
+                            <span class="absolute inset-y-0 left-0 pl-3 flex items-center text-gray-500">
+                                <i class="fas fa-search text-xs"></i>
+                            </span>
+                            <input type="text" id="prod-search" class="w-full bg-dark border border-borderDark focus:border-secondary outline-none rounded-lg pl-9 pr-4 py-2.5 text-sm font-mono placeholder-gray-600 transition-colors" placeholder="Search products...">
+                        </div>
+                        
+                        <div class="relative w-full sm:w-60">
+                            <select id="prod-cat-filter" class="w-full bg-dark border border-borderDark focus:border-secondary outline-none rounded-lg px-3 py-2.5 text-sm font-mono transition-colors appearance-none">
+                                <option value="0">All Categories</option>
+                            </select>
+                            <span class="absolute inset-y-0 right-0 pr-3 flex items-center text-gray-500 pointer-events-none">
+                                <i class="fas fa-chevron-down text-[10px]"></i>
+                            </span>
+                        </div>
+                    </div>
+                    
+                    <button id="btn-add-product" class="w-full md:w-auto bg-secondary hover:bg-blue-700 text-white font-bold px-6 py-3 rounded-lg transition-all font-mono tracking-wider text-sm flex items-center justify-center gap-2 shadow-[0_0_15px_rgba(19,99,166,0.3)]">
+                        <i class="fas fa-plus"></i> ADD NEW PRODUCT
+                    </button>
+                </div>
+
+                <!-- Products Table -->
+                <div class="glass-panel rounded-xl overflow-hidden shadow-2xl">
+                    <div class="overflow-x-auto">
+                        <table class="w-full text-left border-collapse font-mono text-xs">
+                            <thead>
+                                <tr class="bg-dark/80 text-gray-400 uppercase tracking-widest border-b border-borderDark">
+                                    <th class="py-4 px-6 font-semibold w-20 text-center">Image</th>
+                                    <th class="py-4 px-6 font-semibold">Title / Subtitle</th>
+                                    <th class="py-4 px-6 font-semibold">Slug (Route)</th>
+                                    <th class="py-4 px-6 font-semibold">Category</th>
+                                    <th class="py-4 px-6 font-semibold text-right">Actions</th>
+                                </tr>
+                            </thead>
+                            <tbody id="products-table-body" class="divide-y divide-borderDark">
+                                <!-- Loaded dynamically -->
+                            </tbody>
+                        </table>
+                    </div>
+                    <!-- Products Pagination -->
+                    <div id="products-pagination" class="px-6 py-4 border-t border-borderDark flex flex-col sm:flex-row items-center justify-between gap-3">
+                        <span id="products-page-info" class="text-xs font-mono text-gray-500"></span>
+                        <div id="products-page-btns" class="flex items-center gap-1"></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- TAB 2: CATEGORIES LIST -->
+            <div id="tab-categories" class="hidden space-y-6">
+                <!-- Toolbar -->
+                <div class="glass-panel p-6 rounded-xl flex justify-between items-center gap-4">
+                    <div class="text-sm font-mono text-gray-400">Manage high-level menu categories.</div>
+                    <button id="btn-add-category" class="bg-secondary hover:bg-blue-700 text-white font-bold px-6 py-3 rounded-lg transition-all font-mono tracking-wider text-sm flex items-center gap-2 shadow-[0_0_15px_rgba(19,99,166,0.3)]">
+                        <i class="fas fa-plus"></i> ADD NEW CATEGORY
+                    </button>
+                </div>
+
+                <!-- Categories Table -->
+                <div class="glass-panel rounded-xl overflow-hidden shadow-2xl">
+                    <table class="w-full text-left border-collapse font-mono text-xs">
+                        <thead>
+                            <tr class="bg-dark/80 text-gray-400 uppercase tracking-widest border-b border-borderDark">
+                                <th class="py-4 px-6 font-semibold">ID</th>
+                                <th class="py-4 px-6 font-semibold">Title</th>
+                                <th class="py-4 px-6 font-semibold">Slug / ID Identifier</th>
+                                <th class="py-4 px-6 font-semibold text-center">Products Linked</th>
+                                <th class="py-4 px-6 font-semibold text-right">Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody id="categories-table-body" class="divide-y divide-borderDark">
+                            <!-- Loaded dynamically -->
+                        </tbody>
+                    </table>
+                    <!-- Categories Pagination -->
+                    <div id="categories-pagination" class="px-6 py-4 border-t border-borderDark flex flex-col sm:flex-row items-center justify-between gap-3">
+                        <span id="categories-page-info" class="text-xs font-mono text-gray-500"></span>
+                        <div id="categories-page-btns" class="flex items-center gap-1"></div>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- MODAL: ADD / EDIT CATEGORY -->
+    <div id="category-modal" class="fixed inset-0 z-50 flex items-center justify-center hidden p-4">
+        <!-- Backdrop -->
+        <div class="absolute inset-0 bg-black/60 backdrop-blur-sm modal-close-trigger"></div>
+        <!-- Modal panel -->
+        <div class="glass-panel rounded-2xl w-full max-w-md shadow-2xl relative z-10 flex flex-col max-h-[90vh]">
+            <div class="p-6 border-b border-borderDark flex justify-between items-center">
+                <h3 id="category-modal-title" class="text-lg font-bold font-mono tracking-wider uppercase">Add Category</h3>
+                <button class="text-gray-400 hover:text-white modal-close-trigger"><i class="fas fa-times"></i></button>
+            </div>
+            
+            <form id="category-form" class="p-6 space-y-6 overflow-y-auto">
+                <input type="hidden" id="cat-id">
+                
+                <div>
+                    <label class="block text-xs font-mono text-gray-400 uppercase tracking-widest mb-2">Category Title</label>
+                    <input type="text" id="cat-title" required class="w-full bg-dark border border-borderDark focus:border-secondary outline-none rounded-lg px-4 py-3 text-sm font-mono" placeholder="e.g. Drivetrains">
+                </div>
+                
+                <div class="flex gap-4 pt-4 border-t border-borderDark">
+                    <button type="button" class="w-1/2 bg-transparent hover:bg-white/5 border border-borderDark text-gray-400 hover:text-white py-3.5 rounded-lg transition-all font-mono text-sm modal-close-trigger">
+                        CANCEL
+                    </button>
+                    <button type="submit" class="w-1/2 bg-secondary hover:bg-blue-700 text-white font-bold py-3.5 rounded-lg transition-all font-mono tracking-wide text-sm">
+                        SAVE CATEGORY
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- MODAL: ADD / EDIT PRODUCT -->
+    <div id="product-modal" class="fixed inset-0 z-50 flex items-center justify-center hidden p-4">
+        <!-- Backdrop -->
+        <div class="absolute inset-0 bg-black/60 backdrop-blur-sm modal-close-trigger"></div>
+        <!-- Modal panel -->
+        <div class="glass-panel rounded-2xl w-full max-w-4xl shadow-2xl relative z-10 flex flex-col max-h-[90vh]">
+            <div class="p-6 border-b border-borderDark flex justify-between items-center">
+                <h3 id="product-modal-title" class="text-lg font-bold font-mono tracking-wider uppercase">Add Product</h3>
+                <button class="text-gray-400 hover:text-white modal-close-trigger"><i class="fas fa-times"></i></button>
+            </div>
+            
+            <form id="product-form" class="flex-1 overflow-y-auto p-6 space-y-6">
+                <input type="hidden" id="prod-id">
+                
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                    <div>
+                        <label class="block text-xs font-mono text-gray-400 uppercase tracking-widest mb-2">Category Assignment</label>
+                        <div class="relative">
+                            <select id="prod-category-id" required class="w-full bg-dark border border-borderDark focus:border-secondary outline-none rounded-lg px-3 py-3 text-sm font-mono appearance-none">
+                                <!-- Loaded dynamically -->
+                            </select>
+                            <span class="absolute inset-y-0 right-0 pr-3 flex items-center text-gray-500 pointer-events-none">
+                                <i class="fas fa-chevron-down text-[10px]"></i>
+                            </span>
+                        </div>
+                    </div>
+                    
+                    <div>
+                        <label class="block text-xs font-mono text-gray-400 uppercase tracking-widest mb-2">Product Title</label>
+                        <input type="text" id="prod-title" required class="w-full bg-dark border border-borderDark focus:border-secondary outline-none rounded-lg px-4 py-3 text-sm font-mono" placeholder="e.g. Gear blank Forging">
+                    </div>
+                    
+                    <div>
+                        <label class="block text-xs font-mono text-gray-400 uppercase tracking-widest mb-2">Product Subtitle (Eyebrow)</label>
+                        <input type="text" id="prod-subtitle" class="w-full bg-dark border border-borderDark focus:border-secondary outline-none rounded-lg px-4 py-3 text-sm font-mono" placeholder="e.g. Precision Component">
+                    </div>
+                    
+                    <div>
+                        <label class="block text-xs font-mono text-gray-400 uppercase tracking-widest mb-2">Product Slug (Page Parameter URL)</label>
+                        <input type="text" id="prod-slug" required class="w-full bg-dark border border-borderDark focus:border-secondary outline-none rounded-lg px-4 py-3 text-sm font-mono" placeholder="e.g. /gear-blank-forging">
+                        <p class="text-[10px] text-gray-500 font-mono mt-1">Must start with a leading slash '/' and match the headers parameters.</p>
+                    </div>
+                    
+                    <div class="md:col-span-2 flex flex-col md:flex-row gap-6">
+                        <div class="flex-1">
+                            <label class="block text-xs font-mono text-gray-400 uppercase tracking-widest mb-2">Product Image</label>
+                            <div class="flex gap-4 items-center">
+                                <input type="text" id="prod-image" class="flex-1 bg-dark border border-borderDark focus:border-secondary outline-none rounded-lg px-4 py-3 text-sm font-mono" placeholder="./images/facility.jpg">
+                                <div class="relative overflow-hidden">
+                                    <button type="button" class="bg-secondary/20 hover:bg-secondary/40 text-secondary border border-secondary/30 text-xs font-mono px-5 py-3 rounded-lg transition-all flex items-center gap-2">
+                                        <i class="fas fa-upload"></i> UPLOAD IMAGE
+                                    </button>
+                                    <input type="file" id="prod-image-file" accept="image/*" class="absolute inset-0 opacity-0 cursor-pointer">
+                                </div>
+                            </div>
+                            <p id="upload-status" class="text-[10px] text-gray-500 font-mono mt-1">Upload a local file or specify a relative image path.</p>
+                        </div>
+                        <!-- Live Image Preview Container -->
+                        <div class="w-full md:w-32 flex flex-col items-center">
+                            <label class="block text-xs font-mono text-gray-400 uppercase tracking-widest mb-2 w-full text-left md:text-center">Preview</label>
+                            <div class="w-full h-24 md:w-28 md:h-24 rounded-lg overflow-hidden border border-borderDark bg-dark flex items-center justify-center relative">
+                                <img id="prod-image-preview" src="../images/facility.jpg" class="w-full h-full object-cover">
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="md:col-span-2">
+                        <label class="block text-xs font-mono text-gray-400 uppercase tracking-widest mb-2">Engineering Specs Paragraph 1</label>
+                        <textarea id="prod-desc1" rows="3" class="w-full bg-dark border border-borderDark focus:border-secondary outline-none rounded-lg px-4 py-3 text-sm font-mono resize-none" placeholder="First paragraph description..."></textarea>
+                    </div>
+                    
+                    <div class="md:col-span-2">
+                        <label class="block text-xs font-mono text-gray-400 uppercase tracking-widest mb-2">Engineering Specs Paragraph 2</label>
+                        <textarea id="prod-desc2" rows="3" class="w-full bg-dark border border-borderDark focus:border-secondary outline-none rounded-lg px-4 py-3 text-sm font-mono resize-none" placeholder="Second paragraph description..."></textarea>
+                    </div>
+                </div>
+                
+
+
+                <div class="flex gap-4 pt-6 border-t border-borderDark">
+                    <button type="button" class="w-1/2 bg-transparent hover:bg-white/5 border border-borderDark text-gray-400 hover:text-white py-4 rounded-lg transition-all font-mono text-sm modal-close-trigger">
+                        CANCEL
+                    </button>
+                    <button type="submit" class="w-1/2 bg-secondary hover:bg-blue-700 text-white font-bold py-4 rounded-lg transition-all font-mono tracking-wide text-sm">
+                        SAVE PRODUCT
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- SCRIPT APPLICATION SYSTEM -->
+    <script>
+        // API Base configuration
+        const API_URL = ''; // Relative path, API files sit in same directory
+
+        // App state
+        let currentTab = 'products';
+        let categories = [];
+        let products = [];
+        let token = localStorage.getItem('jk_forge_token');
+        let slugManuallyEdited = false;
+
+        // Initial setup
+        window.addEventListener('DOMContentLoaded', () => {
+            checkAuth();
+            initEventListeners();
+        });
+
+        // 1. Toast Notification system
+        function showToast(message, type = 'success') {
+            const container = document.getElementById('toast-container');
+            const toast = document.createElement('div');
+            
+            const colors = {
+                success: 'bg-green-950/90 border-green-800 text-green-200',
+                error: 'bg-red-950/90 border-red-800 text-red-200',
+                warning: 'bg-yellow-950/90 border-yellow-800 text-yellow-200'
+            };
+            
+            const icons = {
+                success: 'fa-check-circle',
+                error: 'fa-exclamation-triangle',
+                warning: 'fa-exclamation-circle'
+            };
+            
+            toast.className = `flex items-start gap-3 p-4 rounded-lg border backdrop-blur-md shadow-2xl transition-all duration-300 transform translate-x-12 opacity-0 ${colors[type]}`;
+            toast.innerHTML = `
+                <i class="fas ${icons[type]} text-lg mt-0.5"></i>
+                <div class="flex-1 font-mono text-xs">
+                    <p class="font-bold uppercase">${type}</p>
+                    <p class="text-gray-300 mt-1">${message}</p>
+                </div>
+            `;
+            
+            container.appendChild(toast);
+            
+            // Trigger animation
+            setTimeout(() => {
+                toast.classList.remove('translate-x-12', 'opacity-0');
+            }, 50);
+            
+            // Auto dismiss
+            setTimeout(() => {
+                toast.classList.add('translate-x-12', 'opacity-0');
+                setTimeout(() => toast.remove(), 300);
+            }, 4000);
+        }
+
+        // 2. Authentication flow
+        function checkAuth() {
+            if (token) {
+                document.getElementById('login-screen').classList.add('hidden');
+                document.getElementById('dashboard-screen').classList.remove('hidden');
+                loadDashboardData();
+            } else {
+                document.getElementById('login-screen').classList.remove('hidden');
+                document.getElementById('dashboard-screen').classList.add('hidden');
+            }
+        }
+
+        // 3. API Requests Wrapper (automatically injects Auth header)
+        async function apiRequest(endpoint, method = 'GET', data = null) {
+            const url = API_URL + endpoint;
+            const headers = {
+                'Content-Type': 'application/json'
+            };
+            
+            if (token) {
+                headers['Authorization'] = `Bearer ${token}`;
+            }
+            
+            const options = { method, headers };
+            if (data) {
+                options.body = JSON.stringify(data);
+            }
+            
+            try {
+                const response = await fetch(url, options);
+                
+                const responseText = await response.text();
+                let result = {};
+                try {
+                    result = JSON.parse(responseText);
+                } catch (jsonErr) {
+                    if (response.status === 401) {
+                        localStorage.removeItem('jk_forge_token');
+                        token = null;
+                        checkAuth();
+                        showToast('Invalid username or password', 'error');
+                        throw new Error('Invalid username or password');
+                    }
+                    const cleanErr = responseText.includes('<!DOCTYPE') || responseText.includes('<html') ? 
+                        'Server returned an invalid HTML page instead of JSON.' : (responseText || 'Invalid server response');
+                    showToast(cleanErr, 'error');
+                    throw new Error(cleanErr);
+                }
+                
+                // Session expired or unauthorized
+                if (response.status === 401) {
+                    localStorage.removeItem('jk_forge_token');
+                    token = null;
+                    checkAuth();
+                    showToast(result.error || 'Invalid username or password', 'error');
+                    throw new Error('Unauthorized');
+                }
+                
+                if (!response.ok) {
+                    throw new Error(result.error || 'Server error');
+                }
+                return result;
+            } catch (error) {
+                if (error.message !== 'Unauthorized') {
+                    showToast(error.message, 'error');
+                }
+                throw error;
+            }
+        }
+
+        // 4. Data Loading
+        async function loadDashboardData() {
+            try {
+                // Fetch categories
+                categories = await apiRequest('categories.php');
+                populateCategorySelectors();
+                renderCategoriesTable();
+                
+                // Fetch products
+                products = await apiRequest('products.php');
+                renderProductsTable();
+
+                // Update Stats Bar
+                document.getElementById('stat-products-count').textContent = products.length;
+                document.getElementById('stat-categories-count').textContent = categories.length;
+            } catch (err) {
+                console.error("Error loading dashboard data:", err);
+            }
+        }
+
+        function populateCategorySelectors() {
+            const filterSelect = document.getElementById('prod-cat-filter');
+            const modalSelect = document.getElementById('prod-category-id');
+            
+            // Clear current options except default for filter
+            filterSelect.innerHTML = '<option value="0">All Categories</option>';
+            modalSelect.innerHTML = '<option value="" disabled selected>Select Category</option>';
+            
+            categories.forEach(cat => {
+                const opt1 = document.createElement('option');
+                opt1.value = cat.id;
+                opt1.textContent = cat.title;
+                filterSelect.appendChild(opt1);
+                
+                const opt2 = document.createElement('option');
+                opt2.value = cat.id;
+                opt2.textContent = cat.title;
+                modalSelect.appendChild(opt2);
+            });
+        }
+
+        // 5. Pagination State
+        const ITEMS_PER_PAGE = 10;
+        let productsCurrentPage = 1;
+        let categoriesCurrentPage = 1;
+
+        // Pagination renderer helper
+        function renderPagination(totalItems, currentPage, infoElId, btnsElId, onPageChange) {
+            const totalPages = Math.max(1, Math.ceil(totalItems / ITEMS_PER_PAGE));
+            const infoEl = document.getElementById(infoElId);
+            const btnsEl = document.getElementById(btnsElId);
+
+            const start = totalItems === 0 ? 0 : (currentPage - 1) * ITEMS_PER_PAGE + 1;
+            const end = Math.min(currentPage * ITEMS_PER_PAGE, totalItems);
+            infoEl.textContent = `Showing ${start}–${end} of ${totalItems}`;
+
+            btnsEl.innerHTML = '';
+
+            if (totalPages <= 1) return;
+
+            // Prev button
+            const prevBtn = document.createElement('button');
+            prevBtn.innerHTML = '<i class="fas fa-chevron-left text-[10px]"></i>';
+            prevBtn.className = `w-8 h-8 flex items-center justify-center rounded-md text-xs font-mono transition-all ${
+                currentPage === 1 ? 'text-gray-600 cursor-not-allowed' : 'text-gray-300 hover:bg-secondary/20 hover:text-white'
+            }`;
+            prevBtn.disabled = currentPage === 1;
+            prevBtn.addEventListener('click', () => { if (currentPage > 1) onPageChange(currentPage - 1); });
+            btnsEl.appendChild(prevBtn);
+
+            // Page number buttons (show max 5 around current)
+            let startPage = Math.max(1, currentPage - 2);
+            let endPage = Math.min(totalPages, startPage + 4);
+            if (endPage - startPage < 4) startPage = Math.max(1, endPage - 4);
+
+            if (startPage > 1) {
+                btnsEl.appendChild(createPageBtn(1, currentPage, onPageChange));
+                if (startPage > 2) {
+                    const dots = document.createElement('span');
+                    dots.className = 'text-gray-600 text-xs px-1';
+                    dots.textContent = '…';
+                    btnsEl.appendChild(dots);
+                }
+            }
+
+            for (let i = startPage; i <= endPage; i++) {
+                btnsEl.appendChild(createPageBtn(i, currentPage, onPageChange));
+            }
+
+            if (endPage < totalPages) {
+                if (endPage < totalPages - 1) {
+                    const dots = document.createElement('span');
+                    dots.className = 'text-gray-600 text-xs px-1';
+                    dots.textContent = '…';
+                    btnsEl.appendChild(dots);
+                }
+                btnsEl.appendChild(createPageBtn(totalPages, currentPage, onPageChange));
+            }
+
+            // Next button
+            const nextBtn = document.createElement('button');
+            nextBtn.innerHTML = '<i class="fas fa-chevron-right text-[10px]"></i>';
+            nextBtn.className = `w-8 h-8 flex items-center justify-center rounded-md text-xs font-mono transition-all ${
+                currentPage === totalPages ? 'text-gray-600 cursor-not-allowed' : 'text-gray-300 hover:bg-secondary/20 hover:text-white'
+            }`;
+            nextBtn.disabled = currentPage === totalPages;
+            nextBtn.addEventListener('click', () => { if (currentPage < totalPages) onPageChange(currentPage + 1); });
+            btnsEl.appendChild(nextBtn);
+        }
+
+        function createPageBtn(page, currentPage, onPageChange) {
+            const btn = document.createElement('button');
+            btn.textContent = page;
+            btn.className = `w-8 h-8 flex items-center justify-center rounded-md text-xs font-mono transition-all ${
+                page === currentPage
+                    ? 'bg-secondary text-white font-bold shadow-[0_0_10px_rgba(19,99,166,0.4)]'
+                    : 'text-gray-400 hover:bg-white/5 hover:text-white'
+            }`;
+            btn.addEventListener('click', () => onPageChange(page));
+            return btn;
+        }
+
+        // Table Rendering
+        function renderCategoriesTable() {
+            const tbody = document.getElementById('categories-table-body');
+            tbody.innerHTML = '';
+            
+            if (categories.length === 0) {
+                tbody.innerHTML = `<tr><td colspan="5" class="py-8 text-center text-gray-500 uppercase tracking-widest">No Categories Available</td></tr>`;
+                renderPagination(0, 1, 'categories-page-info', 'categories-page-btns', () => {});
+                return;
+            }
+
+            const totalPages = Math.max(1, Math.ceil(categories.length / ITEMS_PER_PAGE));
+            if (categoriesCurrentPage > totalPages) categoriesCurrentPage = totalPages;
+
+            const start = (categoriesCurrentPage - 1) * ITEMS_PER_PAGE;
+            const pageItems = categories.slice(start, start + ITEMS_PER_PAGE);
+            
+            pageItems.forEach(cat => {
+                const tr = document.createElement('tr');
+                tr.className = 'hover:bg-cardDark/50 transition-colors';
+                tr.innerHTML = `
+                    <td class="py-4 px-6 font-mono text-gray-400">#${cat.id}</td>
+                    <td class="py-4 px-6 font-bold text-white">${cat.title}</td>
+                    <td class="py-4 px-6 text-gray-400 font-mono">${cat.slug}</td>
+                    <td class="py-4 px-6 text-center"><span class="px-2.5 py-1 rounded-full bg-secondary/10 border border-secondary/20 text-secondary">${cat.product_count} items</span></td>
+                    <td class="py-4 px-6 text-right space-x-2">
+                        <button onclick="editCategory(${cat.id})" class="text-blue-400 hover:text-blue-300 font-bold p-1"><i class="fas fa-edit"></i> Edit</button>
+                        <button onclick="deleteCategory(${cat.id})" class="text-red-400 hover:text-red-300 font-bold p-1"><i class="fas fa-trash-alt"></i> Delete</button>
+                    </td>
+                `;
+                tbody.appendChild(tr);
+            });
+
+            renderPagination(categories.length, categoriesCurrentPage, 'categories-page-info', 'categories-page-btns', (page) => {
+                categoriesCurrentPage = page;
+                renderCategoriesTable();
+            });
+        }
+
+        function renderProductsTable(resetPage) {
+            if (resetPage) productsCurrentPage = 1;
+
+            const tbody = document.getElementById('products-table-body');
+            tbody.innerHTML = '';
+            
+            const catFilter = parseInt(document.getElementById('prod-cat-filter').value);
+            const searchVal = document.getElementById('prod-search').value.toLowerCase().trim();
+            
+            const filteredProducts = products.filter(prod => {
+                const matchesCat = catFilter === 0 || parseInt(prod.category_id) === catFilter;
+                const matchesSearch = empty(searchVal) || 
+                                     prod.title.toLowerCase().includes(searchVal) ||
+                                     prod.slug.toLowerCase().includes(searchVal) ||
+                                     (prod.subtitle && prod.subtitle.toLowerCase().includes(searchVal));
+                return matchesCat && matchesSearch;
+            });
+            
+            if (filteredProducts.length === 0) {
+                tbody.innerHTML = `<tr><td colspan="6" class="py-8 text-center text-gray-500 uppercase tracking-widest">No Products Found</td></tr>`;
+                renderPagination(0, 1, 'products-page-info', 'products-page-btns', () => {});
+                return;
+            }
+
+            const totalPages = Math.max(1, Math.ceil(filteredProducts.length / ITEMS_PER_PAGE));
+            if (productsCurrentPage > totalPages) productsCurrentPage = totalPages;
+
+            const start = (productsCurrentPage - 1) * ITEMS_PER_PAGE;
+            const pageItems = filteredProducts.slice(start, start + ITEMS_PER_PAGE);
+            
+            pageItems.forEach(prod => {
+                const tr = document.createElement('tr');
+                tr.className = 'hover:bg-cardDark/50 transition-colors';
+                
+                // Live view URL always points to product-detail page
+                const cleanSlug = prod.slug.replace(/^\//, '');
+                const liveUrl = `../product-detail.html?page=${cleanSlug}`;
+                
+                const relativeImg = prod.image ? prod.image.replace(/^\.\//, '../') : '../images/facility.jpg';
+                
+                tr.innerHTML = `
+                    <td class="py-4 px-6 text-center">
+                        <div class="w-10 h-10 rounded-lg overflow-hidden bg-dark border border-borderDark mx-auto flex items-center justify-center">
+                            <img src="${relativeImg}" alt="" class="w-full h-full object-cover">
+                        </div>
+                    </td>
+                    <td class="py-4 px-6">
+                        <p class="font-bold text-white text-sm">${prod.title}</p>
+                        <p class="text-gray-500 font-mono text-[10px] uppercase mt-0.5">${prod.subtitle || 'Precision Component'}</p>
+                    </td>
+                    <td class="py-4 px-6 text-gray-400 font-mono">${prod.slug}</td>
+                    <td class="py-4 px-6"><span class="px-2 py-0.5 rounded bg-gray-800 text-gray-300 border border-gray-700">${prod.category_title}</span></td>
+                    <td class="py-4 px-6 text-right space-x-2">
+                        <a href="${liveUrl}" target="_blank" class="text-green-400 hover:text-green-300 font-bold p-1 mr-2"><i class="fas fa-external-link-alt"></i> View</a>
+                        <button onclick="editProduct(${prod.id})" class="text-blue-400 hover:text-blue-300 font-bold p-1"><i class="fas fa-edit"></i> Edit</button>
+                        <button onclick="deleteProduct(${prod.id})" class="text-red-400 hover:text-red-300 font-bold p-1"><i class="fas fa-trash-alt"></i> Delete</button>
+                    </td>
+                `;
+                tbody.appendChild(tr);
+            });
+
+            renderPagination(filteredProducts.length, productsCurrentPage, 'products-page-info', 'products-page-btns', (page) => {
+                productsCurrentPage = page;
+                renderProductsTable();
+            });
+        }
+
+        function empty(val) {
+            return !val || val === '';
+        }
+
+        // 6. Action Handlers: Categories
+        function editCategory(id) {
+            const cat = categories.find(c => c.id === id);
+            if (!cat) return;
+            
+            document.getElementById('cat-id').value = cat.id;
+            document.getElementById('cat-title').value = cat.title;
+            
+            document.getElementById('category-modal-title').textContent = "Edit Category";
+            openModal('category-modal');
+        }
+
+        async function deleteCategory(id) {
+            const cat = categories.find(c => c.id === id);
+            if (!cat) return;
+            
+            if (confirm(`WARNING: Are you absolutely sure you want to delete the category "${cat.title}"?\n\nThis will CASCADE DELETE all ${cat.product_count} products belonging to this category! This action cannot be undone.`)) {
+                try {
+                    await apiRequest(`categories.php?id=${id}`, 'DELETE');
+                    showToast('Category deleted successfully', 'success');
+                    loadDashboardData();
+                } catch (e) {}
+            }
+        }
+
+        // 7. Action Handlers: Products
+        async function editProduct(id) {
+            try {
+                const prod = await apiRequest(`products.php?id=${id}`);
+                if (!prod) return;
+                
+                document.getElementById('prod-id').value = prod.id;
+                document.getElementById('prod-category-id').value = prod.category_id;
+                document.getElementById('prod-title').value = prod.title;
+                document.getElementById('prod-subtitle').value = prod.subtitle || '';
+                document.getElementById('prod-slug').value = prod.slug;
+                document.getElementById('prod-image').value = prod.image || '';
+                document.getElementById('prod-desc1').value = prod.description1 || '';
+                document.getElementById('prod-desc2').value = prod.description2 || '';
+                
+                // Update image preview element
+                const previewImg = prod.image ? prod.image.replace(/^\.\//, '../') : '../images/facility.jpg';
+                document.getElementById('prod-image-preview').src = previewImg;
+                
+                const statusText = document.getElementById('upload-status');
+                statusText.textContent = "Upload a local file or specify a relative image path.";
+                statusText.className = "text-[10px] text-gray-500 font-mono mt-1";
+
+                slugManuallyEdited = true;
+
+                document.getElementById('product-modal-title').textContent = "Edit Product";
+                openModal('product-modal');
+            } catch (e) {}
+        }
+
+        async function deleteProduct(id) {
+            if (confirm("Are you sure you want to delete this product? This action cannot be undone.")) {
+                try {
+                    await apiRequest(`products.php?id=${id}`, 'DELETE');
+                    showToast('Product deleted successfully', 'success');
+                    loadDashboardData();
+                } catch (e) {}
+            }
+        }
+
+
+
+        // 8. Event Listeners & UI Binding
+        function initEventListeners() {
+            // Login Form Submit
+            document.getElementById('login-form').addEventListener('submit', async (e) => {
+                e.preventDefault();
+                const username = document.getElementById('login-username').value;
+                const password = document.getElementById('login-password').value;
+                
+                try {
+                    const result = await apiRequest('login.php', 'POST', { username, password });
+                    if (result.success) {
+                        token = result.token;
+                        localStorage.setItem('jk_forge_token', token);
+                        document.getElementById('admin-user-display').textContent = result.user.username;
+                        checkAuth();
+                        showToast('Welcome to the admin bridge terminal.', 'success');
+                    }
+                } catch (err) {}
+            });
+
+            // Logout click
+            document.getElementById('logout-btn').addEventListener('logout_trigger', () => {}); // placeholder
+            document.getElementById('logout-btn').addEventListener('click', () => {
+                localStorage.removeItem('jk_forge_token');
+                token = null;
+                checkAuth();
+                showToast('Logged out of system bridge.', 'warning');
+            });
+
+            // Tab toggling
+            document.getElementById('tab-products-btn').addEventListener('click', (e) => {
+                toggleTab('products');
+            });
+            document.getElementById('tab-categories-btn').addEventListener('click', (e) => {
+                toggleTab('categories');
+            });
+
+            // Search and filters
+            document.getElementById('prod-search').addEventListener('input', () => renderProductsTable(true));
+            document.getElementById('prod-cat-filter').addEventListener('change', () => renderProductsTable(true));
+
+            // Add Actions triggers
+            document.getElementById('btn-add-category').addEventListener('click', () => {
+                document.getElementById('category-form').reset();
+                document.getElementById('cat-id').value = '';
+                document.getElementById('category-modal-title').textContent = "Add Category";
+                openModal('category-modal');
+            });
+
+            document.getElementById('btn-add-product').addEventListener('click', () => {
+                document.getElementById('product-form').reset();
+                document.getElementById('prod-id').value = '';
+                
+                // Reset image preview element to default
+                document.getElementById('prod-image-preview').src = '../images/facility.jpg';
+                
+                const statusText = document.getElementById('upload-status');
+                statusText.textContent = "Upload a local file or specify a relative image path.";
+                statusText.className = "text-[10px] text-gray-500 font-mono mt-1";
+
+                slugManuallyEdited = false;
+
+                document.getElementById('product-modal-title').textContent = "Add Product";
+                openModal('product-modal');
+            });
+
+            // Auto fill slug from product title if not manually edited
+            document.getElementById('prod-title').addEventListener('input', (e) => {
+                if (!slugManuallyEdited) {
+                    const title = e.target.value;
+                    const clean = title.toLowerCase()
+                                       .replace(/[^a-z0-9\s-]/g, '')
+                                       .trim()
+                                       .replace(/[\s-]+/g, '-');
+                    document.getElementById('prod-slug').value = clean ? '/' + clean : '';
+                }
+            });
+
+            document.getElementById('prod-slug').addEventListener('input', () => {
+                slugManuallyEdited = true;
+            });
+
+            // Live image typing input listener
+            document.getElementById('prod-image').addEventListener('input', (e) => {
+                const val = e.target.value.trim();
+                const preview = document.getElementById('prod-image-preview');
+                preview.src = val ? val.replace(/^\.\//, '../') : '../images/facility.jpg';
+            });
+
+            // Image File Upload Handler
+            document.getElementById('prod-image-file').addEventListener('change', async (e) => {
+                const file = e.target.files[0];
+                if (!file) return;
+                
+                const statusText = document.getElementById('upload-status');
+                statusText.textContent = "Uploading file... Please wait.";
+                statusText.className = "text-[10px] text-yellow-400 font-mono mt-1";
+                
+                const formData = new FormData();
+                formData.append('image', file);
+                
+                try {
+                    const response = await fetch('upload.php', {
+                        method: 'POST',
+                        headers: {
+                            'Authorization': 'Bearer ' + token
+                        },
+                        body: formData
+                    });
+                    
+                    const result = await response.json();
+                    
+                    if (response.ok && result.success) {
+                        document.getElementById('prod-image').value = result.url;
+                        
+                        // Update preview element source
+                        document.getElementById('prod-image-preview').src = result.url.replace(/^\.\//, '../');
+                        
+                        statusText.textContent = "Upload successful! Image set.";
+                        statusText.className = "text-[10px] text-green-400 font-mono mt-1";
+                        showToast('Image uploaded successfully', 'success');
+                    } else {
+                        throw new Error(result.error || 'Upload failed');
+                    }
+                } catch (err) {
+                    statusText.textContent = "Error: " + err.message;
+                    statusText.className = "text-[10px] text-red-400 font-mono mt-1";
+                    showToast(err.message, 'error');
+                }
+            });
+
+            // Modal closers
+            document.querySelectorAll('.modal-close-trigger').forEach(trigger => {
+                trigger.addEventListener('click', (e) => {
+                    if (e.target === trigger || trigger.tagName === 'BUTTON' || trigger.tagName === 'I') {
+                        closeAllModals();
+                    }
+                });
+            });
+
+            // Forms submissions
+            document.getElementById('category-form').addEventListener('submit', async (e) => {
+                e.preventDefault();
+                const id = document.getElementById('cat-id').value;
+                const title = document.getElementById('cat-title').value;
+                
+                const method = id ? 'PUT' : 'POST';
+                const payload = { title };
+                if (id) payload.id = id;
+                
+                try {
+                    await apiRequest('categories.php', method, payload);
+                    showToast(id ? 'Category updated' : 'Category created', 'success');
+                    closeAllModals();
+                    loadDashboardData();
+                } catch (err) {}
+            });
+
+            document.getElementById('product-form').addEventListener('submit', async (e) => {
+                e.preventDefault();
+                const id = document.getElementById('prod-id').value;
+                const category_id = document.getElementById('prod-category-id').value;
+                const title = document.getElementById('prod-title').value;
+                const subtitle = document.getElementById('prod-subtitle').value;
+                const slug = document.getElementById('prod-slug').value;
+                const image = document.getElementById('prod-image').value;
+                const description1 = document.getElementById('prod-desc1').value;
+                const description2 = document.getElementById('prod-desc2').value;
+                
+                const method = id ? 'PUT' : 'POST';
+                const payload = {
+                    category_id, title, subtitle, slug, image, description1, description2
+                };
+                if (id) payload.id = id;
+                
+                try {
+                    await apiRequest('products.php', method, payload);
+                    showToast(id ? 'Product updated' : 'Product created', 'success');
+                    closeAllModals();
+                    loadDashboardData();
+                } catch (err) {}
+            });
+        }
+
+        function toggleTab(tab) {
+            currentTab = tab;
+            const prodBtn = document.getElementById('tab-products-btn');
+            const catBtn = document.getElementById('tab-categories-btn');
+            
+            const prodTab = document.getElementById('tab-products');
+            const catTab = document.getElementById('tab-categories');
+            
+            if (tab === 'products') {
+                prodBtn.className = "px-6 py-4 font-mono font-bold text-sm tracking-wider uppercase border-b-2 border-secondary text-white transition-all";
+                catBtn.className = "px-6 py-4 font-mono font-bold text-sm tracking-wider uppercase border-b-2 border-transparent text-gray-400 hover:text-white transition-all";
+                prodTab.classList.remove('hidden');
+                catTab.classList.add('hidden');
+            } else {
+                catBtn.className = "px-6 py-4 font-mono font-bold text-sm tracking-wider uppercase border-b-2 border-secondary text-white transition-all";
+                prodBtn.className = "px-6 py-4 font-mono font-bold text-sm tracking-wider uppercase border-b-2 border-transparent text-gray-400 hover:text-white transition-all";
+                catTab.classList.remove('hidden');
+                prodTab.classList.add('hidden');
+            }
+        }
+
+        // 9. Modals actions
+        function openModal(id) {
+            document.getElementById(id).classList.remove('hidden');
+            document.body.classList.add('modal-active');
+        }
+
+        function closeAllModals() {
+            document.getElementById('category-modal').classList.add('hidden');
+            document.getElementById('product-modal').classList.add('hidden');
+            document.body.classList.remove('modal-active');
+        }
+    </script>
+</body>
+</html>

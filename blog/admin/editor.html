@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog Editor – JK Forge</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Roboto+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                        mono: ['Roboto Mono', 'monospace'],
+                    },
+                    colors: {
+                        primary: '#0c2b5e',
+                        secondary: '#1363a6',
+                        accent: '#c0c5ce',
+                        lightBg: '#f8fafc'
+                    }
+                }
+            }
+        }
+    </script>
+
+    <!-- FontAwesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <!-- Quill.js -->
+    <link href="https://cdn.quilljs.com/1.3.7/quill.snow.css" rel="stylesheet">
+    <script src="https://cdn.quilljs.com/1.3.7/quill.js"></script>
+
+    <style>
+        body { background-color: #f8fafc; color: #1e293b; }
+        ::-webkit-scrollbar { width: 6px; height: 6px; }
+        ::-webkit-scrollbar-track { background: #f1f5f9; }
+        ::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 3px; }
+        ::-webkit-scrollbar-thumb:hover { background: #94a3b8; }
+
+        /* Quill Light Theme Styling */
+        .ql-toolbar.ql-snow {
+            background: #f8fafc;
+            border-color: #cbd5e1 !important;
+            border-radius: 12px 12px 0 0;
+        }
+        .ql-container.ql-snow {
+            border-color: #cbd5e1 !important;
+            border-radius: 0 0 12px 12px;
+            background: #ffffff;
+            color: #1e293b;
+            font-family: 'Inter', sans-serif;
+            font-size: 15px;
+            min-height: 400px;
+        }
+        .ql-editor {
+            min-height: 400px;
+            line-height: 1.8;
+        }
+        .ql-editor.ql-blank::before {
+            color: #94a3b8;
+            font-style: normal;
+        }
+        .ql-editor h1, .ql-editor h2, .ql-editor h3 { color: #0c2b5e; font-weight: 700; }
+        .ql-editor a { color: #1363a6; }
+        .ql-editor blockquote {
+            border-left: 4px solid #1363a6;
+            padding: 0.5rem 1rem;
+            color: #475569;
+            background: #f0f7ff;
+            border-radius: 0 6px 6px 0;
+        }
+
+        /* Cover image preview */
+        .cover-preview {
+            background-size: cover;
+            background-position: center;
+            transition: all 0.3s ease;
+        }
+
+        .toast {
+            animation: slideInRight 0.3s ease-out;
+        }
+        @keyframes slideInRight {
+            from { transform: translateX(100%); opacity: 0; }
+            to { transform: translateX(0); opacity: 1; }
+        }
+    </style>
+</head>
+<body class="font-sans antialiased min-h-screen bg-slate-50 text-slate-800">
+
+    <!-- Toast Container -->
+    <div id="toast-container" class="fixed top-4 right-4 z-[200] space-y-2"></div>
+
+    <!-- Header -->
+    <header class="bg-white border-b border-slate-200 sticky top-0 z-50 shadow-sm">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between items-center h-16">
+                <div class="flex items-center gap-3">
+                    <a href="index.html" class="w-8 h-8 rounded-lg bg-slate-100 border border-slate-200 flex items-center justify-center text-slate-600 hover:text-slate-900 hover:bg-slate-200 transition-all">
+                        <i class="fas fa-arrow-left text-xs"></i>
+                    </a>
+                    <div class="w-9 h-9 bg-blue-50 border border-blue-100 rounded-lg flex items-center justify-center text-secondary">
+                        <i class="fas fa-blog text-base"></i>
+                    </div>
+                    <span class="font-extrabold font-mono text-base uppercase tracking-wider text-primary">Blog Editor</span>
+                    <span id="editor-mode-badge" class="bg-emerald-50 text-emerald-700 border border-emerald-200 text-[10px] font-mono font-bold px-2.5 py-0.5 rounded-full">NEW POST</span>
+                </div>
+                <div class="flex items-center gap-3">
+                    <button onclick="savePost('draft')" class="bg-amber-50 border border-amber-200 hover:bg-amber-100 text-amber-700 font-bold px-5 py-2.5 rounded-lg transition-all font-mono text-xs shadow-sm">
+                        <i class="fas fa-save mr-1"></i> SAVE DRAFT
+                    </button>
+                    <button onclick="savePost('published')" class="bg-secondary hover:bg-blue-700 text-white font-bold px-5 py-2.5 rounded-lg transition-all font-mono text-xs shadow-md hover:shadow-lg">
+                        <i class="fas fa-paper-plane mr-1"></i> PUBLISH
+                    </button>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Editor Content -->
+    <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+            <!-- Left: Main Content -->
+            <div class="lg:col-span-2 space-y-6">
+                <!-- Title -->
+                <div class="bg-white rounded-xl border border-slate-200 p-6 shadow-sm">
+                    <label class="block text-xs font-mono text-slate-500 uppercase tracking-widest mb-3">Post Title</label>
+                    <input type="text" id="post-title" class="w-full bg-white border border-slate-300 focus:border-secondary focus:ring-2 focus:ring-secondary/20 outline-none rounded-lg px-4 py-3.5 text-lg font-bold text-slate-800 transition-all placeholder-slate-400" placeholder="Enter your blog post title...">
+                </div>
+
+                <!-- Quill Editor -->
+                <div class="bg-white rounded-xl border border-slate-200 p-6 shadow-sm">
+                    <label class="block text-xs font-mono text-slate-500 uppercase tracking-widest mb-3">Content</label>
+                    <div id="quill-editor"></div>
+                </div>
+            </div>
+
+            <!-- Right: Sidebar -->
+            <div class="space-y-6">
+                <!-- Cover Image -->
+                <div class="bg-white rounded-xl border border-slate-200 p-6 shadow-sm">
+                    <label class="block text-xs font-mono text-slate-500 uppercase tracking-widest mb-3">Cover Image</label>
+                    <div id="cover-preview" class="cover-preview w-full h-44 rounded-lg bg-slate-50 border-2 border-dashed border-slate-300 flex items-center justify-center cursor-pointer hover:border-secondary transition-colors mb-4" onclick="document.getElementById('cover-input').click()">
+                        <div id="cover-placeholder" class="text-center">
+                            <i class="fas fa-cloud-upload-alt text-3xl text-slate-400 mb-2"></i>
+                            <p class="text-xs font-mono text-slate-500 font-medium">Click to upload cover</p>
+                        </div>
+                    </div>
+                    <input type="file" id="cover-input" accept="image/*" class="hidden">
+                    <input type="hidden" id="cover-url" value="">
+                    <button id="remove-cover-btn" class="hidden w-full text-xs font-mono font-bold text-red-500 hover:text-red-600 py-2 transition-colors flex items-center justify-center gap-1" onclick="removeCover()">
+                        <i class="fas fa-times"></i> Remove Cover
+                    </button>
+                </div>
+
+                <!-- Excerpt -->
+                <div class="bg-white rounded-xl border border-slate-200 p-6 shadow-sm">
+                    <label class="block text-xs font-mono text-slate-500 uppercase tracking-widest mb-3">Excerpt / Summary</label>
+                    <textarea id="post-excerpt" rows="4" class="w-full bg-white border border-slate-300 focus:border-secondary focus:ring-2 focus:ring-secondary/20 outline-none rounded-lg px-4 py-3 text-sm font-mono text-slate-800 transition-all resize-none placeholder-slate-400" placeholder="Short summary for the blog listing..."></textarea>
+                </div>
+
+                <!-- Author -->
+                <div class="bg-white rounded-xl border border-slate-200 p-6 shadow-sm">
+                    <label class="block text-xs font-mono text-slate-500 uppercase tracking-widest mb-3">Author</label>
+                    <input type="text" id="post-author" value="Admin" class="w-full bg-white border border-slate-300 focus:border-secondary focus:ring-2 focus:ring-secondary/20 outline-none rounded-lg px-4 py-3 text-sm font-mono text-slate-800 transition-all" placeholder="Author name">
+                </div>
+
+                <!-- Quick Actions -->
+                <div class="bg-white rounded-xl border border-slate-200 p-6 shadow-sm">
+                    <label class="block text-xs font-mono text-slate-500 uppercase tracking-widest mb-3">Quick Actions</label>
+                    <div class="space-y-2">
+                        <a href="index.html" class="w-full flex items-center gap-2 text-slate-600 hover:text-secondary text-xs font-mono font-semibold py-2 px-3 rounded-lg hover:bg-slate-50 transition-all">
+                            <i class="fas fa-list w-4"></i> Back to Dashboard
+                        </a>
+                        <a href="../index.html" target="_blank" class="w-full flex items-center gap-2 text-slate-600 hover:text-secondary text-xs font-mono font-semibold py-2 px-3 rounded-lg hover:bg-slate-50 transition-all">
+                            <i class="fas fa-external-link-alt w-4"></i> View Blog
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script>
+        const API_BASE = '../api/posts.php';
+        const UPLOAD_URL = '../api/upload.php';
+        const LOGIN_URL = '../../admin/login.php';
+
+        let token = localStorage.getItem('jk_blog_token') || '';
+        let editId = null;
+        let quill = null;
+
+        // ── Toast ──
+        function showToast(msg, type = 'info') {
+            const container = document.getElementById('toast-container');
+            const colors = { success: 'bg-emerald-600', error: 'bg-red-600', info: 'bg-secondary' };
+            const icons = { success: 'fa-check-circle', error: 'fa-times-circle', info: 'fa-info-circle' };
+            const div = document.createElement('div');
+            div.className = `toast ${colors[type]} text-white px-5 py-3 rounded-lg shadow-xl font-mono text-xs flex items-center gap-2`;
+            div.innerHTML = `<i class="fas ${icons[type]}"></i> ${msg}`;
+            container.appendChild(div);
+            setTimeout(() => div.remove(), 4000);
+        }
+
+        // ── Auth check ──
+        if (!token) {
+            window.location.href = 'index.html';
+        }
+
+        fetch(API_BASE + '?all=1', { headers: { 'Authorization': 'Bearer ' + token } })
+            .then(r => { if (!r.ok) window.location.href = 'index.html'; })
+            .catch(() => window.location.href = 'index.html');
+
+        // ── Initialize Quill ──
+        quill = new Quill('#quill-editor', {
+            theme: 'snow',
+            placeholder: 'Write your blog post content here...',
+            modules: {
+                toolbar: {
+                    container: [
+                        [{ 'header': [1, 2, 3, false] }],
+                        ['bold', 'italic', 'underline', 'strike'],
+                        [{ 'color': [] }, { 'background': [] }],
+                        [{ 'list': 'ordered' }, { 'list': 'bullet' }],
+                        ['blockquote', 'code-block'],
+                        ['link', 'image'],
+                        [{ 'align': [] }],
+                        ['clean']
+                    ],
+                    handlers: {
+                        image: imageHandler
+                    }
+                }
+            }
+        });
+
+        // ── Image handler for Quill toolbar ──
+        function imageHandler() {
+            const input = document.createElement('input');
+            input.setAttribute('type', 'file');
+            input.setAttribute('accept', 'image/*');
+            input.click();
+
+            input.onchange = async () => {
+                const file = input.files[0];
+                if (!file) return;
+
+                const formData = new FormData();
+                formData.append('image', file);
+
+                try {
+                    const res = await fetch(UPLOAD_URL, {
+                        method: 'POST',
+                        headers: { 'Authorization': 'Bearer ' + token },
+                        body: formData
+                    });
+                    const data = await res.json();
+                    if (data.url) {
+                        let imgUrl = data.url.replace(/^(\.\.\/|\.\/)+/, '');
+                        if (!imgUrl.startsWith('http')) {
+                            imgUrl = '../' + imgUrl;
+                        }
+                        const range = quill.getSelection(true);
+                        quill.insertEmbed(range.index, 'image', imgUrl);
+                        quill.setSelection(range.index + 1);
+                        showToast('Image inserted into post', 'success');
+                    } else {
+                        showToast(data.error || 'Upload failed', 'error');
+                    }
+                } catch (err) {
+                    showToast('Image upload failed', 'error');
+                }
+            };
+        }
+
+        // ── Cover Image Upload ──
+        document.getElementById('cover-input').addEventListener('change', async (e) => {
+            const file = e.target.files[0];
+            if (!file) return;
+
+            const formData = new FormData();
+            formData.append('image', file);
+
+            try {
+                const res = await fetch(UPLOAD_URL, {
+                    method: 'POST',
+                    headers: { 'Authorization': 'Bearer ' + token },
+                    body: formData
+                });
+                const data = await res.json();
+                if (data.url) {
+                    let cleanUrl = data.url.replace(/^(\.\.\/|\.\/)+/, '');
+                    document.getElementById('cover-url').value = cleanUrl;
+                    showCoverPreview(cleanUrl);
+                    showToast('Cover image uploaded', 'success');
+                } else {
+                    showToast(data.error || 'Upload failed', 'error');
+                }
+            } catch (err) {
+                showToast('Cover upload failed', 'error');
+            }
+        });
+
+        function showCoverPreview(url) {
+            if (!url) return;
+            let cleanUrl = url.replace(/^(\.\.\/|\.\/)+/, '');
+            let displayUrl = cleanUrl.startsWith('http') ? cleanUrl : '../' + cleanUrl;
+            const preview = document.getElementById('cover-preview');
+            preview.style.backgroundImage = `url('${displayUrl}')`;
+            document.getElementById('cover-placeholder').classList.add('hidden');
+            document.getElementById('remove-cover-btn').classList.remove('hidden');
+            preview.classList.remove('border-dashed');
+            preview.classList.add('border-solid', 'border-secondary/30');
+        }
+
+        function removeCover() {
+            document.getElementById('cover-url').value = '';
+            const preview = document.getElementById('cover-preview');
+            preview.style.backgroundImage = '';
+            document.getElementById('cover-placeholder').classList.remove('hidden');
+            document.getElementById('remove-cover-btn').classList.add('hidden');
+            preview.classList.add('border-dashed');
+            preview.classList.remove('border-solid', 'border-secondary/30');
+        }
+
+        // ── Save Post ──
+        async function savePost(status) {
+            let content = quill.root.innerHTML;
+            if (content) {
+                content = content.replace(/src=["'](?:\.\.\/|\.\/)*uploads\//g, 'src="uploads/');
+            }
+            const excerpt = document.getElementById('post-excerpt').value.trim();
+            let cover_image = document.getElementById('cover-url').value;
+            if (cover_image) {
+                cover_image = cover_image.replace(/^(\.\.\/|\.\/)+/, '');
+            }
+            const author = document.getElementById('post-author').value.trim() || 'Admin';
+
+            if (!title) {
+                showToast('Title is required', 'error');
+                document.getElementById('post-title').focus();
+                return;
+            }
+
+            if (!content || content === '<p><br></p>') {
+                showToast('Content is required', 'error');
+                return;
+            }
+
+            const payload = { title, content, excerpt, cover_image, author, status };
+            const method = editId ? 'PUT' : 'POST';
+            if (editId) payload.id = editId;
+
+            try {
+                const res = await fetch(API_BASE, {
+                    method,
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'Authorization': 'Bearer ' + token
+                    },
+                    body: JSON.stringify(payload)
+                });
+                const data = await res.json();
+
+                if (data.success) {
+                    showToast(editId ? 'Post updated! Redirecting...' : 'Post created! Redirecting...', 'success');
+                    setTimeout(() => {
+                        window.location.href = 'index.html';
+                    }, 600);
+                } else {
+                    showToast(data.error || 'Save failed', 'error');
+                }
+            } catch (err) {
+                showToast('Failed to save post', 'error');
+            }
+        }
+
+        // ── Load existing post for editing ──
+        async function loadPostForEdit(id) {
+            try {
+                const res = await fetch(API_BASE + '?id=' + id, {
+                    headers: { 'Authorization': 'Bearer ' + token }
+                });
+                if (!res.ok) {
+                    showToast('Post not found', 'error');
+                    return;
+                }
+                const post = await res.json();
+                if (post.error) {
+                    showToast(post.error, 'error');
+                    return;
+                }
+
+                editId = post.id;
+                document.getElementById('post-title').value = post.title;
+                let rawContent = post.content || '';
+                rawContent = rawContent.replace(/src=["'](?:\.\.\/|\.\/)*uploads\//g, 'src="../uploads/');
+                quill.root.innerHTML = rawContent;
+                document.getElementById('post-excerpt').value = post.excerpt || '';
+                document.getElementById('post-author').value = post.author || 'Admin';
+
+                if (post.cover_image) {
+                    let cleanUrl = post.cover_image.replace(/^(\.\.\/|\.\/)+/, '');
+                    document.getElementById('cover-url').value = cleanUrl;
+                    showCoverPreview(cleanUrl);
+                }
+
+                document.getElementById('editor-mode-badge').textContent = 'EDITING';
+                document.getElementById('editor-mode-badge').className = 'bg-blue-50 text-blue-700 border border-blue-200 text-[10px] font-mono font-bold px-2.5 py-0.5 rounded-full';
+                document.title = 'Edit: ' + post.title + ' – JK Forge';
+
+            } catch (err) {
+                showToast('Failed to load post', 'error');
+            }
+        }
+
+        // ── Check if editing ──
+        const params = new URLSearchParams(window.location.search);
+        const idParam = params.get('id');
+        if (idParam) {
+            loadPostForEdit(parseInt(idParam));
+        }
+    </script>
+</body>
+</html>

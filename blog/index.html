@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog – JK Forge | Forging & Casting Insights</title>
+    <meta name="description" content="Read the latest insights, news, and blogs from JK Forge about forging, casting, and precision manufacturing.">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Roboto+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                        mono: ['Roboto Mono', 'monospace'],
+                    },
+                    colors: {
+                        primary: '#0c2b5e',
+                        secondary: '#1363a6',
+                        accent: '#c0c5ce',
+                        dark: '#050914',
+                        light: '#f8fafc'
+                    }
+                }
+            }
+        }
+    </script>
+
+    <!-- FontAwesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="../styles.css">
+
+    <style>
+        .blog-card {
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .blog-card:hover {
+            transform: translateY(-6px);
+            box-shadow: 0 20px 40px -12px rgba(19, 99, 166, 0.15);
+        }
+        .blog-card:hover img {
+            transform: scale(1.05);
+        }
+        .blog-card img {
+            transition: transform 0.5s ease;
+        }
+        .line-clamp-2 {
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+        .line-clamp-3 {
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+    </style>
+</head>
+<body class="bg-light text-gray-800 font-sans antialiased overflow-x-hidden">
+
+    <!-- Navigation -->
+    <div id="main-header-container"></div>
+    <script src="../components/header.js"></script>
+
+    <!-- Hero Section -->
+    <section class="relative bg-gradient-to-br from-primary via-[#0a1e42] to-dark pt-32 pb-20 overflow-hidden">
+        <div class="absolute inset-0 opacity-10">
+            <div class="absolute top-0 left-0 w-96 h-96 bg-secondary rounded-full filter blur-3xl -translate-x-1/2 -translate-y-1/2"></div>
+            <div class="absolute bottom-0 right-0 w-80 h-80 bg-accent rounded-full filter blur-3xl translate-x-1/3 translate-y-1/3"></div>
+        </div>
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+            <div class="text-center">
+                <p class="text-secondary font-mono text-sm uppercase tracking-[0.3em] mb-4">JK Forge Blog</p>
+                <h1 class="text-4xl md:text-5xl lg:text-6xl font-extrabold text-white leading-tight mb-6">
+                    Insights & <span class="bg-gradient-to-r from-secondary to-accent bg-clip-text text-transparent">Updates</span>
+                </h1>
+                <p class="text-gray-400 text-lg max-w-2xl mx-auto">Stay informed with the latest news, technical blogs, and industry insights from JK Forge.</p>
+            </div>
+
+            <!-- Search Bar -->
+            <div class="max-w-xl mx-auto mt-10">
+                <div class="relative">
+                    <span class="absolute inset-y-0 left-0 pl-5 flex items-center text-gray-400">
+                        <i class="fas fa-search"></i>
+                    </span>
+                    <input type="text" id="blog-search" placeholder="Search blogs..." 
+                        class="w-full bg-white/10 backdrop-blur-md border border-white/20 rounded-full pl-12 pr-6 py-4 text-white placeholder-gray-400 focus:outline-none focus:border-secondary focus:ring-2 focus:ring-secondary/30 transition-all text-sm">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Blog Grid -->
+    <section class="py-20 bg-gray-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <!-- Posts Count -->
+            <div class="flex items-center justify-between mb-10">
+                <p id="posts-count" class="text-sm font-mono text-gray-500 uppercase tracking-wider"></p>
+            </div>
+
+            <!-- Grid -->
+            <div id="blog-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                <!-- Loading State -->
+                <div class="col-span-full flex items-center justify-center py-20">
+                    <div class="animate-spin rounded-full h-10 w-10 border-b-2 border-secondary"></div>
+                </div>
+            </div>
+
+            <!-- Pagination -->
+            <div id="blog-pagination" class="mt-14 flex flex-col sm:flex-row items-center justify-center gap-4">
+                <div id="page-info" class="text-sm font-mono text-gray-500"></div>
+                <div id="page-btns" class="flex items-center gap-2"></div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="bg-gradient-to-r from-primary to-secondary py-20">
+        <div class="max-w-4xl mx-auto px-4 text-center">
+            <h2 class="text-3xl md:text-4xl font-extrabold text-white mb-6">Let's Build Together</h2>
+            <p class="text-blue-100 text-lg mb-8 max-w-2xl mx-auto">Ready to forge your success? Let's discuss how Shivam Forge can deliver the precise components your industry needs.</p>
+            <a href="../contact.html" class="inline-flex items-center gap-2 bg-white text-primary font-bold px-8 py-4 rounded-lg hover:bg-gray-100 transition-all shadow-lg hover:shadow-xl">
+                Contact Us <i class="fas fa-arrow-right"></i>
+            </a>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <div id="main-footer-container"></div>
+    <script src="../components/footer.js"></script>
+
+    <script>
+        const API_BASE = 'api/posts.php';
+        const POSTS_PER_PAGE = 9;
+        let allPosts = [];
+        let currentPage = 1;
+        let searchQuery = '';
+
+        async function loadPosts() {
+            try {
+                let url = API_BASE;
+                if (searchQuery) url += '?search=' + encodeURIComponent(searchQuery);
+                const res = await fetch(url);
+                allPosts = await res.json();
+                if (!Array.isArray(allPosts)) allPosts = [];
+                currentPage = 1;
+                renderBlogGrid();
+            } catch (err) {
+                document.getElementById('blog-grid').innerHTML = `
+                    <div class="col-span-full text-center py-20 text-gray-500">
+                        <i class="fas fa-exclamation-triangle text-3xl mb-4 text-red-400"></i>
+                        <p>Failed to load blog posts.</p>
+                    </div>`;
+            }
+        }
+
+        function renderBlogGrid() {
+            const grid = document.getElementById('blog-grid');
+            const countEl = document.getElementById('posts-count');
+
+            if (allPosts.length === 0) {
+                grid.innerHTML = `
+                    <div class="col-span-full text-center py-20">
+                        <i class="fas fa-newspaper text-5xl text-gray-300 mb-4"></i>
+                        <p class="text-gray-500 text-lg">No blogs found.</p>
+                    </div>`;
+                countEl.textContent = '0 Blogs';
+                document.getElementById('page-info').textContent = '';
+                document.getElementById('page-btns').innerHTML = '';
+                return;
+            }
+
+            countEl.textContent = allPosts.length + ' Blog' + (allPosts.length !== 1 ? 's' : '');
+
+            const totalPages = Math.ceil(allPosts.length / POSTS_PER_PAGE);
+            if (currentPage > totalPages) currentPage = totalPages;
+
+            const start = (currentPage - 1) * POSTS_PER_PAGE;
+            const pageItems = allPosts.slice(start, start + POSTS_PER_PAGE);
+
+            grid.innerHTML = pageItems.map(post => {
+                const date = new Date(post.created_at).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
+                let imgSrc = post.cover_image ? post.cover_image.replace(/^(\.\.\/|\.\/)+/, '') : '../images/facility.jpg';
+                return `
+                    <a href="blog-detail.html?slug=${post.slug}" class="blog-card bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-xl border border-gray-200/80 group flex flex-col justify-between transition-all duration-300">
+                        <div>
+                            <div class="h-48 overflow-hidden bg-gray-100 relative">
+                                <img src="${imgSrc}" alt="${post.title}" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" onerror="this.src='../images/facility.jpg'">
+                            </div>
+                            <div class="p-6">
+                                <div class="flex items-center justify-between text-xs font-mono text-slate-400 mb-3">
+                                    <span class="inline-flex items-center gap-1.5 whitespace-nowrap"><i class="far fa-calendar-alt text-slate-400"></i> ${date}</span>
+                                    <span class="inline-flex items-center gap-1 px-2.5 py-0.5 rounded-full bg-slate-100 border border-slate-200 text-slate-600 font-semibold whitespace-nowrap text-[11px]"><i class="far fa-eye text-secondary"></i> ${(post.views || 0).toLocaleString()}</span>
+                                </div>
+                                <h3 class="text-base font-bold text-gray-900 group-hover:text-secondary transition-colors line-clamp-2 mb-2 leading-snug">${post.title}</h3>
+                                <p class="text-xs text-slate-400 font-mono mb-3 truncate"><i class="far fa-user mr-1 text-slate-400"></i> ${post.author || 'JK Forge Team'}</p>
+                                <p class="text-gray-500 text-sm line-clamp-2 leading-relaxed mb-4">${post.excerpt || ''}</p>
+                            </div>
+                        </div>
+                        <div class="px-6 pb-6 pt-0">
+                            <div class="pt-3 border-t border-gray-100 flex items-center justify-between text-xs font-bold text-secondary">
+                                <span>Read Blog</span>
+                                <i class="fas fa-arrow-right group-hover:translate-x-1.5 transition-transform"></i>
+                            </div>
+                        </div>
+                    </a>`;
+            }).join('');
+
+            // Pagination
+            renderPagination(totalPages);
+        }
+
+        function renderPagination(totalPages) {
+            const infoEl = document.getElementById('page-info');
+            const btnsEl = document.getElementById('page-btns');
+
+            const start = (currentPage - 1) * POSTS_PER_PAGE + 1;
+            const end = Math.min(currentPage * POSTS_PER_PAGE, allPosts.length);
+            infoEl.textContent = `Showing ${start}–${end} of ${allPosts.length}`;
+
+            btnsEl.innerHTML = '';
+            if (totalPages <= 1) return;
+
+            // Prev
+            btnsEl.innerHTML += `<button onclick="goPage(${currentPage - 1})" ${currentPage === 1 ? 'disabled' : ''} 
+                class="w-10 h-10 rounded-lg flex items-center justify-center text-sm transition-all ${currentPage === 1 ? 'text-gray-300 cursor-not-allowed' : 'text-gray-600 hover:bg-secondary hover:text-white'}">
+                <i class="fas fa-chevron-left"></i></button>`;
+
+            for (let i = 1; i <= totalPages; i++) {
+                if (totalPages > 7 && i > 2 && i < totalPages - 1 && Math.abs(i - currentPage) > 1) {
+                    if (i === 3 || i === totalPages - 2) btnsEl.innerHTML += `<span class="text-gray-400 px-1">…</span>`;
+                    continue;
+                }
+                btnsEl.innerHTML += `<button onclick="goPage(${i})" 
+                    class="w-10 h-10 rounded-lg flex items-center justify-center text-sm font-bold transition-all ${i === currentPage ? 'bg-secondary text-white shadow-lg' : 'text-gray-600 hover:bg-gray-200'}">${i}</button>`;
+            }
+
+            // Next
+            btnsEl.innerHTML += `<button onclick="goPage(${currentPage + 1})" ${currentPage === totalPages ? 'disabled' : ''}
+                class="w-10 h-10 rounded-lg flex items-center justify-center text-sm transition-all ${currentPage === totalPages ? 'text-gray-300 cursor-not-allowed' : 'text-gray-600 hover:bg-secondary hover:text-white'}">
+                <i class="fas fa-chevron-right"></i></button>`;
+        }
+
+        function goPage(page) {
+            const totalPages = Math.ceil(allPosts.length / POSTS_PER_PAGE);
+            if (page < 1 || page > totalPages) return;
+            currentPage = page;
+            renderBlogGrid();
+            window.scrollTo({ top: 400, behavior: 'smooth' });
+        }
+
+        // Search with debounce
+        let searchTimer;
+        document.getElementById('blog-search').addEventListener('input', (e) => {
+            clearTimeout(searchTimer);
+            searchTimer = setTimeout(() => {
+                searchQuery = e.target.value.trim();
+                loadPosts();
+            }, 400);
+        });
+
+        // Initial load
+        loadPosts();
+    </script>
+</body>
+</html>

@@ -47,11 +47,11 @@ function renderHome() {
                 </p>
                 
                 <div class="flex flex-col sm:flex-row items-center justify-center gap-6 reveal active" style="transition-delay: 300ms">
-                    <a href="?page=products" class="group relative w-full sm:w-auto bg-secondary text-white px-10 py-5 rounded-lg font-bold text-lg tracking-wide transition-all shadow-[0_0_20px_rgba(49,130,206,0.4)] hover:shadow-[0_0_30px_rgba(49,130,206,0.8)] hover:-translate-y-1 overflow-hidden">
+                    <a href="products.html" class="group relative w-full sm:w-auto bg-secondary text-white px-10 py-5 rounded-lg font-bold text-lg tracking-wide transition-all shadow-[0_0_20px_rgba(49,130,206,0.4)] hover:shadow-[0_0_30px_rgba(49,130,206,0.8)] hover:-translate-y-1 overflow-hidden">
                         <div class="absolute inset-0 w-full h-full bg-gradient-to-r from-transparent via-white/20 to-transparent -translate-x-full group-hover:animate-[shimmer_1.5s_infinite]"></div>
                         Explore Arsenal <i class="fas fa-arrow-right ml-2 group-hover:translate-x-2 transition-transform"></i>
                     </a>
-                    <a href="?page=contact" class="w-full sm:w-auto bg-transparent border-2 border-white text-white hover:bg-white/10 px-10 py-5 rounded-lg font-bold text-lg tracking-wide transition-all hover:-translate-y-1">
+                    <a href="contact.html" class="w-full sm:w-auto bg-transparent border-2 border-white text-white hover:bg-white/10 px-10 py-5 rounded-lg font-bold text-lg tracking-wide transition-all hover:-translate-y-1">
                         Initiate Contact
                     </a>
                 </div>
@@ -173,7 +173,7 @@ function renderHome() {
                     </a>
 
                     <!-- Industry Card 6 -->
-                    <a href="industry.html?page=hydraulic-fitting" class="group block bg-white p-10 rounded-2xl border border-gray-200 hover-metallic transition-all hover:-translate-y-2 hover:shadow-[0_10px_40px_rgba(49,130,206,0.15)] gsap-3d-card relative overflow-hidden">
+                    <a href="components.html?page=hydraulic-fittings-manufacturer" class="group block bg-white p-10 rounded-2xl border border-gray-200 hover-metallic transition-all hover:-translate-y-2 hover:shadow-[0_10px_40px_rgba(49,130,206,0.15)] gsap-3d-card relative overflow-hidden">
                         <div class="absolute top-0 right-0 p-6 opacity-5 group-hover:opacity-20 transition-opacity">
                             <i class="fas fa-cogs text-8xl text-secondary"></i>
                         </div>
@@ -220,7 +220,7 @@ function renderHome() {
                 </div>
                 
                 <div class="text-center gsap-3d-reveal">
-                    <a href="?page=about" class="inline-flex items-center justify-center bg-transparent border-2 border-white text-white hover:bg-white/10 px-10 py-5 rounded-lg font-bold tracking-wide transition-all hover:-translate-y-1">
+                    <a href="about.html" class="inline-flex items-center justify-center bg-transparent border-2 border-white text-white hover:bg-white/10 px-10 py-5 rounded-lg font-bold tracking-wide transition-all hover:-translate-y-1">
                         Learn More About Us <i class="fas fa-arrow-right ml-2"></i>
                     </a>
                 </div>
@@ -234,7 +234,7 @@ function renderHome() {
             <div class="max-w-4xl mx-auto px-4 relative z-10 text-center gsap-3d-reveal" style="perspective: 1000px;">
                 <h2 class="text-4xl md:text-6xl font-black text-gray-900 dark:text-white mb-6">READY TO FORGE A PARTNERSHIP?</h2>
                 <p class="text-xl text-gray-600 dark:text-accent mb-12 font-light">Transmit your engineering blueprints to our secure terminal for an immediate manufacturing assessment.</p>
-                <a href="?page=contact" class="inline-flex items-center justify-center bg-primary dark:bg-white text-white dark:text-[#1b365d] px-12 py-6 rounded-lg font-bold text-xl tracking-wide transition-all shadow-[0_0_30px_rgba(49,130,206,0.2)] hover:shadow-[0_0_50px_rgba(49,130,206,0.4)] hover:-translate-y-2 group">
+                <a href="contact.html" class="inline-flex items-center justify-center bg-primary dark:bg-white text-white dark:text-[#1b365d] px-12 py-6 rounded-lg font-bold text-xl tracking-wide transition-all shadow-[0_0_30px_rgba(49,130,206,0.2)] hover:shadow-[0_0_50px_rgba(49,130,206,0.4)] hover:-translate-y-2 group">
                     ACCESS INQUIRY TERMINAL <i class="fas fa-terminal ml-4 group-hover:animate-pulse"></i>
                 </a>
             </div>

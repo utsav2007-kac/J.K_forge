@@ -5,7 +5,7 @@ import os
 import concurrent.futures
 import time
 
-BASE_URL = "https://www.shivamforge.com"
+BASE_URL = "https://www.JK Forge.com"
 OUTPUT_DIR = r"D:\J.K_forge-main\content"
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
@@ -23,31 +23,34 @@ print("Fetching homepage to discover links...")
 html = fetch_html(BASE_URL)
 
 mega_panels = re.findall(r'<div class="nav__mega-panel">.*?</div></div></div>', html, re.DOTALL)
+url_to_category = {}
 links = set()
 
-for panel in mega_panels:
+for i, panel in enumerate(mega_panels):
     hrefs = re.findall(r'<a[^>]*href="([^"]+)"', panel)
     for href in hrefs:
         if href.startswith('/'):
             links.add(href)
+            # Map index to category
+            if i == 0:
+                url_to_category[href] = 'industries-other' # All industries go to industries-other
+            elif i == 1:
+                url_to_category[href] = 'components'
+            elif i == 2:
+                url_to_category[href] = 'capabilities'
+            elif i == 3 or i == 4:
+                url_to_category[href] = 'locations'
+
+# Also add company pages manually
+company_links = ['/about', '/process', '/infrastructure']
+for link in company_links:
+    links.add(link)
+    url_to_category[link] = 'company'
 
 print(f"Found {len(links)} subpages to scrape.")
 
 def get_category(slug):
-    padded = "-" + slug.replace("/", "") + "-"
-    if any(k in padded for k in ['-automotive-', '-automobile-', '-vehicle-', '-truck-', '-two-wheeler-', '-agricultural-', '-tractor-', '-railway-', '-defense-', '-marine-', '-shipbuilding-', '-oil-', '-gas-', '-petrochemical-', '-offshore-', '-power-', '-wind-', '-solar-', '-mining-', '-chemical-', '-water-', '-food-', '-pharmaceutical-', '-aerospace-', '-earthmoving-', '-construction-', '-steel-', '-cement-', '-sugar-', '-paper-', '-textile-', '-industrial-', '-elevator-', '-crane-']):
-        if any(k in padded for k in ['-automotive-', '-automobile-', '-vehicle-', '-truck-', '-two-wheeler-', '-agricultural-', '-tractor-', '-railway-', '-defense-', '-marine-', '-shipbuilding-']):
-            return 'mobility'
-        return 'industries-other'
-    elif any(k in padded for k in ['-gear-', '-shaft-', '-bevel-', '-axle-', '-crank-', '-cam-', '-rod-', '-yoke-', '-spindle-', '-bearing-', '-rocker-', '-piston-', '-knuckle-', '-stub-', '-king-', '-tie-', '-hub-', '-flange-', '-coupling-', '-hydraulic-', '-pump-', '-valve-', '-pipeline-', '-fastener-', '-ring-', '-hook-', '-clevis-', '-compressor-', '-disc-']):
-        return 'components'
-    elif any(k in padded for k in ['-rajkot-', '-gujarat-', '-ahmedabad-', '-surat-', '-vadodara-', '-mumbai-', '-pune-', '-aurangabad-', '-nagpur-', '-jaipur-', '-ludhiana-', '-delhi-', '-bangalore-', '-chennai-', '-coimbatore-', '-hyderabad-', '-kolkata-', '-india-', '-uae-', '-europe-', '-usa-']):
-        return 'locations'
-    elif any(k in padded for k in ['-hot-', '-closed-die-', '-open-die-', '-drop-', '-press-', '-precision-', '-bulk-', '-custom-', '-prototype-', '-machining-', '-treatment-', '-blasting-', '-plating-', '-die-', '-exporter-', '-iso-', '-ss316-', '-en24-', '-en8-', '-sae-', '-ms-', '-alloy-', '-titanium-', '-duplex-', '-nickel-', '-copper-', '-supplier-']):
-        return 'capabilities'
-    elif any(k in padded for k in ['-company-', '-history-', '-leadership-', '-vision-', '-mission-', '-awards-', '-career-', '-process-', '-infrastructure-']):
-        return 'company'
-    return 'other'
+    return url_to_category.get(slug, 'other')
 
 def clean_text(text):
     text = re.sub(r'<[^>]+>', ' ', text)  # replace tags with space to prevent glued words
@@ -55,7 +58,7 @@ def clean_text(text):
     text = text.replace('&amp;', '&').replace('&quot;', '"').replace('&#x27;', "'").replace('&nbsp;', ' ')
     # Replace branding
     text = re.sub(r'Shivam\s*Forge', 'JK Forge', text, flags=re.IGNORECASE)
-    text = re.sub(r'shivamforge', 'jkforge', text, flags=re.IGNORECASE)
+    text = re.sub(r'JK Forge', 'jkforge', text, flags=re.IGNORECASE)
     text = re.sub(r'Ganga\s*Forging', 'JK Forge', text, flags=re.IGNORECASE)
     return text.strip()
 

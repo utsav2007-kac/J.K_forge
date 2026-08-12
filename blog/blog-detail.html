@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog Post – JK Forge</title>
+    <meta name="description" content="Read this blog from JK Forge about forging, casting, and precision manufacturing.">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Roboto+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                        mono: ['Roboto Mono', 'monospace'],
+                    },
+                    colors: {
+                        primary: '#0c2b5e',
+                        secondary: '#1363a6',
+                        accent: '#c0c5ce',
+                        dark: '#050914',
+                        light: '#f8fafc'
+                    }
+                }
+            }
+        }
+    </script>
+
+    <!-- FontAwesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="../styles.css">
+
+    <style>
+        /* Blog content typography */
+        .blog-content {
+            font-size: 1.1rem;
+            line-height: 1.85;
+            color: #374151;
+        }
+        .blog-content h1 { font-size: 2rem; font-weight: 800; color: #0c2b5e; margin: 2rem 0 1rem; }
+        .blog-content h2 { font-size: 1.6rem; font-weight: 700; color: #0c2b5e; margin: 1.8rem 0 0.8rem; border-bottom: 2px solid #e5e7eb; padding-bottom: 0.5rem; }
+        .blog-content h3 { font-size: 1.3rem; font-weight: 600; color: #1363a6; margin: 1.5rem 0 0.6rem; }
+        .blog-content p { margin-bottom: 1.2rem; }
+        .blog-content ul, .blog-content ol { margin: 1rem 0; padding-left: 2rem; }
+        .blog-content ul { list-style-type: disc; }
+        .blog-content ol { list-style-type: decimal; }
+        .blog-content li { margin-bottom: 0.5rem; }
+        .blog-content a { color: #1363a6; text-decoration: underline; }
+        .blog-content a:hover { color: #0c2b5e; }
+        .blog-content blockquote {
+            border-left: 4px solid #1363a6;
+            background: #f0f7ff;
+            padding: 1rem 1.5rem;
+            margin: 1.5rem 0;
+            border-radius: 0 8px 8px 0;
+            font-style: italic;
+            color: #4b5563;
+        }
+        .blog-content pre {
+            background: #1e293b;
+            color: #e2e8f0;
+            padding: 1.2rem;
+            border-radius: 10px;
+            overflow-x: auto;
+            margin: 1.5rem 0;
+            font-family: 'Roboto Mono', monospace;
+            font-size: 0.9rem;
+        }
+        .blog-content code {
+            background: #f1f5f9;
+            padding: 0.15rem 0.4rem;
+            border-radius: 4px;
+            font-size: 0.9em;
+            font-family: 'Roboto Mono', monospace;
+        }
+        .blog-content pre code {
+            background: none;
+            padding: 0;
+        }
+        .blog-content img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 12px;
+            margin: 1.5rem 0;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        }
+        .blog-content table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.5rem 0;
+        }
+        .blog-content th, .blog-content td {
+            border: 1px solid #e5e7eb;
+            padding: 0.75rem 1rem;
+            text-align: left;
+        }
+        .blog-content th {
+            background: #f8fafc;
+            font-weight: 600;
+            color: #0c2b5e;
+        }
+    </style>
+</head>
+<body class="bg-light text-gray-800 font-sans antialiased overflow-x-hidden">
+
+    <!-- Navigation -->
+    <div id="main-header-container"></div>
+    <script src="../components/header.js"></script>
+
+    <!-- Loading State -->
+    <div id="blog-loading" class="flex items-center justify-center h-[70vh]">
+        <div class="animate-spin rounded-full h-12 w-12 border-b-2 border-secondary"></div>
+    </div>
+
+    <!-- Blog Post Content (hidden until loaded) -->
+    <article id="blog-article" class="hidden">
+        <!-- Cover Image Hero -->
+        <div id="cover-hero" class="relative h-[65vh] md:h-[75vh] bg-gray-900 overflow-hidden">
+            <img id="cover-img" src="" alt="" class="w-full h-full object-cover opacity-60">
+            <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/30 to-transparent"></div>
+            <div class="absolute bottom-0 left-0 right-0 p-8 md:p-16 max-w-6xl mx-auto">
+                <div class="flex items-center gap-4 text-sm font-mono text-gray-300 mb-4">
+                    <span id="post-date"><i class="far fa-calendar-alt mr-1"></i></span>
+                    <span id="post-author"><i class="far fa-user mr-1"></i></span>
+                    <span id="post-views" class="text-secondary bg-black/40 px-2.5 py-0.5 rounded-full border border-white/10"><i class="far fa-eye mr-1"></i></span>
+                </div>
+                <h1 id="post-title" class="text-3xl md:text-5xl font-extrabold text-white leading-tight"></h1>
+            </div>
+        </div>
+
+        <!-- Post Body -->
+        <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+            <!-- Back Navigation -->
+            <a href="index.html" class="inline-flex items-center gap-2 text-secondary hover:text-primary font-semibold text-sm mb-10 transition-colors group">
+                <i class="fas fa-arrow-left group-hover:-translate-x-1 transition-transform"></i> Back to Blog
+            </a>
+
+            <!-- Excerpt -->
+            <p id="post-excerpt" class="text-xl text-gray-500 leading-relaxed mb-10 pb-8 border-b border-gray-200 italic"></p>
+
+            <!-- Content -->
+            <div id="post-content" class="blog-content"></div>
+
+            <!-- Navigation -->
+            <div class="mt-16 pt-8 border-t border-gray-200">
+                <a href="index.html" class="inline-flex items-center gap-2 text-secondary hover:text-primary font-semibold transition-colors">
+                    <i class="fas fa-arrow-left"></i> Back to All Blogs
+                </a>
+            </div>
+        </div>
+    </article>
+
+    <!-- 404 State -->
+    <div id="blog-404" class="hidden flex items-center justify-center h-[70vh]">
+        <div class="text-center">
+            <i class="fas fa-file-alt text-6xl text-gray-300 mb-6"></i>
+            <h2 class="text-2xl font-bold text-gray-700 mb-3">Post Not Found</h2>
+            <p class="text-gray-500 mb-6">The blog post you're looking for doesn't exist or has been removed.</p>
+            <a href="index.html" class="inline-flex items-center gap-2 bg-secondary text-white px-6 py-3 rounded-lg hover:bg-primary transition-all font-semibold">
+                <i class="fas fa-arrow-left"></i> Back to Blog
+            </a>
+        </div>
+    </div>
+
+    <!-- CTA Section -->
+    <section class="bg-gradient-to-r from-primary to-secondary py-20 w-full">
+        <div class="max-w-6xl mx-auto px-4 text-center">
+            <h2 class="text-3xl md:text-4xl font-extrabold text-white mb-6">Let's Build Together</h2>
+            <p class="text-blue-100 text-lg mb-8 max-w-2xl mx-auto">Ready to forge your success? Let's discuss how Shivam Forge can deliver the precise components your industry needs.</p>
+            <a href="../contact.html" class="inline-flex items-center gap-2 bg-white text-primary font-bold px-8 py-4 rounded-lg hover:bg-gray-100 transition-all shadow-lg hover:shadow-xl">
+                Contact Us <i class="fas fa-arrow-right"></i>
+            </a>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <div id="main-footer-container"></div>
+    <script src="../components/footer.js"></script>
+
+    <script>
+        const API_BASE = 'api/posts.php';
+
+        async function loadPost() {
+            const params = new URLSearchParams(window.location.search);
+            const slug = params.get('slug');
+
+            if (!slug) {
+                showNotFound();
+                return;
+            }
+
+            try {
+                const res = await fetch(API_BASE + '?slug=' + encodeURIComponent(slug));
+                if (!res.ok) { showNotFound(); return; }
+
+                const post = await res.json();
+                if (post.error) { showNotFound(); return; }
+
+                // Update page title
+                document.title = post.title + ' – JK Forge Blog';
+
+                // Cover image
+                const coverImg = document.getElementById('cover-img');
+                if (post.cover_image) {
+                    coverImg.src = post.cover_image.replace(/^(\.\.\/|\.\/)+/, '');
+                    coverImg.alt = post.title;
+                } else {
+                    coverImg.src = '../images/facility.jpg';
+                }
+
+                // Meta
+                const date = new Date(post.created_at).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+                document.getElementById('post-date').innerHTML = '<i class="far fa-calendar-alt mr-1"></i> ' + date;
+                document.getElementById('post-author').innerHTML = '<i class="far fa-user mr-1"></i> ' + (post.author || 'Admin');
+                document.getElementById('post-views').innerHTML = '<i class="far fa-eye mr-1"></i> ' + (post.views || 1) + ' Views';
+                document.getElementById('post-title').textContent = post.title;
+                document.getElementById('post-excerpt').textContent = post.excerpt || '';
+
+                // Content (fix relative image paths inside content)
+                let rawContent = post.content || '';
+                rawContent = rawContent.replace(/src=["'](?:\.\.\/|\.\/)*uploads\//g, 'src="uploads/');
+                document.getElementById('post-content').innerHTML = rawContent;
+
+                // Show article
+                document.getElementById('blog-loading').classList.add('hidden');
+                document.getElementById('blog-article').classList.remove('hidden');
+
+            } catch (err) {
+                console.error('Failed to load post:', err);
+                showNotFound();
+            }
+        }
+
+        function showNotFound() {
+            document.getElementById('blog-loading').classList.add('hidden');
+            document.getElementById('blog-404').classList.remove('hidden');
+            document.getElementById('blog-404').classList.add('flex');
+        }
+
+        loadPost();
+    </script>
+</body>
+</html>

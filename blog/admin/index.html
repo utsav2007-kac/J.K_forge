@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog Admin – JK Forge</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Roboto+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                        mono: ['Roboto Mono', 'monospace'],
+                    },
+                    colors: {
+                        primary: '#0c2b5e',
+                        secondary: '#1363a6',
+                        accent: '#c0c5ce',
+                        lightBg: '#f8fafc'
+                    }
+                }
+            }
+        }
+    </script>
+
+    <!-- FontAwesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <style>
+        body { background-color: #f8fafc; color: #1e293b; }
+        ::-webkit-scrollbar { width: 6px; height: 6px; }
+        ::-webkit-scrollbar-track { background: #f1f5f9; }
+        ::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 3px; }
+        ::-webkit-scrollbar-thumb:hover { background: #94a3b8; }
+        .toast {
+            animation: slideInRight 0.3s ease-out;
+        }
+        @keyframes slideInRight {
+            from { transform: translateX(100%); opacity: 0; }
+            to { transform: translateX(0); opacity: 1; }
+        }
+    </style>
+</head>
+<body class="font-sans antialiased min-h-screen bg-slate-50 text-slate-800">
+
+    <!-- Toast Container -->
+    <div id="toast-container" class="fixed top-4 right-4 z-[200] space-y-2"></div>
+
+    <!-- LOGIN SCREEN -->
+    <div id="login-screen" class="min-h-screen flex items-center justify-center p-4 bg-gradient-to-br from-slate-100 via-white to-blue-50">
+        <div class="bg-white rounded-2xl p-8 w-full max-w-sm shadow-xl border border-slate-200/80">
+            <div class="text-center mb-8">
+                <div class="w-14 h-14 bg-blue-50 border border-blue-100 rounded-2xl flex items-center justify-center mx-auto mb-4 text-secondary">
+                    <i class="fas fa-blog text-2xl"></i>
+                </div>
+                <h1 class="text-xl font-extrabold font-mono tracking-wider uppercase text-primary">Blog Admin</h1>
+                <p class="text-slate-500 text-xs font-mono mt-1">JK Forge Blog Management</p>
+            </div>
+            <form id="login-form" class="space-y-4">
+                <div>
+                    <label class="block text-xs font-mono text-slate-500 uppercase tracking-widest mb-2">Username</label>
+                    <input type="text" id="login-user" required class="w-full bg-white border border-slate-300 focus:border-secondary focus:ring-2 focus:ring-secondary/20 outline-none rounded-lg px-4 py-3 text-sm font-mono text-slate-800 transition-all" placeholder="admin">
+                </div>
+                <div>
+                    <label class="block text-xs font-mono text-slate-500 uppercase tracking-widest mb-2">Password</label>
+                    <input type="password" id="login-pass" required class="w-full bg-white border border-slate-300 focus:border-secondary focus:ring-2 focus:ring-secondary/20 outline-none rounded-lg px-4 py-3 text-sm font-mono text-slate-800 transition-all" placeholder="••••••••">
+                </div>
+                <button type="submit" class="w-full bg-secondary hover:bg-blue-700 text-white font-bold py-3.5 rounded-lg transition-all font-mono tracking-wider text-sm mt-2 shadow-md hover:shadow-lg">
+                    LOGIN <i class="fas fa-arrow-right ml-2"></i>
+                </button>
+            </form>
+        </div>
+    </div>
+
+    <!-- DASHBOARD (hidden until login) -->
+    <div id="dashboard" class="hidden min-h-screen flex flex-col">
+        <!-- Header -->
+        <header class="bg-white border-b border-slate-200 sticky top-0 z-50 shadow-sm">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                <div class="flex justify-between items-center h-16">
+                    <div class="flex items-center gap-3">
+                        <div class="w-9 h-9 bg-blue-50 border border-blue-100 rounded-lg flex items-center justify-center text-secondary">
+                            <i class="fas fa-blog text-base"></i>
+                        </div>
+                        <span class="font-extrabold font-mono text-base uppercase tracking-wider text-primary">Blog Admin</span>
+                        <span class="bg-blue-50 text-secondary border border-blue-200 text-[10px] font-mono font-semibold px-2.5 py-0.5 rounded-full">Dashboard</span>
+                    </div>
+                    <div class="flex items-center gap-4">
+                        <a href="../index.html" target="_blank" class="text-slate-600 hover:text-secondary text-xs font-mono font-medium transition-colors flex items-center gap-1">
+                            <i class="fas fa-external-link-alt"></i> View Blog
+                        </a>
+                        <span class="text-xs font-mono text-slate-500 flex items-center gap-1.5 bg-slate-100 px-3 py-1.5 rounded-lg border border-slate-200">
+                            <i class="fas fa-circle text-emerald-500 text-[8px]"></i> USER: <strong id="dash-user" class="text-primary font-bold">admin</strong>
+                        </span>
+                        <button id="logout-btn" class="bg-red-50 hover:bg-red-100 border border-red-200 text-red-600 text-xs font-mono font-semibold px-4 py-2 rounded-lg transition-all flex items-center gap-1.5">
+                            LOGOUT <i class="fas fa-sign-out-alt"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <main class="flex-1 max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 py-8">
+            <!-- Stats -->
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 mb-8">
+                <div class="bg-white p-6 rounded-xl border border-slate-200 shadow-sm flex items-center justify-between">
+                    <div>
+                        <p class="text-xs font-mono text-slate-500 uppercase tracking-wider">Total Posts</p>
+                        <h3 id="stat-total" class="text-3xl font-extrabold text-slate-900 mt-1">0</h3>
+                    </div>
+                    <div class="w-12 h-12 rounded-xl bg-blue-50 text-secondary border border-blue-100 flex items-center justify-center">
+                        <i class="fas fa-newspaper text-xl"></i>
+                    </div>
+                </div>
+                <div class="bg-white p-6 rounded-xl border border-slate-200 shadow-sm flex items-center justify-between">
+                    <div>
+                        <p class="text-xs font-mono text-slate-500 uppercase tracking-wider">Published</p>
+                        <h3 id="stat-published" class="text-3xl font-extrabold text-emerald-600 mt-1">0</h3>
+                    </div>
+                    <div class="w-12 h-12 rounded-xl bg-emerald-50 text-emerald-600 border border-emerald-100 flex items-center justify-center">
+                        <i class="fas fa-check-circle text-xl"></i>
+                    </div>
+                </div>
+                <div class="bg-white p-6 rounded-xl border border-slate-200 shadow-sm flex items-center justify-between">
+                    <div>
+                        <p class="text-xs font-mono text-slate-500 uppercase tracking-wider">Drafts</p>
+                        <h3 id="stat-drafts" class="text-3xl font-extrabold text-amber-600 mt-1">0</h3>
+                    </div>
+                    <div class="w-12 h-12 rounded-xl bg-amber-50 text-amber-600 border border-amber-100 flex items-center justify-center">
+                        <i class="fas fa-edit text-xl"></i>
+                    </div>
+                </div>
+                <div class="bg-white p-6 rounded-xl border border-slate-200 shadow-sm flex items-center justify-between">
+                    <div>
+                        <p class="text-xs font-mono text-slate-500 uppercase tracking-wider">Total Views</p>
+                        <h3 id="stat-views" class="text-3xl font-extrabold text-indigo-600 mt-1">0</h3>
+                    </div>
+                    <div class="w-12 h-12 rounded-xl bg-indigo-50 text-indigo-600 border border-indigo-100 flex items-center justify-center">
+                        <i class="fas fa-eye text-xl"></i>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Toolbar -->
+            <div class="bg-white p-6 rounded-xl border border-slate-200 shadow-sm flex flex-col md:flex-row justify-between items-center gap-4 mb-6">
+                <div class="flex flex-col sm:flex-row items-center gap-4 w-full md:w-auto">
+                    <div class="relative w-full sm:w-80">
+                        <span class="absolute inset-y-0 left-0 pl-3 flex items-center text-slate-400"><i class="fas fa-search text-xs"></i></span>
+                        <input type="text" id="search-input" class="w-full bg-white border border-slate-300 focus:border-secondary focus:ring-2 focus:ring-secondary/20 outline-none rounded-lg pl-9 pr-4 py-2.5 text-sm font-mono text-slate-800 placeholder-slate-400 transition-all" placeholder="Search posts...">
+                    </div>
+                    <div class="relative w-full sm:w-44">
+                        <select id="status-filter" class="w-full bg-white border border-slate-300 focus:border-secondary focus:ring-2 focus:ring-secondary/20 outline-none rounded-lg px-3 py-2.5 text-sm font-mono text-slate-800 transition-all appearance-none">
+                            <option value="">All Status</option>
+                            <option value="published">Published</option>
+                            <option value="draft">Draft</option>
+                        </select>
+                        <span class="absolute inset-y-0 right-0 pr-3 flex items-center text-slate-400 pointer-events-none"><i class="fas fa-chevron-down text-[10px]"></i></span>
+                    </div>
+                </div>
+                <a href="editor.html" class="w-full md:w-auto bg-secondary hover:bg-blue-700 text-white font-bold px-6 py-3 rounded-lg transition-all font-mono tracking-wider text-sm flex items-center justify-center gap-2 shadow-md hover:shadow-lg">
+                    <i class="fas fa-plus"></i> NEW POST
+                </a>
+            </div>
+
+            <!-- Posts Table -->
+            <div class="bg-white rounded-xl border border-slate-200 overflow-hidden shadow-sm">
+                <div class="overflow-x-auto">
+                    <table class="w-full text-left border-collapse font-mono text-xs">
+                        <thead>
+                            <tr class="bg-slate-100/80 text-slate-600 uppercase tracking-widest border-b border-slate-200">
+                                <th class="py-4 px-6 font-bold w-16 text-center whitespace-nowrap">Cover</th>
+                                <th class="py-4 px-6 font-bold whitespace-nowrap">Title</th>
+                                <th class="py-4 px-6 font-bold whitespace-nowrap">Status</th>
+                                <th class="py-4 px-6 font-bold text-center whitespace-nowrap">Views</th>
+                                <th class="py-4 px-6 font-bold whitespace-nowrap">Author</th>
+                                <th class="py-4 px-6 font-bold whitespace-nowrap">Date</th>
+                                <th class="py-4 px-6 font-bold text-right whitespace-nowrap">Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody id="posts-tbody" class="divide-y divide-slate-100"></tbody>
+                    </table>
+                </div>
+                <!-- Pagination -->
+                <div id="table-pagination" class="px-6 py-4 border-t border-slate-200 flex flex-col sm:flex-row items-center justify-between gap-3 bg-slate-50/50">
+                    <span id="page-info" class="text-xs font-mono text-slate-500"></span>
+                    <div id="page-btns" class="flex items-center gap-1"></div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Delete Confirmation Modal -->
+    <div id="delete-modal" class="fixed inset-0 z-[100] flex items-center justify-center hidden p-4">
+        <div class="absolute inset-0 bg-slate-900/40 backdrop-blur-sm" onclick="closeDeleteModal()"></div>
+        <div class="bg-white rounded-2xl border border-slate-200 w-full max-w-sm shadow-2xl relative z-10 p-8 text-center">
+            <div class="w-12 h-12 rounded-full bg-red-50 text-red-500 border border-red-100 flex items-center justify-center mx-auto mb-4">
+                <i class="fas fa-exclamation-triangle text-xl"></i>
+            </div>
+            <h3 class="text-lg font-bold font-mono text-slate-900 mb-2">Delete Post?</h3>
+            <p class="text-slate-500 text-sm mb-6">This action cannot be undone.</p>
+            <div class="flex gap-4">
+                <button onclick="closeDeleteModal()" class="w-1/2 bg-slate-100 hover:bg-slate-200 border border-slate-300 text-slate-700 py-2.5 rounded-lg transition-all font-mono text-xs font-bold">CANCEL</button>
+                <button id="confirm-delete-btn" class="w-1/2 bg-red-600 hover:bg-red-700 text-white font-bold py-2.5 rounded-lg transition-all font-mono text-xs shadow-md">DELETE</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const API_BASE = '../api/posts.php';
+        const LOGIN_URL = '../../admin/login.php';
+        const ITEMS_PER_PAGE = 10;
+
+        let token = localStorage.getItem('jk_blog_token') || '';
+        let posts = [];
+        let currentPage = 1;
+        let deleteTargetId = null;
+
+        // ── Toast ──
+        function showToast(msg, type = 'info') {
+            const container = document.getElementById('toast-container');
+            const colors = { success: 'bg-emerald-600', error: 'bg-red-600', info: 'bg-secondary' };
+            const icons = { success: 'fa-check-circle', error: 'fa-times-circle', info: 'fa-info-circle' };
+            const div = document.createElement('div');
+            div.className = `toast ${colors[type] || colors.info} text-white px-5 py-3 rounded-lg shadow-xl font-mono text-xs flex items-center gap-2`;
+            div.innerHTML = `<i class="fas ${icons[type] || icons.info}"></i> ${msg}`;
+            container.appendChild(div);
+            setTimeout(() => div.remove(), 4000);
+        }
+
+        // ── Auth ──
+        async function login(username, password) {
+            try {
+                const res = await fetch(LOGIN_URL, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ username, password })
+                });
+                const text = await res.text();
+                let data = {};
+                try {
+                    data = JSON.parse(text);
+                } catch (e) {
+                    showToast(text.includes('<!DOCTYPE') || text.includes('<html') ? 'Server returned invalid HTML' : (text || 'Login error'), 'error');
+                    return;
+                }
+                if (data.token) {
+                    token = data.token;
+                    localStorage.setItem('jk_blog_token', token);
+                    showDashboard(data.user?.username || 'admin');
+                } else {
+                    showToast(data.error || 'Login failed', 'error');
+                }
+            } catch (err) {
+                showToast(err.message || 'Login failed', 'error');
+            }
+        }
+
+        function logout() {
+            token = '';
+            localStorage.removeItem('jk_blog_token');
+            document.getElementById('dashboard').classList.add('hidden');
+            document.getElementById('login-screen').classList.remove('hidden');
+        }
+
+        function showDashboard(username) {
+            document.getElementById('login-screen').classList.add('hidden');
+            document.getElementById('dashboard').classList.remove('hidden');
+            document.getElementById('dash-user').textContent = username || 'admin';
+            loadPosts();
+        }
+
+        // ── API Helper ──
+        async function apiRequest(url, method = 'GET', body = null) {
+            const opts = {
+                method,
+                headers: { 'Content-Type': 'application/json', 'Authorization': 'Bearer ' + token }
+            };
+            if (body) opts.body = JSON.stringify(body);
+            const res = await fetch(url, opts);
+            const data = await res.json();
+            if (!res.ok) {
+                showToast(data.error || 'Request failed', 'error');
+                if (res.status === 401) logout();
+                throw new Error(data.error);
+            }
+            return data;
+        }
+
+        // ── Load Posts ──
+        async function loadPosts() {
+            try {
+                posts = await apiRequest(API_BASE + '?all=1');
+                if (!Array.isArray(posts)) posts = [];
+                updateStats();
+                renderTable(true);
+            } catch (err) {
+                console.error(err);
+            }
+        }
+
+        function updateStats() {
+            document.getElementById('stat-total').textContent = posts.length;
+            document.getElementById('stat-published').textContent = posts.filter(p => p.status === 'published').length;
+            document.getElementById('stat-drafts').textContent = posts.filter(p => p.status === 'draft').length;
+            const totalViews = posts.reduce((sum, p) => sum + (parseInt(p.views) || 0), 0);
+            document.getElementById('stat-views').textContent = totalViews.toLocaleString();
+        }
+
+        // ── Table Rendering ──
+        function renderTable(resetPage) {
+            if (resetPage) currentPage = 1;
+
+            const tbody = document.getElementById('posts-tbody');
+            const search = document.getElementById('search-input').value.toLowerCase().trim();
+            const statusFilter = document.getElementById('status-filter').value;
+
+            let filtered = posts.filter(p => {
+                const matchSearch = !search || p.title.toLowerCase().includes(search) || (p.excerpt && p.excerpt.toLowerCase().includes(search));
+                const matchStatus = !statusFilter || p.status === statusFilter;
+                return matchSearch && matchStatus;
+            });
+
+            if (filtered.length === 0) {
+                tbody.innerHTML = `<tr><td colspan="7" class="py-10 text-center text-slate-400 uppercase tracking-widest">No posts found</td></tr>`;
+                renderPagination(0);
+                return;
+            }
+
+            const totalPages = Math.ceil(filtered.length / ITEMS_PER_PAGE);
+            if (currentPage > totalPages) currentPage = totalPages;
+
+            const start = (currentPage - 1) * ITEMS_PER_PAGE;
+            const pageItems = filtered.slice(start, start + ITEMS_PER_PAGE);
+
+            tbody.innerHTML = pageItems.map(post => {
+                const date = new Date(post.created_at).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+                const statusBadge = post.status === 'published'
+                    ? '<span class="px-2.5 py-0.5 rounded-full bg-emerald-50 text-emerald-700 border border-emerald-200 text-[10px] font-bold">PUBLISHED</span>'
+                    : '<span class="px-2.5 py-0.5 rounded-full bg-amber-50 text-amber-700 border border-amber-200 text-[10px] font-bold">DRAFT</span>';
+                const rawCover = post.cover_image ? post.cover_image.replace(/^(\.\.\/|\.\/)+/, '') : '';
+                const coverSrc = rawCover ? (rawCover.startsWith('http') ? rawCover : '../' + rawCover) : '../../images/facility.jpg';
+
+                return `<tr class="hover:bg-slate-50 transition-colors">
+                    <td class="py-3.5 px-6 text-center">
+                        <div class="w-10 h-10 rounded-lg overflow-hidden bg-slate-100 border border-slate-200 mx-auto">
+                            <img src="${coverSrc}" alt="" class="w-full h-full object-cover" onerror="this.src='../../images/facility.jpg'">
+                        </div>
+                    </td>
+                    <td class="py-3.5 px-6">
+                        <p class="font-bold text-slate-800 text-sm truncate max-w-xs">${post.title}</p>
+                        <p class="text-slate-400 text-[10px] font-mono mt-0.5 truncate max-w-xs">${post.slug}</p>
+                    </td>
+                    <td class="py-3.5 px-6">${statusBadge}</td>
+                    <td class="py-3.5 px-6 text-center"><span class="inline-flex items-center justify-center gap-1.5 px-3 py-1 rounded-full bg-slate-100 border border-slate-200 text-slate-700 text-xs font-mono font-bold whitespace-nowrap"><i class="far fa-eye text-slate-400"></i> ${post.views || 0}</span></td>
+                    <td class="py-3.5 px-6 text-slate-600 font-medium">${post.author || 'Admin'}</td>
+                    <td class="py-3.5 px-6 text-slate-500">${date}</td>
+                    <td class="py-3.5 px-6 text-right whitespace-nowrap">
+                        <div class="inline-flex items-center justify-end gap-1.5">
+                            <a href="../../blog/blog-detail.html?slug=${post.slug}" target="_blank" title="View Blog" class="px-2 py-1 rounded bg-emerald-50 border border-emerald-200 text-emerald-700 hover:bg-emerald-600 hover:text-white transition-all text-xs font-bold inline-flex items-center gap-1">
+                                <i class="fas fa-external-link-alt text-[10px]"></i> View
+                            </a>
+                            <a href="editor.html?id=${post.id}" title="Edit Blog" class="px-2.5 py-1 rounded bg-blue-50 border border-blue-200 text-blue-700 hover:bg-blue-600 hover:text-white transition-all text-xs font-bold inline-flex items-center gap-1">
+                                <i class="fas fa-edit text-[10px]"></i> Edit
+                            </a>
+                            <button onclick="confirmDelete(${post.id})" title="Delete Blog" class="px-2.5 py-1 rounded bg-red-50 border border-red-200 text-red-600 hover:bg-red-600 hover:text-white transition-all text-xs font-bold inline-flex items-center gap-1">
+                                <i class="fas fa-trash-alt text-[10px]"></i> Del
+                            </button>
+                        </div>
+                    </td>
+                </tr>`;
+            }).join('');
+
+            renderPagination(filtered.length);
+        }
+
+        function renderPagination(totalItems) {
+            const infoEl = document.getElementById('page-info');
+            const btnsEl = document.getElementById('page-btns');
+            const totalPages = Math.max(1, Math.ceil(totalItems / ITEMS_PER_PAGE));
+
+            if (totalItems === 0) {
+                infoEl.textContent = 'No results';
+                btnsEl.innerHTML = '';
+                return;
+            }
+
+            const start = (currentPage - 1) * ITEMS_PER_PAGE + 1;
+            const end = Math.min(currentPage * ITEMS_PER_PAGE, totalItems);
+            infoEl.textContent = `Showing ${start}–${end} of ${totalItems}`;
+
+            btnsEl.innerHTML = '';
+            if (totalPages <= 1) return;
+
+            // Prev
+            const prev = document.createElement('button');
+            prev.innerHTML = '<i class="fas fa-chevron-left text-[10px]"></i>';
+            prev.className = `w-8 h-8 flex items-center justify-center rounded-md text-xs border transition-all ${currentPage === 1 ? 'text-slate-300 border-slate-200 cursor-not-allowed' : 'text-slate-600 border-slate-300 hover:bg-slate-100 hover:text-slate-900'}`;
+            prev.disabled = currentPage === 1;
+            prev.onclick = () => { if (currentPage > 1) { currentPage--; renderTable(); } };
+            btnsEl.appendChild(prev);
+
+            for (let i = 1; i <= totalPages; i++) {
+                const btn = document.createElement('button');
+                btn.textContent = i;
+                btn.className = `w-8 h-8 flex items-center justify-center rounded-md text-xs font-mono transition-all ${i === currentPage ? 'bg-secondary text-white font-bold shadow-sm' : 'text-slate-600 border border-slate-200 hover:bg-slate-100'}`;
+                btn.onclick = () => { currentPage = i; renderTable(); };
+                btnsEl.appendChild(btn);
+            }
+
+            // Next
+            const next = document.createElement('button');
+            next.innerHTML = '<i class="fas fa-chevron-right text-[10px]"></i>';
+            next.className = `w-8 h-8 flex items-center justify-center rounded-md text-xs border transition-all ${currentPage === totalPages ? 'text-slate-300 border-slate-200 cursor-not-allowed' : 'text-slate-600 border-slate-300 hover:bg-slate-100 hover:text-slate-900'}`;
+            next.disabled = currentPage === totalPages;
+            next.onclick = () => { if (currentPage < totalPages) { currentPage++; renderTable(); } };
+            btnsEl.appendChild(next);
+        }
+
+        // ── Delete ──
+        function confirmDelete(id) {
+            deleteTargetId = id;
+            document.getElementById('delete-modal').classList.remove('hidden');
+        }
+        function closeDeleteModal() {
+            deleteTargetId = null;
+            document.getElementById('delete-modal').classList.add('hidden');
+        }
+        document.getElementById('confirm-delete-btn').onclick = async () => {
+            if (!deleteTargetId) return;
+            try {
+                await apiRequest(API_BASE, 'DELETE', { id: deleteTargetId });
+                showToast('Post deleted', 'success');
+                closeDeleteModal();
+                loadPosts();
+            } catch (err) {}
+        };
+
+        // ── Event Listeners ──
+        document.getElementById('login-form').addEventListener('submit', (e) => {
+            e.preventDefault();
+            login(document.getElementById('login-user').value, document.getElementById('login-pass').value);
+        });
+
+        document.getElementById('logout-btn').addEventListener('click', logout);
+
+        document.getElementById('search-input').addEventListener('input', () => renderTable(true));
+        document.getElementById('status-filter').addEventListener('change', () => renderTable(true));
+
+        // ── Auto-login if token exists ──
+        if (token) {
+            fetch(API_BASE + '?all=1', { headers: { 'Authorization': 'Bearer ' + token } })
+                .then(r => { if (r.ok) showDashboard(); else logout(); })
+                .catch(() => logout());
+        }
+    </script>
+</body>
+</html>

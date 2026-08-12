@@ -1,5 +1,8 @@
 function renderProductDetail(title, slug) {
-    let data = window.pageContent && window.pageContent[slug];
+    if (slug) {
+        setTimeout(() => loadProductDetailFromPHPBackend(slug), 50);
+    }
+    let data = window.pageContent && (window.pageContent[slug] || window.pageContent['/' + slug]);
     
     // Default fallback features and processes
     const defaultFeatures = [
@@ -148,6 +151,41 @@ function renderProductDetail(title, slug) {
             }
         </style>
     `;
+}
+
+async function loadProductDetailFromPHPBackend(slug) {
+    if (!slug) return;
+    const cleanSlug = slug.replace(/^\//, '');
+    try {
+        const response = await fetch(`admin/products.php?slug=${encodeURIComponent(cleanSlug)}`);
+        if (response.ok) {
+            const item = await response.json();
+            if (item && item.title) {
+                const productObj = {
+                    title: item.title,
+                    subtitle: item.subtitle,
+                    image: item.image,
+                    description1: item.description1,
+                    description2: item.description2,
+                    category_slug: item.category_slug,
+                    faqs: item.faqs ? (typeof item.faqs === 'string' ? JSON.parse(item.faqs) : item.faqs) : []
+                };
+                window.pageContent = window.pageContent || {};
+                window.pageContent['/' + cleanSlug] = productObj;
+                window.pageContent[cleanSlug] = productObj;
+                
+                const titleElem = document.querySelector('h1');
+                if (titleElem && titleElem.textContent !== item.title) {
+                    const appRoot = document.getElementById('app-root');
+                    if (appRoot) {
+                        appRoot.innerHTML = renderProductDetail(item.title, cleanSlug);
+                    }
+                }
+            }
+        }
+    } catch (e) {
+        console.warn("Could not fetch product detail from PHP backend:", e);
+    }
 }
 
 function renderCategoryDetail(title, slug) {

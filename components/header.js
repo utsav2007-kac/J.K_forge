@@ -1,4 +1,5 @@
-    document.getElementById('main-header-container').innerHTML = `<header class="fixed w-full top-0 z-50 bg-white transition-colors duration-300 border-b border-gray-200" id="navbar">
+function renderHeader() {
+    let headerHTML = `<header class="fixed w-full top-0 z-50 bg-white transition-colors duration-300 border-b border-gray-200" id="navbar">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="flex justify-between items-center h-24">
                 <!-- Logo -->
@@ -273,28 +274,20 @@
                         <button data-route="/products" class="nav-item text-gray-800 group-hover:text-secondary text-sm font-medium transition-colors inline-flex items-center px-2 h-full relative">
                             Products <i class="fas fa-chevron-down ml-1 text-[10px] opacity-70 transition-transform group-hover:rotate-180"></i>
                         </button>
-                        <div class="absolute left-0 top-24 w-56 bg-white shadow-xl rounded-b-md opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 border-t-2 border-secondary overflow-hidden py-2">
+                        <div class="absolute left-0 top-24 w-64 bg-white shadow-xl rounded-b-md opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 border-t-2 border-secondary overflow-hidden py-2">
                             <a href="products.html" class="block px-6 py-3 text-sm text-gray-700 hover:text-secondary font-medium">All Products</a>
-                            <a href="products.html?cat=automotive" class="block px-6 py-3 text-sm text-gray-700 hover:text-secondary font-medium">Automotive Parts</a>
-                            <a href="products.html?cat=tractor-farm" class="block px-6 py-3 text-sm text-gray-700 hover:text-secondary font-medium">Tractor & Farm</a>
-                            <a href="products.html?cat=oil-gas" class="block px-6 py-3 text-sm text-gray-700 hover:text-secondary font-medium">Oil & Gas Parts</a>
-                            <a href="products.html?cat=mining" class="block px-6 py-3 text-sm text-gray-700 hover:text-secondary font-medium">Mining Parts</a>
-                            <a href="products.html?cat=industrial" class="block px-6 py-3 text-sm text-gray-700 hover:text-secondary font-medium">Industrial Parts</a>
+                            <a href="products.html?cat=automotive" class="block px-6 py-3 text-sm text-gray-700 hover:text-secondary font-medium">Automotive</a>
+                            <a href="products.html?cat=oil-gas-industry" class="block px-6 py-3 text-sm text-gray-700 hover:text-secondary font-medium">Oil & Gas Industry</a>
+                            <a href="products.html?cat=tractor-farm-equipment" class="block px-6 py-3 text-sm text-gray-700 hover:text-secondary font-medium">Tractor & Farm Equipment</a>
+                            <a href="products.html?cat=mining" class="block px-6 py-3 text-sm text-gray-700 hover:text-secondary font-medium">Mining</a>
+                            <a href="products.html?cat=hydraulic-fitting" class="block px-6 py-3 text-sm text-gray-700 hover:text-secondary font-medium">Hydraulic Fitting</a>
+                            <a href="products.html?cat=industrial" class="block px-6 py-3 text-sm text-gray-700 hover:text-secondary font-medium">Industrial</a>
                         </div>
                     </div>
 
-                    <!-- Company Dropdown (Simple) -->
-                    <div class="relative group h-full">
-                        <button data-route="/about" class="nav-item text-gray-800 group-hover:text-secondary text-sm font-medium transition-colors inline-flex items-center px-2 h-full relative">
-                            Company <i class="fas fa-chevron-down ml-1 text-[10px] opacity-70 transition-transform group-hover:rotate-180"></i>
-                        </button>
-                        <div class="absolute left-0 top-24 w-56 bg-white shadow-xl rounded-b-md opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 border-t-2 border-secondary overflow-hidden py-2">
-                            <a href="about.html" class="block px-6 py-3 text-sm text-gray-700 hover:text-secondary font-medium">About JK Forge</a>
-                            <a href="company.html?page=process" class="block px-6 py-3 text-sm text-gray-700 hover:text-secondary font-medium">Manufacturing Process</a>
-                            <a href="company.html?page=infrastructure" class="block px-6 py-3 text-sm text-gray-700 hover:text-secondary font-medium">Infrastructure</a>
-                        </div>
-                    </div>
+                    <a href="about.html" data-route="/about" class="nav-item text-gray-800 hover:text-secondary text-sm font-medium transition-colors px-2 py-6 relative h-full flex items-center">Company</a>
                     
+                    <a href="blog/index.html" class="nav-item text-gray-800 hover:text-secondary text-sm font-medium transition-colors px-2 py-6 relative h-full flex items-center">Blog</a>
                     <a href="contact.html" data-route="/contact" class="nav-item text-gray-800 hover:text-secondary text-sm font-medium transition-colors px-2 py-6 relative h-full flex items-center">Contact</a>
                 </nav>
 
@@ -447,9 +440,25 @@
                         <a href="location.html?page=supplier-uae" class="block py-2 text-sm text-gray-600 hover:text-secondary">Supplier UAE</a>
                     </div>
                 </details>
+                <a href="about.html" class="block px-3 py-3 rounded-md text-base font-medium text-gray-700 hover:text-secondary hover:bg-gray-50">Company</a>
                 <a href="products.html" class="block px-3 py-3 rounded-md text-base font-medium text-gray-700 hover:text-secondary hover:bg-gray-50">Products</a>
+                <a href="blog/index.html" class="block px-3 py-3 rounded-md text-base font-medium text-gray-700 hover:text-secondary hover:bg-gray-50">Blog</a>
                 <a href="contact.html" class="block px-3 py-3 rounded-md text-base font-medium text-gray-700 hover:text-secondary hover:bg-gray-50">Contact</a>
                 <a href="contact.html" class="block w-full text-center mt-4 bg-secondary text-white px-5 py-3 rounded-md font-medium">Get a Quote</a>
             </div>
         </div>
     </header>`;
+
+    const isSubfolder = window.location.pathname.includes('/blog/') && !window.location.pathname.includes('/blog/admin/');
+    if (isSubfolder) {
+        headerHTML = headerHTML.replace(/href="(?!\/\/|http|#|tel:|mailto:|javascript:)/g, 'href="../');
+        headerHTML = headerHTML.replace(/src="\.\/images\//g, 'src="../images/');
+        headerHTML = headerHTML.replace(/src="images\//g, 'src="../images/');
+    }
+
+    const container = document.getElementById('main-header-container');
+    if (container) {
+        container.innerHTML = headerHTML;
+    }
+}
+renderHeader();

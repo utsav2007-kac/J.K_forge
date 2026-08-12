@@ -63,11 +63,11 @@ function renderDynamicPage(title, slug) {
                             
                             <div class="mt-8 p-6 bg-gray-50 dark:bg-[#050914] border border-gray-200 dark:border-white/10 rounded-xl">
                                 <h4 class="text-gray-900 dark:text-white font-bold mb-4 font-mono tracking-wide">DIRECT COMMS</h4>
-                                <a href="tel:+919265772827" class="flex items-center text-gray-600 dark:text-gray-400 hover:text-secondary transition-colors mb-3">
-                                    <i class="fas fa-phone-alt fa-flip-horizontal w-6"></i> +91 92657 72827
+                                <a href="tel:+91-00000-00000" class="flex items-center text-gray-600 dark:text-gray-400 hover:text-secondary transition-colors mb-3">
+                                    <i class="fas fa-phone-alt fa-flip-horizontal w-6"></i> +91-00000-00000
                                 </a>
-                                <a href="mailto:info@shivamforge.com" class="flex items-center text-gray-600 dark:text-gray-400 hover:text-secondary transition-colors">
-                                    <i class="fas fa-envelope w-6"></i> info@shivamforge.com
+                                <a href="mailto:info@JK Forge.com" class="flex items-center text-gray-600 dark:text-gray-400 hover:text-secondary transition-colors">
+                                    <i class="fas fa-envelope w-6"></i> info@JK Forge.com
                                 </a>
                             </div>
                         </div>

@@ -49,7 +49,7 @@ function router() {
         });
 
         // Add enter animation class
-        if (filename === 'index.html' || filename === '') {
+        if (filename === 'index.html' || filename === '' || filename === 'about.html' || filename === 'company.html') {
             appRoot.className = 'min-h-screen page-enter overflow-x-hidden';
         } else {
             appRoot.className = 'min-h-screen pt-24 page-enter overflow-x-hidden';
@@ -88,6 +88,21 @@ function router() {
             init3DScrollAnimations();
             if (path === '/' || path === '') {
                 initHeroSlider();
+            }
+            // Auto filter products by category query param if on products.html
+            if (filename === 'products.html' && !pageParam) {
+                const urlParams = new URLSearchParams(window.location.search);
+                const catParam = urlParams.get('cat');
+                if (catParam) {
+                    // Find the matching filter button and activate it
+                    const targetBtn = Array.from(document.querySelectorAll('.filter-btn')).find(btn => {
+                        const onclickAttr = btn.getAttribute('onclick') || '';
+                        return onclickAttr.includes(`'${catParam}'`) || onclickAttr.includes(`"${catParam}"`);
+                    });
+                    if (targetBtn && typeof window.filterProducts === 'function') {
+                        window.filterProducts(catParam, targetBtn);
+                    }
+                }
             }
             updateNavbarStyle();
         }, 100);
