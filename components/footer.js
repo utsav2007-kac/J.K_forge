@@ -74,11 +74,26 @@ function renderFooter() {
         </div>
     </footer>`;
 
-    const isSubfolder = window.location.pathname.includes('/blog/') && !window.location.pathname.includes('/blog/admin/');
-    if (isSubfolder) {
-        html = html.replace(/href="(?!\/\/|http|#|tel:|mailto:|javascript:)/g, 'href="../');
-        html = html.replace(/src="\.\/images\//g, 'src="../images/');
-        html = html.replace(/src="images\//g, 'src="../images/');
+    const p = window.location.pathname.replace(/\\/g, '/');
+    let prefix = './';
+    if (p.includes('/pages/industries/') || p.includes('/pages/components/') || p.includes('/pages/capabilities/') || p.includes('/pages/locations/')) {
+        prefix = '../../';
+    } else if (p.includes('/pages/')) {
+        prefix = '../';
+    } else if (p.includes('/blog/') && !p.includes('/blog/admin/')) {
+        prefix = '../';
+    }
+
+    if (prefix !== './') {
+        html = html.replace(/src="\.\/images\//g, `src="${prefix}images/`);
+        html = html.replace(/src="images\//g, `src="${prefix}images/`);
+        html = html.replace(/href="index\.html"/g, `href="${prefix}index.html"`);
+        html = html.replace(/href="about\.html"/g, `href="${prefix}about.html"`);
+        html = html.replace(/href="products\.html"/g, `href="${prefix}products.html"`);
+        html = html.replace(/href="contact\.html"/g, `href="${prefix}contact.html"`);
+        html = html.replace(/href="blog\//g, `href="${prefix}blog/`);
+        html = html.replace(/href="pages\//g, `href="${prefix}pages/`);
+        html = html.replace(/href="industry\.html\?page=/g, `href="${prefix}industry.html?page=`);
     }
 
     const container = document.getElementById('main-footer-container');
@@ -86,4 +101,10 @@ function renderFooter() {
         container.innerHTML = html;
     }
 }
-renderFooter();
+
+if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', renderFooter);
+} else {
+    renderFooter();
+}
+

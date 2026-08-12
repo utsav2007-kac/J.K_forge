@@ -1,4 +1,110 @@
+
+/* ==========================================================================
+   JK Forge Official Website Theme - Typography, Buttons & Card Styles
+   ========================================================================== */
+
+/* 1. Global Typography */
+body, p, li, span, a, input, select, textarea {
+    font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+}
+
+h1, h2, h3, h4, h5, h6, .heading {
+    font-family: 'Inter', sans-serif !important;
+    font-weight: 700 !important;
+    color: #0c2b5e;
+    letter-spacing: -0.02em;
+}
+
+.eyebrow, .eyebrow--light, .badge, .tag, .mono-text {
+    font-family: 'Roboto Mono', monospace !important;
+    font-weight: 600 !important;
+    text-transform: uppercase !important;
+    letter-spacing: 0.08em !important;
+}
+
+/* 2. Official Website Button Styling */
+button, .btn, .btn-primary, .btn--ember, a.btn, a.button, input[type="submit"] {
+    font-family: 'Inter', sans-serif !important;
+    font-weight: 600 !important;
+    border-radius: 0.5rem !important;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+    display: inline-flex !important;
+    items-center: center !important;
+    justify-content: center !important;
+}
+
+.btn-primary, .btn--ember, button.bg-blue-600, button.bg-secondary, a.bg-secondary, a.bg-blue-600 {
+    background-color: #1363a6 !important;
+    color: #ffffff !important;
+    border: 1px solid #1363a6 !important;
+    box-shadow: 0 4px 14px 0 rgba(19, 99, 166, 0.39) !important;
+}
+
+.btn-primary:hover, .btn--ember:hover, button.bg-blue-600:hover, button.bg-secondary:hover, a.bg-secondary:hover {
+    background-color: #0c2b5e !important;
+    border-color: #0c2b5e !important;
+    transform: translateY(-2px) !important;
+    box-shadow: 0 6px 20px 0 rgba(12, 43, 94, 0.45) !important;
+}
+
+.btn-outline, button.border-secondary, a.border-secondary {
+    background-color: transparent !important;
+    color: #1363a6 !important;
+    border: 2px solid #1363a6 !important;
+}
+
+.btn-outline:hover, button.border-secondary:hover, a.border-secondary:hover {
+    background-color: #1363a6 !important;
+    color: #ffffff !important;
+    transform: translateY(-2px) !important;
+}
+
+/* 3. Official Website Card Styling */
+.card, .info-card, .feature-card, .product-card, .industry-card, .service-card {
+    border-radius: 0.75rem !important;
+    border: 1px solid rgba(19, 99, 166, 0.15) !important;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+    background-color: #ffffff;
+}
+
+.card:hover, .info-card:hover, .feature-card:hover, .product-card:hover, .industry-card:hover, .service-card:hover {
+    transform: translateY(-4px) !important;
+    border-color: rgba(19, 99, 166, 0.4) !important;
+    box-shadow: 0 12px 30px -10px rgba(12, 43, 94, 0.15) !important;
+}
+
+/* Metallic Dark Card Override */
+.card-dark, .info-card-dark {
+    background: #050914 !important;
+    border: 1px solid rgba(19, 99, 166, 0.3) !important;
+    color: #ffffff !important;
+}
+
+/* Links Hover */
+a.link-hover, article a, main p a {
+    color: #1363a6;
+    transition: color 0.2s ease;
+}
+a.link-hover:hover, article a:hover, main p a:hover {
+    color: #0c2b5e;
+}
+
 /* Custom Styles for JK Forge Clone */
+
+/* Base Layout & Logo Constraints */
+#main-header-container img {
+    max-height: 80px !important;
+    width: auto !important;
+    object-fit: contain !important;
+}
+#main-footer-container img {
+    max-height: 90px !important;
+    width: auto !important;
+    object-fit: contain !important;
+}
+img {
+    max-width: 100%;
+}
 
 /* Smooth Scrolling */
 html {
@@ -49,7 +155,7 @@ html {
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    background-image: linear-gradient(to right, #3182ce, #a0aec0);
+    background-image: linear-gradient(to right, #1363a6, #c0c5ce);
 }
 
 /* Dropdown menu arrow rotation */
@@ -59,7 +165,7 @@ html {
 
 /* Navbar active state */
 .nav-item.nav-active {
-    color: #3182ce !important;
+    color: #1363a6 !important;
 }
 .nav-item.nav-active::after {
     content: '';
@@ -68,7 +174,7 @@ html {
     left: 0;
     width: 100%;
     height: 3px;
-    background-color: #3182ce;
+    background-color: #1363a6;
 }
 
 /* Industry Card specific hover */
@@ -76,11 +182,44 @@ html {
     transition: all 0.3s ease;
 }
 .industry-card:hover .icon-container {
-    background-color: #3182ce;
+    background-color: #1363a6;
     color: white;
 }
 .industry-card:hover h3 {
-    color: #3182ce;
+    color: #1363a6;
+}
+
+/* Website Official Theme Palette Overrides */
+:root {
+    --color-primary: #0c2b5e;
+    --color-secondary: #1363a6;
+    --color-accent: #c0c5ce;
+    --color-dark: #050914;
+}
+
+.bg-primary {
+    background-color: #0c2b5e !important;
+}
+.bg-secondary {
+    background-color: #1363a6 !important;
+}
+.text-primary {
+    color: #0c2b5e !important;
+}
+.text-secondary {
+    color: #1363a6 !important;
+}
+.border-primary {
+    border-color: #0c2b5e !important;
+}
+.border-secondary {
+    border-color: #1363a6 !important;
+}
+.hover\:bg-secondary:hover {
+    background-color: #0c2b5e !important;
+}
+.hover\:text-secondary:hover {
+    color: #1363a6 !important;
 }
 
 /* Product Card */

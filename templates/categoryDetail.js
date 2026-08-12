@@ -135,13 +135,13 @@ function renderCategoryDetail(title, slug) {
             <div class="absolute inset-0 opacity-10 bg-[url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGNpcmNsZSBjeD0iMiIgY3k9IjIiIHI9IjEiIGZpbGw9InJnYmEoMjU1LDI1NSwyNTUsMC4yKSIvPjwvc3ZnPg==')]"></div>
             <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
                 <div class="flex items-center gap-3 mb-6">
-                    <div class="w-8 h-[2px] bg-[#f97316]"></div>
-                    <span class="text-[#f97316] font-mono text-xs font-bold uppercase tracking-widest">${subtitle}</span>
+                    <div class="w-8 h-[2px] bg-secondary"></div>
+                    <span class="text-secondary font-mono text-xs font-bold uppercase tracking-widest">${subtitle}</span>
                 </div>
                 <h1 class="text-4xl md:text-5xl lg:text-6xl font-black mb-6 tracking-tight leading-tight max-w-4xl text-white">${displayTitle}</h1>
                 <p class="text-gray-300 text-lg md:text-xl font-light leading-relaxed max-w-3xl mb-10">${desc1}</p>
                 <div class="flex flex-wrap gap-4">
-                    <a href="contact.html" class="bg-[#d94f1c] hover:bg-[#c04314] text-white font-bold py-3.5 px-8 rounded-lg transition-all shadow-[0_4px_14px_rgba(217,79,28,0.4)] flex items-center gap-2">
+                    <a href="contact.html" class="bg-secondary hover:bg-primary text-white font-bold py-3.5 px-8 rounded-lg transition-all shadow-md hover:shadow-lg flex items-center gap-2">
                         Request Quote <i class="fas fa-arrow-right text-xs"></i>
                     </a>
                     <a href="products.html" class="bg-transparent border border-white/20 hover:border-white/50 hover:bg-white/5 text-white font-medium py-3.5 px-8 rounded-lg transition-all">
@@ -157,8 +157,8 @@ function renderCategoryDetail(title, slug) {
                 <div class="grid grid-cols-2 lg:grid-cols-4 gap-6 -mt-16 relative z-20">
                     ${stats.map(s => `
                         <div class="bg-[#0c2b5e] border border-white/10 p-6 rounded-2xl shadow-xl hover:border-secondary/50 transition-all">
-                            <div class="text-3xl md:text-4xl font-black text-[#f97316] mb-2 font-mono">${s.title || s.value}</div>
-                            <div class="text-xs text-gray-300 font-medium leading-snug uppercase tracking-wider font-mono">${s.sub || s.label}</div>
+                            <div class="text-3xl md:text-4xl font-black text-white mb-2 font-mono">${s.title || s.value}</div>
+                            <div class="text-xs text-secondary font-medium leading-snug uppercase tracking-wider font-mono">${s.sub || s.label}</div>
                         </div>
                     `).join('')}
                 </div>
